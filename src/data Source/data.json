@@ -3634,8 +3634,8 @@
                   },
                   {
                     "question": "Who succeeded Jawaharlal Nehru as the second Prime Minister of India?",
-                    "options": ["Indira Gandhi", "Morarji Desai", "Lal Bahadur Shastri", "Rajiv Gandhi"],
-                    "answer": "Lal Bahadur Shastri",
+                    "options": ["Indira Gandhi", "Morarji Desai", "Lal bahadur Shastri", "Rajiv Gandhi"],
+                    "answer": "Lal bahadur Shastri",
                     "explanation": "Lal Bahadur Shastri succeeded Nehru as the second Prime Minister of India in 1964."
                   },
                   {
