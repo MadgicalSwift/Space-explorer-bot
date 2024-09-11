@@ -3289,8 +3289,268 @@
                 ]
               },
               {
-                "level": "Medium",
+                "level": "Easy",
                 "setNumber": 2,
+                "questions": [
+                  {
+                    "question": "Who was Krishnadeva Raya?",
+                    "options": ["A famous poet", "A ruler of the Vijayanagar Empire", "A military general", "A merchant"],
+                    "correctOption": "A ruler of the Vijayanagar Empire",
+                    "explanation": "Krishnadeva Raya was a notable ruler of the Vijayanagar Empire, known for his significant contributions to the empire."
+                  },
+                  {
+                    "question": "During which years did Krishnadeva Raya rule?",
+                    "options": ["1500-1520", "1509-1529", "1600-1620", "1550-1570"],
+                    "correctOption": "1509-1529",
+                    "explanation": "Krishnadeva Raya ruled from 1509 to 1529, a period during which he greatly expanded and enriched the Vijayanagar Empire."
+                  },
+                  {
+                    "question": "Which language did Krishnadeva Raya promote?",
+                    "options": ["Tamil", "Sanskrit", "Telugu", "Kannada"],
+                    "correctOption": "Telugu",
+                    "explanation": "Krishnadeva Raya promoted the Telugu language and supported its development, despite his native language being Kannada."
+                  },
+                  {
+                    "question": "What was one of Krishnadeva Raya’s major contributions to the Vijayanagar Empire?",
+                    "options": ["Building roads", "Establishing irrigation tanks and reservoirs", "Expanding the empire's borders", "Promoting trade"],
+                    "correctOption": "Establishing irrigation tanks and reservoirs",
+                    "explanation": "Krishnadeva Raya made significant contributions by building irrigation tanks and reservoirs, which improved agriculture and productivity."
+                  },
+                  {
+                    "question": "Who were Krishnadeva Raya’s wives?",
+                    "options": ["Tirumala Devi and Chinna Devi", "Anu Devi and Meera Devi", "Rukmini and Sita", "Lakshmi and Savitri"],
+                    "correctOption": "Tirumala Devi and Chinna Devi",
+                    "explanation": "Krishnadeva Raya was married to Tirumala Devi and Chinna Devi, both of whom were important figures during his reign."
+                  },
+                  {
+                    "question": "Where was Tirumala Devi born?",
+                    "options": ["Delhi", "Mysore", "Srirangapatna", "Hyderabad"],
+                    "correctOption": "Srirangapatna",
+                    "explanation": "Tirumala Devi was born in Srirangapatna and played a significant role as Krishnadeva Raya's wife."
+                  },
+                  {
+                    "question": "What was Krishnadeva Raya’s native language?",
+                    "options": ["Telugu", "Tamil", "Kannada", "Hindi"],
+                    "correctOption": "Kannada",
+                    "explanation": "Krishnadeva Raya's native language was Kannada, though he promoted Telugu during his reign."
+                  },
+                  {
+                    "question": "What was one of the challenges Krishnadeva Raya faced towards the end of his rule?",
+                    "options": ["Natural disasters", "Conspirators and rivals", "Economic recession", "Rebellions from his own troops"],
+                    "correctOption": "Conspirators and rivals",
+                    "explanation": "Krishnadeva Raya faced challenges from conspirators and rivals, which impacted his later years."
+                  },
+                  {
+                    "question": "What happened to Krishnadeva Raya in 1529?",
+                    "options": ["He won a major battle", "He was assassinated", "He died", "He was captured"],
+                    "correctOption": "He died",
+                    "explanation": "Krishnadeva Raya died in 1529, marking the end of his influential reign over the Vijayanagar Empire."
+                  },
+                  {
+                    "question": "What is Krishnadeva Raya’s significance in Indian history?",
+                    "options": ["He was a great architect", "He promoted Telugu language and improved agriculture", "He was a renowned trader", "He led a famous military campaign"],
+                    "correctOption": "He promoted Telugu language and improved agriculture",
+                    "explanation": "Krishnadeva Raya is significant for his efforts in promoting the Telugu language and improving agricultural practices in medieval India."
+                  }
+                ]},
+                {
+                  "level": "Easy",
+                  "setNumber": 3,
+                  "questions": [
+                    {
+                      "question": "Krishnadeva Raya was part of which dynasty?",
+                      "options": ["Chola", "Tuluva", "Gupta", "Maurya"],
+                      "correctOption": "Tuluva",
+                      "explanation": "Krishnadeva Raya was part of the Tuluva dynasty, which ruled the Vijayanagar Empire."
+                    },
+                    {
+                      "question": "Which empire did Krishnadeva Raya rule?",
+                      "options": ["Mughal Empire", "Vijayanagar Empire", "Delhi Sultanate", "Maratha Empire"],
+                      "correctOption": "Vijayanagar Empire",
+                      "explanation": "Krishnadeva Raya ruled the Vijayanagar Empire, a prominent South Indian empire."
+                    },
+                    {
+                      "question": "What did Krishnadeva Raya build to improve irrigation?",
+                      "options": ["Palaces", "Forts", "Tanks and reservoirs", "Roads"],
+                      "correctOption": "Tanks and reservoirs",
+                      "explanation": "Krishnadeva Raya built tanks and reservoirs to improve irrigation and boost agricultural productivity."
+                    },
+                    {
+                      "question": "Krishnadeva Raya’s reign is known for which type of cultural development?",
+                      "options": ["Sculpture", "Architecture", "Literature and art", "Music"],
+                      "correctOption": "Literature and art",
+                      "explanation": "Krishnadeva Raya’s reign is celebrated for its contributions to literature and art, particularly in Telugu."
+                    },
+                    {
+                      "question": "What language was widely spread during Krishnadeva Raya’s rule?",
+                      "options": ["Tamil", "Telugu", "Hindi", "Sanskrit"],
+                      "correctOption": "Telugu",
+                      "explanation": "During Krishnadeva Raya’s rule, Telugu was widely promoted and became a significant literary language."
+                    },
+                    {
+                      "question": "Which historical figure was known for his contributions to Telugu literature?",
+                      "options": ["Timmarusu", "Krishnadeva Raya", "Ananda Ramanuja", "Ramu"],
+                      "correctOption": "Krishnadeva Raya",
+                      "explanation": "Krishnadeva Raya is renowned for his patronage and contributions to Telugu literature, including supporting poets and writers."
+                    },
+                    {
+                      "question": "In what year did Krishnadeva Raya die?",
+                      "options": ["1530", "1529", "1553", "1540"],
+                      "correctOption": "1529",
+                      "explanation": "Krishnadeva Raya died in 1529, marking the end of his influential rule over the Vijayanagar Empire."
+                    },
+                    {
+                      "question": "What was the effect of Krishnadeva Raya’s irrigation projects?",
+                      "options": ["Increased military power", "Improved agricultural productivity", "Expanded trade routes", "Strengthened the army"],
+                      "correctOption": "Improved agricultural productivity",
+                      "explanation": "The irrigation projects initiated by Krishnadeva Raya significantly improved agricultural productivity in the Vijayanagar Empire."
+                    },
+                    {
+                      "question": "Which ruler’s reign is referred to as the “Golden Age” of the Vijayanagar Empire?",
+                      "options": ["Harihara II", "Bukka Raya", "Krishnadeva Raya", "Saluva Narasimha"],
+                      "correctOption": "Krishnadeva Raya",
+                      "explanation": "Krishnadeva Raya’s reign is often considered the “Golden Age” of the Vijayanagar Empire due to its prosperity and cultural achievements."
+                    },
+                    {
+                      "question": "How did Krishnadeva Raya contribute to literature?",
+                      "options": ["By writing poems", "By translating works", "By supporting Telugu literature", "By publishing books"],
+                      "correctOption": "By supporting Telugu literature",
+                      "explanation": "Krishnadeva Raya contributed to literature by actively supporting and promoting Telugu literature during his reign."
+                    }
+                  ]},
+                  {
+                    "level": "Easy",
+                    "setNumber": 4,
+                    "questions": [
+                          {
+                            "question": "Which southern region did Krishnadeva Raya’s empire cover?",
+                            "options": ["Central India", "Northern India", "Southern India", "Western India"],
+                            "correctOption": "Southern India",
+                            "explanation": "Krishnadeva Raya’s empire primarily covered the southern region of India."
+                          },
+                          {
+                            "question": "Krishnadeva Raya was known for which type of governance?",
+                            "options": ["Military dictatorship", "Democratic rule", "Compound governance", "Feudal system"],
+                            "correctOption": "Compound governance",
+                            "explanation": "Krishnadeva Raya practiced a compound governance system, combining elements of various administrative practices."
+                          },
+                          {
+                            "question": "Who succeeded Krishnadeva Raya after his death?",
+                            "options": ["His son", "His brother", "His rival", "A general"],
+                            "correctOption": "His son",
+                            "explanation": "Krishnadeva Raya was succeeded by his son after his death in 1529."
+                          },
+                          {
+                            "question": "What was the primary language of Krishnadeva Raya’s court?",
+                            "options": ["Hindi", "Urdu", "Telugu", "Persian"],
+                            "correctOption": "Telugu",
+                            "explanation": "The primary language of Krishnadeva Raya’s court was Telugu, which he actively promoted."
+                          },
+                          {
+                            "question": "Which temple style was promoted during Krishnadeva Raya’s reign?",
+                            "options": ["Dravidian", "Nagara", "Hoysala", "Indo-Saracenic"],
+                            "correctOption": "Dravidian",
+                            "explanation": "Krishnadeva Raya promoted the Dravidian style of temple architecture during his reign."
+                          },
+                          {
+                            "question": "What type of art and culture flourished under Krishnadeva Raya?",
+                            "options": ["Persian art", "Mughal art", "Indian art and literature", "Chinese art"],
+                            "correctOption": "Indian art and literature",
+                            "explanation": "Under Krishnadeva Raya, Indian art and literature, particularly Telugu literature, flourished."
+                          },
+                          {
+                            "question": "How did Krishnadeva Raya support his empire’s economy?",
+                            "options": ["By trading with Europe", "By building irrigation systems", "By collecting taxes from farmers", "By expanding the empire"],
+                            "correctOption": "By building irrigation systems",
+                            "explanation": "Krishnadeva Raya supported the empire’s economy primarily by building irrigation systems, which enhanced agricultural productivity."
+                          },
+                          {
+                            "question": "What significant event occurred in 1529 concerning Krishnadeva Raya?",
+                            "options": ["He expanded his empire", "He died", "He built the Taj Mahal", "He conquered a new territory"],
+                            "correctOption": "He died",
+                            "explanation": "The significant event concerning Krishnadeva Raya in 1529 was his death."
+                          },
+                          {
+                            "question": "What is one legacy of Krishnadeva Raya’s rule?",
+                            "options": ["Development of maritime trade", "Expansion of the Vijayanagar Empire", "Promotion of the Telugu language", "Establishment of new trade routes"],
+                            "correctOption": "Promotion of the Telugu language",
+                            "explanation": "One of the major legacies of Krishnadeva Raya’s rule is the promotion of the Telugu language and literature."
+                          },
+                          {
+                            "question": "Which dynasty did Krishnadeva Raya belong to?",
+                            "options": ["Chola", "Vijayanagara", "Tuluva", "Pandya"],
+                            "correctOption": "Tuluva",
+                            "explanation": "Krishnadeva Raya belonged to the Tuluva dynasty, which ruled the Vijayanagara Empire."
+                          }   
+                    ]},
+                    {
+                      "level": "Easy",
+                      "setNumber": 5,
+                      "questions": [
+                        {
+                          "question": "What was Krishnadeva Raya’s main focus in terms of infrastructure?",
+                          "options": ["Military fortifications", "Agricultural productivity", "Urban development", "Religious institutions"],
+                          "correctOption": "Agricultural productivity",
+                          "explanation": "Krishnadeva Raya focused on improving agricultural productivity through his extensive irrigation projects."
+                        },
+                        {
+                          "question": "Krishnadeva Raya was known for his contributions to which field?",
+                          "options": ["Music", "Art and literature", "Warfare", "Astronomy"],
+                          "correctOption": "Art and literature",
+                          "explanation": "Krishnadeva Raya is renowned for his significant contributions to art and literature, particularly in Telugu literature."
+                        },
+                        {
+                          "question": "Which language did Krishnadeva Raya help to spread in Southern India?",
+                          "options": ["Tamil", "Kannada", "Telugu", "Malayalam"],
+                          "correctOption": "Telugu",
+                          "explanation": "Krishnadeva Raya played a key role in promoting and spreading the Telugu language throughout Southern India."
+                        },
+                        {
+                          "question": "How did Krishnadeva Raya’s irrigation projects benefit his empire?",
+                          "options": ["By improving trade", "By increasing crop yields", "By strengthening the military", "By building new cities"],
+                          "correctOption": "By increasing crop yields",
+                          "explanation": "The irrigation projects initiated by Krishnadeva Raya significantly increased crop yields, thereby boosting agricultural productivity."
+                        },
+                        {
+                          "question": "What was a major architectural contribution of Krishnadeva Raya?",
+                          "options": ["Forts", "Temples", "Palaces", "Walls"],
+                          "correctOption": "Temples",
+                          "explanation": "Krishnadeva Raya is known for his major architectural contributions, particularly the construction of temples."
+                        },
+                        {
+                          "question": "What was one of Krishnadeva Raya’s military goals before his death?",
+                          "options": ["Conquering new territories", "Defeating rival kingdoms", "Attacking Belgaum", "Strengthening alliances"],
+                          "correctOption": "Attacking Belgaum",
+                          "explanation": "Before his death, Krishnadeva Raya aimed to attack Belgaum as part of his military strategy."
+                        },
+                        {
+                          "question": "What type of governance did Krishnadeva Raya implement in his empire?",
+                          "options": ["Centralized", "Feudal", "Decentralized", "Federal"],
+                          "correctOption": "Centralized",
+                          "explanation": "Krishnadeva Raya implemented a centralized form of governance in his empire, consolidating power and administrative control."
+                        },
+                        {
+                          "question": "Which two princesses were married to Krishnadeva Raya?",
+                          "options": ["Meera Devi and Anu Devi", "Chinna Devi and Tirumala Devi", "Lakshmi and Sita", "Anu and Rukmini"],
+                          "correctOption": "Chinna Devi and Tirumala Devi",
+                          "explanation": "Krishnadeva Raya was married to Chinna Devi and Tirumala Devi, who were influential figures in his court."
+                        },
+                        {
+                          "question": "What was a significant achievement of Krishnadeva Raya’s rule in terms of culture?",
+                          "options": ["Spread of Persian art", "Promotion of local literature and arts", "Establishment of new trade routes", "Construction of monumental structures"],
+                          "correctOption": "Promotion of local literature and arts",
+                          "explanation": "Krishnadeva Raya's rule is noted for the promotion of local literature and arts, enriching the cultural landscape of his time."
+                        },
+                        {
+                          "question": "Which empire’s influence did Krishnadeva Raya counteract during his reign?",
+                          "options": ["Mughal Empire", "Delhi Sultanate", "Chola Empire", "Maratha Empire"],
+                          "correctOption": "Delhi Sultanate",
+                          "explanation": "Krishnadeva Raya counteracted the influence of the Delhi Sultanate during his reign, defending his empire from its expansionist policies."
+                        }
+                      ]},
+              {
+                "level": "Medium",
+                "setNumber": 6,
                 "questions": [
                   {
                     "question": "What was the primary language of administration during Krishnadeva Raya's reign?",
@@ -3354,9 +3614,276 @@
                   }
                 ]
               },
+              {
+                "level": "Medium",
+                "setNumber": 7,
+                "questions": [
+
+                 {
+                        "question": "Who was the first ruler of the Vijayanagara Empire?",
+                        "options": ["Harihara I", "Bukka I", "Devaraya I", "Krishna Devaraya"],
+                        "answer": "Harihara I",
+                        "explanation": "Harihara I was the founder and first ruler of the Vijayanagara Empire."
+                      },
+                      {
+                        "question": "What was the capital city of the Vijayanagara Empire?",
+                        "options": ["Hampi", "Madurai", "Bijapur", "Bidar"],
+                        "answer": "Hampi",
+                        "explanation": "Hampi was the capital city of the Vijayanagara Empire."
+                      },
+                      {
+                        "question": "Who among the following was responsible for the expansion of the Vijayanagara Empire?",
+                        "options": ["Bukka I", "Krishna Devaraya", "Devaraya I", "Achyutadevaraya"],
+                        "answer": "Krishna Devaraya",
+                        "explanation": "Krishna Devaraya expanded the Vijayanagara Empire and is considered one of its greatest rulers."
+                      },
+                      {
+                        "question": "The famous city of Hampi is located on the banks of which river?",
+                        "options": ["Krishna", "Tungabhadra", "Godavari", "Kaveri"],
+                        "answer": "Tungabhadra",
+                        "explanation": "Hampi is located on the banks of the Tungabhadra River."
+                      },
+                      {
+                        "question": "Who among the following built the Vittala Temple in Hampi?",
+                        "options": ["Devaraya I", "Harihara I", "Bukka I", "Krishna Devaraya"],
+                        "answer": "Krishna Devaraya",
+                        "explanation": "Krishna Devaraya is credited with the construction of the Vittala Temple in Hampi."
+                      },
+                      {
+                        "question": "Which of the following rulers strengthened the irrigation system of the Vijayanagara Empire?",
+                        "options": ["Harihara I", "Devaraya II", "Krishna Devaraya", "Achyutadevaraya"],
+                        "answer": "Krishna Devaraya",
+                        "explanation": "Krishna Devaraya took measures to improve agricultural productivity by strengthening the irrigation system."
+                      },
+                      {
+                        "question": "Which empire was a major rival of the Vijayanagara Empire in South India?",
+                        "options": ["Chola Empire", "Maratha Empire", "Bahmani Sultanate", "Mughal Empire"],
+                        "answer": "Bahmani Sultanate",
+                        "explanation": "The Bahmani Sultanate was a major rival of the Vijayanagara Empire in South India."
+                      },
+                      {
+                        "question": "The Vijayanagara Empire is best known for its achievements in which of the following areas?",
+                        "options": ["Military conquests", "Religious tolerance", "Art and architecture", "Maritime trade"],
+                        "answer": "Art and architecture",
+                        "explanation": "The Vijayanagara Empire is renowned for its contributions to South Indian art and architecture, especially temple construction."
+                      },
+                      {
+                        "question": "The city of Hampi was declared a World Heritage Site by UNESCO in which year?",
+                        "options": ["1980", "1986", "1990", "1995"],
+                        "answer": "1986",
+                        "explanation": "Hampi was declared a UNESCO World Heritage Site in 1986 for its historical and architectural significance."
+                      },
+                      {
+                        "question": "Which European traveler provided the first detailed account of the Vijayanagara Empire?",
+                        "options": ["Niccolo Conti", "Duarte Barbosa", "Abdur Razzaq", "Athanasius Nikitin"],
+                        "answer": "Niccolo Conti",
+                        "explanation": "Niccolo Conti, an Italian traveler, provided one of the earliest detailed accounts of the Vijayanagara Empire."
+                      } 
+
+                ]
+              },
+                {
+                  "level": "Medium",
+                  "setNumber": 8,
+                  "questions": [
+                    {
+                      "question": "During the reign of which Vijayanagara ruler did Vasco da Gama land in India?",
+                      "options": ["Krishna Devaraya", "Achyutadevaraya", "Harihara II", "Devaraya I"],
+                      "answer": "Krishna Devaraya",
+                      "explanation": "Vasco da Gama arrived in India during the reign of Krishna Devaraya, marking the beginning of European influence in Indian trade."
+                    },
+                    {
+                      "question": "Who among the following chronicled the Battle of Talikota, which led to the fall of Vijayanagara?",
+                      "options": ["Abdur Razzaq", "Niccolo Conti", "Firishta", "Duarte Barbosa"],
+                      "answer": "Firishta",
+                      "explanation": "Firishta, a Persian historian, chronicled the events of the Battle of Talikota in 1565, which led to the fall of the Vijayanagara Empire."
+                    },
+                    {
+                      "question": "The famous Hazara Rama Temple was built during the reign of which ruler?",
+                      "options": ["Devaraya I", "Krishna Devaraya", "Harihara II", "Bukka I"],
+                      "answer": "Devaraya I",
+                      "explanation": "The Hazara Rama Temple in Hampi was built during the reign of Devaraya I and is famous for its intricate carvings."
+                    },
+                    {
+                      "question": "Which was the primary language used in the Vijayanagara court?",
+                      "options": ["Tamil", "Telugu", "Sanskrit", "Kannada"],
+                      "answer": "Telugu",
+                      "explanation": "Telugu was the primary language used in the Vijayanagara court, although other languages like Kannada and Sanskrit were also prominent."
+                    },
+                    {
+                      "question": "What was the name of the chief minister who served under Krishna Devaraya?",
+                      "options": ["Tenali Ramakrishna", "Tirumala", "Saluva Narasimha", "Timmarusu"],
+                      "answer": "Timmarusu",
+                      "explanation": "Timmarusu was the chief minister of Krishna Devaraya and played a crucial role in his administration."
+                    },
+                    {
+                      "question": "Which ruler of Vijayanagara was known for his military campaigns against the Gajapati Kingdom of Odisha?",
+                      "options": ["Harihara I", "Bukka I", "Krishna Devaraya", "Achyutadevaraya"],
+                      "answer": "Krishna Devaraya",
+                      "explanation": "Krishna Devaraya is famous for his successful military campaigns against the Gajapati Kingdom of Odisha."
+                    },
+                    {
+                      "question": "Who was the ruler of the Bahmani Sultanate when Krishna Devaraya fought against them?",
+                      "options": ["Mahmud Gawan", "Alauddin Hasan Bahman Shah", "Sultan Mahmud", "Muhammad Shah III"],
+                      "answer": "Sultan Mahmud",
+                      "explanation": "Krishna Devaraya fought against Sultan Mahmud of the Bahmani Sultanate during his reign."
+                    },
+                    {
+                      "question": "What was the significance of the Battle of Raichur in 1520?",
+                      "options": ["It marked the decline of the Vijayanagara Empire.", "It was a decisive victory for Krishna Devaraya over the Bahmani Sultanate.", "It was the first battle against European powers.", "It ended the conflict between Vijayanagara and the Marathas."],
+                      "answer": "It was a decisive victory for Krishna Devaraya over the Bahmani Sultanate.",
+                      "explanation": "The Battle of Raichur in 1520 was a significant victory for Krishna Devaraya over the Bahmani Sultanate, enhancing his control over the region."
+                    },
+                    {
+                      "question": "Which Vijayanagara king composed the Telugu work 'Amuktamalyada'?",
+                      "options": ["Devaraya I", "Achyutadevaraya", "Krishna Devaraya", "Harihara I"],
+                      "answer": "Krishna Devaraya",
+                      "explanation": "Krishna Devaraya was not only a military leader but also a scholar. He composed the Telugu literary work 'Amuktamalyada.'"
+                    },
+                    {
+                      "question": "The fall of Vijayanagara after the Battle of Talikota occurred in which year?",
+                      "options": ["1520", "1542", "1565", "1580"],
+                      "answer": "1565",
+                      "explanation": "The Battle of Talikota in 1565 led to the eventual fall of the Vijayanagara Empire."
+                    }
+                  ]
+                },
+                {
+                  "level": "Medium",
+                  "setNumber": 9,
+                  "questions": [
+                    {
+                      "question": "Who of the following founded a new city on the South bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land South of the river Krishna was supposed to belong?",
+                      "options": ["Amoghavarsha I", "Ballala II", "Harihara I", "Prataparudra II"],
+                      "answer": "Harihara I",
+                      "explanation": "Harihara I founded a new city on the South bank of a tributary to the river Krishna and ruled as the agent of the deity."
+                    },
+                    {
+                      "question": "The lady poet who described the victorious expeditions of her husband in her work ‘MadhuraVijayam’ was",
+                      "options": ["Bharati", "Ganga Devi", "Varadambika", "Vijjika"],
+                      "answer": "Ganga Devi",
+                      "explanation": "Ganga Devi, the wife of Vijayanagara ruler Kumara Kampana, wrote the ‘MadhuraVijayam’ describing his victorious expeditions."
+                    },
+                    {
+                      "question": "The kingdom of Vijayanagara was founded by",
+                      "options": ["Vijay Raya", "Harihara II", "Harihara and Bukka", "Bukka II"],
+                      "answer": "Harihara and Bukka",
+                      "explanation": "The kingdom of Vijayanagara was founded by the brothers Harihara and Bukka."
+                    },
+                    {
+                      "question": "The ‘Vijayanagara’ Kingdom was founded by",
+                      "options": ["Harihara and Bukka", "Krishnadeva Raya", "Pushyamitra", "Bhadrabahu"],
+                      "answer": "Harihara and Bukka",
+                      "explanation": "The Vijayanagara Kingdom was founded by the brothers Harihara and Bukka."
+                    },
+                    {
+                      "question": "Identify the first ruler of Vijayanagara who captured Goa from the Bahmani Sultanate.",
+                      "options": ["Harihara I", "Harihara II", "Bukka II", "Devaraya II"],
+                      "answer": "Harihara II",
+                      "explanation": "Harihara II was the first Vijayanagara ruler to capture Goa from the Bahmani Sultanate."
+                    },
+                    {
+                      "question": "With whom did the king of Vijayanagara, Krishnadeva Raya, fight the battle of Golconda?",
+                      "options": ["Quli Qutb Shah", "Qutbuddin Aybak", "Ismail-Adil Khan", "Gajapati"],
+                      "answer": "Quli Qutb Shah",
+                      "explanation": "Krishnadeva Raya fought the battle of Golconda against Quli Qutb Shah."
+                    },
+                    {
+                      "question": "Who were the ‘Ashtadiggajas’ in the court of Krishnadeva Raya?",
+                      "options": ["Eight ministers", "Eight Telugu poets", "Eight great warriors", "Eight advisors"],
+                      "answer": "Eight Telugu poets",
+                      "explanation": "The ‘Ashtadiggajas’ were a group of eight Telugu poets in the court of Krishnadeva Raya."
+                    },
+                    {
+                      "question": "Who among these was known as ‘Andhra Bhoja’?",
+                      "options": ["Krishnadeva Raya", "Rajendra Chola", "Harihara", "Bukka"],
+                      "answer": "Krishnadeva Raya",
+                      "explanation": "Krishnadeva Raya was known as ‘Andhra Bhoja’ due to his patronage of Telugu literature."
+                    },
+                    {
+                      "question": "The ‘Ashta Diggajas’ were associated with which of the following rulers?",
+                      "options": ["Shivaji", "Krishnadeva Raya", "Rajendra-I", "Yashovarman"],
+                      "answer": "Krishnadeva Raya",
+                      "explanation": "The ‘Ashta Diggajas’ were the eight poets in the court of Krishnadeva Raya."
+                    },
+                    {
+                      "question": "The ruling period of Krishnadeva Raya was the golden age of which literature?",
+                      "options": ["Konkani", "Malayalam", "Tamil", "Telugu"],
+                      "answer": "Telugu",
+                      "explanation": "The reign of Krishnadeva Raya is considered the golden age of Telugu literature."
+                    }
+                  ]
+                },
+                {
+                  "level": "Medium",
+                  "setNumber": 10,
+                  "questions": [
+                    {
+                      "question": "Which city was founded by Krishnadeva Raya?",
+                      "options": ["Warangal", "Nagalapura", "Udayagiri", "Chandragiri"],
+                      "answer": "Chandragiri",
+                      "explanation": "Krishnadeva Raya founded the city of Chandragiri as a strategic location in his empire."
+                    },
+                    {
+                      "question": "The famous Hazara temple of Vijayanagara was built during the reign of",
+                      "options": ["Krishnadeva Raya", "Deva Raya I", "Deva Raya II", "Harihara I"],
+                      "answer": "Deva Raya I",
+                      "explanation": "The Hazara Rama Temple was constructed during the reign of Deva Raya I."
+                    },
+                    {
+                      "question": "Abdur Razzaq visited Vijayanagara during the reign of",
+                      "options": ["Deva Raya I", "Deva Raya II", "Krishnadeva Raya", "Vira Vijaya"],
+                      "answer": "Deva Raya II",
+                      "explanation": "Abdur Razzaq, the Persian ambassador, visited Vijayanagara during the reign of Deva Raya II."
+                    },
+                    {
+                      "question": "Which among the following King’s reign did the Persian traveller Abdur Razzaq visit India?",
+                      "options": ["Deva Raya I", "Krishnadeva Raya I", "Deva Raya II", "Krishna Raya II"],
+                      "answer": "Deva Raya II",
+                      "explanation": "Abdur Razzaq visited India during the reign of Deva Raya II."
+                    },
+                    {
+                      "question": "Who was Nicolo Conti?",
+                      "options": ["A famous painter", "An Italian traveller who visited the Vijayanagara empire", "A Portuguese traveller", "A Persian traveller"],
+                      "answer": "An Italian traveller who visited the Vijayanagara empire",
+                      "explanation": "Nicolo Conti was an Italian traveller known for his account of the Vijayanagara empire."
+                    },
+                    {
+                      "question": "Sayana, the famous commentator of the Vedic texts, was patronized by",
+                      "options": ["Paramara rulers", "Satavahana rulers", "Vijayanagara rulers", "Vakataka rulers"],
+                      "answer": "Vijayanagara rulers",
+                      "explanation": "Sayana was a prominent commentator during the reign of the Vijayanagara rulers."
+                    },
+                    {
+                      "question": "Sayana, the famous commentator of the Vedic texts, flourished during the reign of",
+                      "options": ["The Chola kings", "The Gupta kings", "The Satavahana kings", "The Vijayanagara kings"],
+                      "answer": "The Vijayanagara kings",
+                      "explanation": "Sayana flourished during the reign of the Vijayanagara kings."
+                    },
+                    {
+                      "question": "Who was enthroned 500 years ago?",
+                      "options": ["Harihara I", "Krishnadeva Raya", "Kulottunga I", "Raja Raya I"],
+                      "answer": "Harihara I",
+                      "explanation": "Harihara I was enthroned around 500 years ago as one of the founders of the Vijayanagara Empire."
+                    },
+                    {
+                      "question": "The famous battle held in 1565 is",
+                      "options": ["Ist Battle of Panipat", "Battle of Khanwa", "IInd Battle of Panipat", "Battle of Talikota"],
+                      "answer": "Battle of Talikota",
+                      "explanation": "The Battle of Talikota, fought in 1565, was a significant battle leading to the fall of the Vijayanagara Empire."
+                    },
+                    {
+                      "question": "The Battle of Talikota was fought between",
+                      "options": ["Akbar and Sultan of Malwa", "Vijayanagara and the Bahmani Kingdom", "Vijayanagara and combined forces of Bijapur, Ahmadnagar, and Golconda", "Sher Shah and Humayun"],
+                      "answer": "Vijayanagara and combined forces of Bijapur, Ahmadnagar, and Golconda",
+                      "explanation": "The Battle of Talikota was fought between the Vijayanagara Empire and the combined forces of Bijapur, Ahmadnagar, and Golconda."
+                    }
+                  ]
+                },
+                
                 {
                   "level": "Hard",
-                  "setNumber": 3,
+                  "setNumber": 11,
                   "questions": [
                     {
                       "question": "Which alliance was formed during Krishnadeva Raya's reign to counteract the Deccan Sultanates?",
@@ -3419,7 +3946,273 @@
                       "explanation": "Krishnadeva Raya's policies included significant investments in constructing public buildings and temples, enhancing the urban infrastructure of Vijayanagara."
                     }
                   ]
-                }
+                },
+                {
+                  "level": "Hard",
+                  "setNumber": 12,
+                  "questions": [
+                    {
+                      "question": "The Battle of Talikota was fought in",
+                      "options": ["1526 A.D.", "1565 A.D.", "1576 A.D.", "1586 A.D."],
+                      "answer": "1565 A.D.",
+                      "explanation": "The Battle of Talikota was fought in 1565, marking a significant defeat for the Vijayanagara Empire."
+                    },
+                    {
+                      "question": "When Raja Wodeyar founded the Kingdom of Mysore, who was the ruler of the Vijayanagara Empire?",
+                      "options": ["Sadasiva", "Tirumala", "Ranga II", "Venkata II"],
+                      "answer": "Venkata II",
+                      "explanation": "Venkata II was the ruler of the Vijayanagara Empire when Raja Wodeyar founded the Kingdom of Mysore."
+                    },
+                    {
+                      "question": "What was the chief characteristic of the financial system of Vijayanagara Empire?",
+                      "options": ["Surplus rent", "Land Revenue", "Income from seaports", "Monetary system"],
+                      "answer": "Land Revenue",
+                      "explanation": "The Vijayanagara Empire's financial system was characterized primarily by land revenue as a significant source of income."
+                    },
+                    {
+                      "question": "Who were the ‘Ashtadiggajas’ in the court of Krishnadeva Raya?",
+                      "options": ["Eight ministers", "Eight Telugu poets", "Eight great warriors", "Eight advisors"],
+                      "answer": "Eight Telugu poets",
+                      "explanation": "The ‘Ashtadiggajas’ were a group of eight Telugu poets in the court of Krishnadeva Raya."
+                    },
+                    {
+                      "question": "Ruins of which of the following represent the old capital of Vijayanagara?",
+                      "options": ["Ahmednagar", "Bijapur", "Golconda", "Hampi"],
+                      "answer": "Hampi",
+                      "explanation": "Hampi represents the old capital of the Vijayanagara Empire, known for its historical ruins."
+                    },
+                    {
+                      "question": "Which ruler of Vijayanagara had sent his ambassador to the emperor of China?",
+                      "options": ["Harihara I", "Bukka I", "Krishnadeva Raya", "Saluva Narasimha"],
+                      "answer": "Krishnadeva Raya",
+                      "explanation": "Krishnadeva Raya is noted for having sent an ambassador to the emperor of China, reflecting the empire's diplomatic reach."
+                    },
+                    {
+                      "question": "Where is the famous Vijaya Vitthal Temple, having its 56 carved pillars emitting musical notes located?",
+                      "options": ["Belur", "Bhadrachalam", "Hampi", "Srirangam"],
+                      "answer": "Hampi",
+                      "explanation": "The Vijaya Vitthal Temple, known for its musical pillars, is located in Hampi."
+                    },
+                    {
+                      "question": "Consider the following statements: 1. Narasimha Saluva ended the Sangama dynasty and seized the throne for himself and started the Saluva dynasty. 2. Vira Narasimha deposed the last Saluva ruler and seized the throne for himself. 3. Vira Narasimha was succeeded by his younger brother, Krishnadeva Raya. 4. Krishnadeva Raya was succeeded by his half-brother, Achyuta Raya. Which of the statements given above are correct?",
+                      "options": ["1, 2 and 3", "2, 3 and 4", "1 and 4", "1, 2, 3 and 4"],
+                      "answer": "1, 2, 3 and 4",
+                      "explanation": "All statements are correct regarding the succession and rulers of the Vijayanagara Empire."
+                    },
+                    {
+                      "question": "Who among these was famous for Telugu translation? 1. Kamban 2. Kuttan 3. Nannaya 4. Tikkan Choose the answer from the code.",
+                      "options": ["1 and 2", "2 and 3", "3 and 4", "4 and 1"],
+                      "answer": "3 and 4",
+                      "explanation": "Nannaya and Tikkan were known for their work in Telugu translation, particularly of classical texts."
+                    },
+                    {
+                      "question": "Regarding the taxation system of Krishnadeva, the ruler of Vijayanagara, consider the following statements: 1. The tax rate on land was fixed depending on the quality of the land. 2. Private owners of workshops paid an industries tax. Which of the statements given above is/are correct?",
+                      "options": ["Only 1", "Only 2", "Both 1 and 2", "Neither 1 nor 2"],
+                      "answer": "Both 1 and 2",
+                      "explanation": "Krishnadeva Raya's taxation system included a land tax based on land quality and an industries tax for workshop owners."
+                    }
+                  ]},
+                  {
+                    "level": "Hard",
+                    "setNumber": 13,
+                    "questions": [
+                      {
+                        "question": "Who is Tirumala Venkata Devaraya?",
+                        "options": ["A historian from Durham University", "A member of the Travancore Royal Family", "The 20th descendant of Vijayanagara Emperor Shri Krishna Devaraya", "A former Supreme Court Judge"],
+                        "answer": "The 20th descendant of Vijayanagara Emperor Shri Krishna Devaraya",
+                        "explanation": "Tirumala Venkata Devaraya is noted as the 20th descendant of Vijayanagara Emperor Shri Krishna Devaraya."
+                      },
+                      {
+                        "question": "What was the main theme of Tirumala Venkata Devaraya's lecture at the Vijayanagara Utsava?",
+                        "options": ["Architectural restoration", "Religious reforms", "Multiculturalism in the Vijayanagara Empire", "Military strategies"],
+                        "answer": "Multiculturalism in the Vijayanagara Empire",
+                        "explanation": "The lecture focused on the multiculturalism and syncretic nature of the Vijayanagara Empire, as evidenced by its architecture and social diversity."
+                      },
+                      {
+                        "question": "Which site was highlighted as a testament to the architectural and cultural diversity of the Vijayanagara Empire?",
+                        "options": ["Heere Deewan", "Anegundi", "Hampi", "Durham University"],
+                        "answer": "Hampi",
+                        "explanation": "Hampi, a UNESCO World Heritage Site, was cited as an example of the Vijayanagara Empire's architectural and cultural diversity."
+                      },
+                      {
+                        "question": "Which ruler was noted for his contributions to the revival of the Vijayanagara Empire's previous glory?",
+                        "options": ["Sri Krishnadevaraya", "Venkatapathi Devaraya", "Harihara I", "Bukka I"],
+                        "answer": "Venkatapathi Devaraya",
+                        "explanation": "Venkatapathi Devaraya was recognized for his efforts in reviving the empire's glory and defending the kingdom."
+                      },
+                      {
+                        "question": "What did the Vijayanagara Utsava festival showcase?",
+                        "options": ["Recent archaeological finds", "Restoration of ancient manuscripts", "Priceless artefacts including textiles, weapons, and documents", "Modern art and cultural exhibits"],
+                        "answer": "Priceless artefacts including textiles, weapons, and documents",
+                        "explanation": "The festival featured an exhibition of priceless artefacts such as textiles, weapons, and historical documents."
+                      },
+                      {
+                        "question": "Where was the Vijayanagara Utsava held?",
+                        "options": ["Heere Deewan", "Hampi", "Anegundi", "Durham University"],
+                        "answer": "Heere Deewan",
+                        "explanation": "The Vijayanagara Utsava was held at Heere Deewan, the ancestral home of the Devarayas, in Anegundi."
+                      },
+                      {
+                        "question": "Who were among the dignitaries present at the Vijayanagara Utsava?",
+                        "options": ["Aswathi Thirunal Gouri Lakshmi Bayi Thampuratty and Justice Chelameswar", "Krishnadeva Raya and Venkatapathi Devaraya", "Shivaji and Chhatrapati", "Abdur Razzaq and Nicolo Conti"],
+                        "answer": "Aswathi Thirunal Gouri Lakshmi Bayi Thampuratty and Justice Chelameswar",
+                        "explanation": "Aswathi Thirunal Gouri Lakshmi Bayi Thampuratty and Justice Chelameswar were among the dignitaries who attended the event."
+                      },
+                      {
+                        "question": "Which historical figure's contributions were highlighted during the event?",
+                        "options": ["Sri Krishnadevaraya", "Venkatapathi Devaraya", "Harihara I", "Bukka I"],
+                        "answer": "Venkatapathi Devaraya",
+                        "explanation": "Venkatapathi Devaraya's significant contributions to the revival of the empire were highlighted during the event."
+                      },
+                      {
+                        "question": "What was the primary focus of the lecture given by Tirumala Venkata Devaraya?",
+                        "options": ["The military achievements of Vijayanagara rulers", "The architectural grandeur of Hampi", "The syncretic nature of the Vijayanagara Court", "The trade and economic policies of the empire"],
+                        "answer": "The syncretic nature of the Vijayanagara Court",
+                        "explanation": "The lecture emphasized the syncretic nature of the Vijayanagara Court, showcasing the coexistence of various traditions and beliefs."
+                      },
+                      {
+                        "question": "What was one of the features of the Vijayanagara Utsava?",
+                        "options": ["A performance by classical musicians", "A lecture series on Vijayanagara history", "An exhibition of artefacts from the Vijayanagara period", "A reenactment of historical battles"],
+                        "answer": "An exhibition of artefacts from the Vijayanagara period",
+                        "explanation": "The Utsava featured an exhibition showcasing artefacts from the Vijayanagara period, including textiles, weapons, and documents."
+                      }
+                    ]},
+                    {
+                      "level": "Hard",
+                      "setNumber": 14,
+                      "questions": [
+                        {
+                          "question": "What is the Vijayanagara Utsava?",
+                          "options": ["A traditional dance festival", "A celebration organized by the descendants of Vijayanagara rulers", "An annual sports event", "A historical reenactment festival"],
+                          "answer": "A celebration organized by the descendants of Vijayanagara rulers",
+                          "explanation": "The Vijayanagara Utsava is a 10-day multi-event celebration organized by the descendants of Vijayanagara rulers to revive and honor the traditions of the Vijayanagara Empire."
+                        },
+                        {
+                          "question": "Which UNESCO World Heritage Site was mentioned for its architectural significance in the Vijayanagara Empire?",
+                          "options": ["Red Fort", "Qutub Minar", "Hampi", "Ajanta Caves"],
+                          "answer": "Hampi",
+                          "explanation": "Hampi, a UNESCO World Heritage Site, was highlighted for its architectural and cultural significance within the Vijayanagara Empire."
+                        },
+                        {
+                          "question": "What is the significance of Heere Deewan in the context of the Vijayanagara Utsava?",
+                          "options": ["It is a newly built museum", "It is the ancestral home of the Devarayas", "It is a renowned ancient temple", "It is a famous historical battle site"],
+                          "answer": "It is the ancestral home of the Devarayas",
+                          "explanation": "Heere Deewan is the ancestral home of the Devarayas, where the Vijayanagara Utsava was held."
+                        },
+                        {
+                          "question": "Who is Venkatapathi Devaraya?",
+                          "options": ["A prominent historical figure known for his architectural contributions", "A ruler who played a crucial role in reviving the Vijayanagara Empire", "A famous poet of the Vijayanagara period", "An influential military leader"],
+                          "answer": "A ruler who played a crucial role in reviving the Vijayanagara Empire",
+                          "explanation": "Venkatapathi Devaraya was noted for his efforts in revitalizing the Vijayanagara Empire and restoring its former glory."
+                        },
+                        {
+                          "question": "Which type of artefacts were displayed at the Vijayanagara Utsava?",
+                          "options": ["Ancient manuscripts", "Traditional costumes", "Military weapons and royal textiles", "Modern art pieces"],
+                          "answer": "Military weapons and royal textiles",
+                          "explanation": "The exhibition at the Vijayanagara Utsava included military weapons and royal textiles, highlighting the richness of Vijayanagara's material culture."
+                        },
+                        {
+                          "question": "Which family member of the Travancore Royal Family attended the Vijayanagara Utsava?",
+                          "options": ["Aswathi Thirunal Gouri Lakshmi Bayi Thampuratty", "Chitralekha Thirunal", "Maharani Sethu Lakshmi Bayi", "Prince Marthanda Varma"],
+                          "answer": "Aswathi Thirunal Gouri Lakshmi Bayi Thampuratty",
+                          "explanation": "Aswathi Thirunal Gouri Lakshmi Bayi Thampuratty was one of the dignitaries present at the Vijayanagara Utsava."
+                        },
+                        {
+                          "question": "What aspect of Vijayanagara's cultural heritage was emphasized during the Utsava?",
+                          "options": ["Economic policies", "Military conquests", "Architectural diversity", "Religious conflicts"],
+                          "answer": "Architectural diversity",
+                          "explanation": "The Utsava highlighted the architectural diversity of the Vijayanagara Empire, showcasing its rich and varied historical structures."
+                        },
+                        {
+                          "question": "What was one of the goals of the Vijayanagara Utsava?",
+                          "options": ["To promote contemporary art", "To celebrate Vijayanagara's military history", "To revive and celebrate the religious traditions of the Vijayanagara Empire", "To focus on modern technological advancements"],
+                          "answer": "To revive and celebrate the religious traditions of the Vijayanagara Empire",
+                          "explanation": "One of the main goals of the Vijayanagara Utsava was to revive and celebrate the religious traditions of the Vijayanagara Empire."
+                        },
+                        {
+                          "question": "Which historical document or artefact was featured at the festival?",
+                          "options": ["A manuscript by a Vijayanagara scholar", "An ancient battle map", "Royal decrees and documents", "A collection of paintings from the era"],
+                          "answer": "Royal decrees and documents",
+                          "explanation": "The festival included royal decrees and documents, offering insights into the administrative and legal aspects of the Vijayanagara Empire."
+                        },
+                        {
+                          "question": "How did Tirumala Venkata Devaraya contribute to the understanding of Vijayanagara's multiculturalism?",
+                          "options": ["By presenting new archaeological findings", "By emphasizing the syncretic nature of the Vijayanagara Court", "By showcasing Vijayanagara's military tactics", "By highlighting economic strategies of the empire"],
+                          "answer": "By emphasizing the syncretic nature of the Vijayanagara Court",
+                          "explanation": "Tirumala Venkata Devaraya highlighted the syncretic nature of the Vijayanagara Court, showcasing the harmonious coexistence of various traditions and beliefs."
+                        },
+                        {
+                          "question": "What role did the Vijayanagara Ujjivana Charitable Trust play in the Utsava?",
+                          "options": ["Organizing the event", "Sponsoring modern art exhibits", "Conducting historical research", "Promoting international tourism"],
+                          "answer": "Organizing the event",
+                          "explanation": "The Vijayanagara Ujjivana Charitable Trust, managed by the descendants of Vijayanagara rulers, organized the Vijayanagara Utsava to revive and celebrate the empire's traditions."
+                        }
+                      ]},
+                      {
+                        "level": "Hard",
+                        "setNumber": 15,
+                        "questions": [
+                          {
+                            "question": "What is the primary objective of the Vijayanagara Utsava?",
+                            "options": ["To commemorate the victory of Vijayanagara rulers", "To showcase modern Indian culture", "To revive and honor the traditions of the Vijayanagara Empire", "To promote contemporary arts"],
+                            "answer": "To revive and honor the traditions of the Vijayanagara Empire",
+                            "explanation": "The primary objective of the Vijayanagara Utsava is to revive and honor the cultural and historical traditions of the Vijayanagara Empire."
+                          },
+                          {
+                            "question": "Which aspect of Vijayanagara's history was featured prominently in the Utsava's exhibitions?",
+                            "options": ["Daily life and customs", "Military campaigns", "Art and architecture", "Economic transactions"],
+                            "answer": "Art and architecture",
+                            "explanation": "The Utsava prominently featured exhibitions on the art and architecture of the Vijayanagara Empire, showcasing its historical grandeur."
+                          },
+                          {
+                            "question": "Who is credited with reviving interest in Vijayanagara history through the Utsava?",
+                            "options": ["Tirumala Venkata Devaraya", "Aswathi Thirunal Gouri Lakshmi Bayi Thampuratty", "Venkatapathi Devaraya", "Sri Krishnadevaraya"],
+                            "answer": "Tirumala Venkata Devaraya",
+                            "explanation": "Tirumala Venkata Devaraya played a key role in reviving interest in Vijayanagara history through his efforts in organizing and promoting the Utsava."
+                          },
+                          {
+                            "question": "Which landmark of Vijayanagara was not included in the Utsava exhibitions?",
+                            "options": ["Virupaksha Temple", "Hampi Bazaar", "Lotus Mahal", "Red Fort"],
+                            "answer": "Red Fort",
+                            "explanation": "The Red Fort, located in Delhi, was not included in the Utsava exhibitions as it is not part of the Vijayanagara heritage."
+                          },
+                          {
+                            "question": "What type of cultural performances were featured at the Vijayanagara Utsava?",
+                            "options": ["Classical music and dance", "Modern theater", "International film screenings", "Pop music concerts"],
+                            "answer": "Classical music and dance",
+                            "explanation": "The Utsava featured classical music and dance performances, reflecting the traditional cultural heritage of the Vijayanagara Empire."
+                          },
+                          {
+                            "question": "What was one of the unique features of the Vijayanagara Utsava's setting?",
+                            "options": ["An ancient fortress", "A reconstructed royal palace", "A historical village reenactment", "A modern exhibition hall"],
+                            "answer": "A reconstructed royal palace",
+                            "explanation": "One of the unique features of the Vijayanagara Utsava's setting was the reconstructed royal palace, which provided an immersive historical experience."
+                          },
+                          {
+                            "question": "Which scholarly activity was prominently featured during the Utsava?",
+                            "options": ["Historical document analysis", "Contemporary literature readings", "Theatrical performances", "Cultural exchange programs"],
+                            "answer": "Historical document analysis",
+                            "explanation": "The Utsava included activities such as historical document analysis, allowing attendees to engage with the primary sources of Vijayanagara history."
+                          },
+                          {
+                            "question": "What role did local artisans play in the Utsava?",
+                            "options": ["Displaying modern crafts", "Recreating historical artifacts", "Conducting workshops on contemporary art", "Performing street theater"],
+                            "answer": "Recreating historical artifacts",
+                            "explanation": "Local artisans played a significant role in the Utsava by recreating historical artifacts, which contributed to the festival’s focus on historical accuracy."
+                          },
+                          {
+                            "question": "What kind of food was featured at the Vijayanagara Utsava?",
+                            "options": ["Modern fusion cuisine", "Traditional Vijayanagara royal dishes", "International street food", "Fast food"],
+                            "answer": "Traditional Vijayanagara royal dishes",
+                            "explanation": "The Utsava featured traditional Vijayanagara royal dishes, providing attendees with a taste of the historical cuisine of the empire."
+                          },
+                          {
+                            "question": "Which famous Vijayanagara ruler’s achievements were highlighted during the Utsava?",
+                            "options": ["Sri Krishnadevaraya", "Harihara II", "Bukka II", "Devaraya II"],
+                            "answer": "Sri Krishnadevaraya",
+                            "explanation": "Sri Krishnadevaraya’s achievements were highlighted during the Utsava, recognizing his contributions to the cultural and political prosperity of the Vijayanagara Empire."
+                          }
+                        ]}
               
             ]
           },
