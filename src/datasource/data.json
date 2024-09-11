@@ -146,10 +146,209 @@
                   
                 ]
               },
+              {
+                "level": "Easy",
+                "setNumber": 3,
+                "questions": [
+                  {
+                    "question": "‘Akbarnama’ and ‘Ain-i-Akbari’ are written by _____ ?",
+                    "options": ["Akbar", "Ziauddin Barani", "Abul Fazal", "Abdul Qadir Badayuni"],
+                    "correctOption": "Abul Fazal",
+                    "explanation": "'Akbarnama' and 'Ain-i-Akbari' are famous works written by Abul Fazal, who was Akbar's court historian."
+                  },
+                  {
+                    "question": "Military Commanders during the Rule of Akbar were known as ______ ?",
+                    "options": ["Kotwal", "Faujdars", "Bakhshi", "Sadr"],
+                    "correctOption": "Faujdars",
+                    "explanation": "Military commanders during Akbar's reign were called Faujdars, responsible for maintaining law and order."
+                  },
+                  {
+                    "question": "Who among the following initiated 'Din-i-Ilahi'?",
+                    "options": ["Jahangir", "Babur", "Akbar", "Humayun"],
+                    "correctOption": "Akbar",
+                    "explanation": "Din-i-Ilahi was a syncretic religion propounded by Akbar in 1582, combining elements of various faiths."
+                  },
+                  {
+                    "question": "Name the author of the book 'Ain-i-Akbari'?",
+                    "options": ["Abul Fazl", "Dara Shikoh", "Abdul Rahim Khan-I-Khana", "Todar Mal"],
+                    "correctOption": "Abul Fazl",
+                    "explanation": "Abul Fazl, one of Akbar's Navratnas, wrote the 'Ain-i-Akbari,' which is a detailed document of Akbar's administration."
+                  },
+                  {
+                    "question": "The author of 'Ain-e-Akbari' was?",
+                    "options": ["Khafi Khan", "Abul Fazal", "Akbar", "Bhimsen"],
+                    "correctOption": "Abul Fazal",
+                    "explanation": "Abul Fazal authored the 'Ain-e-Akbari,' detailing the administration of Emperor Akbar."
+                  },
+                  {
+                    "question": "Which Mughal emperor built the Agra fort?",
+                    "options": ["Jahangir", "Shahjahan", "Akbar", "Aurangzeb"],
+                    "correctOption": "Akbar",
+                    "explanation": "The Agra Fort was built by Akbar in 1565, serving as the main residence of the Mughal emperors."
+                  },
+                  {
+                    "question": "Akbar commissioned ____ to chronicle the story of his father Humayun in ‘Humayun-nama’?",
+                    "options": ["Jagat Gosain Begum", "Mariam-uz-Zamani", "Jodha Begum", "Gulbadan Begum"],
+                    "correctOption": "Gulbadan Begum",
+                    "explanation": "Gulbadan Begum, Humayun's half-sister, wrote 'Humayun-nama' on Akbar's request, chronicling his father's life."
+                  },
+                  {
+                    "question": "_________ died in 1605, nearly 50 years after his ascension to the throne. He was buried outside of Agra at Sikandra.",
+                    "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
+                    "correctOption": "Akbar",
+                    "explanation": "Akbar died in 1605 and was buried at Sikandra near Agra."
+                  },
+                  {
+                    "question": "Which emperor’s army did Maharana Pratap fight in the Battle of Haldighati?",
+                    "options": ["Mahmud Shah", "Humayun", "Ibrahim Lodi", "Akbar"],
+                    "correctOption": "Akbar",
+                    "explanation": "Maharana Pratap fought against the Mughal army led by Akbar in the Battle of Haldighati in 1576."
+                  },
+                  {
+                    "question": "The terms 'Jat and Sawar' are related to which of the following administrative systems?",
+                    "options": ["Zamindari System", "Iqtadari System", "Mansabdari System", "Jotedari System"],
+                    "correctOption": "Mansabdari System",
+                    "explanation": "'Jat' and 'Sawar' were ranks in the Mansabdari system, determining the number of soldiers a Mansabdar could command."
+                  }
+                ]
+              },
+              {
+                "level": "Easy",
+                "setNumber": 4,
+                "questions": [
+                  {
+                    "question": "Who was Akbar's father?",
+                    "options": ["Humayun", "Babur", "Shah Jahan", "Aurangzeb"],
+                    "correctOption": "Humayun",
+                    "explanation": "Akbar's father was Humayun, the second Mughal emperor."
+                  },
+                  {
+                    "question": "Which Mughal emperor preceded Akbar?",
+                    "options": ["Babur", "Humayun", "Shah Jahan", "Aurangzeb"],
+                    "correctOption": "Humayun",
+                    "explanation": "Humayun was the emperor before Akbar."
+                  },
+                  {
+                    "question": "When did Akbar ascend to the throne?",
+                    "options": ["1556", "1560", "1575", "1590"],
+                    "correctOption": "1556",
+                    "explanation": "Akbar ascended to the throne in 1556."
+                  },
+                  {
+                    "question": "What was Akbar's original name?",
+                    "options": ["Abu'l-Fath Jalal-ud-din", "Abu'l-Fath Muhammad", "Jalal-ud-din Muhammad", "Shah Alam"],
+                    "correctOption": "Jalal-ud-din Muhammad",
+                    "explanation": "Akbar's original name was Jalal-ud-din Muhammad Akbar."
+                  },
+                  {
+                    "question": "What was Akbar's religious policy known as?",
+                    "options": ["Din-i Ilahi", "Sharia Law", "Hindu-Muslim Unity", "Akbari Policy"],
+                    "correctOption": "Din-i Ilahi",
+                    "explanation": "Akbar's religious policy was known as Din-i Ilahi, which aimed to integrate elements from different religions."
+                  },
+                  {
+                    "question": "Which religion did Akbar originally follow?",
+                    "options": ["Islam", "Hinduism", "Zoroastrianism", "Christianity"],
+                    "correctOption": "Islam",
+                    "explanation": "Akbar was born into a Muslim family and originally followed Islam."
+                  },
+                  {
+                    "question": "Who was Akbar's spiritual advisor?",
+                    "options": ["Sheikh Salim Chishti", "Rumi", "Guru Nanak", "Kabir"],
+                    "correctOption": "Sheikh Salim Chishti",
+                    "explanation": "Sheikh Salim Chishti was Akbar's spiritual advisor and played a key role in his life."
+                  },
+                  {
+                    "question": "What was the name of the religious text that Akbar commissioned?",
+                    "options": ["Akbar Nama", "Din-i Ilahi", "Bhagavad Gita", "Quran"],
+                    "correctOption": "Akbar Nama",
+                    "explanation": "Akbar commissioned the Akbar Nama, a historical chronicle of his reign."
+                  },
+                  {
+                    "question": "What was the name of Akbar's land revenue system?",
+                    "options": ["Zabt", "Mansabdari", "Jagirdari", "Revenue Administration"],
+                    "correctOption": "Zabt",
+                    "explanation": "The land revenue system introduced by Akbar was known as Zabt."
+                  },
+                  {
+                    "question": "Who was Akbar's chief minister?",
+                    "options": ["Abu'l-Fazl", "Raja Todar Mal", "Birbal", "Shaikh Abu'l-Fath"],
+                    "correctOption": "Raja Todar Mal",
+                    "explanation": "Raja Todar Mal was Akbar's chief minister and played a crucial role in administrative reforms."
+                  }
+                ]
+              },
+              {
+                "level": "Easy",
+                "setNumber": 5,
+                "questions": [
+                  {
+                    "question": "What was the name of the military unit created by Akbar?",
+                    "options": ["Mansabdari System", "Jagirdari System", "Akbari Army", "Karkhanas"],
+                    "correctOption": "Mansabdari System",
+                    "explanation": "Akbar created the Mansabdari System, which was a military and administrative unit."
+                  },
+                  {
+                    "question": "Who was the famous painter during Akbar's reign?",
+                    "options": ["Ustad Mansur", "Ravi Varma", "Basawan", "Jahangir"],
+                    "correctOption": "Basawan",
+                    "explanation": "Basawan was a famous painter during Akbar's reign."
+                  },
+                  {
+                    "question": "What was the name of Akbar's capital city?",
+                    "options": ["Delhi", "Agra", "Fatehpur Sikri", "Lahore"],
+                    "correctOption": "Fatehpur Sikri",
+                    "explanation": "Akbar established Fatehpur Sikri as his capital city."
+                  },
+                  {
+                    "question": "Which famous historical text was translated into Persian during Akbar's reign?",
+                    "options": ["Mahabharata", "Ramayana", "Bhagavad Gita", "Upanishads"],
+                    "correctOption": "Mahabharata",
+                    "explanation": "The Mahabharata was translated into Persian during Akbar's reign."
+                  },
+                  {
+                    "question": "Who was the architect of Akbar's tomb?",
+                    "options": ["Ustad Ahmad Lahori", "Mirza Ghiyas", "Shah Jahan", "Sir Edwin Lutyens"],
+                    "correctOption": "Mirza Ghiyas",
+                    "explanation": "The architect of Akbar's tomb was Mirza Ghiyas."
+                  },
+                  {
+                    "question": "Which famous battle did Akbar fight against Hemu?",
+                    "options": ["Battle of Panipat", "Battle of Khanwa", "Battle of Talikota", "Battle of Chausa"],
+                    "correctOption": "Battle of Chausa",
+                    "explanation": "Akbar fought against Hemu in the Battle of Chausa."
+                  },
+                  {
+                    "question": "Which kingdom did Akbar conquer in the south?",
+                    "options": ["Vijayanagara Empire", "Deccan Sultanates", "Maratha Kingdom", "Golkonda Sultanate"],
+                    "correctOption": "Deccan Sultanates",
+                    "explanation": "Akbar conquered the Deccan Sultanates in the south."
+                  },
+                  {
+                    "question": "Who was Akbar's ambassador to the court of Elizabeth I?",
+                    "options": ["Abu'l-Fazl", "Mirza Ruyun", "Mulla Do Piyaza", "Raja Todar Mal"],
+                    "correctOption": "Mirza Ruyun",
+                    "explanation": "Mirza Ruyun was Akbar's ambassador to the court of Elizabeth I."
+                  },
+                  {
+                    "question": "How many wives did Akbar have?",
+                    "options": ["3", "6", "12", "24"],
+                    "correctOption": "24",
+                    "explanation": "Akbar had 24 wives."
+                  },
+                  {
+                    "question": "Who was Akbar's favorite son?",
+                    "options": ["Jahangir", "Shah Jahan", "Dara Shikoh", "Aurangzeb"],
+                    "correctOption": "Jahangir",
+                    "explanation": "Jahangir was Akbar's favorite son and succeeded him as the emperor."
+                  }
+                ]
+              },
+              
               
               {
                 "level": "Medium",
-                "setNumber": 3,
+                "setNumber": 6,
                 "questions": [
                   {
                     "question": "Who was Akbar's famous advisor known for his wisdom?",
@@ -215,7 +414,7 @@
               },
               {
                 "level": "Medium",
-                "setNumber": 4,
+                "setNumber": 7,
                 "questions": [
                     {
                         "question": "Which of the following Mughal emperor was illiterate?",
@@ -280,10 +479,211 @@
 
                 ]
             },
+            {
+              "level": "Medium",
+              "setNumber": 8,
+              "questions": [
+                {
+                  "question": "In which of the following year was the Second Battle of Panipat fought?",
+                  "options": ["1556", "1576", "1584", "1562"],
+                  "correctOption": "1556",
+                  "explanation": "The Second Battle of Panipat took place on 5 November 1556 AD."
+                },
+                {
+                  "question": "In which of the following year was the Battle of Haldighati fought?",
+                  "options": ["1556", "1576", "1584", "1562"],
+                  "correctOption": "1576",
+                  "explanation": "The Battle of Haldighati took place on 18 June 1576 AD."
+                },
+                {
+                  "question": "In which of the following year was the battle of Sarkhej fought?",
+                  "options": ["1556", "1576", "1584", "1562"],
+                  "correctOption": "1584",
+                  "explanation": "The battle of Sarkhej took place in 1584 AD."
+                },
+                {
+                  "question": "Who led the army of Emperor Akbar in the Second Battle of Panipat?",
+                  "options": ["Bairam Khan", "Asaf Khan", "Man Singh", "None of the above"],
+                  "correctOption": "Bairam Khan",
+                  "explanation": "In the Second Battle of Panipat, the army of Emperor Akbar was led by Bairam Khan."
+                },
+                {
+                  "question": "Who led the army of Adilshah in the Second Battle of Panipat?",
+                  "options": ["Hemu", "Asaf Khan", "Man Singh", "None of the above"],
+                  "correctOption": "Hemu",
+                  "explanation": "Adilshah’s army was led by Hemu in the Second Battle of Panipat."
+                },
+                {
+                  "question": "Which of the following historians was an eyewitness to the Second Battle of Panipat?",
+                  "options": ["Arif Kandhari", "Amir Khusrow", "Abul-Fazl", "None of the above"],
+                  "correctOption": "Arif Kandhari",
+                  "explanation": "The eyewitness of the Second Battle of Panipat was historian Arif Kandhari."
+                },
+                {
+                  "question": "Who among the following killed Bairam Khan?",
+                  "options": ["Man Singh", "Mubarak Khan Lohani", "Aadham Khan", "None of the above"],
+                  "correctOption": "Mubarak Khan Lohani",
+                  "explanation": "Bairam Khan was murdered by Mubarak Khan Lohani."
+                },
+                {
+                  "question": "When did Emperor Akbar conquer Malwa?",
+                  "options": ["1560", "1562", "1576", "1549"],
+                  "correctOption": "1562",
+                  "explanation": "Emperor Akbar conquered Malwa in 1562. This was Akbar’s first campaign to expand the kingdom."
+                },
+                {
+                  "question": "In which of the following year did Akbar conquer Kabul?",
+                  "options": ["1581", "1585", "1591", "1592"],
+                  "correctOption": "1581",
+                  "explanation": "Akbar conquered Kabul in 1581. Emperor Akbar was the first Mughal ruler to enter the city of Kabul."
+                },
+                {
+                  "question": "In which of the following year did Akbar conquer Kashmir?",
+                  "options": ["1581", "1585", "1591", "1592"],
+                  "correctOption": "1585",
+                  "explanation": "Akbar conquered Kashmir in 1585 AD."
+                }
+              ]
+            },
+            {
+              "level": "Medium",
+              "setNumber": 9,
+              "questions": [
+                {
+                  "question": "In which of the following year did Akbar conquer Sindh?",
+                  "options": ["1581", "1585", "1591", "1592"],
+                  "correctOption": "1591",
+                  "explanation": "Akbar conquered Sindh in 1591 AD."
+                },
+                {
+                  "question": "In which of the following year did Akbar conquer Odisha?",
+                  "options": ["1581", "1585", "1591", "1592"],
+                  "correctOption": "1592",
+                  "explanation": "Akbar conquered Odisha in 1592 AD."
+                },
+                {
+                  "question": "In which of the following year did Akbar conquer Khandesh?",
+                  "options": ["1581", "1585", "1591", "1592"],
+                  "correctOption": "1591",
+                  "explanation": "Akbar conquered Khandesh in 1591 AD."
+                },
+                {
+                  "question": "In which of the following year did Akbar conquer Ahmednagar?",
+                  "options": ["1595", "1585", "1591", "1592"],
+                  "correctOption": "1595",
+                  "explanation": "Akbar conquered Ahmednagar in 1595 AD."
+                },
+                {
+                  "question": "In which of the following year did Akbar conquer Asirgarh?",
+                  "options": ["1595", "1585", "1591", "1601"],
+                  "correctOption": "1601",
+                  "explanation": "Akbar conquered Asirgarh in 1601 AD."
+                },
+                {
+                  "question": "Baz Bahadur was the ruler of which of the following states?",
+                  "options": ["Malwa", "Mewar", "Gujarat", "Kabul"],
+                  "correctOption": "Malwa",
+                  "explanation": "The ruler of the Malwa kingdom was Baz Bahadur. This emperor was a contemporary ruler of Akbar."
+                },
+                {
+                  "question": "Who among the following was sent by Akbar for the Malwa campaign?",
+                  "options": ["Man Singh", "Mubarak Khan Lohani", "Adham Khan", "None of the above"],
+                  "correctOption": "Adham Khan",
+                  "explanation": "Akbar had sent Adham Khan for the Malwa campaign."
+                },
+                {
+                  "question": "Who was the Mughal commander in the Battle of Haldighati?",
+                  "options": ["Man Singh", "Mubarak Khan Lohani", "Adham Khan", "None of the above"],
+                  "correctOption": "Man Singh",
+                  "explanation": "In the Battle of Haldighati, the Mughal general was Man Singh, while the deputy general was Asaf Khan."
+                },
+                {
+                  "question": "Who was the commander of Maharana Pratap in the Battle of Haldighati?",
+                  "options": ["Man Singh", "Hakim Khan Sur", "Adham Khan", "None of the above"],
+                  "correctOption": "Hakim Khan Sur",
+                  "explanation": "Hakim Khan Sur was the general of Maharana Pratap in the Battle of Haldighati."
+                },
+                {
+                  "question": "Which of the following historians was an eyewitness to the Battle of Haldighati?",
+                  "options": ["Badayuni", "Abul Fazl", "Arif Kandhari", "None of the above"],
+                  "correctOption": "Badayuni",
+                  "explanation": "Badayuni was an eyewitness historian of the Battle of Haldighati."
+                }
+              ]
+            },
+            {
+              "level": "Medium",
+              "setNumber": 10,
+              "questions": [
+                {
+                  "question": "Who was the first Mughal emperor to rule over India?",
+                  "options": ["Akbar", "Babur", "Humayun", "Jahangir"],
+                  "correctOption": "Babur",
+                  "explanation": "Babur was the founder of the Mughal Empire and the first Mughal emperor to rule over India."
+                },
+                {
+                  "question": "Which Mughal emperor is known for the construction of the Taj Mahal?",
+                  "options": ["Akbar", "Babur", "Shah Jahan", "Aurangzeb"],
+                  "correctOption": "Shah Jahan",
+                  "explanation": "Shah Jahan commissioned the construction of the Taj Mahal in memory of his wife Mumtaz Mahal."
+                },
+                {
+                  "question": "What was the primary language used in the Mughal court during Akbar's reign?",
+                  "options": ["Persian", "Sanskrit", "Hindustani", "Arabic"],
+                  "correctOption": "Persian",
+                  "explanation": "Persian was the primary language used in the Mughal court during Akbar's reign."
+                },
+                {
+                  "question": "Which Mughal emperor is known for his policy of religious tolerance?",
+                  "options": ["Aurangzeb", "Akbar", "Babur", "Jahangir"],
+                  "correctOption": "Akbar",
+                  "explanation": "Akbar is known for his policy of religious tolerance and for promoting a syncretic religion called Din-i Ilahi."
+                },
+                {
+                  "question": "Who was Akbar's wife who played a significant role in Mughal politics?",
+                  "options": ["Mumtaz Mahal", "Empress Nur Jahan", "Ruqaiya Sultan Begum", "Jodha Bai"],
+                  "correctOption": "Ruqaiya Sultan Begum",
+                  "explanation": "Ruqaiya Sultan Begum was Akbar's first wife and played a significant role in Mughal politics."
+                },
+                {
+                  "question": "Which battle marked the end of the Mughal Empire's dominance in India?",
+                  "options": ["Battle of Plassey", "Battle of Panipat", "Battle of Buxar", "Battle of Haldighati"],
+                  "correctOption": "Battle of Buxar",
+                  "explanation": "The Battle of Buxar (1764) marked the end of the Mughal Empire's dominance in India as the British East India Company emerged as a dominant power."
+                },
+                {
+                  "question": "Which Mughal ruler was known for his persecution of Hindus and the destruction of temples?",
+                  "options": ["Aurangzeb", "Akbar", "Jahangir", "Shah Jahan"],
+                  "correctOption": "Aurangzeb",
+                  "explanation": "Aurangzeb is known for his persecution of Hindus, destruction of temples, and strict adherence to Islamic principles."
+                },
+                {
+                  "question": "Who succeeded Akbar as the Mughal emperor?",
+                  "options": ["Babur", "Jahangir", "Shah Jahan", "Aurangzeb"],
+                  "correctOption": "Jahangir",
+                  "explanation": "Jahangir, Akbar's son, succeeded him as the Mughal emperor."
+                },
+                {
+                  "question": "Which Mughal emperor is known for the establishment of the Mughal navy?",
+                  "options": ["Akbar", "Babur", "Shah Jahan", "Aurangzeb"],
+                  "correctOption": "Shah Jahan",
+                  "explanation": "Shah Jahan is known for the establishment of the Mughal navy to protect maritime interests."
+                },
+                {
+                  "question": "Which Mughal emperor is credited with introducing the policy of Sulh-i-Kul (Universal Tolerance)?",
+                  "options": ["Babur", "Akbar", "Jahangir", "Aurangzeb"],
+                  "correctOption": "Akbar",
+                  "explanation": "Akbar introduced the policy of Sulh-i-Kul, which aimed at universal tolerance and the inclusion of all religions."
+                }
+              ]
+            },
+            
+            
+            
               
               {
                 "level": "Hard",
-                "setNumber": 5,
+                "setNumber": 11,
                 "questions": [
                   {
                     "question": "What was the Din-i-Ilahi?",
@@ -349,7 +749,7 @@
             },
                   {
                     "level": "Hard",
-                    "setNumber": 6,
+                    "setNumber": 12,
                     "questions": [
                       {
                         "question": "In which of the following year did Akbar conquer Kashmir?",
@@ -412,8 +812,271 @@
                         "explanation": "Badayuni was an eyewitness historian of the Battle of Haldighati."
                       }
                     ]
-                  }
-                    
+                  },
+                  {
+                    "level": "Hard",
+                    "setNumber": 13,
+                    "questions": [
+                      {
+                        "question": "At what age was Akbar crowned as the Emperor of the Mughal Empire?",
+                        "options": ["10 years", "13 years and 4 months", "16 years", "20 years"],
+                        "correctOption": "13 years and 4 months",
+                        "explanation": "Akbar was crowned at the age of 13 years and 4 months in 1556 AD."
+                      },
+                      {
+                        "question": "Who acted as Akbar’s regent during the initial years of his reign?",
+                        "options": ["Bairam Khan", "Humayun", "Maham Anaga", "Mirza Hakim"],
+                        "correctOption": "Bairam Khan",
+                        "explanation": "Bairam Khan was Akbar’s regent until he came of age."
+                      },
+                      {
+                        "question": "Which battle was pivotal in Akbar’s early consolidation of power, involving a key defeat of Hemu Vikramaditya?",
+                        "options": ["First Battle of Panipat", "Second Battle of Panipat", "Battle of Haldighati", "Battle of Chittor"],
+                        "correctOption": "Second Battle of Panipat",
+                        "explanation": "The Second Battle of Panipat in 1556 was crucial for Akbar’s consolidation of power."
+                      },
+                      {
+                        "question": "Which important Mughal territory was captured during Bairam Khan’s regency?",
+                        "options": ["Kashmir", "Malwa", "Gujarat", "Bengal"],
+                        "correctOption": "Gujarat",
+                        "explanation": "Gujarat was captured during Bairam Khan’s regency in 1572."
+                      },
+                      {
+                        "question": "What was the fate of Bairam Khan after he was dismissed from Akbar’s service?",
+                        "options": ["Appointed governor", "Killed by an Afghan", "Exiled to Mecca", "Military commander in Deccan"],
+                        "correctOption": "Killed by an Afghan",
+                        "explanation": "Bairam Khan was killed by an Afghan near Patan in 1561."
+                      },
+                      {
+                        "question": "Which Mughal official was known for his cruelty and was eventually thrown from the Agra Fort by Akbar?",
+                        "options": ["Mirza Hakim", "Adham Khan", "Asaf Khan", "Tansen"],
+                        "correctOption": "Adham Khan",
+                        "explanation": "Adham Khan, known for his cruelty, was thrown from the Agra Fort by Akbar in 1560."
+                      },
+                      {
+                        "question": "What was the name of Akbar’s half-brother who seized Kabul and later besieged Lahore?",
+                        "options": ["Mirza Hakim", "Jahangir", "Jahandar", "Dara Shikoh"],
+                        "correctOption": "Mirza Hakim",
+                        "explanation": "Mirza Hakim seized Kabul and later besieged Lahore."
+                      },
+                      {
+                        "question": "Which battle marked the end of the rebellion by the Mirzas and Uzbeks?",
+                        "options": ["Battle of Chittor", "Battle of Haldighati", "Battle of Sikandarabad", "Battle of Kabul"],
+                        "correctOption": "Battle of Sikandarabad",
+                        "explanation": "The Battle of Sikandarabad in 1582 marked the end of the Mirzas and Uzbeks rebellion."
+                      },
+                      {
+                        "question": "Which key fortress in Rajasthan fell to Akbar after a six-month siege?",
+                        "options": ["Ranthambore", "Kalinjar", "Chittor", "Merta"],
+                        "correctOption": "Chittor",
+                        "explanation": "Chittor fell after a six-month siege in 1568."
+                      },
+                      {
+                        "question": "What was the significant policy Akbar adopted towards the Rajput states that led to their eventual integration into the Mughal Empire?",
+                        "options": ["Imposing high taxes", "Marrying Rajput princesses", "Forcible conversion", "Total military conquest"],
+                        "correctOption": "Marrying Rajput princesses",
+                        "explanation": "Akbar married Rajput princesses to integrate Rajput states into the Mughal Empire."
+                      }
+                    ]
+                  },
+                  {
+                    "level": "Hard",
+                    "setNumber": 14,
+                    "questions": [
+                      {
+                        "question": "Which province did Akbar conquer in 1572, after the death of its ruler Bahadur Shah?",
+                        "options": ["Gujarat", "Bihar", "Bengal", "Kashmir"],
+                        "correctOption": "Gujarat",
+                        "explanation": "Akbar conquered Gujarat in 1572 after the death of its ruler Bahadur Shah."
+                      },
+                      {
+                        "question": "What significant architectural achievement did Akbar undertake to commemorate his victory over Gujarat?",
+                        "options": ["The Red Fort", "Fatehpur Sikri", "Buland Darwaza", "Taj Mahal"],
+                        "correctOption": "Buland Darwaza",
+                        "explanation": "The Buland Darwaza was constructed by Akbar to commemorate his victory over Gujarat."
+                      },
+                      {
+                        "question": "Who was appointed the governor of Gujarat after its initial conquest by Akbar?",
+                        "options": ["Mirza Aziz Koka", "Raja Todar Mal", "Bhagwant Das", "Man Singh"],
+                        "correctOption": "Mirza Aziz Koka",
+                        "explanation": "Mirza Aziz Koka was appointed as the governor of Gujarat after its conquest."
+                      },
+                      {
+                        "question": "Which ruler’s rebellion was particularly focused in Bengal and led to the declaration of independence by Daud Khan?",
+                        "options": ["Muzaffar Shah", "Daud Khan", "Hemu Vikramaditya", "Mirza Hakim"],
+                        "correctOption": "Daud Khan",
+                        "explanation": "Daud Khan's rebellion was focused in Bengal and led to his declaration of independence."
+                      },
+                      {
+                        "question": "What policy did Akbar implement to control the jagirdars and curb rebellion during his reign?",
+                        "options": ["Dagh system (branding of horses)", "Jizya tax", "Abolition of pilgrim tax", "Conversion of land grants"],
+                        "correctOption": "Dagh system (branding of horses)",
+                        "explanation": "Akbar implemented the Dagh system to control jagirdars and reduce rebellion."
+                      },
+                      {
+                        "question": "Which Mughal governor was sent to conquer Orissa during Akbar’s reign?",
+                        "options": ["Raja Todar Mal", "Mirza Aziz Koka", "Raja Man Singh", "Asaf Khan"],
+                        "correctOption": "Raja Man Singh",
+                        "explanation": "Raja Man Singh was appointed to conquer Orissa during Akbar’s reign."
+                      },
+                      {
+                        "question": "Which significant fortress in the Deccan was captured by the Mughals after a series of battles involving Chand Bibi?",
+                        "options": ["Berar", "Ahmednagar", "Asirgarh", "Bijapur"],
+                        "correctOption": "Asirgarh",
+                        "explanation": "Asirgarh fortress in the Deccan was captured by the Mughals after several battles."
+                      },
+                      {
+                        "question": "What was the main reason for the rebellion in Gujarat during Akbar’s administration?",
+                        "options": ["High taxes", "Religious intolerance", "Military aggression", "Administrative neglect"],
+                        "correctOption": "High taxes",
+                        "explanation": "The rebellion in Gujarat was mainly due to high taxes imposed during Akbar's administration."
+                      },
+                      {
+                        "question": "Who was the famous Rajput general appointed by Akbar and became governor of Bihar and Bengal?",
+                        "options": ["Bhagwant Das", "Man Singh", "Adham Khan", "Mirza Aziz Koka"],
+                        "correctOption": "Man Singh",
+                        "explanation": "Man Singh was the famous Rajput general appointed by Akbar as governor of Bihar and Bengal."
+                      },
+                      {
+                        "question": "What was Akbar’s strategy in dealing with the rebellious tribes of the Khyber Pass?",
+                        "options": ["Negotiation and peace treaties", "Military expeditions and conquests", "Cultural diplomacy", "Financial incentives"],
+                        "correctOption": "Military expeditions and conquests",
+                        "explanation": "Akbar employed military expeditions and conquests to deal with the rebellious tribes of the Khyber Pass."
+                      }
+                    ]
+                  },
+                  {
+                    "level": "Hard",
+                    "setNumber": 15,
+                    "questions": [
+                      {
+                        "question": "What was the name of the city built by Akbar near Agra, known for its architectural splendor?",
+                        "options": ["Fatehpur Sikri", "Agra Fort", "Red Fort", "Lahore Fort"],
+                        "correctOption": "Fatehpur Sikri",
+                        "explanation": "Fatehpur Sikri was the city built by Akbar near Agra, renowned for its architectural splendor."
+                      },
+                      {
+                        "question": "Which of Akbar’s architectural projects was built to commemorate his victory over Gujarat?",
+                        "options": ["Jama Masjid", "Buland Darwaza", "Fatehpur Sikri", "Sikandra"],
+                        "correctOption": "Buland Darwaza",
+                        "explanation": "The Buland Darwaza was constructed by Akbar to commemorate his victory over Gujarat."
+                      },
+                      {
+                        "question": "Which Mughal structure was completed by Akbar’s son Jahangir?",
+                        "options": ["Red Fort", "Fatehpur Sikri", "Jahangir Mahal", "Taj Mahal"],
+                        "correctOption": "Jahangir Mahal",
+                        "explanation": "The Jahangir Mahal was completed by Akbar’s son Jahangir."
+                      },
+                      {
+                        "question": "Who was Akbar’s court artist renowned for illustrating the Persian versions of Mahabharata and Ramayana?",
+                        "options": ["Tulsidas", "Baswan", "Miskina", "Abul Fazl"],
+                        "correctOption": "Baswan",
+                        "explanation": "Baswan was a renowned court artist known for illustrating the Persian versions of Mahabharata and Ramayana."
+                      },
+                      {
+                        "question": "Which text was illustrated under Akbar’s patronage, known for its elaborate paintings and historical content?",
+                        "options": ["Hamzanama", "Akbarnama", "Ain-i-Akbari", "Ramacharitmanas"],
+                        "correctOption": "Hamzanama",
+                        "explanation": "The Hamzanama was illustrated under Akbar’s patronage, famous for its elaborate paintings and historical content."
+                      },
+                      {
+                        "question": "What was the major contribution of Tansen during Akbar’s reign?",
+                        "options": ["Establishing new literary styles", "Composing new ragas and music", "Leading military campaigns", "Building architectural structures"],
+                        "correctOption": "Composing new ragas and music",
+                        "explanation": "Tansen is renowned for his major contribution to composing new ragas and music during Akbar’s reign."
+                      },
+                      {
+                        "question": "Which Indian poet was associated with Akbar’s court and is known for the Hindi version of Ramayana?",
+                        "options": ["Kabir", "Tulsidas", "Mirabai", "Surdas"],
+                        "correctOption": "Tulsidas",
+                        "explanation": "Tulsidas was associated with Akbar’s court and is known for his Hindi version of the Ramayana."
+                      },
+                      {
+                        "question": "In what year was the Buland Darwaza constructed?",
+                        "options": ["1564 CE", "1571 CE", "1572 CE", "1580 CE"],
+                        "correctOption": "1572 CE",
+                        "explanation": "The Buland Darwaza was constructed in 1572 CE."
+                      },
+                      {
+                        "question": "Which language gained prominence and widespread use in the Mughal court during Akbar’s reign?",
+                        "options": ["Sanskrit", "Arabic", "Persian", "Hindi"],
+                        "correctOption": "Persian",
+                        "explanation": "Persian gained prominence and widespread use in the Mughal court during Akbar’s reign."
+                      },
+                      {
+                        "question": "Which prominent historian and scholar wrote the Ain-i-Akbari and Akbarnama during Akbar’s reign?",
+                        "options": ["Abul Fazl", "Abul Faizi", "Utbi", "Naziri"],
+                        "correctOption": "Abul Fazl",
+                        "explanation": "Abul Fazl was the prominent historian and scholar who wrote the Ain-i-Akbari and Akbarnama during Akbar’s reign."
+                      }
+                    ]
+                  },
+                  {
+                    "level": "Hard",
+                    "setNumber": 16,
+                    "questions": [
+                      {
+                        "question": "What was Akbar’s major policy towards the Rajput rulers?",
+                        "options": ["Forced conversion", "Military conquest", "Alliance and integration", "Exile and punishment"],
+                        "correctOption": "Alliance and integration",
+                        "explanation": "Akbar's major policy towards the Rajput rulers was alliance and integration, which involved forming alliances through marriage and diplomacy rather than forced conversion or military conquest."
+                      },
+                      {
+                        "question": "Which fortress was considered crucial for controlling central Rajasthan and fell to Akbar after a prolonged siege?",
+                        "options": ["Ranthambore", "Chittor", "Merta", "Kalinjar"],
+                        "correctOption": "Ranthambore",
+                        "explanation": "The fortress of Ranthambore was crucial for controlling central Rajasthan and fell to Akbar after a prolonged siege."
+                      },
+                      {
+                        "question": "Which Mughal ruler’s policy included the abolition of the jizya tax and the pilgrim tax?",
+                        "options": ["Akbar", "Babur", "Humayun", "Jahangir"],
+                        "correctOption": "Akbar",
+                        "explanation": "Akbar implemented the policy of abolishing the jizya tax and the pilgrim tax as part of his broader approach to religious tolerance."
+                      },
+                      {
+                        "question": "Which Mughal governor was responsible for bringing Kathiawar under Mughal control?",
+                        "options": ["Raja Man Singh", "Mirza Aziz Koka", "Asaf Khan", "Raja Todar Mal"],
+                        "correctOption": "Mirza Aziz Koka",
+                        "explanation": "Mirza Aziz Koka was responsible for bringing Kathiawar under Mughal control."
+                      },
+                      {
+                        "question": "Which prominent Mughal general was known for his defeat of Rana Pratap Singh in the Battle of Haldighati?",
+                        "options": ["Man Singh", "Bhagwant Das", "Raja Todar Mal", "Mirza Aziz Koka"],
+                        "correctOption": "Man Singh",
+                        "explanation": "Man Singh was the prominent Mughal general known for his role in the Battle of Haldighati against Rana Pratap Singh."
+                      },
+                      {
+                        "question": "What was Akbar’s approach to dealing with the Deccan Sultanates?",
+                        "options": ["Diplomacy and alliances", "Military conquest and annexation", "Ignoring their existence", "Forming economic treaties"],
+                        "correctOption": "Military conquest and annexation",
+                        "explanation": "Akbar’s approach to the Deccan Sultanates involved military conquest and annexation to consolidate Mughal power in the southern territories of India."
+                      },
+                      {
+                        "question": "Which Mughal military campaign was aimed at consolidating power in the southern territories of India?",
+                        "options": ["Conquest of Gujarat", "Campaigns in Deccan", "Siege of Chittor", "Campaign in Bengal"],
+                        "correctOption": "Campaigns in Deccan",
+                        "explanation": "The campaigns in Deccan were aimed at consolidating Mughal power in the southern territories of India."
+                      },
+                      {
+                        "question": "What was the main objective behind Akbar’s policy of Sulh-e-Kul?",
+                        "options": ["Promoting religious tolerance", "Expanding the empire’s territory", "Increasing military strength", "Reforming administrative practices"],
+                        "correctOption": "Promoting religious tolerance",
+                        "explanation": "The main objective behind Akbar’s policy of Sulh-e-Kul was to promote religious tolerance and harmony among the diverse communities in his empire."
+                      },
+                      {
+                        "question": "Which Mughal official was known for his role in negotiating peace treaties with various Rajput rulers?",
+                        "options": ["Raja Todar Mal", "Mirza Aziz Koka", "Bhagwant Das", "Raja Man Singh"],
+                        "correctOption": "Raja Man Singh",
+                        "explanation": "Raja Man Singh was known for his role in negotiating peace treaties with various Rajput rulers and integrating them into the Mughal Empire."
+                      },
+                      {
+                        "question": "Which important political strategy did Akbar employ to maintain stability in the newly acquired territories?",
+                        "options": ["Establishing local assemblies", "Appointing loyalists as governors", "Imposing high taxes", "Relocating populations"],
+                        "correctOption": "Appointing loyalists as governors",
+                        "explanation": "To maintain stability in newly acquired territories, Akbar employed the strategy of appointing loyalists as governors."
+                      }
+                    ]
+                  }     
                 ]
           },
 
@@ -560,12 +1223,213 @@
                         "answer": "Jizya",
                         "explanation": "Aurangzeb imposed the Jizya tax on non-Muslims."
                       }
-            ]
-          },
+                    ]
+                  },
+                  {
+                    "level": "Easy",
+                    "setNumber": 3,
+                    "questions": [
+                      {
+                        "question": "Aurangzeb's policies towards the Sikhs softened after he was influenced by:",
+                        "options": ["Guru Nanak", "Guru Angad", "Guru Arjan Dev", "Guru Gobind Singh"],
+                        "correctOption": "Guru Gobind Singh",
+                        "explanation": "Aurangzeb’s policies towards the Sikhs softened under the influence of Guru Gobind Singh, the tenth Sikh Guru."
+                      },
+                      {
+                        "question": "The Maratha king who challenged Aurangzeb's authority was:",
+                        "options": ["Shivaji", "Rana Pratap", "Akbar the Great", "Ashoka"],
+                        "correctOption": "Shivaji",
+                        "explanation": "Shivaji, the founder of the Maratha Empire, was a prominent figure who challenged Aurangzeb's authority."
+                      },
+                      {
+                        "question": "Aurangzeb's policies led to a rebellion in the region of:",
+                        "options": ["Bengal", "Gujarat", "Punjab", "Awadh"],
+                        "correctOption": "Bengal",
+                        "explanation": "Aurangzeb's policies led to significant unrest and rebellion in the region of Bengal."
+                      },
+                      {
+                        "question": "Aurangzeb is buried in a mausoleum located in:",
+                        "options": ["Agra", "Delhi", "Aurangabad", "Lahore"],
+                        "correctOption": "Aurangabad",
+                        "explanation": "Aurangzeb is buried in a mausoleum in Aurangabad, Maharashtra."
+                      },
+                      {
+                        "question": "Aurangzeb was succeeded by his son:",
+                        "options": ["Bahadur Shah I", "Shah Alam II", "Bahadur Shah Zafar", "Muhammad Shah"],
+                        "correctOption": "Bahadur Shah I",
+                        "explanation": "Aurangzeb was succeeded by his son Bahadur Shah I, also known as Bahadur Shah I."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Rajputs resulted in the decline of their influence, except in the kingdom of:",
+                        "options": ["Mewar", "Jaipur", "Jodhpur", "Bundi"],
+                        "correctOption": "Mewar",
+                        "explanation": "Despite Aurangzeb's policies, the Rajput kingdom of Mewar maintained its influence and resisted Mughal dominance."
+                      },
+                      {
+                        "question": "Aurangzeb issued a royal order banning the use of:",
+                        "options": ["Tobacco", "Alcohol", "Opium", "Coffee"],
+                        "correctOption": "Tobacco",
+                        "explanation": "Aurangzeb issued a royal order banning the use of tobacco as part of his religious and moral reforms."
+                      },
+                      {
+                        "question": "Aurangzeb's reign witnessed a decline in the Mughal control over:",
+                        "options": ["Bengal", "Deccan", "Punjab", "Rajasthan"],
+                        "correctOption": "Deccan",
+                        "explanation": "During Aurangzeb's reign, the Mughal control over the Deccan region witnessed significant decline due to ongoing conflicts."
+                      },
+                      {
+                        "question": "The famous Mughal painting style known as 'Aurangzeb's Black' was developed during his reign in which city?",
+                        "options": ["Agra", "Delhi", "Jaipur", "Bijapur"],
+                        "correctOption": "Bijapur",
+                        "explanation": "'Aurangzeb’s Black' painting style, characterized by its distinct style, was developed in Bijapur during Aurangzeb’s reign."
+                      },
+                      {
+                        "question": "Aurangzeb's religious policies were influenced by the teachings of the Islamic scholar:",
+                        "options": ["Al-Ghazali", "Ibn Arabi", "Imam Abu Hanifa", "Shah Waliullah"],
+                        "correctOption": "Al-Ghazali",
+                        "explanation": "Aurangzeb’s religious policies were influenced by the teachings of the Islamic scholar Al-Ghazali, known for his works on Islamic jurisprudence and mysticism."
+                      }
+                    ]
+                  },
+                  {
+                    "level": "Easy",
+                    "setNumber": 4,
+                    "questions": [
+                      {
+                        "question": "Aurangzeb's policies towards the Sufis resulted in the decline of their influence, except in the region of:",
+                        "options": ["Bengal", "Punjab", "Kashmir", "Rajasthan"],
+                        "correctOption": "Kashmir",
+                        "explanation": "Aurangzeb’s policies against the Sufis led to their decline in most regions, but Kashmir remained a significant center for Sufism."
+                      },
+                      {
+                        "question": "Aurangzeb's construction of the Badshahi Mosque took place in which city?",
+                        "options": ["Delhi", "Agra", "Lahore", "Jaipur"],
+                        "correctOption": "Lahore",
+                        "explanation": "The Badshahi Mosque, one of the largest mosques in the world, was constructed by Aurangzeb in Lahore."
+                      },
+                      {
+                        "question": "Aurangzeb's efforts to expand the Mughal Empire towards the south were largely focused on:",
+                        "options": ["Vijayanagara", "Golconda", "Bijapur", "Madurai"],
+                        "correctOption": "Golconda",
+                        "explanation": "Aurangzeb concentrated his efforts on the conquest of Golconda as part of his expansion into the southern territories."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Shia Muslims resulted in tensions with which neighboring empire?",
+                        "options": ["Ottoman Empire", "Safavid Empire", "Timurid Empire", "Mamluk Sultanate"],
+                        "correctOption": "Safavid Empire",
+                        "explanation": "Aurangzeb's policies against Shia Muslims caused conflicts with the Safavid Empire, which was Shia Muslim and a rival to the Sunni Mughals."
+                      },
+                      {
+                        "question": "The famous battle in which Aurangzeb defeated his brother Dara Shikoh was:",
+                        "options": ["Battle of Haldighati", "Battle of Plassey", "Battle of Samugarh", "Battle of Panipat"],
+                        "correctOption": "Battle of Samugarh",
+                        "explanation": "Aurangzeb defeated his brother Dara Shikoh in the Battle of Samugarh, which was a significant turning point in Aurangzeb's rise to power."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Marathas resulted in a protracted conflict known as the:",
+                        "options": ["Battle of Talikota", "Carnatic Wars", "Mughal-Maratha Wars", "Battle of Buxar"],
+                        "correctOption": "Mughal-Maratha Wars",
+                        "explanation": "Aurangzeb's conflict with the Marathas led to a series of prolonged battles collectively known as the Mughal-Maratha Wars."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Jats resulted in a rebellion led by which Jat leader?",
+                        "options": ["Suraj Mal", "Maharana Pratap", "Raja Ram Mohan Roy", "Chhatrapati Shivaji"],
+                        "correctOption": "Suraj Mal",
+                        "explanation": "Suraj Mal was a prominent Jat leader who led a significant rebellion against Aurangzeb's policies."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Mughal nobility resulted in the decline of their loyalty, except for the nobles from which region?",
+                        "options": ["Bengal", "Gujarat", "Punjab", "Awadh"],
+                        "correctOption": "Bengal",
+                        "explanation": "Despite Aurangzeb's policies, the nobles from Bengal remained relatively loyal and influential."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Portuguese led to the capture of which famous fort?",
+                        "options": ["Red Fort", "Golconda Fort", "Agra Fort", "Haldighati Fort"],
+                        "correctOption": "Red Fort",
+                        "explanation": "Aurangzeb’s policies and military actions eventually led to the capture of the Red Fort, although it was more directly related to Mughal internal conflicts."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Marathas resulted in the execution of which Maratha leader?",
+                        "options": ["Raja Ram Mohan Roy", "Bajirao I", "Shivaji", "Rana Pratap"],
+                        "correctOption": "Shivaji",
+                        "explanation": "Aurangzeb's policies against the Marathas included the execution of key leaders, including Shivaji, although Shivaji's direct execution is historically debated."
+                      }
+                    ]
+                  },
+                  {
+                    "level": "Easy",
+                    "setNumber": 5,
+                    "questions": [
+                      {
+                        "question": "Aurangzeb's policies towards the Bengal region resulted in the establishment of a semi-independent state known as:",
+                        "options": ["Awadh", "Hyderabad", "Murshidabad", "Sindh"],
+                        "correctOption": "Murshidabad",
+                        "explanation": "Aurangzeb's administration led to the rise of Murshidabad as a semi-independent state within Bengal."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Deccan region resulted in the decline of the:",
+                        "options": ["Bahmani Sultanate", "Vijayanagara Empire", "Qutb Shahi dynasty", "Mysore Kingdom"],
+                        "correctOption": "Qutb Shahi dynasty",
+                        "explanation": "Aurangzeb's military campaigns in the Deccan led to the decline of the Qutb Shahi dynasty."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Rajputs resulted in the decline of their power, except for the kingdom of:",
+                        "options": ["Jaisalmer", "Kota", "Bikaner", "Jaipur"],
+                        "correctOption": "Jaipur",
+                        "explanation": "Despite Aurangzeb's policies, the kingdom of Jaipur managed to retain its influence and power."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Sikhs resulted in the construction of the famous Sikh shrine known as:",
+                        "options": ["Golden Temple", "Harmandir Sahib", "Hemkund Sahib", "Gurudwara Bangla Sahib"],
+                        "correctOption": "Golden Temple",
+                        "explanation": "Aurangzeb's persecution of Sikhs led to the construction of the Golden Temple, a central religious site for Sikhs."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Marathas resulted in the establishment of their capital in which city?",
+                        "options": ["Pune", "Mumbai", "Kolhapur", "Nagpur"],
+                        "correctOption": "Pune",
+                        "explanation": "Pune became the center of Maratha administration and resistance against Aurangzeb's rule."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Jats resulted in the establishment of a semi-independent state known as:",
+                        "options": ["Bharatpur", "Alwar", "Kota", "Gwalior"],
+                        "correctOption": "Bharatpur",
+                        "explanation": "The Jats, under leaders like Suraj Mal, established Bharatpur as a semi-independent state."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Portuguese resulted in the capture of which important trading port?",
+                        "options": ["Goa", "Surat", "Chennai", "Kolkata"],
+                        "correctOption": "Goa",
+                        "explanation": "Aurangzeb's policies led to the capture of Goa, which was a crucial Portuguese trading port."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Mughal nobility resulted in the decline of their loyalty, except for the nobles from which region?",
+                        "options": ["Bengal", "Gujarat", "Punjab", "Awadh"],
+                        "correctOption": "Bengal",
+                        "explanation": "Nobles from Bengal remained relatively loyal to Aurangzeb despite his policies."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Marathas resulted in the execution of which Maratha leader?",
+                        "options": ["Raja Ram Mohan Roy", "Bajirao I", "Shivaji", "Rana Pratap"],
+                        "correctOption": "Shivaji",
+                        "explanation": "Aurangzeb's conflict with the Marathas included the execution of key leaders, including Shivaji, although this is debated historically."
+                      },
+                      {
+                        "question": "Aurangzeb's policies towards the Bengal region resulted in the establishment of a semi-independent state known as:",
+                        "options": ["Awadh", "Hyderabad", "Murshidabad", "Sindh"],
+                        "correctOption": "Murshidabad",
+                        "explanation": "Murshidabad emerged as a semi-independent state in Bengal due to Aurangzeb's policies."
+                      }
+                    ]
+                  },
+                  
+                  
+                  
 
           {
             "level": "Medium",
-            "setNumber": 3,
+            "setNumber": 6,
             "questions": [
                
                     {
@@ -633,7 +1497,7 @@
 
         {
            "level": "Medium",
-            "setNumber": 4,
+            "setNumber": 7,
             "questions": [
                 {
                     "question": "Who was the infamous Qazi Fazihat during Sher Shah’s reign?",
@@ -698,9 +1562,210 @@
 
             ]
         },
+        {
+          "level": "Medium",
+          "setNumber": 8,
+          "questions": [
+            {
+              "question": "Aurangzeb's policies towards the Rajputs resulted in the decline of their power, except for the kingdom of:",
+              "options": ["Jaisalmer", "Kota", "Bikaner", "Jaipur"],
+              "correctOption": "Jaipur",
+              "explanation": "Despite Aurangzeb's policies, the kingdom of Jaipur managed to retain its influence and power."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Sikhs resulted in the construction of the famous Sikh shrine known as:",
+              "options": ["Golden Temple", "Harmandir Sahib", "Hemkund Sahib", "Gurudwara Bangla Sahib"],
+              "correctOption": "Golden Temple",
+              "explanation": "Aurangzeb's persecution of Sikhs led to the construction of the Golden Temple, a central religious site for Sikhs."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Marathas resulted in the establishment of their capital in which city?",
+              "options": ["Pune", "Mumbai", "Kolhapur", "Nagpur"],
+              "correctOption": "Pune",
+              "explanation": "Pune became the center of Maratha administration and resistance against Aurangzeb's rule."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Jats resulted in the establishment of a semi-independent state known as:",
+              "options": ["Bharatpur", "Alwar", "Kota", "Gwalior"],
+              "correctOption": "Bharatpur",
+              "explanation": "The Jats, under leaders like Suraj Mal, established Bharatpur as a semi-independent state."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Portuguese resulted in the capture of which important trading port?",
+              "options": ["Goa", "Surat", "Chennai", "Kolkata"],
+              "correctOption": "Goa",
+              "explanation": "Aurangzeb's policies led to the capture of Goa, which was a crucial Portuguese trading port."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Mughal nobility resulted in the decline of their loyalty, except for the nobles from which region?",
+              "options": ["Bengal", "Gujarat", "Punjab", "Awadh"],
+              "correctOption": "Bengal",
+              "explanation": "Nobles from Bengal remained relatively loyal to Aurangzeb despite his policies."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Marathas resulted in the execution of which Maratha leader?",
+              "options": ["Raja Ram Mohan Roy", "Bajirao I", "Shivaji", "Rana Pratap"],
+              "correctOption": "Shivaji",
+              "explanation": "Aurangzeb's conflict with the Marathas included the execution of key leaders, including Shivaji, although this is debated historically."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Bengal region resulted in the establishment of a semi-independent state known as:",
+              "options": ["Awadh", "Hyderabad", "Murshidabad", "Sindh"],
+              "correctOption": "Murshidabad",
+              "explanation": "Murshidabad emerged as a semi-independent state in Bengal due to Aurangzeb's policies."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Deccan region resulted in the decline of the:",
+              "options": ["Bahmani Sultanate", "Vijayanagara Empire", "Qutb Shahi dynasty", "Mysore Kingdom"],
+              "correctOption": "Qutb Shahi dynasty",
+              "explanation": "Aurangzeb's military campaigns in the Deccan led to the decline of the Qutb Shahi dynasty."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Rajputs resulted in the decline of their power, except for the kingdom of:",
+              "options": ["Jaisalmer", "Kota", "Bikaner", "Jaipur"],
+              "correctOption": "Jaipur",
+              "explanation": "Despite Aurangzeb's policies, the kingdom of Jaipur managed to retain its influence and power."
+            }
+          ]
+        },
+        
+        {
+          "level": "Medium",
+          "setNumber": 9,
+          "questions": [
+            {
+              "question": "Aurangzeb's policies towards the Deccan region resulted in the decline of the:",
+              "options": ["Bahmani Sultanate", "Vijayanagara Empire", "Qutb Shahi dynasty", "Mysore Kingdom"],
+              "correctOption": "Qutb Shahi dynasty",
+              "explanation": "Aurangzeb's military campaigns in the Deccan led to the decline of the Qutb Shahi dynasty."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Rajputs resulted in the decline of their power, except for the kingdom of:",
+              "options": ["Jaisalmer", "Kota", "Bikaner", "Jaipur"],
+              "correctOption": "Jaipur",
+              "explanation": "Despite Aurangzeb's policies, the kingdom of Jaipur managed to retain its influence and power."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Sikhs resulted in the construction of the famous Sikh shrine known as:",
+              "options": ["Golden Temple", "Harmandir Sahib", "Hemkund Sahib", "Gurudwara Bangla Sahib"],
+              "correctOption": "Golden Temple",
+              "explanation": "Aurangzeb's persecution of Sikhs led to the construction of the Golden Temple, a central religious site for Sikhs."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Marathas resulted in the establishment of their capital in which city?",
+              "options": ["Pune", "Mumbai", "Kolhapur", "Nagpur"],
+              "correctOption": "Pune",
+              "explanation": "Pune became the center of Maratha administration and resistance against Aurangzeb's rule."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Jats resulted in the establishment of a semi-independent state known as:",
+              "options": ["Bharatpur", "Alwar", "Kota", "Gwalior"],
+              "correctOption": "Bharatpur",
+              "explanation": "The Jats, under leaders like Suraj Mal, established Bharatpur as a semi-independent state."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Portuguese resulted in the capture of which important trading port?",
+              "options": ["Goa", "Surat", "Chennai", "Kolkata"],
+              "correctOption": "Goa",
+              "explanation": "Aurangzeb's policies led to the capture of Goa, which was a crucial Portuguese trading port."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Mughal nobility resulted in the decline of their loyalty, except for the nobles from which region?",
+              "options": ["Bengal", "Gujarat", "Punjab", "Awadh"],
+              "correctOption": "Bengal",
+              "explanation": "Nobles from Bengal remained relatively loyal to Aurangzeb despite his policies."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Marathas resulted in the execution of which Maratha leader?",
+              "options": ["Raja Ram Mohan Roy", "Bajirao I", "Shivaji", "Rana Pratap"],
+              "correctOption": "Shivaji",
+              "explanation": "Aurangzeb's conflict with the Marathas included the execution of key leaders, including Shivaji, although this is debated historically."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Bengal region resulted in the establishment of a semi-independent state known as:",
+              "options": ["Awadh", "Hyderabad", "Murshidabad", "Sindh"],
+              "correctOption": "Murshidabad",
+              "explanation": "Murshidabad emerged as a semi-independent state in Bengal due to Aurangzeb's policies."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Deccan region resulted in the decline of the:",
+              "options": ["Bahmani Sultanate", "Vijayanagara Empire", "Qutb Shahi dynasty", "Mysore Kingdom"],
+              "correctOption": "Qutb Shahi dynasty",
+              "explanation": "Aurangzeb's military campaigns in the Deccan led to the decline of the Qutb Shahi dynasty."
+            }
+          ]
+        },
+        {
+          "level": "Medium",
+          "setNumber": 10,
+          "questions": [
+            {
+              "question": "Aurangzeb's policies towards the Sikhs resulted in the construction of the famous Sikh shrine known as:",
+              "options": ["Golden Temple", "Harmandir Sahib", "Hemkund Sahib", "Gurudwara Bangla Sahib"],
+              "correctOption": "Golden Temple",
+              "explanation": "Aurangzeb's policies led to increased persecution of Sikhs, which contributed to the significance of the Golden Temple as a symbol of Sikh resistance."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Marathas resulted in the establishment of their capital in which city?",
+              "options": ["Pune", "Mumbai", "Kolhapur", "Nagpur"],
+              "correctOption": "Pune",
+              "explanation": "Pune emerged as a major center for Maratha administration and resistance against Aurangzeb's rule."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Jats resulted in the establishment of a semi-independent state known as:",
+              "options": ["Bharatpur", "Alwar", "Kota", "Gwalior"],
+              "correctOption": "Bharatpur",
+              "explanation": "The Jats, led by leaders like Suraj Mal, established Bharatpur as a semi-independent state in response to Aurangzeb's policies."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Portuguese resulted in the capture of which important trading port?",
+              "options": ["Goa", "Surat", "Chennai", "Kolkata"],
+              "correctOption": "Goa",
+              "explanation": "Aurangzeb's policies and military actions led to the capture of Goa, a significant Portuguese trading port."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Mughal nobility resulted in the decline of their loyalty, except for the nobles from which region?",
+              "options": ["Bengal", "Gujarat", "Punjab", "Awadh"],
+              "correctOption": "Bengal",
+              "explanation": "Despite Aurangzeb's policies, nobles from Bengal largely remained loyal to the Mughal administration."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Marathas resulted in the execution of which Maratha leader?",
+              "options": ["Raja Ram Mohan Roy", "Bajirao I", "Shivaji", "Rana Pratap"],
+              "correctOption": "Shivaji",
+              "explanation": "Aurangzeb's campaign against the Marathas led to the conflict with Shivaji, although the execution is a debated historical point."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Bengal region resulted in the establishment of a semi-independent state known as:",
+              "options": ["Awadh", "Hyderabad", "Murshidabad", "Sindh"],
+              "correctOption": "Murshidabad",
+              "explanation": "Murshidabad emerged as a semi-independent state in Bengal following Aurangzeb's policies."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Deccan region resulted in the decline of the:",
+              "options": ["Bahmani Sultanate", "Vijayanagara Empire", "Qutb Shahi dynasty", "Mysore Kingdom"],
+              "correctOption": "Qutb Shahi dynasty",
+              "explanation": "Aurangzeb's military campaigns in the Deccan led to the decline of the Qutb Shahi dynasty."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Rajputs resulted in the decline of their power, except for the kingdom of:",
+              "options": ["Jaisalmer", "Kota", "Bikaner", "Jaipur"],
+              "correctOption": "Jaipur",
+              "explanation": "Despite Aurangzeb's policies, the kingdom of Jaipur managed to retain its influence and power."
+            },
+            {
+              "question": "Aurangzeb's policies towards the Sikhs resulted in the construction of the famous Sikh shrine known as:",
+              "options": ["Golden Temple", "Harmandir Sahib", "Hemkund Sahib", "Gurudwara Bangla Sahib"],
+              "correctOption": "Golden Temple",
+              "explanation": "Aurangzeb's persecution of Sikhs contributed to the prominence of the Golden Temple as a central religious site."
+            }
+          ]
+        },
+        
+        
           {
             "level": "Hard",
-            "setNumber": 5,
+            "setNumber": 11,
             "questions": [
                 {
                     "question": "Aurangzeb's military campaigns in the Deccan were part of his effort to:",
@@ -768,7 +1833,7 @@
 
         {
             "level": "Hard",
-            "setNumber": 6,
+            "setNumber": 12,
             "questions": [
                 {
                     "question": "Which significant Mughal architectural project was completed during Aurangzeb's reign?",
@@ -831,7 +1896,276 @@
                     "explanation": "Aurangzeb imposed stricter Islamic laws and was known for his conservative approach to religion."
                   }
             ]
+        },
+        {
+          "level": "Hard",
+          "setNumber": 13,
+          "questions": [
+           
+            {
+              "question": "Aurangzeb's policy towards which religious group led to increased conflicts and revolts during his reign?",
+              "options": ["Jains", "Buddhists", "Hindus", "Zoroastrians"],
+              "correctOption": "Hindus",
+              "explanation": "Aurangzeb's policies, including the reimposition of the jizya tax, led to increased conflicts and revolts among his Hindu subjects."
+            },
+            {
+              "question": "What was the main reason for the weakening of the Mughal Empire in the latter part of Aurangzeb’s reign?",
+              "options": ["Invasion by the Marathas", "Decline in administrative efficiency", "Invasion by the British", "Loss of Mughal nobility support"],
+              "correctOption": "Decline in administrative efficiency",
+              "explanation": "The weakening of the Mughal Empire was largely due to a decline in administrative efficiency and the continuous strain of prolonged military campaigns."
+            },
+            {
+              "question": "Aurangzeb's harsh policy towards which region led to its semi-independent status and eventual rise as a powerful state?",
+              "options": ["Bengal", "Gujarat", "Hyderabad", "Mysore"],
+              "correctOption": "Hyderabad",
+              "explanation": "Aurangzeb's policies and inability to fully control the Deccan region led to the rise of Hyderabad as a semi-independent power."
+            },
+            {
+              "question": "Which Mughal Emperor succeeded Aurangzeb and faced the challenge of dealing with the weakened state of the empire?",
+              "options": ["Bahadur Shah I", "Jahangir", "Akbar II", "Shah Alam II"],
+              "correctOption": "Bahadur Shah I",
+              "explanation": "Bahadur Shah I succeeded Aurangzeb and faced the significant challenge of managing the weakened and fragmented Mughal Empire."
+            },
+            {
+              "question": "Aurangzeb's policies significantly impacted which prominent Indian kingdom's development?",
+              "options": ["Maratha Kingdom", "Mysore Kingdom", "Rajput Kingdom", "Vijayanagara Kingdom"],
+              "correctOption": "Maratha Kingdom",
+              "explanation": "Aurangzeb’s policies, including military campaigns and religious intolerance, significantly impacted the development and resistance of the Maratha Kingdom."
+            },
+            {
+              "question": "During Aurangzeb’s reign, which important Sikh Guru was executed for resisting conversion to Islam?",
+              "options": ["Guru Gobind Singh", "Guru Arjan Dev", "Guru Tegh Bahadur", "Guru Nanak"],
+              "correctOption": "Guru Tegh Bahadur",
+              "explanation": "Guru Tegh Bahadur was executed by Aurangzeb for resisting forced conversion to Islam and standing up for religious freedom."
+            },
+            {
+              "question": "Aurangzeb’s long campaigns in the Deccan led to significant financial strain. Which region’s annexation contributed to this financial crisis?",
+              "options": ["Bijapur", "Golconda", "Gujarat", "Bengal"],
+              "correctOption": "Bijapur",
+              "explanation": "The annexation of Bijapur, along with prolonged conflicts in the Deccan, contributed to the financial strain on Aurangzeb’s empire."
+            },
+            {
+              "question": "Aurangzeb’s policies towards which region were characterized by attempts to integrate and control its local rulers?",
+              "options": ["Punjab", "Bengal", "Kashmir", "Rajasthan"],
+              "correctOption": "Rajasthan",
+              "explanation": "Aurangzeb’s policies in Rajasthan involved attempts to integrate and control local Rajput rulers, leading to strained relationships and conflicts."
+            },
+            {
+              "question": "Which Mughal general was instrumental in the successful capture of the Deccan forts under Aurangzeb’s orders?",
+              "options": ["Shaista Khan", "Mir Jumla", "Abdul Rahim Khan-i-Khana", "Samar Singh"],
+              "correctOption": "Mir Jumla",
+              "explanation": "Mir Jumla was a key Mughal general responsible for capturing significant forts in the Deccan region under Aurangzeb’s orders."
+            },
+            {
+              "question": "Aurangzeb’s policies led to the construction of which significant mosque in Lahore, Pakistan?",
+              "options": ["Badshahi Mosque", "Qutb Minar", "Jama Masjid", "Red Fort Mosque"],
+              "correctOption": "Badshahi Mosque",
+              "explanation": "The Badshahi Mosque in Lahore was constructed during Aurangzeb’s reign as a significant example of Mughal architecture."
+            }
+          ]
+        },
+        {
+          "level": "Hard",
+          "setNumber": 14,
+          "questions": [
+            {
+              "question": "Which important Mughal architectural project was abandoned during Aurangzeb's reign due to his financial constraints?",
+              "options": ["Red Fort", "Taj Mahal", "Badshahi Mosque", "Jama Masjid"],
+              "correctOption": "Taj Mahal",
+              "explanation": "Aurangzeb’s financial constraints led to the abandonment of some significant architectural projects, including work on the Taj Mahal."
+            },
+            {
+              "question": "Aurangzeb's policy towards which religious group led to increased conflicts and revolts during his reign?",
+              "options": ["Jains", "Buddhists", "Hindus", "Zoroastrians"],
+              "correctOption": "Hindus",
+              "explanation": "Aurangzeb's policies, including the reimposition of the jizya tax, led to increased conflicts and revolts among his Hindu subjects."
+            },
+            {
+              "question": "What was the main reason for the weakening of the Mughal Empire in the latter part of Aurangzeb’s reign?",
+              "options": ["Invasion by the Marathas", "Decline in administrative efficiency", "Invasion by the British", "Loss of Mughal nobility support"],
+              "correctOption": "Decline in administrative efficiency",
+              "explanation": "The weakening of the Mughal Empire was largely due to a decline in administrative efficiency and the continuous strain of prolonged military campaigns."
+            },
+            {
+              "question": "Aurangzeb's harsh policy towards which region led to its semi-independent status and eventual rise as a powerful state?",
+              "options": ["Bengal", "Gujarat", "Hyderabad", "Mysore"],
+              "correctOption": "Hyderabad",
+              "explanation": "Aurangzeb's policies and inability to fully control the Deccan region led to the rise of Hyderabad as a semi-independent power."
+            },
+            {
+              "question": "Which Mughal Emperor succeeded Aurangzeb and faced the challenge of dealing with the weakened state of the empire?",
+              "options": ["Bahadur Shah I", "Jahangir", "Akbar II", "Shah Alam II"],
+              "correctOption": "Bahadur Shah I",
+              "explanation": "Bahadur Shah I succeeded Aurangzeb and faced the significant challenge of managing the weakened and fragmented Mughal Empire."
+            },
+            {
+              "question": "Aurangzeb's policies significantly impacted which prominent Indian kingdom's development?",
+              "options": ["Maratha Kingdom", "Mysore Kingdom", "Rajput Kingdom", "Vijayanagara Kingdom"],
+              "correctOption": "Maratha Kingdom",
+              "explanation": "Aurangzeb’s policies, including military campaigns and religious intolerance, significantly impacted the development and resistance of the Maratha Kingdom."
+            },
+            {
+              "question": "During Aurangzeb’s reign, which important Sikh Guru was executed for resisting conversion to Islam?",
+              "options": ["Guru Gobind Singh", "Guru Arjan Dev", "Guru Tegh Bahadur", "Guru Nanak"],
+              "correctOption": "Guru Tegh Bahadur",
+              "explanation": "Guru Tegh Bahadur was executed by Aurangzeb for resisting forced conversion to Islam and standing up for religious freedom."
+            },
+            {
+              "question": "Aurangzeb’s long campaigns in the Deccan led to significant financial strain. Which region’s annexation contributed to this financial crisis?",
+              "options": ["Bijapur", "Golconda", "Gujarat", "Bengal"],
+              "correctOption": "Bijapur",
+              "explanation": "The annexation of Bijapur, along with prolonged conflicts in the Deccan, contributed to the financial strain on Aurangzeb’s empire."
+            },
+            {
+              "question": "Aurangzeb’s policies towards which region were characterized by attempts to integrate and control its local rulers?",
+              "options": ["Punjab", "Bengal", "Kashmir", "Rajasthan"],
+              "correctOption": "Rajasthan",
+              "explanation": "Aurangzeb’s policies in Rajasthan involved attempts to integrate and control local Rajput rulers, leading to strained relationships and conflicts."
+            },
+            {
+              "question": "Which Mughal general was instrumental in the successful capture of the Deccan forts under Aurangzeb’s orders?",
+              "options": ["Shaista Khan", "Mir Jumla", "Abdul Rahim Khan-i-Khana", "Samar Singh"],
+              "correctOption": "Mir Jumla",
+              "explanation": "Mir Jumla was a key Mughal general responsible for capturing significant forts in the Deccan region under Aurangzeb’s orders."
+            }
+          ]
+        },
+        {
+          "level": "Hard",
+          "setNumber": 15,
+          "questions": [
+            {
+              "question": "Aurangzeb’s policies in the Deccan region directly led to the decline of which dynasty?",
+              "options": ["Mysore", "Bahmani", "Qutb Shahi", "Vijayanagara"],
+              "correctOption": "Qutb Shahi",
+              "explanation": "Aurangzeb’s prolonged military campaigns in the Deccan led to the downfall of the Qutb Shahi dynasty."
+            },
+            {
+              "question": "Which Mughal emperor’s reign marked the high point of the Mughal Empire before Aurangzeb’s expansion?",
+              "options": ["Akbar", "Jahangir", "Babur", "Shah Jahān"],
+              "correctOption": "Akbar",
+              "explanation": "Akbar’s reign is considered the high point of the Mughal Empire due to his policies of consolidation and administration."
+            },
+            {
+              "question": "Which region saw increased agrarian discontent as a result of Aurangzeb’s policies?",
+              "options": ["Punjab", "Bengal", "Gujarat", "Rajasthan"],
+              "correctOption": "Punjab",
+              "explanation": "The agrarian discontent in Punjab was partly due to Aurangzeb's harsh policies and increased taxation."
+            },
+            {
+              "question": "Aurangzeb’s policy of appointing which type of officers contributed to administrative strain?",
+              "options": ["Mamluks", "Muqtis", "Nawabs", "Faujdars"],
+              "correctOption": "Muqtis",
+              "explanation": "Aurangzeb's reliance on Muqtis, who were assigned land revenues, created administrative and financial strains on the empire."
+            },
+            {
+              "question": "What significant event occurred in 1679 that affected Aurangzeb’s relationship with Hindu subjects?",
+              "options": ["Reimposition of Jizya", "Destruction of the Kashi Vishwanath Temple", "Execution of Guru Tegh Bahadur", "Surrender of the Rajputs"],
+              "correctOption": "Reimposition of Jizya",
+              "explanation": "The reimposition of the Jizya tax on non-Muslims in 1679 significantly strained Aurangzeb’s relationship with his Hindu subjects."
+            },
+            {
+              "question": "Aurangzeb's attempt to reconcile with which leader ultimately failed, leading to further resistance?",
+              "options": ["Shivaji", "Sambhaji", "Guru Gobind Singh", "Mirza Raja Jai Singh"],
+              "correctOption": "Shivaji",
+              "explanation": "Aurangzeb's attempt to reconcile with Shivaji failed, leading to continued Maratha resistance and the establishment of an independent Maratha kingdom."
+            },
+            {
+              "question": "What was the impact of Aurangzeb’s policies on the Mughal Rajput alliances?",
+              "options": ["Strengthened alliances", "Dismantled alliances", "Neutralized alliances", "Created new alliances"],
+              "correctOption": "Dismantled alliances",
+              "explanation": "Aurangzeb's policies led to the dismantling of Mughal-Rajput alliances, as his religious intolerance alienated the Rajput rulers."
+            },
+            {
+              "question": "Which semi-independent state in Bengal was established during Aurangzeb's reign?",
+              "options": ["Awadh", "Murshidabad", "Hyderabad", "Kolkata"],
+              "correctOption": "Murshidabad",
+              "explanation": "Murshidabad emerged as a semi-independent state in Bengal during Aurangzeb’s reign due to weakened Mughal control."
+            },
+            {
+              "question": "Aurangzeb’s policies led to increased conflicts with which group in northern India?",
+              "options": ["Marathas", "Sikhs", "Jats", "Rajputs"],
+              "correctOption": "Sikhs",
+              "explanation": "Aurangzeb’s harsh policies towards the Sikhs, including the execution of Guru Tegh Bahadur, led to increased conflicts with Sikh groups."
+            },
+            {
+              "question": "Which region did Aurangzeb annex that was previously a part of the Vijayanagara Empire?",
+              "options": ["Hyderabad", "Kolkata", "Tanjore", "Chennai"],
+              "correctOption": "Tanjore",
+              "explanation": "Aurangzeb annexed the region of Tanjore, which was previously part of the Vijayanagara Empire, during his campaigns."
+            }
+          ]
+        },
+        {
+          "level": "Hard",
+          "setNumber": 16,
+          "questions": [
+            {
+              "question": "Aurangzeb was the third son of which Mughal emperor?",
+              "options": ["Akbar", "Jahangir", "Shah Jahān", "Babur"],
+              "correctOption": "Shah Jahān",
+              "explanation": "Aurangzeb was the third son of Shah Jahān, the Mughal emperor who commissioned the Taj Mahal."
+            },
+            {
+              "question": "Aurangzeb's policies led to the reimposition of which tax on non-Muslims in 1679?",
+              "options": ["Zakat", "Khums", "Jizya", "Tithe"],
+              "correctOption": "Jizya",
+              "explanation": "Aurangzeb reimposed the jizya tax on non-Muslims, which had been abolished by Akbar."
+            },
+            {
+              "question": "Which Maratha leader did Aurangzeb initially defeat and later attempt to reconcile with?",
+              "options": ["Bajirao I", "Sambhaji", "Shivaji", "Ramchandra"],
+              "correctOption": "Shivaji",
+              "explanation": "Aurangzeb defeated Shivaji, attempted to reconcile with him, but ultimately Shivaji continued to resist and maintain an independent Maratha kingdom."
+            },
+            {
+              "question": "Aurangzeb’s policies led to the decline of which Deccan kingdom?",
+              "options": ["Bijapur", "Golconda", "Mysore", "Vijayanagara"],
+              "correctOption": "Qutb Shahi dynasty",
+              "explanation": "Aurangzeb’s campaigns contributed to the decline of the Qutb Shahi dynasty in the Deccan region."
+            },
+            {
+              "question": "Which Sikh Guru was executed by Aurangzeb for refusing to convert to Islam?",
+              "options": ["Guru Nanak", "Guru Arjan", "Guru Har Gobind", "Guru Tegh Bahadur"],
+              "correctOption": "Guru Tegh Bahadur",
+              "explanation": "Aurangzeb executed Guru Tegh Bahadur for refusing to convert to Islam, which led to further Sikh resistance."
+            },
+            {
+              "question": "In which year did Aurangzeb capture and execute Maratha leader Sambhaji?",
+              "options": ["1689", "1695", "1700", "1707"],
+              "correctOption": "1689",
+              "explanation": "Aurangzeb captured and executed Sambhaji, Shivaji’s son, in 1689 during his campaign against the Marathas."
+            },
+            {
+              "question": "Aurangzeb’s rule saw the destruction of which major Hindu temple in Varanasi?",
+              "options": ["Kashi Vishwanath Temple", "Rama Temple", "Lakshmi Temple", "Sankat Mochan Temple"],
+              "correctOption": "Kashi Vishwanath Temple",
+              "explanation": "Aurangzeb ordered the destruction of the Kashi Vishwanath Temple in Varanasi, replacing it with a mosque."
+            },
+            {
+              "question": "Which of the following states was established as semi-independent due to Aurangzeb’s policies?",
+              "options": ["Murshidabad", "Bharatpur", "Alwar", "Hyderabad"],
+              "correctOption": "Murshidabad",
+              "explanation": "Murshidabad became semi-independent due to the weakening of Mughal control in Bengal."
+            },
+            {
+              "question": "What was the primary impact of Aurangzeb’s policies on the Mughal administration?",
+              "options": ["Strengthened central control", "Weakened administrative efficiency", "Enhanced economic prosperity", "Unified diverse regions"],
+              "correctOption": "Weakened administrative efficiency",
+              "explanation": "Aurangzeb’s policies, including excessive military campaigns and religious intolerance, weakened the administrative efficiency of the Mughal Empire."
+            },
+            {
+              "question": "Aurangzeb’s absence in the north due to his southern campaigns contributed to the rise of which agrarian movement?",
+              "options": ["Satnamis", "Sikhs", "Jats", "Brahmins"],
+              "correctOption": "Jats",
+              "explanation": "The Jat movement gained strength due to the Mughal administration's preoccupation with southern campaigns."
+            }
+          ]
         }
+        
+        
+        
+        
     ]
 },
 
@@ -917,8 +2251,595 @@
                 ]
               },
               {
-                "level": "Medium",
+                "level": "Easy",
                 "setNumber": 2,
+                "questions": [
+                  {
+                    "question": "What was the birth name of Shah Jahan?",
+                    "options": ["Khurram", "Shahab-ud-din", "Jahangir", "Akbar"],
+                    "correctOption": "Khurram",
+                    "explanation": "Shah Jahan was born as Khurram before ascending to the Mughal throne."
+                  },
+                  {
+                    "question": "In which year did Shah Jahan ascend to the Mughal throne?",
+                    "options": ["1615", "1628", "1631", "1658"],
+                    "correctOption": "1628",
+                    "explanation": "Shah Jahan ascended the throne in 1628 following the death of his father, Jahangir."
+                  },
+                  {
+                    "question": "Who was the mother of Shah Jahan?",
+                    "options": ["Jodha Bai", "Noor Jahan", "Mumtaz Mahal", "Hamida Banu Begum"],
+                    "correctOption": "Mumtaz Mahal",
+                    "explanation": "Shah Jahan’s mother was Mumtaz Mahal, for whom the Taj Mahal was built."
+                  },
+                  {
+                    "question": "Shah Jahan is best known for building which iconic monument?",
+                    "options": ["Red Fort", "Fatehpur Sikri", "Taj Mahal", "Humayun's Tomb"],
+                    "correctOption": "Taj Mahal",
+                    "explanation": "The Taj Mahal, a mausoleum for his wife Mumtaz Mahal, is one of Shah Jahan’s most famous architectural achievements."
+                  },
+                  {
+                    "question": "Which city did Shah Jahan choose as the new capital of the Mughal Empire?",
+                    "options": ["Lahore", "Agra", "Delhi", "Jaipur"],
+                    "correctOption": "Delhi",
+                    "explanation": "Shah Jahan moved the Mughal capital to Delhi and constructed the Red Fort there."
+                  },
+                  {
+                    "question": "Shah Jahan built the Peacock Throne, which was adorned with precious stones. Which gemstone was most prominent on the throne?",
+                    "options": ["Ruby", "Diamond", "Emerald", "Sapphire"],
+                    "correctOption": "Ruby",
+                    "explanation": "The Peacock Throne featured a prominent ruby, making it a symbol of opulence."
+                  },
+                  {
+                    "question": "Who was Shah Jahan's favorite wife and the inspiration behind the Taj Mahal?",
+                    "options": ["Jodha Bai", "Noor Jahan", "Mumtaz Mahal", "Roshanara Begum"],
+                    "correctOption": "Mumtaz Mahal",
+                    "explanation": "Mumtaz Mahal, Shah Jahan’s favorite wife, was the inspiration for the Taj Mahal."
+                  },
+                  {
+                    "question": "Which Mughal emperor was Shah Jahan's father?",
+                    "options": ["Babur", "Humayun", "Akbar", "Jahangir"],
+                    "correctOption": "Jahangir",
+                    "explanation": "Shah Jahan was the son of Emperor Jahangir."
+                  },
+                  {
+                    "question": "Shah Jahan was imprisoned by his own son. Which son was responsible for his imprisonment?",
+                    "options": ["Aurangzeb", "Dara Shikoh", "Bahadur Shah I", "Shah Alam II"],
+                    "correctOption": "Aurangzeb",
+                    "explanation": "Aurangzeb imprisoned his father Shah Jahan after a struggle for power."
+                  },
+                  {
+                    "question": "Shah Jahan's reign is often referred to as the 'Golden Age' of which dynasty?",
+                    "options": ["Maurya Dynasty", "Gupta Dynasty", "Mughal Dynasty", "Chola Dynasty"],
+                    "correctOption": "Mughal Dynasty",
+                    "explanation": "Shah Jahan’s reign is considered the 'Golden Age' of the Mughal Dynasty due to its architectural and cultural achievements."
+                  }
+                ]
+              },
+              {
+                "level": "Easy",
+                "setNumber": 3,
+                "questions": [
+                      {
+                        "question": "Shah Jahan built many architectural marvels during his reign. Which of the following is NOT attributed to him?",
+                        "options": ["Jama Masjid", "Shalimar Gardens", "Diwan-i-Khas", "Lal Qila"],
+                        "correctOption": "Shalimar Gardens",
+                        "explanation": "The Shalimar Gardens were built by Shah Jahan's grandfather, Akbar, not by Shah Jahan."
+                      },
+                      {
+                        "question": "Which Mughal emperor was Shah Jahan's immediate successor?",
+                        "options": ["Aurangzeb", "Jahandar Shah", "Bahadur Shah I", "Alamgir II"],
+                        "correctOption": "Aurangzeb",
+                        "explanation": "Aurangzeb succeeded Shah Jahan as the Mughal Emperor."
+                      },
+                      {
+                        "question": "The construction of the Taj Mahal began in which year?",
+                        "options": ["1605", "1628", "1631", "1652"],
+                        "correctOption": "1631",
+                        "explanation": "Construction of the Taj Mahal began in 1631 and was completed in 1653."
+                      },
+                      {
+                        "question": "Which gemstone was used in abundance for the inlay work of the Taj Mahal?",
+                        "options": ["Emerald", "Sapphire", "Jade", "Jasper"],
+                        "correctOption": "Sapphire",
+                        "explanation": "The Taj Mahal’s inlay work prominently featured sapphires among other precious stones."
+                      },
+                      {
+                        "question": "What was the original name of the Taj Mahal?",
+                        "options": ["Qila-i-Mubarak", "Rauza-i-Munawwara", "Mumtaz Mahal", "Rohtas Fort"],
+                        "correctOption": "Rauza-i-Munawwara",
+                        "explanation": "The Taj Mahal was originally named Rauza-i-Munawwara, meaning 'Illuminated Tomb.'"
+                      },
+                      {
+                        "question": "In which city is the Red Fort located, which was built by Shah Jahan?",
+                        "options": ["Lahore", "Agra", "Delhi", "Jaipur"],
+                        "correctOption": "Delhi",
+                        "explanation": "The Red Fort, also known as Lal Qila, is located in Delhi and was constructed by Shah Jahan."
+                      },
+                      {
+                        "question": "Which two rivers flank the city of Agra, where the Taj Mahal is located?",
+                        "options": ["Ganges and Yamuna", "Indus and Jhelum", "Godavari and Krishna", "Tapti and Narmada"],
+                        "correctOption": "Ganges and Yamuna",
+                        "explanation": "The Taj Mahal is situated on the banks of the Yamuna River, and the city of Agra is near the confluence with the Ganges River."
+                      },
+                      {
+                        "question": "The Taj Mahal is primarily built using which architectural style?",
+                        "options": ["Persian", "Ottoman", "Mughal", "Rajput"],
+                        "correctOption": "Mughal",
+                        "explanation": "The Taj Mahal is a prime example of Mughal architecture, combining elements from Persian and Indian styles."
+                      },
+                      {
+                        "question": "How many minarets surround the Taj Mahal?",
+                        "options": ["1", "2", "4", "8"],
+                        "correctOption": "4",
+                        "explanation": "The Taj Mahal is surrounded by four minarets, one at each corner of the mausoleum."
+                      },
+                      {
+                        "question": "Shah Jahan was known for his patronage of which art form?",
+                        "options": ["Miniature painting", "Sculpture", "Calligraphy", "Dance"],
+                        "correctOption": "Calligraphy",
+                        "explanation": "Shah Jahan was a patron of calligraphy, which is reflected in the inscriptions and decorations of the Taj Mahal."
+                      } 
+                ]},
+                {
+                  "level": "Easy",
+                  "setNumber": 4,
+                  "questions": [
+                    {
+                      "question": "Which architectural marvel in Delhi was built by Shah Jahan to serve as his private audience hall?",
+                      "options": ["Diwan-i-Khas", "Diwan-i-Am", "Sheesh Mahal", "Jahangir Mahal"],
+                      "correctOption": "Diwan-i-Khas",
+                      "explanation": "The Diwan-i-Khas was built by Shah Jahan as his private audience hall, where he held private meetings with nobles and dignitaries."
+                    },
+                    {
+                      "question": "Shah Jahan's reign witnessed the completion of which monumental mosque in Delhi?",
+                      "options": ["Jama Masjid", "Nizamuddin Dargah", "Hazrat Qutub Sahib Dargah", "Feroz Shah Kotla"],
+                      "correctOption": "Jama Masjid",
+                      "explanation": "The Jama Masjid in Delhi, one of the largest mosques in India, was completed during Shah Jahan’s reign."
+                    },
+                    {
+                      "question": "Which fort was constructed by Shah Jahan in Lahore, Pakistan?",
+                      "options": ["Red Fort", "Lahore Fort", "Agra Fort", "Shalimar Fort"],
+                      "correctOption": "Lahore Fort",
+                      "explanation": "Shah Jahan commissioned the construction of the Lahore Fort, which stands as a testament to Mughal architecture in Pakistan."
+                    },
+                    {
+                      "question": "The construction of the Shalimar Bagh in Srinagar, Kashmir, was commissioned by Shah Jahan. Which Mughal garden does it resemble?",
+                      "options": ["Nishat Bagh", "Shalamar Gardens, Lahore", "Brindavan Gardens", "Pinjore Gardens"],
+                      "correctOption": "Nishat Bagh",
+                      "explanation": "The Shalimar Bagh in Srinagar closely resembles the Nishat Bagh in its layout and design, both being classic Mughal gardens."
+                    },
+                    {
+                      "question": "Shah Jahan's reign is associated with the establishment of a new Mughal architectural style. What is it called?",
+                      "options": ["Indo-Islamic", "Rajput-Mughal", "Persian-Mughal", "Deccan-Mughal"],
+                      "correctOption": "Persian-Mughal",
+                      "explanation": "The Persian-Mughal architectural style, characterized by grand structures and intricate designs, flourished during Shah Jahan’s rule."
+                    },
+                    {
+                      "question": "The construction of which city began during Shah Jahan's reign and was completed by his son Aurangzeb?",
+                      "options": ["Fatehpur Sikri", "Jaipur", "Agra", "Hyderabad"],
+                      "correctOption": "Hyderabad",
+                      "explanation": "Hyderabad was established during Shah Jahan's reign and was completed by his successor, Aurangzeb."
+                    },
+                    {
+                      "question": "What was the name of Shah Jahan's eldest son, who was initially considered his heir?",
+                      "options": ["Aurangzeb", "Dara Shikoh", "Bahadur Shah I", "Jahandar Shah"],
+                      "correctOption": "Dara Shikoh",
+                      "explanation": "Dara Shikoh was Shah Jahan’s eldest son and was initially seen as his successor before being overtaken by Aurangzeb."
+                    },
+                    {
+                      "question": "The Taj Mahal is dedicated to the memory of Shah Jahan's wife. How many years did it take to complete its construction?",
+                      "options": ["10", "15", "20", "25"],
+                      "correctOption": "20",
+                      "explanation": "Construction of the Taj Mahal took approximately 20 years, from 1631 to 1653."
+                    },
+                    {
+                      "question": "Which precious gemstone was used for the finial of the Taj Mahal?",
+                      "options": ["Sapphire", "Emerald", "Diamond", "Amethyst"],
+                      "correctOption": "Emerald",
+                      "explanation": "The finial of the Taj Mahal was adorned with a large emerald, along with other precious stones."
+                    },
+                    {
+                      "question": "What was the name of Shah Jahan's daughter, who was an accomplished poetess and was imprisoned by Aurangzeb?",
+                      "options": ["Jahanara Begum", "Roshanara Begum", "Zeb-un-Nisa", "Nadira Banu Begum"],
+                      "correctOption": "Zeb-un-Nisa",
+                      "explanation": "Zeb-un-Nisa, Shah Jahan’s daughter, was known for her poetry and was imprisoned by Aurangzeb."
+                    }
+                  ]},
+                  {
+                    "level": "Easy",
+                    "setNumber": 5,
+                    "questions": [
+                      {
+                        "question": "Shah Jahan introduced a new silver coin during his reign. What was it called?",
+                        "options": ["Mohur", "Rupiya", "Dam", "Tanka"],
+                        "correctOption": "Rupiya",
+                        "explanation": "The Rupiya was introduced as a new silver coin during Shah Jahan’s rule and became widely used."
+                      },
+                      {
+                        "question": "Which famous Persian poet was appointed as Shah Jahan's court poet?",
+                        "options": ["Mirza Ghalib", "Amir Khusrau", "Faiz Ahmed Faiz", "Mir Taqi Mir"],
+                        "correctOption": "Amir Khusrau",
+                        "explanation": "Amir Khusrau, a renowned Persian poet, was appointed as the court poet during Shah Jahan’s reign."
+                      },
+                      {
+                        "question": "Which famous diamond, currently part of the British Crown Jewels, was owned by Shah Jahan before it was seized by the British?",
+                        "options": ["Hope Diamond", "Koh-i-Noor", "Orlov Diamond", "Cullinan Diamond"],
+                        "correctOption": "Koh-i-Noor",
+                        "explanation": "The Koh-i-Noor diamond, once owned by Shah Jahan, is now part of the British Crown Jewels."
+                      },
+                      {
+                        "question": "Shah Jahan's rule saw significant advancements in which field of science?",
+                        "options": ["Astronomy", "Medicine", "Chemistry", "Physics"],
+                        "correctOption": "Astronomy",
+                        "explanation": "Shah Jahan’s reign was marked by significant advancements in astronomy, including the construction of astronomical observatories."
+                      },
+                      {
+                        "question": "Which European traveler visited Shah Jahan's court and wrote extensively about Mughal India in his travelogue?",
+                        "options": ["Marco Polo", "Ibn Battuta", "Vasco da Gama", "Niccolò Machiavelli"],
+                        "correctOption": "Marco Polo",
+                        "explanation": "Marco Polo, though his travels predated Shah Jahan, is often associated with extensive descriptions of Mughal India, albeit through historical accounts."
+                      },
+                      {
+                        "question": "What was the primary religion of Shah Jahan's court?",
+                        "options": ["Islam", "Hinduism", "Sikhism", "Buddhism"],
+                        "correctOption": "Islam",
+                        "explanation": "The primary religion at Shah Jahan’s court was Islam, reflecting the Mughal Emperor's adherence to Islamic traditions."
+                      },
+                      {
+                        "question": "Shah Jahan built the city of Shahjahanabad, which later became known as:",
+                        "options": ["Mumbai", "Delhi", "Lahore", "Kolkata"],
+                        "correctOption": "Delhi",
+                        "explanation": "Shahjahanabad, the city built by Shah Jahan, later became known as Delhi, which remains its name today."
+                      },
+                      {
+                        "question": "Shah Jahan's reign witnessed the expansion of Mughal territories in which direction?",
+                        "options": ["North", "South", "East", "West"],
+                        "correctOption": "East",
+                        "explanation": "During Shah Jahan’s reign, the Mughal Empire expanded its territories primarily towards the East."
+                      },
+                      {
+                        "question": "Which architectural feature of the Taj Mahal symbolizes the gateway to paradise?",
+                        "options": ["Dome", "Minaret", "Arch", "Garden"],
+                        "correctOption": "Minaret",
+                        "explanation": "The minarets of the Taj Mahal are symbolic of the gateway to paradise, framing the central mausoleum."
+                      },
+                      {
+                        "question": "Shah Jahan commissioned the translation of which ancient Hindu text into Persian during his reign?",
+                        "options": ["Mahabharata", "Ramayana", "Bhagavad Gita", "Rigveda"],
+                        "correctOption": "Ramayana",
+                        "explanation": "The Ramayana was translated into Persian during Shah Jahan’s reign, reflecting his interest in cultural and literary works."
+                      }
+                    ]},
+                    {
+                      "level": "Medium",
+                      "setNumber": 6,
+                      "questions": [
+                        {
+                          "question": "What was Shah Jahān’s primary motivation behind the construction of the Taj Mahal?",
+                          "options": ["To commemorate his wife", "To celebrate his reign", "To honor his father", "To establish a new capital"],
+                          "answer": "To commemorate his wife",
+                          "explanation": "The Taj Mahal was built by Shah Jahān in memory of his favorite queen, Mumtaz Mahal."
+                        },
+                        {
+                          "question": "Which Mughal ruler’s rule saw the annexation of Ahmadnagar?",
+                          "options": ["Akbar", "Jahangir", "Shah Jahān", "Aurangzeb"],
+                          "answer": "Shah Jahān",
+                          "explanation": "Shah Jahān’s reign saw the annexation of the Deccan state of Ahmadnagar."
+                        },
+                        {
+                          "question": "What was the outcome of Shah Jahān’s attempts to reconquer Balkh?",
+                          "options": ["Success", "Failure", "Partial success", "No attempt"],
+                          "answer": "Failure",
+                          "explanation": "Shah Jahān’s attempts to reconquer Balkh were unsuccessful, and it was ultimately lost."
+                        },
+                        {
+                          "question": "Which significant fortress did the Persians recapture from the Mughals during Shah Jahān’s reign?",
+                          "options": ["Kandahār", "Balkh", "Badakhshān", "Agra"],
+                          "answer": "Kandahār",
+                          "explanation": "The Persians recaptured the fortress of Kandahār from the Mughals in 1649."
+                        },
+                        {
+                          "question": "Which of Shah Jahān’s sons emerged victorious in the struggle for succession?",
+                          "options": ["Dara Shikoh", "Aurangzeb", "Murād Bakhsh", "Shah Shujāʿ"],
+                          "answer": "Aurangzeb",
+                          "explanation": "Aurangzeb emerged victorious in the struggle for succession and declared himself emperor."
+                        },
+                        {
+                          "question": "What was Shah Jahān’s primary architectural achievement in Delhi?",
+                          "options": ["Humayun's Tomb", "Jama Masjid", "Qutub Minar", "Rashtrapati Bhavan"],
+                          "answer": "Jama Masjid",
+                          "explanation": "In Delhi, Shah Jahān’s significant architectural achievement was the Jama Masjid."
+                        },
+                        {
+                          "question": "How did Shah Jahān’s reign impact the Mughal treasury?",
+                          "options": ["Increased revenues", "Financial stability", "Significant depletion", "No impact"],
+                          "answer": "Significant depletion",
+                          "explanation": "Shah Jahān’s extensive building projects and military campaigns significantly depleted the Mughal treasury."
+                        },
+                        {
+                          "question": "What major building project was commissioned by Shah Jahān in Agra besides the Taj Mahal?",
+                          "options": ["Red Fort", "Fatehpur Sikri", "Motī Masjid", "Qutub Minar"],
+                          "answer": "Motī Masjid",
+                          "explanation": "Shah Jahān commissioned the Motī Masjid (Pearl Mosque) in Agra in addition to the Taj Mahal."
+                        },
+                        {
+                          "question": "What was Shah Jahān’s approach to religious tolerance during his reign?",
+                          "options": ["Highly orthodox", "Very tolerant", "Moderately tolerant", "Indifferent"],
+                          "answer": "Moderately tolerant",
+                          "explanation": "Shah Jahān was more orthodox than his grandfather Akbar but less so than Aurangzeb, showing moderate tolerance."
+                        },
+                        {
+                          "question": "Which important Mughal city did Shah Jahān establish as a new capital?",
+                          "options": ["Lahore", "Delhi", "Agra", "Fatehpur Sikri"],
+                          "answer": "Delhi",
+                          "explanation": "Shah Jahān established Delhi as the new Mughal capital and named it Shāhjahānābād."
+                        }
+                      ]
+                    },
+                    {
+                      "level": "Medium",
+                      "setNumber": 7,
+                      "questions": [
+                        {
+                          "question": "In which city was Shah Jahan born?",
+                          "options": ["Lahore", "Delhi", "Agra", "Mumbai"],
+                          "correctOption": "Lahore",
+                          "explanation": "Shah Jahan was born in Lahore, which is now in Pakistan."
+                        },
+                        {
+                          "question": "Who was Shah Jahan's father?",
+                          "options": ["Akbar", "Jahangir", "Aurangzeb", "Babur"],
+                          "correctOption": "Jahangir",
+                          "explanation": "Shah Jahan was the son of Emperor Jahangir."
+                        },
+                        {
+                          "question": "Which Mughal emperor was Shah Jahan's grandfather?",
+                          "options": ["Babur", "Akbar", "Jahangir", "Aurangzeb"],
+                          "correctOption": "Akbar",
+                          "explanation": "Akbar the Great was Shah Jahan's grandfather."
+                        },
+                        {
+                          "question": "Who was Shah Jahan's beloved wife, known for whom the Taj Mahal was built?",
+                          "options": ["Arjaumnad Banu", "Nur Jahan", "Ruqaiya Sultan Begum", "Jodha Bai"],
+                          "correctOption": "Arjaumnad Banu",
+                          "explanation": "Arjaumnad Banu, also known as Mumtaz Mahal, was Shah Jahan's beloved wife for whom the Taj Mahal was constructed."
+                        },
+                        {
+                          "question": "Which event marked Shah Jahan's end of reign?",
+                          "options": ["His assassination", "His abdication", "His imprisonment", "His death"],
+                          "correctOption": "His death",
+                          "explanation": "Shah Jahan's reign ended with his death in 1666."
+                        },
+                        {
+                          "question": "Who executed Shah Jahan's brother Shahyar?",
+                          "options": ["Jahangir", "Akbar", "Shah Jahan", "Aurangzeb"],
+                          "correctOption": "Shah Jahan",
+                          "explanation": "Shah Jahan executed his brother Shahyar, who conspired against him."
+                        },
+                        {
+                          "question": "Which famous monument did Shah Jahan commission for his wife?",
+                          "options": ["Red Fort", "Qutub Minar", "Taj Mahal", "Fatehpur Sikri"],
+                          "correctOption": "Taj Mahal",
+                          "explanation": "The Taj Mahal was commissioned by Shah Jahan in memory of his wife Mumtaz Mahal."
+                        },
+                        {
+                          "question": "What was the main architectural material used for the Taj Mahal?",
+                          "options": ["Red sandstone", "Limestone", "Marble", "Granite"],
+                          "correctOption": "Marble",
+                          "explanation": "The Taj Mahal is constructed primarily of white marble."
+                        },
+                        {
+                          "question": "Who was Shah Jahan’s son that assumed power during his illness?",
+                          "options": ["Aurangzeb", "Dara Shikoh", "Shah Shuja", "Jahangir"],
+                          "correctOption": "Aurangzeb",
+                          "explanation": "Aurangzeb seized power while Shah Jahan was ill."
+                        },
+                        {
+                          "question": "Which Persian poet wrote poems dedicated to Dara Shikoh, Shah Jahan’s son?",
+                          "options": ["Mirza Ghalib", "Amir Khusrau", "Saadi Shirazi", "Hafez Shirazi"],
+                          "correctOption": "Saadi Shirazi",
+                          "explanation": "Saadi Shirazi wrote a collection of poems dedicated to Dara Shikoh."
+                        }
+                      ]},
+                      {
+                        "level": "Medium",
+                        "setNumber": 8,
+                        "questions": [
+                          {
+                            "question": "What year did Shah Jahan begin the construction of the Taj Mahal?",
+                            "options": ["1620", "1632", "1648", "1656"],
+                            "correctOption": "1632",
+                            "explanation": "The construction of the Taj Mahal began in 1632."
+                          },
+                          {
+                            "question": "How many artisans were involved in building the Taj Mahal?",
+                            "options": ["10,000", "15,000", "20,000", "25,000"],
+                            "correctOption": "20,000",
+                            "explanation": "Around 20,000 artisans were employed in the construction of the Taj Mahal."
+                          },
+                          {
+                            "question": "Which Mughal emperor is credited with defeating Mewar?",
+                            "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+                            "correctOption": "Shah Jahan",
+                            "explanation": "Shah Jahan defeated Mewar, a state his grandfather Akbar could not."
+                          },
+                          {
+                            "question": "What was one of Shah Jahan's significant military contributions?",
+                            "options": ["Establishing naval fleets", "Producing armaments", "Forming alliances with foreign powers", "Reforming tax policies"],
+                            "correctOption": "Producing armaments",
+                            "explanation": "Shah Jahan contributed to the Mughal military by producing armaments."
+                          },
+                          {
+                            "question": "What architectural feature is prominent in the Taj Mahal?",
+                            "options": ["Minarets", "Golden dome", "Stone carvings", "Reflecting pool"],
+                            "correctOption": "Minarets",
+                            "explanation": "The Taj Mahal is well-known for its minarets, which contribute to its symmetrical design."
+                          },
+                          {
+                            "question": "What was Shah Jahan’s approach to administration before becoming emperor?",
+                            "options": ["Administering Bengal and Gujarat", "Studying at a royal academy", "Engaging in diplomatic missions", "Leading military campaigns in Central Asia"],
+                            "correctOption": "Administering Bengal and Gujarat",
+                            "explanation": "Shah Jahan governed regions such as Bengal and Gujarat before becoming emperor."
+                          },
+                          {
+                            "question": "Who were the rivals Shah Jahan eliminated to secure his position?",
+                            "options": ["Nawab of Bengal", "Brothers and other claimants", "Rajput rulers", "Safavid Empire representatives"],
+                            "correctOption": "Brothers and other claimants",
+                            "explanation": "Shah Jahan eliminated rivals, including his brother Shahyar, to secure his rule."
+                          },
+                          {
+                            "question": "What is the primary theme represented in the Taj Mahal’s inscriptions?",
+                            "options": ["Hindu scriptures", "Islamic prayers", "Buddhist texts", "Persian literature"],
+                            "correctOption": "Islamic prayers",
+                            "explanation": "The Taj Mahal's inscriptions are primarily Islamic in nature."
+                          },
+                          {
+                            "question": "Who was Shah Jahan's eldest son who was a rival during his rule?",
+                            "options": ["Aurangzeb", "Dara Shikoh", "Shah Shuja", "Jahangir"],
+                            "correctOption": "Aurangzeb",
+                            "explanation": "Aurangzeb was Shah Jahan's son who rivaled Dara Shikoh during Shah Jahan's illness."
+                          },
+                          {
+                            "question": "What was the primary reason for the Taj Mahal’s protection during WWII?",
+                            "options": ["To prevent theft", "To avoid air raids", "To maintain structural integrity", "To safeguard from vandalism"],
+                            "correctOption": "To avoid air raids",
+                            "explanation": "The Taj Mahal was protected during WWII to prevent damage from potential air raids."
+                          }
+                        ]},
+                        {
+                          "level": "Medium",
+                          "setNumber": 9,
+                          "questions": [
+                            {
+                              "question": "Which of the following was NOT a region governed by Shah Jahan before he became emperor?",
+                              "options": ["Bengal", "Deccan", "Gujarat", "Punjab"],
+                              "correctOption": "Punjab",
+                              "explanation": "Shah Jahan governed regions such as Bengal, Deccan, and Gujarat, but not Punjab, before becoming emperor."
+                            },
+                            {
+                              "question": "What was the predominant architectural style used in the construction of the Taj Mahal?",
+                              "options": ["Persian", "Islamic", "Indian", "All of the above"],
+                              "correctOption": "All of the above",
+                              "explanation": "The Taj Mahal features an amalgamation of Persian, Islamic, and Indian architectural styles."
+                            },
+                            {
+                              "question": "Which Mughal institution declined during Shah Jahan's reign?",
+                              "options": ["Mansabdari system", "Jagirdari system", "Zamindari system", "Sufi order"],
+                              "correctOption": "Mansabdari system",
+                              "explanation": "Shah Jahan's reign saw the decline of the Mansabdari system."
+                            },
+                            {
+                              "question": "What was the primary purpose of the Diwan-i-Am built by Shah Jahan?",
+                              "options": ["Judicial proceedings", "Public gatherings", "Royal banquets", "Royal coronations"],
+                              "correctOption": "Public gatherings",
+                              "explanation": "The Diwan-i-Am was used for public gatherings and receiving citizens."
+                            },
+                            {
+                              "question": "Who was the architect primarily responsible for the design of the Taj Mahal?",
+                              "options": ["Ustad Ahmad Lahori", "Ismail Khan", "Mirza Ghiyas", "Shah Jahan himself"],
+                              "correctOption": "Ustad Ahmad Lahori",
+                              "explanation": "Ustad Ahmad Lahori was the chief architect of the Taj Mahal."
+                            },
+                            {
+                              "question": "What significant event occurred in the Mughal Empire during Shah Jahan's reign related to the Deccan region?",
+                              "options": ["Expansion into Deccan", "Rebellion in Deccan", "Treaty with Deccan sultanates", "Establishment of a new capital in Deccan"],
+                              "correctOption": "Expansion into Deccan",
+                              "explanation": "Shah Jahan expanded Mughal territories into the Deccan region."
+                            },
+                            {
+                              "question": "Which Mughal ruler attempted to rival Shah Jahan's architectural achievements?",
+                              "options": ["Aurangzeb", "Jahangir", "Akbar", "Babur"],
+                              "correctOption": "Aurangzeb",
+                              "explanation": "Aurangzeb, Shah Jahan's successor, is noted for his own architectural projects."
+                            },
+                            {
+                              "question": "Which of Shah Jahan's sons was known for his Sufi influence?",
+                              "options": ["Dara Shikoh", "Aurangzeb", "Shah Shuja", "Jahangir"],
+                              "correctOption": "Dara Shikoh",
+                              "explanation": "Dara Shikoh was known for his interest in Sufism and his attempts to reconcile Hinduism and Islam."
+                            },
+                            {
+                              "question": "How did Shah Jahan's reign impact the Mughal art and culture?",
+                              "options": ["Promoted Indo-Persian art", "Declined architectural projects", "Reduced courtly patronage", "Shifted focus to military conquests"],
+                              "correctOption": "Promoted Indo-Persian art",
+                              "explanation": "Shah Jahan's reign is renowned for its promotion of Indo-Persian art and culture."
+                            },
+                            {
+                              "question": "What major change did Shah Jahan make to the Mughal Empire’s administrative structure?",
+                              "options": ["Centralized administration", "Decentralized power to regional rulers", "Increased autonomy for nobles", "Established a new judicial system"],
+                              "correctOption": "Centralized administration",
+                              "explanation": "Shah Jahan worked on centralizing the administration of the Mughal Empire."
+                            }
+                          ]},
+                          {
+                            "level": "Medium",
+                            "setNumber": 10,
+                            "questions": [
+                              {
+                                "question": "What specific event led Shah Jahan to build the Taj Mahal?",
+                                "options": ["Military victory", "Death of Mumtaz Mahal", "Coronation", "Rebellion suppression"],
+                                "correctOption": "Death of Mumtaz Mahal",
+                                "explanation": "The Taj Mahal was built in memory of Shah Jahan’s wife, Mumtaz Mahal, who died during childbirth."
+                              },
+                              {
+                                "question": "What was the primary feature of Shah Jahan’s rule that was emphasized in his architectural projects?",
+                                "options": ["Military fortifications", "Religious monuments", "Symbol of love and luxury", "Economic development"],
+                                "correctOption": "Symbol of love and luxury",
+                                "explanation": "Shah Jahan’s architectural projects, including the Taj Mahal, emphasized symbols of love and luxury."
+                              },
+                              {
+                                "question": "What major city did Shah Jahan move the Mughal capital to?",
+                                "options": ["Delhi", "Agra", "Lahore", "Fatehpur Sikri"],
+                                "correctOption": "Delhi",
+                                "explanation": "Shah Jahan moved the Mughal capital from Agra to Delhi, where he established Shahjahanabad."
+                              },
+                              {
+                                "question": "Which dynasty did Shah Jahan belong to?",
+                                "options": ["Ghaznavid", "Mughal", "Suri", "Rajput"],
+                                "correctOption": "Mughal",
+                                "explanation": "Shah Jahan was a member of the Mughal dynasty."
+                              },
+                              {
+                                "question": "Which Persian ruler’s ambassador was a notable figure during Shah Jahan’s reign?",
+                                "options": ["Shah Abbas I", "Nader Shah", "Khalid I", "Akbar II"],
+                                "correctOption": "Shah Abbas I",
+                                "explanation": "Shah Abbas I of Persia had notable diplomatic interactions with Shah Jahan."
+                              },
+                              {
+                                "question": "What was the main reason for the construction delay of the Taj Mahal?",
+                                "options": ["Lack of resources", "Political instability", "Natural calamities", "Artistic design changes"],
+                                "correctOption": "Political instability",
+                                "explanation": "Political instability and conflicts delayed the construction of the Taj Mahal."
+                              },
+                              {
+                                "question": "What was the fate of Shah Jahan after he was deposed by Aurangzeb?",
+                                "options": ["Executed", "Imprisoned in Agra Fort", "Exiled to Persia", "Placed under house arrest in Delhi"],
+                                "correctOption": "Imprisoned in Agra Fort",
+                                "explanation": "After being deposed by Aurangzeb, Shah Jahan was imprisoned in Agra Fort."
+                              },
+                              {
+                                "question": "Which Mughal emperor's reign saw the largest number of architectural projects in the empire?",
+                                "options": ["Babur", "Akbar", "Jahangir", "Shah Jahan"],
+                                "correctOption": "Shah Jahan",
+                                "explanation": "Shah Jahan’s reign is known for its numerous and grand architectural projects, including the Taj Mahal."
+                              },
+                              {
+                                "question": "What is the significance of the reflecting pool in the Taj Mahal’s design?",
+                                "options": ["Water source for the mausoleum", "Symbol of eternal love", "Cooling mechanism", "Decoration only"],
+                                "correctOption": "Symbol of eternal love",
+                                "explanation": "The reflecting pool in front of the Taj Mahal symbolizes the eternal love between Shah Jahan and Mumtaz Mahal."
+                              },
+                              {
+                                "question": "Which notable Mughal emperor was Shah Jahan’s contemporary and rival for power?",
+                                "options": ["Akbar", "Jahangir", "Aurangzeb", "Babur"],
+                                "correctOption": "Aurangzeb",
+                                "explanation": "Aurangzeb was Shah Jahan's contemporary and eventually rival for power, leading to Shah Jahan's imprisonment."
+                              }
+                            ]},
+              {
+                "level": "Hard",
+                "setNumber": 11,
                 "questions": [
                   {
                     "question": "In which year did Shah Jahān become emperor?",
@@ -982,73 +2903,267 @@
                   }
                 ]
               },
+              {
+                "level": "Hard",
+                "setNumber": 12,
+                "questions": [
+                  {
+                    "question": "Which city served as the Mughal capital before Shah Jahan moved it to Delhi?",
+                    "options": ["Agra", "Lahore", "Jaipur", "Fatehpur Sikri"],
+                    "correctOption": "Fatehpur Sikri",
+                    "explanation": "Before Shah Jahan moved the capital to Delhi, Fatehpur Sikri served as the Mughal capital under Akbar."
+                  },
+                  {
+                    "question": "Who served as the chief architect of the Taj Mahal?",
+                    "options": ["Ustad Ahmad Lahauri", "Ustad Isa", "Ustad Hamid", "Ustad Mirza Ghiyas"],
+                    "correctOption": "Ustad Ahmad Lahauri",
+                    "explanation": "Ustad Ahmad Lahauri, a prominent architect of the Mughal era, was the chief architect behind the Taj Mahal."
+                  },
+                  {
+                    "question": "Shah Jahan's reign is often referred to as the 'Diamond Age' due to his fondness for which precious gemstone?",
+                    "options": ["Ruby", "Diamond", "Emerald", "Amethyst"],
+                    "correctOption": "Diamond",
+                    "explanation": "The term 'Diamond Age' reflects Shah Jahan's significant use and admiration for diamonds in his architectural works and personal treasures."
+                  },
+                  {
+                    "question": "Which important Mughal administrative post did Shah Jahan create during his reign?",
+                    "options": ["Diwan-i-Wazarat", "Mir Bakshi", "Qazi-ul-Quzat", "Wazir-e-Ala"],
+                    "correctOption": "Mir Bakshi",
+                    "explanation": "Shah Jahan established the post of Mir Bakshi, responsible for military and financial administration."
+                  },
+                  {
+                    "question": "Shah Jahan's rule saw the growth of which form of poetry that became popular in the Mughal court?",
+                    "options": ["Ghazal", "Sonnet", "Haiku", "Ballad"],
+                    "correctOption": "Ghazal",
+                    "explanation": "The Ghazal, a form of lyrical poetry, flourished during Shah Jahan's reign and was a significant aspect of Mughal court culture."
+                  },
+                  {
+                    "question": "Which Mughal emperor succeeded Shah Jahan after his death?",
+                    "options": ["Aurangzeb", "Bahadur Shah I", "Alamgir II", "Muhammad Shah"],
+                    "correctOption": "Aurangzeb",
+                    "explanation": "Aurangzeb, Shah Jahan's son, succeeded him as the Mughal emperor after his death."
+                  },
+                  {
+                    "question": "Shah Jahan's reign witnessed the construction of which famous astronomical observatory in Delhi?",
+                    "options": ["Jantar Mantar", "Nila Gumbad", "Qutub Minar", "Buland Darwaza"],
+                    "correctOption": "Jantar Mantar",
+                    "explanation": "The Jantar Mantar in Delhi, constructed during Shah Jahan's reign, was an important astronomical observatory."
+                  },
+                  {
+                    "question": "Which famous historical figure was a contemporary of Shah Jahan?",
+                    "options": ["Alexander the Great", "Julius Caesar", "Genghis Khan", "Queen Elizabeth I"],
+                    "correctOption": "Queen Elizabeth I",
+                    "explanation": "Queen Elizabeth I was a contemporary of Shah Jahan, both of whom ruled during the 16th and 17th centuries."
+                  },
+                  {
+                    "question": "The construction of the Shalimar Bagh in Srinagar, Kashmir, was commissioned by Shah Jahan. Which Mughal garden does it resemble?",
+                    "options": ["Nishat Bagh", "Shalamar Gardens, Lahore", "Brindavan Gardens", "Pinjore Gardens"],
+                    "correctOption": "Nishat Bagh",
+                    "explanation": "The Shalimar Bagh in Srinagar bears resemblance to the Nishat Bagh, both being exquisite examples of Mughal garden design."
+                  },
+                  {
+                    "question": "Which architectural feature of the Red Fort in Delhi is associated with the Mughal emperor Shah Jahan?",
+                    "options": ["Moti Masjid", "Rang Mahal", "Diwan-i-Khas", "Hayat Bakhsh Bagh"],
+                    "correctOption": "Diwan-i-Khas",
+                    "explanation": "The Diwan-i-Khas, or Hall of Private Audience, is a notable feature of the Red Fort built by Shah Jahan."
+                  }
+                ]},
                 {
                   "level": "Hard",
-                  "setNumber": 3,
+                  "setNumber": 13,
                   "questions": [
                     {
-                      "question": "What was Shah Jahān’s primary motivation behind the construction of the Taj Mahal?",
-                      "options": ["To commemorate his wife", "To celebrate his reign", "To honor his father", "To establish a new capital"],
-                      "answer": "To commemorate his wife",
-                      "explanation": "The Taj Mahal was built by Shah Jahān in memory of his favorite queen, Mumtaz Mahal."
+                      "question": "The construction of which grand mosque in Lahore was started by Shah Jahan but completed by his son Aurangzeb?",
+                      "options": ["Badshahi Mosque", "Wazir Khan Mosque", "Sunehri Mosque", "Masjid-e-Zeb-un-Nisa"],
+                      "correctOption": "Badshahi Mosque",
+                      "explanation": "The Badshahi Mosque, an architectural masterpiece, was initiated by Shah Jahan and finished by Aurangzeb."
                     },
                     {
-                      "question": "Which Mughal ruler’s rule saw the annexation of Ahmadnagar?",
-                      "options": ["Akbar", "Jahangir", "Shah Jahān", "Aurangzeb"],
-                      "answer": "Shah Jahān",
-                      "explanation": "Shah Jahān’s reign saw the annexation of the Deccan state of Ahmadnagar."
+                      "question": "Which Mughal emperor was born to Shah Jahan and Mumtaz Mahal?",
+                      "options": ["Bahadur Shah I", "Muhammad Shah", "Aurangzeb", "Alamgir II"],
+                      "correctOption": "Aurangzeb",
+                      "explanation": "Aurangzeb was the son of Shah Jahan and Mumtaz Mahal, and he succeeded his father as the Mughal emperor."
                     },
                     {
-                      "question": "What was the outcome of Shah Jahān’s attempts to reconquer Balkh?",
-                      "options": ["Success", "Failure", "Partial success", "No attempt"],
-                      "answer": "Failure",
-                      "explanation": "Shah Jahān’s attempts to reconquer Balkh were unsuccessful, and it was ultimately lost."
+                      "question": "Shah Jahan built a white marble mausoleum in memory of his father. What is it called?",
+                      "options": ["Humayun's Tomb", "Safdarjung's Tomb", "Akbar's Tomb", "Sher Shah Suri's Tomb"],
+                      "correctOption": "Humayun's Tomb",
+                      "explanation": "Humayun's Tomb, constructed by Shah Jahan, is a notable example of Mughal architecture and is dedicated to his father, Humayun."
                     },
                     {
-                      "question": "Which significant fortress did the Persians recapture from the Mughals during Shah Jahān’s reign?",
-                      "options": ["Kandahār", "Balkh", "Badakhshān", "Agra"],
-                      "answer": "Kandahār",
-                      "explanation": "The Persians recaptured the fortress of Kandahār from the Mughals in 1649."
+                      "question": "Which famous Mughal garden in Delhi was commissioned by Shah Jahan and is now a UNESCO World Heritage Site?",
+                      "options": ["Shalimar Bagh", "Nishat Bagh", "Mehtab Bagh", "Roshanara Bagh"],
+                      "correctOption": "Mehtab Bagh",
+                      "explanation": "Mehtab Bagh, located in Delhi, was commissioned by Shah Jahan and is renowned for its scenic beauty and historical significance."
                     },
                     {
-                      "question": "Which of Shah Jahān’s sons emerged victorious in the struggle for succession?",
-                      "options": ["Dara Shikoh", "Aurangzeb", "Murād Bakhsh", "Shah Shujāʿ"],
-                      "answer": "Aurangzeb",
-                      "explanation": "Aurangzeb emerged victorious in the struggle for succession and declared himself emperor."
+                      "question": "What was the name of the fort built by Shah Jahan in Agra, which served as the main residence of the Mughal emperors?",
+                      "options": ["Red Fort", "Agra Fort", "Jaipur Fort", "Golconda Fort"],
+                      "correctOption": "Agra Fort",
+                      "explanation": "The Agra Fort, built by Shah Jahan, served as a primary residence for Mughal emperors before the construction of the Red Fort."
                     },
                     {
-                      "question": "What was Shah Jahān’s primary architectural achievement in Delhi?",
-                      "options": ["Humayun's Tomb", "Jama Masjid", "Qutub Minar", "Rashtrapati Bhavan"],
-                      "answer": "Jama Masjid",
-                      "explanation": "In Delhi, Shah Jahān’s significant architectural achievement was the Jama Masjid."
+                      "question": "Shah Jahan established a new city, Shahjahanabad, in which present-day country?",
+                      "options": ["India", "Pakistan", "Bangladesh", "Afghanistan"],
+                      "correctOption": "India",
+                      "explanation": "Shahjahanabad, founded by Shah Jahan, is located in present-day India and is now known as Old Delhi."
                     },
                     {
-                      "question": "How did Shah Jahān’s reign impact the Mughal treasury?",
-                      "options": ["Increased revenues", "Financial stability", "Significant depletion", "No impact"],
-                      "answer": "Significant depletion",
-                      "explanation": "Shah Jahān’s extensive building projects and military campaigns significantly depleted the Mughal treasury."
+                      "question": "Which famous Mughal general and noble served as Shah Jahan's prime minister?",
+                      "options": ["Mir Jumla", "Raja Man Singh", "Asaf Khan", "Raja Todar Mal"],
+                      "correctOption": "Asaf Khan",
+                      "explanation": "Asaf Khan was a prominent Mughal noble and served as the prime minister during Shah Jahan's reign."
                     },
                     {
-                      "question": "What major building project was commissioned by Shah Jahān in Agra besides the Taj Mahal?",
-                      "options": ["Red Fort", "Fatehpur Sikri", "Motī Masjid", "Qutub Minar"],
-                      "answer": "Motī Masjid",
-                      "explanation": "Shah Jahān commissioned the Motī Masjid (Pearl Mosque) in Agra in addition to the Taj Mahal."
+                      "question": "Shah Jahan's reign is known for its remarkable achievements in which form of Mughal art?",
+                      "options": ["Miniature painting", "Sculpture", "Calligraphy", "Tapestry"],
+                      "correctOption": "Miniature painting",
+                      "explanation": "The Mughal era under Shah Jahan is renowned for its exquisite miniature paintings, which flourished during his reign."
                     },
                     {
-                      "question": "What was Shah Jahān’s approach to religious tolerance during his reign?",
-                      "options": ["Highly orthodox", "Very tolerant", "Moderately tolerant", "Indifferent"],
-                      "answer": "Moderately tolerant",
-                      "explanation": "Shah Jahān was more orthodox than his grandfather Akbar but less so than Aurangzeb, showing moderate tolerance."
+                      "question": "What was the primary language of Shah Jahan's court?",
+                      "options": ["Persian", "Urdu", "Hindi", "Arabic"],
+                      "correctOption": "Persian",
+                      "explanation": "Persian was the main language of the Mughal court during Shah Jahan's reign, used for administrative and cultural purposes."
                     },
                     {
-                      "question": "Which important Mughal city did Shah Jahān establish as a new capital?",
-                      "options": ["Lahore", "Delhi", "Agra", "Fatehpur Sikri"],
-                      "answer": "Delhi",
-                      "explanation": "Shah Jahān established Delhi as the new Mughal capital and named it Shāhjahānābād."
+                      "question": "Which Mughal emperor was born during Shah Jahan's reign?",
+                      "options": ["Bahadur Shah I", "Muhammad Shah", "Alamgir II", "Shah Alam II"],
+                      "correctOption": "Bahadur Shah I",
+                      "explanation": "Bahadur Shah I was born during Shah Jahan's reign and succeeded him as the Mughal emperor."
                     }
-                  ]
-                }
-            ]
+                  ]},
+                  {
+                    "level": "Hard",
+                    "setNumber": 14,
+                    "questions": [
+                      {
+                        "question": "Which European power established trade relations with the Mughal Empire during Shah Jahan's rule?",
+                        "options": ["British East India Company", "Dutch East India Company", "French East India Company", "Portuguese East India Company"],
+                        "correctOption": "Dutch East India Company",
+                        "explanation": "The Dutch East India Company established trade relations with the Mughal Empire during Shah Jahan's reign."
+                      },
+                      {
+                        "question": "Shah Jahan's reign is associated with the flourishing of which form of Mughal literature?",
+                        "options": ["Persian poetry", "Urdu poetry", "Sanskrit literature", "Tamil literature"],
+                        "correctOption": "Persian poetry",
+                        "explanation": "Persian poetry flourished during Shah Jahan's reign, reflecting the rich literary culture of the Mughal court."
+                      },
+                      {
+                        "question": "Shah Jahan's love for architecture and construction was greatly influenced by which historical figure?",
+                        "options": ["Akbar the Great", "Ashoka the Great", "Chandragupta Maurya", "Harsha Vardhana"],
+                        "correctOption": "Akbar the Great",
+                        "explanation": "Shah Jahan's architectural ambitions were influenced by Akbar the Great's earlier contributions to Mughal architecture."
+                      },
+                      {
+                        "question": "Which famous diamond, known as the 'Great Table Diamond,' was owned by Shah Jahan before it was lost?",
+                        "options": ["Hope Diamond", "Koh-i-Noor", "Orlov Diamond", "Cullinan Diamond"],
+                        "correctOption": "Hope Diamond",
+                        "explanation": "The Hope Diamond, once owned by Shah Jahan, is renowned for its historical significance and unique blue color."
+                      },
+                      {
+                        "question": "Which event marked the end of Shah Jahan's reign?",
+                        "options": ["His assassination", "His abdication", "His imprisonment", "His death"],
+                        "correctOption": "His death",
+                        "explanation": "Shah Jahan's reign ended with his death, after which his son Aurangzeb succeeded him as emperor."
+                      },
+                      {
+                        "question": "Shah Jahan's reign is known for its splendid court culture and luxurious lifestyle influenced by the Persian:",
+                        "options": ["Safavid Empire", "Ottoman Empire", "Achaemenid Empire", "Sasanian Empire"],
+                        "correctOption": "Safavid Empire",
+                        "explanation": "The court culture and luxurious lifestyle during Shah Jahan's reign were influenced by the Persian Safavid Empire."
+                      },
+                      {
+                        "question": "The construction of which grand mosque in Delhi was started by Shah Jahan but completed by his son Aurangzeb?",
+                        "options": ["Jama Masjid", "Moti Masjid", "Fatehpuri Masjid", "Sunni Jama Masjid"],
+                        "correctOption": "Jama Masjid",
+                        "explanation": "The Jama Masjid in Delhi, a prominent Mughal mosque, was initiated by Shah Jahan and completed by Aurangzeb."
+                      },
+                      {
+                        "question": "What was the main material used in the construction of the Red Fort in Delhi?",
+                        "options": ["Red sandstone", "Marble", "Limestone", "Granite"],
+                        "correctOption": "Red sandstone",
+                        "explanation": "The Red Fort in Delhi is primarily constructed from red sandstone, giving it its distinctive color and name."
+                      },
+                      {
+                        "question": "Shah Jahan built the Diwan-i-Am, which served as the public audience hall. What was its purpose?",
+                        "options": ["Judicial proceedings", "Royal banquets", "Public gatherings", "Royal coronations"],
+                        "correctOption": "Public gatherings",
+                        "explanation": "The Diwan-i-Am was used for public gatherings where the emperor interacted with his subjects."
+                      },
+                      {
+                        "question": "Shah Jahan's reign is often described as the peak of Mughal:",
+                        "options": ["Military power", "Art and architecture", "Economic prosperity", "Political stability"],
+                        "correctOption": "Art and architecture",
+                        "explanation": "Shah Jahan's reign is celebrated as the pinnacle of Mughal art and architecture, marked by masterpieces like the Taj Mahal."
+                      }
+                    ]},
+                    {
+                      "level": "Hard",
+                      "setNumber": 15,
+                      "questions": [
+                        {
+                          "question": "Which famous Persian poet wrote a collection of poems dedicated to Shah Jahan's son, Dara Shikoh?",
+                          "options": ["Mirza Ghalib", "Amir Khusrau", "Saadi Shirazi", "Hafez Shirazi"],
+                          "correctOption": "Saadi Shirazi",
+                          "explanation": "Saadi Shirazi, a renowned Persian poet, wrote poems dedicated to Dara Shikoh, reflecting his high status in Mughal society."
+                        },
+                        {
+                          "question": "Shah Jahan introduced a new administrative rank in the Mughal Empire. What was it called?",
+                          "options": ["Nawab", "Khan", "Amir", "Sardar"],
+                          "correctOption": "Khan",
+                          "explanation": "The rank of Khan was introduced during Shah Jahan's reign, adding to the administrative complexity of the Mughal Empire."
+                        },
+                        {
+                          "question": "The construction of the Taj Mahal required the labor of how many workers and artisans?",
+                          "options": ["10,000", "20,000", "30,000", "40,000"],
+                          "correctOption": "30,000",
+                          "explanation": "The Taj Mahal was built with the help of approximately 30,000 workers and artisans, showcasing the grandeur of Shah Jahan's architectural vision."
+                        },
+                        {
+                          "question": "Shah Jahan's reign is associated with the establishment of a new Mughal painting style. What is it called?",
+                          "options": ["Pahari painting", "Deccani painting", "Rajput painting", "Mughal miniature painting"],
+                          "correctOption": "Mughal miniature painting",
+                          "explanation": "Mughal miniature painting reached new heights during Shah Jahan's reign, characterized by its intricate details and vibrant colors."
+                        },
+                        {
+                          "question": "Shah Jahan's reign saw the decline of which important Mughal institution?",
+                          "options": ["Mansabdari system", "Jagirdari system", "Zamindari system", "Sufi order"],
+                          "correctOption": "Mansabdari system",
+                          "explanation": "The Mansabdari system, crucial for Mughal administration and military organization, began to decline during Shah Jahan's rule."
+                        },
+                        {
+                          "question": "Shah Jahan's reign is often referred to as the 'Peacock Throne Era' due to the construction of a lavish throne adorned with:",
+                          "options": ["Diamonds", "Emeralds", "Rubies", "Sapphires"],
+                          "correctOption": "Diamonds",
+                          "explanation": "The Peacock Throne, renowned for its opulence, was adorned with diamonds, symbolizing the peak of Mughal luxury."
+                        },
+                        {
+                          "question": "Which famous Persian poet wrote a collection of poems dedicated to Shah Jahan's son, Dara Shikoh?",
+                          "options": ["Mirza Ghalib", "Amir Khusrau", "Saadi Shirazi", "Hafez Shirazi"],
+                          "correctOption": "Saadi Shirazi",
+                          "explanation": "Saadi Shirazi's poems dedicated to Dara Shikoh highlight the cultural and intellectual exchanges during Shah Jahan's era."
+                        },
+                        {
+                          "question": "Shah Jahan introduced a new administrative rank in the Mughal Empire. What was it called?",
+                          "options": ["Nawab", "Khan", "Amir", "Sardar"],
+                          "correctOption": "Khan",
+                          "explanation": "The introduction of the Khan rank under Shah Jahan's administration added to the hierarchical structure of the Mughal governance."
+                        },
+                        {
+                          "question": "The construction of which grand mosque in Delhi was started by Shah Jahan but completed by his son Aurangzeb?",
+                          "options": ["Jama Masjid", "Moti Masjid", "Fatehpuri Masjid", "Sunni Jama Masjid"],
+                          "correctOption": "Jama Masjid",
+                          "explanation": "The Jama Masjid, one of Delhi's largest mosques, was begun by Shah Jahan and finished by Aurangzeb, exemplifying Mughal architectural grandeur."
+                        },
+                        {
+                          "question": "Shah Jahan's rule is often referred to as the 'Silver Age' of Mughal art and architecture due to his patronage of:",
+                          "options": ["Miniature painting", "Sculpture", "Calligraphy", "Textile weaving"],
+                          "correctOption": "Miniature painting",
+                          "explanation": "The term 'Silver Age' reflects the flourishing of Mughal miniature painting during Shah Jahan's reign, showcasing artistic achievements."
+                        }
+                      ]}
+             ]
           }
         ]
       },
