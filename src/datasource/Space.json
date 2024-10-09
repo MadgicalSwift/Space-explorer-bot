@@ -1,0 +1,712 @@
+{
+  "topics": [
+    {
+      "topicName": "Celestial Bodies 🌟",
+      "subtopics": [
+        {
+          "subtopicName": "Stars 🌟",
+          "description": [
+            "✨ Stars are luminous balls of gas, primarily hydrogen and helium, that are held together by gravity and emit light due to nuclear fusion in their cores.",
+            "🌞 Our Sun is the closest star to Earth, but billions of stars exist in the universe, many much larger or smaller than our Sun.",
+            "💫 Stars vary in size, brightness, and temperature, and are classified by their spectral type, such as red dwarfs, white dwarfs, or supergiants."
+          ],
+          "questionSets": [
+            {
+              "setNumber": 1,
+              "questions": [
+                {
+                  "question": "What is the closest star to Earth?",
+                  "options": ["Sirius", "Proxima Centauri", "Betelgeuse", "The Sun"],
+                  "answer": "The Sun",
+                  "explanation": "The Sun is the closest star to Earth and provides the necessary energy to sustain life on our planet."
+                },
+                {
+                  "question": "What process powers stars?",
+                  "options": ["Fission", "Combustion", "Nuclear fusion", "Magnetism"],
+                  "answer": "Nuclear fusion",
+                  "explanation": "Stars are powered by nuclear fusion, where hydrogen atoms combine to form helium and release energy."
+                },
+                {
+                  "question": "Which star is known as the 'Dog Star'?",
+                  "options": ["Sirius", "Alpha Centauri", "Vega", "Rigel"],
+                  "answer": "Sirius",
+                  "explanation": "Sirius is commonly referred to as the 'Dog Star' and is the brightest star in the Earth's night sky."
+                },
+                {
+                  "question": "What type of star is our Sun?",
+                  "options": ["Red dwarf", "White dwarf", "G-type main-sequence star", "Supergiant"],
+                  "answer": "G-type main-sequence star",
+                  "explanation": "The Sun is a G-type main-sequence star, also known as a yellow dwarf."
+                },
+                {
+                  "question": "What color are the hottest stars?",
+                  "options": ["Red", "Blue", "Yellow", "White"],
+                  "answer": "Blue",
+                  "explanation": "Blue stars are the hottest, with surface temperatures exceeding 25,000°C, while red stars are cooler."
+                },
+                {
+                  "question": "Which of these stars is a red supergiant?",
+                  "options": ["Betelgeuse", "Sirius", "Polaris", "Alpha Centauri"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse is a red supergiant in the Orion constellation, known for its size and brightness."
+                },
+                {
+                  "question": "What is a star that has exhausted its nuclear fuel and collapsed into a dense object?",
+                  "options": ["Neutron star", "Supernova", "Red giant", "White dwarf"],
+                  "answer": "White dwarf",
+                  "explanation": "A white dwarf is the remnant of a star that has burned out and collapsed into a small, dense body."
+                },
+                {
+                  "question": "What is the name of the group of stars forming a hunter in the night sky?",
+                  "options": ["Orion", "Ursa Major", "Andromeda", "Pegasus"],
+                  "answer": "Orion",
+                  "explanation": "The constellation Orion is known as the hunter and is one of the most recognizable constellations in the night sky."
+                },
+                {
+                  "question": "What is the explosive death of a massive star called?",
+                  "options": ["Nova", "Supernova", "Quasar", "Neutron burst"],
+                  "answer": "Supernova",
+                  "explanation": "A supernova is the powerful explosion that occurs at the end of a massive star's life, resulting in a bright burst of energy."
+                },
+                {
+                  "question": "Which of the following is a binary star system?",
+                  "options": ["Sirius", "Proxima Centauri", "Betelgeuse", "Vega"],
+                  "answer": "Sirius",
+                  "explanation": "Sirius is a binary star system consisting of Sirius A and Sirius B, making it one of the closest binary systems to Earth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subtopicName": "Planets 🪐",
+          "description": [
+            "🪐 Planets are large celestial bodies that orbit a star and do not produce their own light.",
+            "🌍 Our solar system has eight planets, including Earth, each with unique characteristics like size, atmosphere, and composition.",
+            "🌑 Planets are classified as terrestrial (rocky) or gas giants based on their composition and physical properties."
+          ],
+          "questionSets": [
+            {
+              "setNumber": 1,
+              "questions": [
+                {
+                  "question": "How many planets are in our solar system?",
+                  "options": ["Seven", "Eight", "Nine", "Ten"],
+                  "answer": "Eight",
+                  "explanation": "There are eight planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+                },
+                {
+                  "question": "Which planet is known as the Red Planet?",
+                  "options": ["Earth", "Jupiter", "Mars", "Venus"],
+                  "answer": "Mars",
+                  "explanation": "Mars is called the Red Planet due to its reddish appearance caused by iron oxide (rust) on its surface."
+                },
+                {
+                  "question": "Which planet is the largest in our solar system?",
+                  "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter is the largest planet in our solar system, with a mass over 300 times that of Earth."
+                },
+                {
+                  "question": "What planet is known as the Morning Star?",
+                  "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+                  "answer": "Venus",
+                  "explanation": "Venus is known as the Morning Star or Evening Star due to its brightness and visibility during dawn or dusk."
+                },
+                {
+                  "question": "Which planet has the most extensive ring system?",
+                  "options": ["Earth", "Saturn", "Uranus", "Neptune"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn is famous for its extensive and bright ring system made primarily of ice and rock particles."
+                },
+                {
+                  "question": "Which planet has the most moons?",
+                  "options": ["Mars", "Earth", "Jupiter", "Saturn"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter has the most moons in the solar system, with over 79 confirmed moons orbiting the planet."
+                },
+                {
+                  "question": "Which planet is closest to the Sun?",
+                  "options": ["Venus", "Mercury", "Mars", "Earth"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury is the closest planet to the Sun, with an average distance of about 58 million kilometers."
+                },
+                {
+                  "question": "Which planet is known for its Great Red Spot?",
+                  "options": ["Earth", "Saturn", "Mars", "Jupiter"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter is known for its Great Red Spot, a massive storm system that has been raging for centuries."
+                },
+                {
+                  "question": "Which planet has the shortest day, rotating on its axis in just 10 hours?",
+                  "options": ["Earth", "Neptune", "Jupiter", "Mars"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter has the shortest day of all the planets, completing a full rotation in just 10 hours."
+                },
+                {
+                  "question": "Which planet has a surface temperature hot enough to melt lead?",
+                  "options": ["Mercury", "Venus", "Earth", "Mars"],
+                  "answer": "Venus",
+                  "explanation": "Venus has a thick atmosphere of carbon dioxide, trapping heat and leading to surface temperatures hot enough to melt lead."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subtopicName": "Black Holes 🌑",
+          "description": [
+            "🌌 Black holes are regions of space where gravity is so strong that not even light can escape.",
+            "💥 They form when massive stars collapse under their own gravity after exhausting their nuclear fuel.",
+            "🌠 Black holes come in various sizes, from stellar-mass black holes to supermassive black holes found at the centers of galaxies."
+          ],
+          "questionSets": [
+            {
+              "setNumber": 1,
+              "questions": [
+                {
+                  "question": "What is a black hole?",
+                  "options": ["A type of planet", "A region with extreme gravity", "A kind of star", "A space station"],
+                  "answer": "A region with extreme gravity",
+                  "explanation": "A black hole is a region in space where the gravitational pull is so intense that not even light can escape it."
+                },
+                {
+                  "question": "What causes a black hole to form?",
+                  "options": ["The explosion of a planet", "The collapse of a massive star", "Two stars colliding", "A supernova"],
+                  "answer": "The collapse of a massive star",
+                  "explanation": "Black holes form when a massive star exhausts its nuclear fuel and collapses under its own gravity."
+                },
+                {
+                  "question": "What is the boundary around a black hole called?",
+                  "options": ["Event horizon", "Schwarzschild radius", "Photon sphere", "Singularity"],
+                  "answer": "Event horizon",
+                  "explanation": "The event horizon is the boundary surrounding a black hole, beyond which nothing can escape."
+                },
+                {
+                  "question": "What lies at the center of a black hole?",
+                  "options": ["A planet", "A star", "Singularity", "A galaxy"],
+                  "answer": "Singularity",
+                  "explanation": "The singularity is the point at the center of a black hole where gravity is thought to be infinitely strong."
+                },
+                {
+                  "question": "What happens to time near a black hole?",
+                  "options": ["It speeds up", "It slows down", "It stops", "It remains unchanged"],
+                  "answer": "It slows down",
+                  "explanation": "Near a black hole, time slows down due to the extreme gravitational effects, a phenomenon known as time dilation."
+                },
+                {
+                  "question": "Which part of a black hole is visible to observers outside?",
+                  "options": ["The singularity", "The event horizon", "The core", "None of it"],
+                  "answer": "None of it",
+                  "explanation": "Black holes are not visible because no light can escape them; only the effects of their gravity can be observed."
+                },
+                {
+                  "question": "What is the process of material being pulled into a black hole called?",
+                  "options": ["Accretion", "Absorption", "Evaporation", "Fission"],
+                  "answer": "Accretion",
+                  "explanation": "Accretion is the process by which material is drawn into a black hole, forming an accretion disk around it."
+                },
+                {
+                  "question": "What is Hawking radiation?",
+                  "options": ["Light emitted by black holes", "Theoretical radiation from black holes", "A type of cosmic ray", "Energy released by stars"],
+                  "answer": "Theoretical radiation from black holes",
+                  "explanation": "Hawking radiation is the theoretical radiation that black holes emit due to quantum effects near the event horizon."
+                },
+                {
+                  "question": "What are the two types of black holes by size?",
+                  "options": ["Small and large", "Stellar-mass and supermassive", "Quasars and pulsars", "Tiny and giant"],
+                  "answer": "Stellar-mass and supermassive",
+                  "explanation": "Stellar-mass black holes form from collapsing stars, while supermassive black holes are found at the center of galaxies."
+                },
+                {
+                  "question": "Can black holes grow over time?",
+                  "options": ["No", "Yes, by consuming matter", "Only if they merge with another black hole", "Only if they lose energy"],
+                  "answer": "Yes, by consuming matter",
+                  "explanation": "Black holes can grow by accreting matter and merging with other black holes."
+                }
+              ]
+            },
+            {
+              "setNumber": 2,
+              "questions": [
+                {
+                  "question": "What is the point of no return around a black hole called?",
+                  "options": ["Photon sphere", "Singularity", "Event horizon", "Accretion disk"],
+                  "answer": "Event horizon",
+                  "explanation": "The event horizon is the boundary surrounding a black hole beyond which nothing, not even light, can escape."
+                },
+                {
+                  "question": "What type of black hole exists at the center of most galaxies?",
+                  "options": ["Stellar-mass black hole", "Supermassive black hole", "Micro black hole", "Intermediate black hole"],
+                  "answer": "Supermassive black hole",
+                  "explanation": "Most galaxies, including our Milky Way, have a supermassive black hole at their center."
+                },
+                {
+                  "question": "What is the name of the supermassive black hole at the center of the Milky Way?",
+                  "options": ["Andromeda", "Sagittarius A*", "Betelgeuse", "Vega"],
+                  "answer": "Sagittarius A*",
+                  "explanation": "Sagittarius A* is the supermassive black hole located at the center of the Milky Way galaxy."
+                },
+                {
+                  "question": "Can black holes ever die?",
+                  "options": ["No, they exist forever", "Yes, they evaporate through Hawking radiation", "Only if they collide", "Only if they stop spinning"],
+                  "answer": "Yes, they evaporate through Hawking radiation",
+                  "explanation": "Over time, black holes can slowly lose mass and evaporate due to Hawking radiation."
+                },
+                {
+                  "question": "What happens to objects that get too close to a black hole?",
+                  "options": ["They bounce off", "They freeze", "They get spaghettified", "They explode"],
+                  "answer": "They get spaghettified",
+                  "explanation": "Objects that get too close to a black hole are stretched and torn apart in a process known as spaghettification due to extreme gravitational forces."
+                },
+                {
+                  "question": "What is the relationship between a black hole's mass and its gravitational pull?",
+                  "options": ["More mass, weaker pull", "Less mass, stronger pull", "More mass, stronger pull", "They are not related"],
+                  "answer": "More mass, stronger pull",
+                  "explanation": "The more mass a black hole has, the stronger its gravitational pull."
+                },
+                {
+                  "question": "Can black holes merge with each other?",
+                  "options": ["Yes, they can merge and form a larger black hole", "No, they repel each other", "Only under rare conditions", "They explode when they merge"],
+                  "answer": "Yes, they can merge and form a larger black hole",
+                  "explanation": "When two black holes come close enough, they can merge into a single, larger black hole."
+                },
+                {
+                  "question": "How do we detect black holes if they are invisible?",
+                  "options": ["Through their gravitational effects", "By their glow", "By sending probes", "They are visible with telescopes"],
+                  "answer": "Through their gravitational effects",
+                  "explanation": "Black holes are detected by observing the gravitational effects they have on nearby objects and light."
+                },
+                {
+                  "question": "What happens to light near a black hole?",
+                  "options": ["It speeds up", "It escapes easily", "It bends and can be trapped", "It becomes stronger"],
+                  "answer": "It bends and can be trapped",
+                  "explanation": "Light near a black hole can bend due to the strong gravitational field, and beyond the event horizon, it is trapped."
+                },
+                {
+                  "question": "Which scientist first predicted the existence of black holes through the theory of general relativity?",
+                  "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+                  "answer": "Albert Einstein",
+                  "explanation": "Albert Einstein's theory of general relativity predicted the existence of black holes."
+                }
+              ]
+            }
+          ]
+        },
+          {
+            "subtopicName": "The Sun 🌞",
+            "description": [
+              "The Sun is the star at the center of our solar system and the primary source of energy for life on Earth.",
+              "It is a medium-sized star, classified as a G-type main-sequence star (G dwarf), and is about 4.6 billion years old.",
+              "The Sun's energy is produced by nuclear fusion in its core, where hydrogen atoms are fused into helium."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "What type of star is the Sun?",
+                    "options": ["Red giant", "White dwarf", "Supernova", "G-type main-sequence star"],
+                    "answer": "G-type main-sequence star",
+                    "explanation": "The Sun is a G-type main-sequence star, also known as a yellow dwarf."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subtopicName": "The Milky Way 🌌",
+            "description": [
+              "The Milky Way is the galaxy that contains our solar system, along with billions of other stars, planets, and celestial objects.",
+              "It is a barred spiral galaxy, and it takes about 250 million years for the solar system to complete one orbit around its center.",
+              "The center of the Milky Way contains a supermassive black hole known as Sagittarius A*."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "What type of galaxy is the Milky Way?",
+                    "options": ["Elliptical", "Irregular", "Spiral", "Barred spiral"],
+                    "answer": "Barred spiral",
+                    "explanation": "The Milky Way is classified as a barred spiral galaxy with a distinct central bar-shaped structure."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topicName": "Space Phenomena 🌠",
+        "subtopics": [
+          {
+            "subtopicName": "Shooting Stars 🌠",
+            "description": [
+              "Shooting stars, or meteors, are small space rocks or particles that burn up upon entering Earth's atmosphere, creating a streak of light.",
+              "They are not actually stars, but fragments of asteroids or comets that become visible when they vaporize due to friction with the atmosphere."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "What causes a shooting star?",
+                    "options": ["A star exploding", "A meteor entering the atmosphere", "A planet aligning", "A black hole"],
+                    "answer": "A meteor entering the atmosphere",
+                    "explanation": "A shooting star occurs when a meteor enters Earth's atmosphere and burns up, creating a bright streak of light."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subtopicName": "Comets and Asteroids ☄️",
+            "description": [
+              "Comets are icy bodies that orbit the Sun and develop a glowing coma and tail when they approach the Sun.",
+              "Asteroids are rocky or metallic objects that orbit the Sun, mostly found in the asteroid belt between Mars and Jupiter."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "What are comets primarily made of?",
+                    "options": ["Gas and dust", "Iron and nickel", "Ice and rock", "Water and sand"],
+                    "answer": "Ice and rock",
+                    "explanation": "Comets are primarily composed of ice, dust, and rocky material."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topicName": "Space Exploration 🛰️",
+        "subtopics": [
+          {
+            "subtopicName": "Manmade Satellites 🛰️",
+            "description": [
+              "Manmade satellites are objects launched into space to orbit Earth or other celestial bodies for purposes such as communication, observation, or scientific research.",
+              "The first artificial satellite, Sputnik 1, was launched by the Soviet Union in 1957, marking the start of the space age."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "What was the first manmade satellite?",
+                    "options": ["Apollo 11", "Sputnik 1", "Voyager 1", "Hubble Space Telescope"],
+                    "answer": "Sputnik 1",
+                    "explanation": "Sputnik 1 was the first manmade satellite launched by the Soviet Union in 1957."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subtopicName": "Space Shuttles 🚀",
+            "description": [
+              "Space shuttles were reusable spacecraft used by NASA to transport astronauts and cargo to space from 1981 to 2011.",
+              "The shuttle program included five orbiters, with the most famous being Challenger, Columbia, and Atlantis."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "What was the first space shuttle to fly into space?",
+                    "options": ["Columbia", "Challenger", "Atlantis", "Discovery"],
+                    "answer": "Columbia",
+                    "explanation": "The space shuttle Columbia was the first shuttle to fly into space on April 12, 1981."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subtopicName": "Space Telescopes 🔭",
+            "description": [
+              "Space telescopes are instruments in outer space used to observe astronomical objects free from the distortion of Earth's atmosphere.",
+              "They are capable of observing a wide range of wavelengths, from visible light to infrared, ultraviolet, and X-rays, providing astronomers with clearer views of distant celestial objects.",
+              "Notable space telescopes include the Hubble Space Telescope, James Webb Space Telescope, and Chandra X-ray Observatory."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "What was the first major space telescope launched by NASA?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope was the first major space telescope launched by NASA in 1990."
+                  },
+                  {
+                    "question": "What advantage do space telescopes have over ground-based telescopes?",
+                    "options": ["They are closer to stars", "They are free from atmospheric distortion", "They cost less to operate", "They are closer to the Sun"],
+                    "answer": "They are free from atmospheric distortion",
+                    "explanation": "Space telescopes can observe the universe without interference from Earth's atmosphere, resulting in clearer images."
+                  },
+                  {
+                    "question": "Which space telescope was designed primarily to observe infrared light?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory", "Kepler Space Telescope"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope is designed to observe the universe in infrared light, enabling it to see through dust clouds and observe distant galaxies."
+                  },
+                  {
+                    "question": "Which space telescope specializes in observing X-rays from space?",
+                    "options": ["Spitzer Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory", "James Webb Space Telescope"],
+                    "answer": "Chandra X-ray Observatory",
+                    "explanation": "The Chandra X-ray Observatory is a space telescope designed to observe X-rays from extremely hot regions of the universe, such as black holes and neutron stars."
+                  },
+                  {
+                    "question": "What was one of the major discoveries made by the Hubble Space Telescope?",
+                    "options": ["The existence of exoplanets", "The accelerating expansion of the universe", "Evidence of water on Mars", "Images of asteroids"],
+                    "answer": "The accelerating expansion of the universe",
+                    "explanation": "The Hubble Space Telescope provided critical data that led to the discovery that the universe is expanding at an accelerating rate."
+                  },
+                  {
+                    "question": "Which space telescope helped discover thousands of exoplanets?",
+                    "options": ["Hubble Space Telescope", "Kepler Space Telescope", "James Webb Space Telescope", "Spitzer Space Telescope"],
+                    "answer": "Kepler Space Telescope",
+                    "explanation": "The Kepler Space Telescope was instrumental in discovering thousands of exoplanets by monitoring the brightness of distant stars."
+                  },
+                  {
+                    "question": "What part of the electromagnetic spectrum does the James Webb Space Telescope primarily observe?",
+                    "options": ["Ultraviolet", "Visible light", "Infrared", "Gamma rays"],
+                    "answer": "Infrared",
+                    "explanation": "The James Webb Space Telescope primarily observes in the infrared spectrum, which allows it to see through cosmic dust and observe distant objects."
+                  },
+                  {
+                    "question": "Which telescope was launched to replace the aging Hubble Space Telescope?",
+                    "options": ["James Webb Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope", "Voyager 1"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope was launched as the successor to the Hubble Space Telescope and offers improved capabilities, especially in the infrared spectrum."
+                  },
+                  {
+                    "question": "Which space telescope observed the collision of Comet Shoemaker-Levy 9 with Jupiter?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Spitzer Space Telescope", "Kepler Space Telescope"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "In 1994, the Hubble Space Telescope observed the collision of Comet Shoemaker-Levy 9 with Jupiter, capturing detailed images of the impact."
+                  },
+                  {
+                    "question": "Which space telescope has a 6.5-meter primary mirror and was launched in 2021?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope, launched in 2021, has a 6.5-meter primary mirror, allowing it to capture incredibly detailed images of the universe."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topicName": "India’s Space Missions 🌕",
+        "subtopics": [
+            {
+                "subtopicName": "India's Moon Missions",
+                "description": [
+                  "India has undertaken several successful missions to the Moon, led by the Indian Space Research Organisation (ISRO).",
+                  "The Chandrayaan missions have been groundbreaking, with Chandrayaan-1 discovering water molecules on the lunar surface and Chandrayaan-2 attempting a soft landing on the Moon's south pole.",
+                  "In 2023, Chandrayaan-3 successfully achieved a soft landing on the lunar south pole, making India the first country to do so."
+                ],
+                "questionSets": [
+                  {
+                    "level": "Easy",
+                    "setNumber": 1,
+                    "questions": [
+                      {
+                        "question": "What was the name of India’s first mission to the Moon?",
+                        "options": ["Chandrayaan-1", "Mangalyaan", "Chandrayaan-2", "Chandrayaan-3"],
+                        "answer": "Chandrayaan-1",
+                        "explanation": "Chandrayaan-1, launched in 2008, was India's first mission to the Moon."
+                      },
+                      {
+                        "question": "Which Indian Moon mission discovered water molecules on the Moon?",
+                        "options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+                        "answer": "Chandrayaan-1",
+                        "explanation": "Chandrayaan-1 was the mission that discovered water molecules on the lunar surface in 2009."
+                      },
+                      {
+                        "question": "In which year did India successfully land a spacecraft on the Moon’s south pole?",
+                        "options": ["2019", "2020", "2023", "2025"],
+                        "answer": "2023",
+                        "explanation": "India successfully landed Chandrayaan-3 on the Moon’s south pole in 2023, becoming the first country to do so."
+                      },
+                      {
+                        "question": "What was the main goal of the Chandrayaan-2 mission?",
+                        "options": ["Orbit the Moon", "Land on the Moon", "Return samples to Earth", "Study lunar craters"],
+                        "answer": "Land on the Moon",
+                        "explanation": "The primary goal of the Chandrayaan-2 mission was to attempt a soft landing on the lunar south pole."
+                      },
+                      {
+                        "question": "Which mission was the first to successfully land on the lunar south pole?",
+                        "options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3", "Mangalyaan"],
+                        "answer": "Chandrayaan-3",
+                        "explanation": "Chandrayaan-3, launched in 2023, was the first Indian mission to successfully achieve a soft landing on the lunar south pole."
+                      },
+                      {
+                        "question": "What is the name of the Indian space agency that conducts Moon missions?",
+                        "options": ["NASA", "ISRO", "ESA", "JAXA"],
+                        "answer": "ISRO",
+                        "explanation": "The Indian Space Research Organisation (ISRO) is responsible for India's Moon missions."
+                      },
+                      {
+                        "question": "What was the name of the rover aboard Chandrayaan-2?",
+                        "options": ["Pragyan", "Vikram", "Surya", "Gaganyaan"],
+                        "answer": "Pragyan",
+                        "explanation": "Pragyan was the name of the rover aboard Chandrayaan-2, which was intended to explore the lunar surface."
+                      },
+                      {
+                        "question": "What is the significance of Chandrayaan-1's discovery of water on the Moon?",
+                        "options": ["It suggested the possibility of life on the Moon", "It confirmed the presence of a habitable atmosphere", "It opened possibilities for future lunar colonization", "It indicated the presence of ancient civilizations"],
+                        "answer": "It opened possibilities for future lunar colonization",
+                        "explanation": "The discovery of water on the Moon by Chandrayaan-1 is significant because it suggests the possibility of utilizing lunar resources for future colonization."
+                      },
+                      {
+                        "question": "What is the landing module of the Chandrayaan-3 mission called?",
+                        "options": ["Pragyan", "Vikram", "Rakesh", "Aryabhata"],
+                        "answer": "Vikram",
+                        "explanation": "The Vikram lander was part of the Chandrayaan-3 mission that successfully landed on the Moon in 2023."
+                      },
+                      {
+                        "question": "Which of the following is NOT an objective of India's Moon missions?",
+                        "options": ["Studying lunar soil", "Finding extraterrestrial life", "Mapping the lunar surface", "Understanding lunar geology"],
+                        "answer": "Finding extraterrestrial life",
+                        "explanation": "The main objectives of India's Moon missions include studying lunar soil, mapping the lunar surface, and understanding lunar geology, but not searching for extraterrestrial life."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "subtopicName": "India’s Mars Missions 🔴",
+                "description": [
+                  "India's Mars exploration efforts are led by ISRO (Indian Space Research Organisation), with the Mars Orbiter Mission (MOM), also known as Mangalyaan, being the first successful mission.",
+                  "Launched in 2013, the Mars Orbiter Mission made India the first Asian country to reach Mars and the fourth space agency in the world to do so.",
+                  "Mangalyaan's primary objective was to explore the Martian surface, atmosphere, and mineral composition."
+                ],
+                "questionSets": [
+                  {
+                    "level": "Easy",
+                    "setNumber": 1,
+                    "questions": [
+                      {
+                        "question": "What is the name of India's first Mars mission?",
+                        "options": ["Chandrayaan", "Mangalyaan", "Gaganyaan", "Shukrayaan"],
+                        "answer": "Mangalyaan",
+                        "explanation": "Mangalyaan, also known as the Mars Orbiter Mission, was India's first mission to Mars."
+                      },
+                      {
+                        "question": "In which year was India's Mars Orbiter Mission launched?",
+                        "options": ["2010", "2013", "2015", "2017"],
+                        "answer": "2013",
+                        "explanation": "India launched its Mars Orbiter Mission in 2013, successfully reaching Mars in its first attempt."
+                      },
+                      {
+                        "question": "What was the main objective of India's Mars Orbiter Mission?",
+                        "options": ["To land on Mars", "To orbit Mars and study its surface", "To return samples from Mars", "To establish a human colony on Mars"],
+                        "answer": "To orbit Mars and study its surface",
+                        "explanation": "The primary goal of Mangalyaan was to orbit Mars and gather data on its surface, atmosphere, and mineral composition."
+                      },
+                      {
+                        "question": "What achievement made India's Mars mission unique at the time of launch?",
+                        "options": [
+                          "First Asian country to reach Mars",
+                          "First country to land on Mars",
+                          "First mission to return samples from Mars",
+                          "First mission to detect water on Mars"
+                        ],
+                        "answer": "First Asian country to reach Mars",
+                        "explanation": "Mangalyaan made India the first Asian country to reach Mars and the fourth in the world overall."
+                      },
+                      {
+                        "question": "Which of the following instruments was NOT part of Mangalyaan's scientific payload?",
+                        "options": [
+                          "Mars Color Camera",
+                          "Methane Sensor",
+                          "Lunar Rover",
+                          "Thermal Infrared Imaging Spectrometer"
+                        ],
+                        "answer": "Lunar Rover",
+                        "explanation": "Mangalyaan carried several scientific instruments to study Mars, but it did not include a Lunar Rover."
+                      },
+                      {
+                        "question": "How long did it take Mangalyaan to reach Mars after launch?",
+                        "options": ["3 months", "9 months", "1 year", "2 years"],
+                        "answer": "9 months",
+                        "explanation": "It took Mangalyaan approximately 9 months to travel from Earth to Mars after its launch in November 2013."
+                      },
+                      {
+                        "question": "What was the total cost of India's Mars Orbiter Mission?",
+                        "options": ["$74 million", "$200 million", "$500 million", "$1 billion"],
+                        "answer": "$74 million",
+                        "explanation": "India's Mars Orbiter Mission was celebrated for its low cost of $74 million, making it one of the most cost-effective Mars missions."
+                      },
+                      {
+                        "question": "What makes the Mars Orbiter Mission a major milestone for ISRO?",
+                        "options": [
+                          "It was India's first interplanetary mission.",
+                          "It was the first mission to land on Mars.",
+                          "It discovered life on Mars.",
+                          "It was the longest mission in history."
+                        ],
+                        "answer": "It was India's first interplanetary mission.",
+                        "explanation": "The Mars Orbiter Mission was a significant achievement for ISRO, as it was India's first interplanetary mission."
+                      },
+                      {
+                        "question": "Which country did India become the first to succeed in reaching Mars on its first attempt?",
+                        "options": ["Russia", "United States", "China", "India"],
+                        "answer": "India",
+                        "explanation": "India became the first country in the world to succeed in reaching Mars on its first attempt with the Mars Orbiter Mission."
+                      },
+                      {
+                        "question": "What is the expected duration of the Mangalyaan mission, although it has already exceeded its original life span?",
+                        "options": ["6 months", "1 year", "3 years", "5 years"],
+                        "answer": "6 months",
+                        "explanation": "Mangalyaan was originally designed for a 6-month mission, but it has continued to function and transmit data beyond that period."
+                      }
+                    ]
+                  }
+                ]
+              }              
+        ]
+      },
+      {
+        "topicName": "People in Space 👩‍🚀",
+        "subtopics": [
+          {
+            "subtopicName": "Austronaut",
+            "description": [
+              "Neil Armstrong became the first human to set foot on the Moon on July 20, 1969, as part of NASA's Apollo 11 mission.",
+              "His famous words, 'That's one small step for man, one giant leap for mankind,' are remembered as a milestone in space exploration."
+            ],
+            "questionSets": [
+              {
+                "level": "Easy",
+                "setNumber": 1,
+                "questions": [
+                  {
+                    "question": "Who was the first man to walk on the Moon?",
+                    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong was the first person to walk on the Moon during the Apollo 11 mission in 1969."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

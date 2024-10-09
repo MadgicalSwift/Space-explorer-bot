@@ -19,8 +19,8 @@ export class User {
   @IsString()
   selectedSubtopic: string | null;
 
-  @IsString()
-  selectedDifficulty: string | null;
+  // @IsString()
+  // selectedDifficulty: string | null;
 
   @IsString()
   selectedSet: string | null;
@@ -40,8 +40,8 @@ export class Challenge{
   @IsString()
   subTopic:string;
 
-  @IsString()
-  level:string;
+  // @IsString()
+  // level:string;
 
   question:Question[];
 }
