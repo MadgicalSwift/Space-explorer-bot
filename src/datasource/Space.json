@@ -8,7 +8,8 @@
           "description": [
             "✨ Stars are luminous balls of gas, primarily hydrogen and helium, that are held together by gravity and emit light due to nuclear fusion in their cores.",
             "🌞 Our Sun is the closest star to Earth, but billions of stars exist in the universe, many much larger or smaller than our Sun.",
-            "💫 Stars vary in size, brightness, and temperature, and are classified by their spectral type, such as red dwarfs, white dwarfs, or supergiants."
+            "💫 Stars vary in size, brightness, and temperature, and are classified by their spectral type, such as red dwarfs, white dwarfs, or supergiants.",
+            "🌌 The lifecycle of a star typically includes stages such as stellar formation, main sequence, and ultimately, depending on its mass, can end as a white dwarf, neutron star, or black hole."
           ],
           "questionSets": [
             {
@@ -83,7 +84,8 @@
           "description": [
             "🪐 Planets are large celestial bodies that orbit a star and do not produce their own light.",
             "🌍 Our solar system has eight planets, including Earth, each with unique characteristics like size, atmosphere, and composition.",
-            "🌑 Planets are classified as terrestrial (rocky) or gas giants based on their composition and physical properties."
+            "🌑 Planets are classified as terrestrial (rocky) or gas giants based on their composition and physical properties.",
+            "🚀 Beyond our solar system, astronomers have discovered thousands of exoplanets, some of which may have conditions suitable for life."
           ],
           "questionSets": [
             {
@@ -156,9 +158,11 @@
         {
           "subtopicName": "Black Holes 🌑",
           "description": [
-            "🌌 Black holes are regions of space where gravity is so strong that not even light can escape.",
+            "🌌 Black holes are regions of space where gravity is so strong that not even light can escape, causing them to appear completely dark from the outside.",
             "💥 They form when massive stars collapse under their own gravity after exhausting their nuclear fuel.",
-            "🌠 Black holes come in various sizes, from stellar-mass black holes to supermassive black holes found at the centers of galaxies."
+            "🌠 Black holes come in various sizes, from stellar-mass black holes to supermassive black holes found at the centers of galaxies.",
+            "🔍 The event horizon marks the point of no return around a black hole, beyond which nothing can escape its gravitational pull.",
+            "🌀 Some theories suggest that black holes could be portals to other dimensions or universes, sparking intriguing possibilities in theoretical physics."
           ],
           "questionSets": [
             {
@@ -293,50 +297,290 @@
             }
           ]
         },
-          {
-            "subtopicName": "The Sun 🌞",
-            "description": [
-              "The Sun is the star at the center of our solar system and the primary source of energy for life on Earth.",
-              "It is a medium-sized star, classified as a G-type main-sequence star (G dwarf), and is about 4.6 billion years old.",
-              "The Sun's energy is produced by nuclear fusion in its core, where hydrogen atoms are fused into helium."
-            ],
-            "questionSets": [
-              {
-                "level": "Easy",
-                "setNumber": 1,
-                "questions": [
-                  {
-                    "question": "What type of star is the Sun?",
-                    "options": ["Red giant", "White dwarf", "Supernova", "G-type main-sequence star"],
-                    "answer": "G-type main-sequence star",
-                    "explanation": "The Sun is a G-type main-sequence star, also known as a yellow dwarf."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subtopicName": "The Milky Way 🌌",
-            "description": [
-              "The Milky Way is the galaxy that contains our solar system, along with billions of other stars, planets, and celestial objects.",
-              "It is a barred spiral galaxy, and it takes about 250 million years for the solar system to complete one orbit around its center.",
-              "The center of the Milky Way contains a supermassive black hole known as Sagittarius A*."
-            ],
-            "questionSets": [
-              {
-                "level": "Easy",
-                "setNumber": 1,
-                "questions": [
-                  {
-                    "question": "What type of galaxy is the Milky Way?",
-                    "options": ["Elliptical", "Irregular", "Spiral", "Barred spiral"],
-                    "answer": "Barred spiral",
-                    "explanation": "The Milky Way is classified as a barred spiral galaxy with a distinct central bar-shaped structure."
-                  }
-                ]
-              }
-            ]
-          }
+        {
+          "subtopicName": "The Sun 🌞",
+          "description": [
+            "🌟 The Sun is the star at the center of our solar system and the primary source of energy for life on Earth, providing light and warmth that sustain ecosystems.",
+            "🔥 It is a medium-sized star, classified as a G-type main-sequence star (G dwarf), and is about 4.6 billion years old.",
+            "⚛️ The Sun's energy is produced by nuclear fusion in its core, where hydrogen atoms are fused into helium.",
+            "🌌 The Sun's immense gravitational pull keeps the solar system's planets, asteroids, and comets in orbit around it.",
+            "🌈 The Sun also influences Earth's climate and weather, playing a crucial role in sustaining life by providing warmth and light."
+          ],
+          "questionSets": [
+            {
+              "setNumber": 1,
+              "questions": [
+                {
+                  "question": "What type of star is the Sun?",
+                  "options": ["Red giant", "White dwarf", "Supernova", "G-type main-sequence star"],
+                  "answer": "G-type main-sequence star",
+                  "explanation": "The Sun is a G-type main-sequence star, also known as a yellow dwarf."
+                },
+                {
+                  "question": "How old is the Sun?",
+                  "options": ["2.5 billion years", "3.8 billion years", "4.6 billion years", "6 billion years"],
+                  "answer": "4.6 billion years",
+                  "explanation": "The Sun is about 4.6 billion years old, formed from the gravitational collapse of a region within a large molecular cloud."
+                },
+                {
+                  "question": "What process powers the Sun?",
+                  "options": ["Combustion", "Nuclear fission", "Nuclear fusion", "Photosynthesis"],
+                  "answer": "Nuclear fusion",
+                  "explanation": "The Sun generates energy through nuclear fusion, where hydrogen atoms fuse into helium in its core."
+                },
+                {
+                  "question": "What is the outermost layer of the Sun called?",
+                  "options": ["Corona", "Core", "Radiative zone", "Photosphere"],
+                  "answer": "Corona",
+                  "explanation": "The corona is the Sun's outermost layer, visible during solar eclipses, and is much hotter than the Sun's surface."
+                },
+                {
+                  "question": "What is the visible surface of the Sun called?",
+                  "options": ["Core", "Corona", "Photosphere", "Chromosphere"],
+                  "answer": "Photosphere",
+                  "explanation": "The photosphere is the visible surface of the Sun from which light is emitted."
+                },
+                {
+                  "question": "What are the dark spots on the Sun's surface called?",
+                  "options": ["Solar flares", "Prominences", "Sunspots", "Plasma waves"],
+                  "answer": "Sunspots",
+                  "explanation": "Sunspots are dark, cooler areas on the Sun's surface caused by magnetic activity."
+                },
+                {
+                  "question": "What is a large eruption of radiation and particles from the Sun called?",
+                  "options": ["Solar wind", "Coronal mass ejection", "Sunspot", "Solar eclipse"],
+                  "answer": "Coronal mass ejection",
+                  "explanation": "A coronal mass ejection (CME) is a massive burst of solar wind and magnetic fields rising from the Sun's corona."
+                },
+                {
+                  "question": "What element makes up most of the Sun's mass?",
+                  "options": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+                  "answer": "Hydrogen",
+                  "explanation": "Hydrogen makes up about 75% of the Sun's mass, and it's the fuel used in nuclear fusion."
+                },
+                {
+                  "question": "What is the Sun's core primarily responsible for?",
+                  "options": ["Producing heat", "Producing solar flares", "Generating solar wind", "Energy production through nuclear fusion"],
+                  "answer": "Energy production through nuclear fusion",
+                  "explanation": "The core of the Sun is where nuclear fusion occurs, converting hydrogen into helium and producing energy."
+                },
+                {
+                  "question": "How long does it take for light from the Sun to reach Earth?",
+                  "options": ["1 minute", "8 minutes", "12 minutes", "24 minutes"],
+                  "answer": "8 minutes",
+                  "explanation": "It takes approximately 8 minutes for sunlight to travel the 93 million miles from the Sun to Earth."
+                }
+              ]
+            },
+            {
+              "setNumber": 2,
+              "questions": [
+                {
+                  "question": "What percentage of the solar system's mass is contained in the Sun?",
+                  "options": ["50%", "75%", "99.8%", "90%"],
+                  "answer": "99.8%",
+                  "explanation": "The Sun accounts for about 99.8% of the total mass of the solar system."
+                },
+                {
+                  "question": "Which layer of the Sun is directly above the core?",
+                  "options": ["Radiative zone", "Convective zone", "Photosphere", "Chromosphere"],
+                  "answer": "Radiative zone",
+                  "explanation": "The radiative zone is the layer above the Sun's core where energy is transported outward through radiation."
+                },
+                {
+                  "question": "What is the flow of charged particles from the Sun into space called?",
+                  "options": ["Solar flare", "Solar wind", "Sunspot activity", "Coronal mass ejection"],
+                  "answer": "Solar wind",
+                  "explanation": "The solar wind is a stream of charged particles released from the Sun's upper atmosphere, the corona."
+                },
+                {
+                  "question": "What happens during a solar eclipse?",
+                  "options": ["The Sun is blocked by the Moon", "The Sun stops emitting light", "The Earth blocks the Sun's light", "The Sun changes color"],
+                  "answer": "The Sun is blocked by the Moon",
+                  "explanation": "A solar eclipse occurs when the Moon passes between the Earth and the Sun, temporarily blocking its light."
+                },
+                {
+                  "question": "What layer of the Sun can only be seen during a total solar eclipse?",
+                  "options": ["Photosphere", "Core", "Corona", "Convective zone"],
+                  "answer": "Corona",
+                  "explanation": "The corona is the outermost part of the Sun's atmosphere, visible during a total solar eclipse."
+                },
+                {
+                  "question": "What is the Sun primarily made of?",
+                  "options": ["Hydrogen and oxygen", "Helium and carbon", "Hydrogen and helium", "Nitrogen and carbon"],
+                  "answer": "Hydrogen and helium",
+                  "explanation": "The Sun is primarily composed of hydrogen and helium, with hydrogen making up about 75% of its mass."
+                },
+                {
+                  "question": "What drives the solar cycle, including sunspot formation?",
+                  "options": ["Solar wind", "Magnetic fields", "Gravitational pull", "Nuclear fusion"],
+                  "answer": "Magnetic fields",
+                  "explanation": "The Sun's magnetic field drives the solar cycle, influencing sunspot formation and solar activity."
+                },
+                {
+                  "question": "How many Earths could fit inside the Sun?",
+                  "options": ["About 10", "About 100", "About 1,000", "About 1.3 million"],
+                  "answer": "About 1.3 million",
+                  "explanation": "Around 1.3 million Earths could fit inside the Sun based on volume."
+                },
+                {
+                  "question": "What happens in the convective zone of the Sun?",
+                  "options": ["Energy is radiated out", "Energy is generated", "Hot plasma rises and cool plasma sinks", "Nuclear fusion occurs"],
+                  "answer": "Hot plasma rises and cool plasma sinks",
+                  "explanation": "In the convective zone, hot plasma rises to the surface, cools, and then sinks back down to be heated again."
+                },
+                {
+                  "question": "What is the expected lifespan of the Sun?",
+                  "options": ["5 billion years", "10 billion years", "15 billion years", "20 billion years"],
+                  "answer": "10 billion years",
+                  "explanation": "The Sun is expected to have a total lifespan of about 10 billion years; it is currently about halfway through its life."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subtopicName": "The Milky Way 🌌",
+          "description": [
+            "🌠 The Milky Way is the galaxy that contains our solar system, along with billions of other stars, planets, and celestial objects.",
+            "🔄 It is a barred spiral galaxy, and it takes about 250 million years for the solar system to complete one orbit around its center.",
+            "🌟 The center of the Milky Way contains a supermassive black hole known as Sagittarius A*.",
+            "🌌 The Milky Way spans about 100,000 light-years in diameter, making it one of the largest galaxies in our local group.",
+            "✨ Within the Milky Way, there are estimated to be over 100 billion stars, each potentially hosting its own planetary system."
+          ],
+          "questionSets": [
+            {
+              "setNumber": 1,
+              "questions": [
+                {
+                  "question": "What type of galaxy is the Milky Way?",
+                  "options": ["Elliptical", "Irregular", "Spiral", "Barred spiral"],
+                  "answer": "Barred spiral",
+                  "explanation": "The Milky Way is classified as a barred spiral galaxy with a distinct central bar-shaped structure."
+                },
+                {
+                  "question": "What is at the center of the Milky Way?",
+                  "options": ["A star cluster", "A supermassive black hole", "A planet", "A nebula"],
+                  "answer": "A supermassive black hole",
+                  "explanation": "The center of the Milky Way contains a supermassive black hole called Sagittarius A*."
+                },
+                {
+                  "question": "How long does it take for the solar system to orbit the center of the Milky Way?",
+                  "options": ["100 million years", "250 million years", "1 billion years", "500 million years"],
+                  "answer": "250 million years",
+                  "explanation": "It takes about 250 million years for the solar system to complete one orbit around the center of the Milky Way."
+                },
+                {
+                  "question": "Which galaxy is the closest major galaxy to the Milky Way?",
+                  "options": ["Andromeda", "Triangulum", "Messier 87", "Whirlpool Galaxy"],
+                  "answer": "Andromeda",
+                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way, located about 2.5 million light-years away."
+                },
+                {
+                  "question": "What shape does the Milky Way galaxy have?",
+                  "options": ["Elliptical", "Ring", "Spiral", "Barred spiral"],
+                  "answer": "Barred spiral",
+                  "explanation": "The Milky Way has a barred spiral shape, with a central bar and spiral arms extending outward."
+                },
+                {
+                  "question": "What is the primary component of the Milky Way's disk?",
+                  "options": ["Nebulae", "Stars", "Black holes", "Dark matter"],
+                  "answer": "Stars",
+                  "explanation": "The disk of the Milky Way is primarily made up of billions of stars, gas, and dust."
+                },
+                {
+                  "question": "What do we call the group of galaxies that the Milky Way belongs to?",
+                  "options": ["The Virgo Cluster", "The Local Group", "The Coma Cluster", "The Fornax Cluster"],
+                  "answer": "The Local Group",
+                  "explanation": "The Milky Way is part of a group of galaxies known as the Local Group, which includes about 54 galaxies."
+                },
+                {
+                  "question": "What is the name of the Milky Way’s central bulge region?",
+                  "options": ["The Halo", "The Spiral Arms", "The Bulge", "Sagittarius A*"],
+                  "answer": "The Bulge",
+                  "explanation": "The central bulge of the Milky Way is a spherical structure that contains older stars and is located around the supermassive black hole."
+                },
+                {
+                  "question": "What is the Milky Way's approximate diameter?",
+                  "options": ["50,000 light-years", "100,000 light-years", "200,000 light-years", "1 million light-years"],
+                  "answer": "100,000 light-years",
+                  "explanation": "The Milky Way is approximately 100,000 light-years in diameter."
+                },
+                {
+                  "question": "What phenomenon is responsible for the spiral structure of the Milky Way?",
+                  "options": ["Dark matter", "Stellar winds", "Gravitational forces", "Magnetic fields"],
+                  "answer": "Gravitational forces",
+                  "explanation": "Gravitational forces, particularly from the galaxy's central bulge and dark matter, help shape the spiral structure of the Milky Way."
+                }
+              ]
+            },
+            {
+              "setNumber": 2,
+              "questions": [
+                {
+                  "question": "Which arm of the Milky Way is our solar system located in?",
+                  "options": ["The Sagittarius Arm", "The Orion Arm", "The Perseus Arm", "The Cygnus Arm"],
+                  "answer": "The Orion Arm",
+                  "explanation": "Our solar system is located in a minor spiral arm of the Milky Way called the Orion Arm."
+                },
+                {
+                  "question": "What do scientists believe surrounds the Milky Way's visible disk?",
+                  "options": ["A cluster of stars", "A dark matter halo", "A gas cloud", "A black hole"],
+                  "answer": "A dark matter halo",
+                  "explanation": "The Milky Way is believed to be surrounded by a halo of dark matter that extends beyond its visible disk."
+                },
+                {
+                  "question": "How many stars are estimated to be in the Milky Way?",
+                  "options": ["100 million", "500 million", "100 billion", "1 trillion"],
+                  "answer": "100 billion",
+                  "explanation": "The Milky Way is estimated to contain about 100 billion stars."
+                },
+                {
+                  "question": "Which component of the Milky Way contains the oldest stars?",
+                  "options": ["The Disk", "The Spiral Arms", "The Halo", "The Bulge"],
+                  "answer": "The Halo",
+                  "explanation": "The halo of the Milky Way contains the oldest stars, some of which are nearly as old as the galaxy itself."
+                },
+                {
+                  "question": "What is the name of the galaxy that is on a collision course with the Milky Way?",
+                  "options": ["Triangulum", "Andromeda", "Whirlpool", "Sombrero"],
+                  "answer": "Andromeda",
+                  "explanation": "The Andromeda Galaxy is on a collision course with the Milky Way, and they are expected to merge in about 4.5 billion years."
+                },
+                {
+                  "question": "What is the estimated mass of the Milky Way?",
+                  "options": ["1 billion solar masses", "100 billion solar masses", "1 trillion solar masses", "50 billion solar masses"],
+                  "answer": "1 trillion solar masses",
+                  "explanation": "The total mass of the Milky Way, including its dark matter halo, is estimated to be around 1 trillion times the mass of the Sun."
+                },
+                {
+                  "question": "What structure in the Milky Way helps to stabilize its spiral arms?",
+                  "options": ["The Halo", "The Central Bulge", "The Bar", "Dark Matter"],
+                  "answer": "The Bar",
+                  "explanation": "The central bar structure of the Milky Way plays a key role in stabilizing the galaxy's spiral arms."
+                },
+                {
+                  "question": "How do scientists study the Milky Way's structure if we are inside it?",
+                  "options": ["Using telescopes that capture infrared light", "By sending probes outside the galaxy", "By mapping nearby galaxies", "Using satellites"],
+                  "answer": "Using telescopes that capture infrared light",
+                  "explanation": "Scientists use infrared telescopes to peer through the dust and gas in the galaxy and observe its structure from within."
+                },
+                {
+                  "question": "What is the most common type of star found in the Milky Way?",
+                  "options": ["Red dwarf stars", "Blue giants", "White dwarfs", "Yellow dwarfs"],
+                  "answer": "Red dwarf stars",
+                  "explanation": "Red dwarf stars are the most common type of star in the Milky Way, making up the majority of stars in the galaxy."
+                },
+                {
+                  "question": "What marks the boundary of the Milky Way's disk?",
+                  "options": ["The Halo", "The Oort Cloud", "The Edge of the Universe", "The Galactic Plane"],
+                  "answer": "The Galactic Plane",
+                  "explanation": "The galactic plane marks the boundary of the Milky Way's disk, where the majority of the galaxy's mass lies."
+                }
+              ]
+            }
+          ]
+        }
         ]
       },
       {
@@ -345,12 +589,15 @@
           {
             "subtopicName": "Shooting Stars 🌠",
             "description": [
-              "Shooting stars, or meteors, are small space rocks or particles that burn up upon entering Earth's atmosphere, creating a streak of light.",
-              "They are not actually stars, but fragments of asteroids or comets that become visible when they vaporize due to friction with the atmosphere."
-            ],
+              "✨ Shooting stars, or meteors, are small space rocks or particles that burn up upon entering Earth's atmosphere, creating a beautiful streak of light. 🔭 Observing shooting stars is a popular activity during annual meteor showers such as the **Perseids** or the **Leonids**, which can be seen from many parts of the world.",
+              "🌌 Despite their name, shooting stars are not stars but fragments of asteroids or comets that become visible when they vaporize due to friction with Earth's atmosphere.",
+              "🌠 Meteor showers, which occur when Earth passes through the debris trail of a comet, can produce hundreds of shooting stars in a single night.",
+              "🌍 Most meteors completely disintegrate before reaching the ground, but those that do are called meteorites.",
+              "🔥 The bright flash of a meteor is caused by intense heat generated by friction as it speeds through the atmosphere, often traveling at speeds of up to 72 kilometers per second."
+            ]
+            ,
             "questionSets": [
               {
-                "level": "Easy",
                 "setNumber": 1,
                 "questions": [
                   {
@@ -358,6 +605,125 @@
                     "options": ["A star exploding", "A meteor entering the atmosphere", "A planet aligning", "A black hole"],
                     "answer": "A meteor entering the atmosphere",
                     "explanation": "A shooting star occurs when a meteor enters Earth's atmosphere and burns up, creating a bright streak of light."
+                  },
+                  {
+                    "question": "What is the proper term for a shooting star?",
+                    "options": ["Comet", "Asteroid", "Meteor", "Star"],
+                    "answer": "Meteor",
+                    "explanation": "The proper term for a shooting star is a meteor, which is a space rock or particle that burns up in the atmosphere."
+                  },
+                  {
+                    "question": "What is the source of most shooting stars?",
+                    "options": ["The Sun", "The Moon", "Asteroids and comets", "Other stars"],
+                    "answer": "Asteroids and comets",
+                    "explanation": "Most shooting stars come from small fragments of asteroids and comets that enter Earth's atmosphere."
+                  },
+                  {
+                    "question": "Why do shooting stars glow?",
+                    "options": ["Due to light from the Sun", "Because they are hot", "Friction with the atmosphere", "They contain glowing gases"],
+                    "answer": "Friction with the atmosphere",
+                    "explanation": "Shooting stars glow due to the intense friction with the atmosphere, causing the meteor to heat up and vaporize."
+                  },
+                  {
+                    "question": "What is a meteor shower?",
+                    "options": ["A collection of falling stars", "An asteroid hitting Earth", "A group of meteors entering the atmosphere", "A supernova explosion"],
+                    "answer": "A group of meteors entering the atmosphere",
+                    "explanation": "A meteor shower occurs when Earth passes through the debris of a comet, leading to multiple meteors entering the atmosphere."
+                  },
+                  {
+                    "question": "What happens to a meteor that reaches the ground?",
+                    "options": ["It evaporates", "It explodes", "It becomes a meteorite", "It creates a volcano"],
+                    "answer": "It becomes a meteorite",
+                    "explanation": "If a meteor reaches the Earth's surface without burning up completely, it becomes a meteorite."
+                  },
+                  {
+                    "question": "What is the difference between a meteor and a meteorite?",
+                    "options": ["Meteor is in space, meteorite is on Earth", "Meteor is larger", "Meteorite is hotter", "There is no difference"],
+                    "answer": "Meteor is in space, meteorite is on Earth",
+                    "explanation": "A meteor is a space rock burning up in the atmosphere, while a meteorite is what remains when it hits the Earth's surface."
+                  },
+                  {
+                    "question": "In which part of the atmosphere do most meteors burn up?",
+                    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+                    "answer": "Mesosphere",
+                    "explanation": "Most meteors burn up in the mesosphere, the third layer of Earth's atmosphere."
+                  },
+                  {
+                    "question": "What is a bright meteor that explodes in the atmosphere called?",
+                    "options": ["Comet", "Fireball", "Nova", "Bolide"],
+                    "answer": "Bolide",
+                    "explanation": "A bolide is a particularly bright meteor that explodes in the atmosphere."
+                  },
+                  {
+                    "question": "Which famous meteor shower occurs every August?",
+                    "options": ["Orionids", "Geminids", "Perseids", "Leonids"],
+                    "answer": "Perseids",
+                    "explanation": "The Perseid meteor shower occurs every August and is one of the most well-known meteor showers."
+                  }
+                ]
+              },
+              {
+                "setNumber": 2,
+                "questions": [
+                  {
+                    "question": "How fast do meteors travel when entering Earth's atmosphere?",
+                    "options": ["5,000 km/h", "25,000 km/h", "50,000 km/h", "100,000 km/h"],
+                    "answer": "50,000 km/h",
+                    "explanation": "Meteors typically travel at speeds of around 50,000 kilometers per hour when entering Earth's atmosphere."
+                  },
+                  {
+                    "question": "What is the name of a comet that is responsible for the Orionid meteor shower?",
+                    "options": ["Comet Halley", "Comet Encke", "Comet Swift-Tuttle", "Comet Shoemaker-Levy 9"],
+                    "answer": "Comet Halley",
+                    "explanation": "Comet Halley is responsible for the Orionid meteor shower, which occurs in October."
+                  },
+                  {
+                    "question": "How can you best observe a meteor shower?",
+                    "options": ["With a telescope", "By looking at the Sun", "In a dark area away from city lights", "At noon"],
+                    "answer": "In a dark area away from city lights",
+                    "explanation": "To see a meteor shower, it's best to be in a dark area far from city lights to reduce light pollution."
+                  },
+                  {
+                    "question": "What is the name given to the trail of light left by a meteor?",
+                    "options": ["Glow", "Flare", "Trail", "Streak"],
+                    "answer": "Streak",
+                    "explanation": "The streak of light seen when a meteor enters Earth's atmosphere is caused by its rapid heating and vaporization."
+                  },
+                  {
+                    "question": "How often do large meteors impact Earth?",
+                    "options": ["Every day", "Every 100 years", "Every million years", "Every month"],
+                    "answer": "Every 100 years",
+                    "explanation": "Large meteor impacts on Earth occur roughly every 100 years, though smaller meteors enter the atmosphere more frequently."
+                  },
+                  {
+                    "question": "Which layer of the atmosphere do meteors typically stop burning up in?",
+                    "options": ["Thermosphere", "Mesosphere", "Stratosphere", "Troposphere"],
+                    "answer": "Troposphere",
+                    "explanation": "After burning up in the mesosphere, meteors may stop glowing by the time they reach the troposphere."
+                  },
+                  {
+                    "question": "What type of rock is most common in meteorites?",
+                    "options": ["Granite", "Basalt", "Iron", "Chondrite"],
+                    "answer": "Chondrite",
+                    "explanation": "Chondrites are the most common type of meteorite, composed primarily of small, spherical grains of silicate minerals."
+                  },
+                  {
+                    "question": "What happens to meteors that are too small to reach Earth's surface?",
+                    "options": ["They evaporate", "They cool down and stop", "They are absorbed by clouds", "They become invisible"],
+                    "answer": "They evaporate",
+                    "explanation": "Small meteors often evaporate completely before reaching the surface, leaving only a streak of light."
+                  },
+                  {
+                    "question": "Which meteor shower is linked to the Tempel-Tuttle comet?",
+                    "options": ["Leonids", "Orionids", "Perseids", "Geminids"],
+                    "answer": "Leonids",
+                    "explanation": "The Leonid meteor shower is caused by the Tempel-Tuttle comet, and occurs every November."
+                  },
+                  {
+                    "question": "What is the general term for small particles from space that enter Earth's atmosphere?",
+                    "options": ["Planetesimals", "Asteroids", "Micrometeoroids", "Comets"],
+                    "answer": "Micrometeoroids",
+                    "explanation": "Micrometeoroids are tiny particles from space that enter Earth's atmosphere and can create very faint shooting stars."
                   }
                 ]
               }
@@ -366,12 +732,13 @@
           {
             "subtopicName": "Comets and Asteroids ☄️",
             "description": [
-              "Comets are icy bodies that orbit the Sun and develop a glowing coma and tail when they approach the Sun.",
-              "Asteroids are rocky or metallic objects that orbit the Sun, mostly found in the asteroid belt between Mars and Jupiter."
+              "☄️ **Comets** are icy bodies that orbit the Sun and develop a glowing coma and tail when they approach the Sun due to the heat causing their icy surfaces to vaporize.",
+              "🌑 **Asteroids** are rocky or metallic objects that also orbit the Sun, mostly found in the asteroid belt between Mars and Jupiter, and they do not develop tails like comets.",
+              "🌌 Comets are often classified into two categories: short-period comets, which take less than 200 years to orbit the Sun, and long-period comets, which take more than 200 years.",
+              "🪨 Asteroids, on the other hand, vary in size from small boulders to objects hundreds of kilometers in diameter and can be remnants from the early solar system."
             ],
             "questionSets": [
               {
-                "level": "Easy",
                 "setNumber": 1,
                 "questions": [
                   {
@@ -379,11 +746,130 @@
                     "options": ["Gas and dust", "Iron and nickel", "Ice and rock", "Water and sand"],
                     "answer": "Ice and rock",
                     "explanation": "Comets are primarily composed of ice, dust, and rocky material."
+                  },
+                  {
+                    "question": "Where are most asteroids located in our solar system?",
+                    "options": ["Between Earth and Mars", "Between Mars and Jupiter", "Near the Sun", "Beyond Neptune"],
+                    "answer": "Between Mars and Jupiter",
+                    "explanation": "Most asteroids are located in the asteroid belt, which is found between the orbits of Mars and Jupiter."
+                  },
+                  {
+                    "question": "What happens to a comet as it approaches the Sun?",
+                    "options": ["It shrinks", "It forms a tail", "It becomes a planet", "It cools down"],
+                    "answer": "It forms a tail",
+                    "explanation": "As a comet approaches the Sun, the heat causes its icy surface to vaporize, creating a glowing coma and tail."
+                  },
+                  {
+                    "question": "What is the main difference between comets and asteroids?",
+                    "options": ["Comets are larger", "Asteroids have tails", "Comets are icy, asteroids are rocky", "Asteroids orbit outside the solar system"],
+                    "answer": "Comets are icy, asteroids are rocky",
+                    "explanation": "Comets are primarily made of ice and dust, while asteroids are rocky or metallic objects."
+                  },
+                  {
+                    "question": "Which comet is famous for its appearance every 76 years?",
+                    "options": ["Comet Swift-Tuttle", "Comet Halley", "Comet Encke", "Comet Shoemaker-Levy 9"],
+                    "answer": "Comet Halley",
+                    "explanation": "Comet Halley is one of the most famous comets, visible from Earth every 76 years."
+                  },
+                  {
+                    "question": "What is the name of the region beyond Neptune where many comets originate?",
+                    "options": ["The Kuiper Belt", "The Asteroid Belt", "The Oort Cloud", "The Main Belt"],
+                    "answer": "The Kuiper Belt",
+                    "explanation": "Many comets originate from the Kuiper Belt, a region beyond Neptune filled with icy bodies."
+                  },
+                  {
+                    "question": "What are meteoroids?",
+                    "options": ["Small asteroids", "Burning comets", "Dust particles in space", "Comets with tails"],
+                    "answer": "Small asteroids",
+                    "explanation": "Meteoroids are small fragments of asteroids or comets that travel through space."
+                  },
+                  {
+                    "question": "What is the difference between a comet's nucleus and its coma?",
+                    "options": ["The nucleus is solid, the coma is gas", "The coma is inside the nucleus", "The coma is rocky, the nucleus is icy", "There is no difference"],
+                    "answer": "The nucleus is solid, the coma is gas",
+                    "explanation": "The nucleus of a comet is a solid icy core, while the coma is the cloud of gas and dust that forms around it when the comet nears the Sun."
+                  },
+                  {
+                    "question": "What is the typical shape of a comet's orbit?",
+                    "options": ["Circular", "Oval", "Parabolic", "Elliptical"],
+                    "answer": "Elliptical",
+                    "explanation": "Comets typically have elongated elliptical orbits, bringing them close to the Sun before moving away again."
+                  },
+                  {
+                    "question": "What term is used for a large asteroid impact on Earth?",
+                    "options": ["Tectonic event", "Meteor strike", "Asteroid impact", "Impact event"],
+                    "answer": "Impact event",
+                    "explanation": "A large asteroid impact on Earth is called an impact event, which can cause significant changes to the Earth's surface."
+                  }
+                ]
+              },
+              {
+                "setNumber": 2,
+                "questions": [
+                  {
+                    "question": "What is the main component of an asteroid?",
+                    "options": ["Metal and gas", "Rock and metal", "Ice and water", "Dust and gas"],
+                    "answer": "Rock and metal",
+                    "explanation": "Asteroids are primarily composed of rock and metal, unlike comets which contain a lot of ice."
+                  },
+                  {
+                    "question": "What is the name of the largest asteroid in the asteroid belt?",
+                    "options": ["Vesta", "Ceres", "Pallas", "Eros"],
+                    "answer": "Ceres",
+                    "explanation": "Ceres is the largest object in the asteroid belt, and it is also classified as a dwarf planet."
+                  },
+                  {
+                    "question": "What famous asteroid is responsible for the extinction of the dinosaurs?",
+                    "options": ["Apophis", "Chicxulub", "Bennu", "Toutatis"],
+                    "answer": "Chicxulub",
+                    "explanation": "The Chicxulub asteroid, which struck Earth about 66 million years ago, is widely believed to have caused the extinction of the dinosaurs."
+                  },
+                  {
+                    "question": "What happens when a comet's orbit brings it close to the Sun?",
+                    "options": ["It evaporates completely", "Its tail grows longer", "It turns into a planet", "It collides with the Sun"],
+                    "answer": "Its tail grows longer",
+                    "explanation": "As a comet nears the Sun, the heat causes more ice to vaporize, lengthening its tail."
+                  },
+                  {
+                    "question": "What are Trojan asteroids?",
+                    "options": ["Asteroids in the asteroid belt", "Asteroids orbiting near planets", "Asteroids near the Sun", "Asteroids in the Kuiper Belt"],
+                    "answer": "Asteroids orbiting near planets",
+                    "explanation": "Trojan asteroids are objects that share an orbit with a planet, such as Jupiter's Trojans."
+                  },
+                  {
+                    "question": "What is a comet's tail made of?",
+                    "options": ["Dust and gas", "Rock and metal", "Solid ice", "Molten lava"],
+                    "answer": "Dust and gas",
+                    "explanation": "A comet's tail is made up of dust and gas that vaporize as the comet approaches the Sun."
+                  },
+                  {
+                    "question": "What is the Oort Cloud?",
+                    "options": ["A region of space between Mars and Jupiter", "A cloud of gas around comets", "A distant region of icy bodies", "The outer layer of a comet"],
+                    "answer": "A distant region of icy bodies",
+                    "explanation": "The Oort Cloud is a distant region of space filled with icy bodies, thought to be the source of long-period comets."
+                  },
+                  {
+                    "question": "What do astronomers use to study comets and asteroids?",
+                    "options": ["Space telescopes", "Satellites", "Robotic spacecraft", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "Astronomers study comets and asteroids using space telescopes, satellites, and robotic spacecraft to gather data."
+                  },
+                  {
+                    "question": "Which comet has been visited by a spacecraft?",
+                    "options": ["Comet Halley", "Comet Hale-Bopp", "Comet Encke", "Comet 67P/Churyumov-Gerasimenko"],
+                    "answer": "Comet 67P/Churyumov-Gerasimenko",
+                    "explanation": "The European Space Agency's Rosetta mission visited Comet 67P/Churyumov-Gerasimenko in 2014."
+                  },
+                  {
+                    "question": "How can comets help scientists understand the early solar system?",
+                    "options": ["They are composed of ancient materials", "They contain life", "They control planetary orbits", "They formed after planets"],
+                    "answer": "They are composed of ancient materials",
+                    "explanation": "Comets are made of ancient materials from the early solar system, offering insights into its formation."
                   }
                 ]
               }
             ]
-          }
+          }          
         ]
       },
       {
@@ -392,12 +878,14 @@
           {
             "subtopicName": "Manmade Satellites 🛰️",
             "description": [
-              "Manmade satellites are objects launched into space to orbit Earth or other celestial bodies for purposes such as communication, observation, or scientific research.",
-              "The first artificial satellite, Sputnik 1, was launched by the Soviet Union in 1957, marking the start of the space age."
+              "🛰️ **Manmade satellites** are human-engineered objects that are launched into space to orbit **Earth** or other celestial bodies, serving various purposes like **communication**, **weather monitoring**, **scientific research**, and **earth observation**.",
+              "📡 These satellites play a crucial role in our daily lives by enabling technologies such as **GPS navigation**, **television broadcasting**, and **internet communication**, making the world more connected.",
+              "🚀 The **space age** began with the launch of **Sputnik 1**, the first artificial satellite, sent into orbit by the **Soviet Union** in 1957. This historic event marked the beginning of humanity’s journey into space.",
+              "🌍 Since then, thousands of satellites have been launched, orbiting the Earth and other planets, providing critical data for everything from **environmental monitoring** to **deep space exploration**.",
+              "🔬 These satellites also help in **scientific research**, offering detailed insights into Earth's atmosphere, climate change, and even studying distant planets and galaxies."
             ],
             "questionSets": [
               {
-                "level": "Easy",
                 "setNumber": 1,
                 "questions": [
                   {
@@ -405,20 +893,142 @@
                     "options": ["Apollo 11", "Sputnik 1", "Voyager 1", "Hubble Space Telescope"],
                     "answer": "Sputnik 1",
                     "explanation": "Sputnik 1 was the first manmade satellite launched by the Soviet Union in 1957."
+                  },
+                  {
+                    "question": "Which country launched the first manmade satellite?",
+                    "options": ["USA", "China", "Russia", "India"],
+                    "answer": "Russia",
+                    "explanation": "The first manmade satellite, Sputnik 1, was launched by Russia (then the Soviet Union) in 1957."
+                  },
+                  {
+                    "question": "What is the primary purpose of communication satellites?",
+                    "options": ["Weather monitoring", "Scientific research", "Telecommunications", "Navigation"],
+                    "answer": "Telecommunications",
+                    "explanation": "Communication satellites are used for telecommunications, including television, internet, and phone services."
+                  },
+                  {
+                    "question": "Which satellite is famous for its high-resolution images of Earth?",
+                    "options": ["Hubble Space Telescope", "GOES", "Landsat", "International Space Station"],
+                    "answer": "Landsat",
+                    "explanation": "The Landsat program has been capturing high-resolution images of Earth's surface since the 1970s."
+                  },
+                  {
+                    "question": "What type of orbit do most communication satellites occupy?",
+                    "options": ["Geostationary orbit", "Polar orbit", "Low Earth orbit", "Elliptical orbit"],
+                    "answer": "Geostationary orbit",
+                    "explanation": "Most communication satellites are placed in geostationary orbit so they remain fixed over a specific point on Earth."
+                  },
+                  {
+                    "question": "What is the main function of weather satellites?",
+                    "options": ["Exploring planets", "Studying stars", "Monitoring weather patterns", "Mapping the ocean floor"],
+                    "answer": "Monitoring weather patterns",
+                    "explanation": "Weather satellites are used to monitor and predict weather patterns and track storms."
+                  },
+                  {
+                    "question": "Which manmade satellite provides GPS services?",
+                    "options": ["Hubble Space Telescope", "International Space Station", "Navstar", "Voyager 1"],
+                    "answer": "Navstar",
+                    "explanation": "The Navstar satellite system provides GPS services to help determine location anywhere on Earth."
+                  },
+                  {
+                    "question": "What year was the Hubble Space Telescope launched?",
+                    "options": ["1989", "1990", "1991", "1992"],
+                    "answer": "1990",
+                    "explanation": "The Hubble Space Telescope was launched into space on April 24, 1990."
+                  },
+                  {
+                    "question": "What is the primary use of the International Space Station (ISS)?",
+                    "options": ["Commercial flights", "Scientific research", "Weather monitoring", "Navigation"],
+                    "answer": "Scientific research",
+                    "explanation": "The ISS serves as a microgravity research laboratory where scientific research is conducted in astrobiology, astronomy, meteorology, and other fields."
+                  },
+                  {
+                    "question": "What type of satellite is typically used for television broadcasting?",
+                    "options": ["Weather satellites", "Earth observation satellites", "Communication satellites", "Navigation satellites"],
+                    "answer": "Communication satellites",
+                    "explanation": "Communication satellites are specifically designed for broadcasting television signals and providing internet services."
                   }
                 ]
-              }
+              },
+              {
+                "setNumber": 2,
+                "questions": [
+                  {
+                    "question": "What is the purpose of reconnaissance satellites?",
+                    "options": ["Weather monitoring", "Military surveillance", "GPS services", "Telecommunications"],
+                    "answer": "Military surveillance",
+                    "explanation": "Reconnaissance satellites are used primarily for military surveillance and intelligence gathering."
+                  },
+                  {
+                    "question": "Which satellite was the first to capture images of the Earth from space?",
+                    "options": ["Vanguard 1", "Explorer 1", "Apollo 8", "Landsat 1"],
+                    "answer": "Vanguard 1",
+                    "explanation": "Vanguard 1 was the first satellite to capture images of Earth from space, launched in 1958."
+                  },
+                  {
+                    "question": "What is the primary benefit of Earth observation satellites?",
+                    "options": ["Studying outer space", "Monitoring climate change", "Exploring asteroids", "Detecting black holes"],
+                    "answer": "Monitoring climate change",
+                    "explanation": "Earth observation satellites are crucial for monitoring environmental changes, including climate change."
+                  },
+                  {
+                    "question": "What are CubeSats?",
+                    "options": ["Large military satellites", "Small research satellites", "Geostationary satellites", "Weather satellites"],
+                    "answer": "Small research satellites",
+                    "explanation": "CubeSats are small, low-cost satellites used for various research purposes, often developed by universities."
+                  },
+                  {
+                    "question": "Which satellite system is known for providing real-time location services?",
+                    "options": ["Hubble Space Telescope", "Navstar GPS", "Chandrayaan", "Voyager 2"],
+                    "answer": "Navstar GPS",
+                    "explanation": "The Navstar GPS system provides real-time location and navigation services worldwide."
+                  },
+                  {
+                    "question": "What is a satellite constellation?",
+                    "options": ["A group of stars", "A group of satellites working together", "A large planet", "A type of orbit"],
+                    "answer": "A group of satellites working together",
+                    "explanation": "A satellite constellation consists of multiple satellites working in coordination to provide coverage over a large area."
+                  },
+                  {
+                    "question": "Which satellite is known for studying dark matter and dark energy?",
+                    "options": ["Kepler Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory", "James Webb Space Telescope"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope is designed to study dark matter and dark energy in the universe."
+                  },
+                  {
+                    "question": "What is the role of telemetry in satellite operations?",
+                    "options": ["Powering satellites", "Tracking satellite location", "Sending data to Earth", "Building satellites"],
+                    "answer": "Sending data to Earth",
+                    "explanation": "Telemetry refers to the process of collecting and transmitting data from satellites back to Earth for monitoring and analysis."
+                  },
+                  {
+                    "question": "What type of satellite is primarily used for scientific research in space?",
+                    "options": ["Weather satellites", "Earth observation satellites", "Scientific satellites", "Communication satellites"],
+                    "answer": "Scientific satellites",
+                    "explanation": "Scientific satellites are specifically designed for conducting experiments and gathering data for scientific research."
+                  },
+                  {
+                    "question": "Which satellite was launched to study the Sun?",
+                    "options": ["Parker Solar Probe", "Voyager 1", "Mars Reconnaissance Orbiter", "Chandrayaan-2"],
+                    "answer": "Parker Solar Probe",
+                    "explanation": "The Parker Solar Probe was launched to study the Sun's outer atmosphere and solar wind."
+                  }
+                ]
+              }              
+              
             ]
           },
           {
             "subtopicName": "Space Shuttles 🚀",
             "description": [
-              "Space shuttles were reusable spacecraft used by NASA to transport astronauts and cargo to space from 1981 to 2011.",
-              "The shuttle program included five orbiters, with the most famous being Challenger, Columbia, and Atlantis."
-            ],
+              "🚀 **Space shuttles** were revolutionary reusable spacecraft developed by **NASA** to transport **astronauts** and **cargo** to and from space, operating from **1981** to **2011**. These versatile vehicles played a crucial role in expanding our understanding of space.",
+              "🛠️ The **shuttle program** consisted of **five main orbiters**, with the most well-known being **Challenger**, **Columbia**, and **Atlantis**. Each shuttle was designed to carry out a variety of missions, including satellite deployment, scientific experiments, and construction of the **International Space Station (ISS)**.",
+              "🌌 The shuttles made **135 flights** in total, helping to advance human spaceflight and significantly contributing to scientific knowledge. They were instrumental in deploying and servicing satellites, conducting research in microgravity, and building and maintaining the ISS.",
+              "🔄 One of the defining features of the space shuttle was its reusability, allowing the same orbiter to be flown multiple times, which was a groundbreaking concept in space travel at the time. This reduced the costs associated with space missions and paved the way for future space exploration."
+            ]
+            ,
             "questionSets": [
               {
-                "level": "Easy",
                 "setNumber": 1,
                 "questions": [
                   {
@@ -426,21 +1036,140 @@
                     "options": ["Columbia", "Challenger", "Atlantis", "Discovery"],
                     "answer": "Columbia",
                     "explanation": "The space shuttle Columbia was the first shuttle to fly into space on April 12, 1981."
+                  },
+                  {
+                    "question": "How many missions did the space shuttle program conduct?",
+                    "options": ["135", "150", "120", "100"],
+                    "answer": "135",
+                    "explanation": "The space shuttle program conducted a total of 135 missions from 1981 to 2011."
+                  },
+                  {
+                    "question": "Which space shuttle tragically broke apart shortly after launch in 1986?",
+                    "options": ["Atlantis", "Challenger", "Columbia", "Discovery"],
+                    "answer": "Challenger",
+                    "explanation": "The Challenger space shuttle broke apart 73 seconds after launch on January 28, 1986, resulting in the loss of all seven crew members."
+                  },
+                  {
+                    "question": "What is the primary purpose of the space shuttle?",
+                    "options": ["Scientific research", "Carrying astronauts to the Moon", "Launching satellites", "Transporting astronauts and cargo to and from space"],
+                    "answer": "Transporting astronauts and cargo to and from space",
+                    "explanation": "The primary purpose of the space shuttle was to transport astronauts and cargo to and from low Earth orbit."
+                  },
+                  {
+                    "question": "Which space shuttle was used to repair the Hubble Space Telescope?",
+                    "options": ["Columbia", "Atlantis", "Endeavour", "Discovery"],
+                    "answer": "Atlantis",
+                    "explanation": "The Atlantis space shuttle was used in multiple missions to service and repair the Hubble Space Telescope."
+                  },
+                  {
+                    "question": "What was the last space shuttle to fly?",
+                    "options": ["Challenger", "Discovery", "Atlantis", "Endeavour"],
+                    "answer": "Atlantis",
+                    "explanation": "The last space shuttle flight was STS-135, conducted by Atlantis, which launched on July 8, 2011."
+                  },
+                  {
+                    "question": "Which space shuttle was known for its unique black and white color scheme?",
+                    "options": ["Discovery", "Challenger", "Atlantis", "Endeavour"],
+                    "answer": "Endeavour",
+                    "explanation": "The Endeavour space shuttle had a distinctive black and white color scheme and was built to replace Challenger."
+                  },
+                  {
+                    "question": "What kind of engines did the space shuttle use for launch?",
+                    "options": ["Rocket engines", "Ion thrusters", "Jet engines", "Nuclear engines"],
+                    "answer": "Rocket engines",
+                    "explanation": "The space shuttle used a combination of solid rocket boosters and main engines powered by liquid fuel for launch."
+                  },
+                  {
+                    "question": "How long did the space shuttle program last?",
+                    "options": ["20 years", "30 years", "25 years", "15 years"],
+                    "answer": "30 years",
+                    "explanation": "The space shuttle program lasted from 1981 to 2011, totaling approximately 30 years."
+                  },
+                  {
+                    "question": "What was the main vehicle for launching astronauts and cargo into low Earth orbit?",
+                    "options": ["SpaceX Falcon 9", "Saturn V", "Space Shuttle", "Atlas V"],
+                    "answer": "Space Shuttle",
+                    "explanation": "The Space Shuttle was the primary vehicle for launching astronauts and cargo into low Earth orbit during its operational period."
                   }
                 ]
-              }
+              },
+              {
+                "setNumber": 2,
+                "questions": [
+                  {
+                    "question": "Which space shuttle was involved in the first successful mission of the program?",
+                    "options": ["Discovery", "Columbia", "Challenger", "Atlantis"],
+                    "answer": "Columbia",
+                    "explanation": "Columbia was involved in the first successful space shuttle mission, STS-1, which launched on April 12, 1981."
+                  },
+                  {
+                    "question": "What was the main advantage of the space shuttle's design?",
+                    "options": ["Reusability", "Speed", "Size", "Color"],
+                    "answer": "Reusability",
+                    "explanation": "The main advantage of the space shuttle's design was its reusability, allowing for multiple flights with the same vehicle."
+                  },
+                  {
+                    "question": "What significant event occurred during STS-107?",
+                    "options": ["First flight of the shuttle", "Landing on the Moon", "Columbia disaster", "Hubble repair mission"],
+                    "answer": "Columbia disaster",
+                    "explanation": "STS-107 was the mission during which the space shuttle Columbia disintegrated upon re-entry on February 1, 2003."
+                  },
+                  {
+                    "question": "How many crew members could a space shuttle typically carry?",
+                    "options": ["4", "7", "10", "12"],
+                    "answer": "7",
+                    "explanation": "The space shuttle could typically carry up to 7 crew members on each mission."
+                  },
+                  {
+                    "question": "What material was used to protect the shuttle from extreme heat during re-entry?",
+                    "options": ["Titanium", "Ceramic tiles", "Aluminum", "Steel"],
+                    "answer": "Ceramic tiles",
+                    "explanation": "The space shuttle used ceramic tiles as heat shields to protect it from the extreme temperatures during re-entry."
+                  },
+                  {
+                    "question": "Which space shuttle was named after a famous explorer?",
+                    "options": ["Discovery", "Endeavour", "Atlantis", "Challenger"],
+                    "answer": "Endeavour",
+                    "explanation": "The space shuttle Endeavour was named after the ship used by British explorer Captain James Cook."
+                  },
+                  {
+                    "question": "What was the primary fuel used in the shuttle's main engines?",
+                    "options": ["Hydrogen and oxygen", "Kerosene", "Propane", "Methane"],
+                    "answer": "Hydrogen and oxygen",
+                    "explanation": "The space shuttle's main engines used a combination of liquid hydrogen and liquid oxygen as fuel."
+                  },
+                  {
+                    "question": "What was the primary purpose of the external fuel tank?",
+                    "options": ["To provide power", "To store solid rocket boosters", "To hold liquid fuel for launch", "To protect the shuttle from debris"],
+                    "answer": "To hold liquid fuel for launch",
+                    "explanation": "The external fuel tank held the liquid fuel needed for the shuttle's main engines during launch."
+                  },
+                  {
+                    "question": "How was the space shuttle transported to the launch site?",
+                    "options": ["On a barge", "By train", "By airplane", "On a special vehicle"],
+                    "answer": "By train",
+                    "explanation": "The space shuttle was transported to the launch site on a special railway system known as the 'Crawler-Transporter.'"
+                  },
+                  {
+                    "question": "What kind of payloads could the space shuttle carry?",
+                    "options": ["Only astronauts", "Scientific instruments", "Satellites", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "The space shuttle could carry a variety of payloads, including astronauts, scientific instruments, and satellites."
+                  }
+                ]
+              }                            
             ]
           },
           {
             "subtopicName": "Space Telescopes 🔭",
             "description": [
-              "Space telescopes are instruments in outer space used to observe astronomical objects free from the distortion of Earth's atmosphere.",
-              "They are capable of observing a wide range of wavelengths, from visible light to infrared, ultraviolet, and X-rays, providing astronomers with clearer views of distant celestial objects.",
-              "Notable space telescopes include the Hubble Space Telescope, James Webb Space Telescope, and Chandra X-ray Observatory."
+              "🔭 **Space telescopes** are instruments in outer space used to observe astronomical objects free from the distortion of Earth's atmosphere.",
+              "🌈 They are capable of observing a wide range of wavelengths, from visible light to infrared, ultraviolet, and X-rays, providing astronomers with clearer views of distant celestial objects.",
+              "✨ Notable space telescopes include the **Hubble Space Telescope**, **James Webb Space Telescope**, and **Chandra X-ray Observatory**.",
+              "🌌 These telescopes have contributed immensely to our understanding of the universe, revealing the formation of galaxies, the existence of exoplanets, and the behavior of black holes."
             ],
             "questionSets": [
               {
-                "level": "Easy",
                 "setNumber": 1,
                 "questions": [
                   {
@@ -513,15 +1242,17 @@
         "topicName": "India’s Space Missions 🌕",
         "subtopics": [
             {
-                "subtopicName": "India's Moon Missions",
+                "subtopicName": "India's Moon Missions 🌙",
                 "description": [
-                  "India has undertaken several successful missions to the Moon, led by the Indian Space Research Organisation (ISRO).",
-                  "The Chandrayaan missions have been groundbreaking, with Chandrayaan-1 discovering water molecules on the lunar surface and Chandrayaan-2 attempting a soft landing on the Moon's south pole.",
-                  "In 2023, Chandrayaan-3 successfully achieved a soft landing on the lunar south pole, making India the first country to do so."
-                ],
+                  "India has undertaken several successful missions to the Moon, led by the **Indian Space Research Organisation (ISRO)**. 🚀 The first mission, Chandrayaan-1, was launched in 2008 and marked India's entry into lunar exploration.",
+                  "🚀 The **Chandrayaan missions** have been groundbreaking, with **Chandrayaan-1** discovering water molecules on the lunar surface and **Chandrayaan-2** attempting a soft landing on the Moon's south pole.",
+                  "🌕 In 2023, **Chandrayaan-3** successfully achieved a soft landing on the lunar south pole, making India the first country to do so.",
+                  "🌌 These missions not only enhance our understanding of the Moon's geology and resources but also demonstrate India's growing capabilities in space exploration and technology."
+                ]
+                
+                ,
                 "questionSets": [
                   {
-                    "level": "Easy",
                     "setNumber": 1,
                     "questions": [
                       {
@@ -591,13 +1322,14 @@
               {
                 "subtopicName": "India’s Mars Missions 🔴",
                 "description": [
-                  "India's Mars exploration efforts are led by ISRO (Indian Space Research Organisation), with the Mars Orbiter Mission (MOM), also known as Mangalyaan, being the first successful mission.",
-                  "Launched in 2013, the Mars Orbiter Mission made India the first Asian country to reach Mars and the fourth space agency in the world to do so.",
-                  "Mangalyaan's primary objective was to explore the Martian surface, atmosphere, and mineral composition."
+                  "🇮🇳 **India** has made remarkable strides in space exploration, with its **Mars Orbiter Mission (MOM)**, also known as **Mangalyaan**, leading the charge in interplanetary missions.",
+                  "🚀 **Launched in November 2013** by **ISRO (Indian Space Research Organisation)**, Mangalyaan made India the **first Asian country** to reach Mars and the **fourth space agency** globally to achieve this milestone.",
+                  "🔴 The mission aimed to explore the **Martian surface**, study the **atmosphere**, and analyze the **mineral composition** of the Red Planet, adding to humanity's understanding of Mars.",
+                  "🌍 Mangalyaan’s successful entry into Mars orbit at a relatively low cost brought India global recognition in space exploration, demonstrating the nation’s capabilities in achieving high-impact space missions efficiently.",
+                  "🛰️ As a **technological marvel**, Mangalyaan also demonstrated ISRO's ability to design, build, and launch interplanetary missions on a limited budget, marking a significant moment in India's space history."
                 ],
                 "questionSets": [
                   {
-                    "level": "Easy",
                     "setNumber": 1,
                     "questions": [
                       {
@@ -685,14 +1417,16 @@
         "topicName": "People in Space 👩‍🚀",
         "subtopics": [
           {
-            "subtopicName": "Austronaut",
+            "subtopicName": "Astronaut",
             "description": [
-              "Neil Armstrong became the first human to set foot on the Moon on July 20, 1969, as part of NASA's Apollo 11 mission.",
-              "His famous words, 'That's one small step for man, one giant leap for mankind,' are remembered as a milestone in space exploration."
-            ],
+              "👨‍🚀 **Astronauts** are highly trained individuals who travel into space to conduct research, perform experiments, and carry out missions beyond Earth’s atmosphere. They are crucial to advancing our understanding of space and human capabilities in extreme environments.",
+              "🌌 Becoming an astronaut requires extensive training in various fields, including **science**, **engineering**, and **physical fitness**. Candidates often have backgrounds in **aviation**, **scientific research**, or **medical fields**, and they undergo rigorous training to prepare for the challenges of space travel.",
+              "🚀 Astronauts are responsible for operating spacecraft, conducting spacewalks, and performing experiments that can only be done in microgravity. Their work helps improve life on Earth through advancements in technology, materials, and medicine derived from space research.",
+              "🛰️ Astronauts often spend long periods aboard the **International Space Station (ISS)**, where they collaborate with international teams on scientific experiments and research projects aimed at understanding everything from human biology to climate change."
+            ]
+            ,
             "questionSets": [
               {
-                "level": "Easy",
                 "setNumber": 1,
                 "questions": [
                   {
@@ -700,9 +1434,128 @@
                     "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
                     "answer": "Neil Armstrong",
                     "explanation": "Neil Armstrong was the first person to walk on the Moon during the Apollo 11 mission in 1969."
+                  },
+                  {
+                    "question": "Which astronaut was the first woman in space?",
+                    "options": ["Sally Ride", "Valentina Tereshkova", "Mae Jemison", "Eileen Collins"],
+                    "answer": "Valentina Tereshkova",
+                    "explanation": "Valentina Tereshkova became the first woman to travel to space in 1963 aboard Vostok 6."
+                  },
+                  {
+                    "question": "What is the name of the first American astronaut in space?",
+                    "options": ["Alan Shepard", "John Glenn", "Gus Grissom", "Neil Armstrong"],
+                    "answer": "Alan Shepard",
+                    "explanation": "Alan Shepard was the first American astronaut to travel to space on May 5, 1961, during the Freedom 7 mission."
+                  },
+                  {
+                    "question": "Who was the first astronaut to spend an entire year in space?",
+                    "options": ["Scott Kelly", "Gennady Padalka", "Valentina Tereshkova", "Frank Rubio"],
+                    "answer": "Scott Kelly",
+                    "explanation": "Scott Kelly spent 340 consecutive days aboard the International Space Station (ISS) from 2015 to 2016."
+                  },
+                  {
+                    "question": "Which astronaut flew the first mission of the Space Shuttle program?",
+                    "options": ["John Young", "Richard Truly", "Bob Crippen", "Fred Gregory"],
+                    "answer": "Bob Crippen",
+                    "explanation": "Bob Crippen was the commander of the first Space Shuttle mission, STS-1, which launched in April 1981."
+                  },
+                  {
+                    "question": "Who was the first astronaut to conduct a spacewalk?",
+                    "options": ["Alexey Leonov", "Ed White", "Jim Lovell", "Buzz Aldrin"],
+                    "answer": "Alexey Leonov",
+                    "explanation": "Alexey Leonov was the first person to conduct a spacewalk (extravehicular activity) on March 18, 1965."
+                  },
+                  {
+                    "question": "What is the name of the NASA program that landed humans on the Moon?",
+                    "options": ["Apollo", "Mercury", "Gemini", "Skylab"],
+                    "answer": "Apollo",
+                    "explanation": "The Apollo program was the NASA program that successfully landed humans on the Moon between 1969 and 1972."
+                  },
+                  {
+                    "question": "Which astronaut was the first to fly in space twice?",
+                    "options": ["John Glenn", "Gus Grissom", "Frank Borman", "Neil Armstrong"],
+                    "answer": "Gus Grissom",
+                    "explanation": "Gus Grissom was the first astronaut to fly in space twice, first on Liberty Bell 7 and then on Gemini 3."
+                  },
+                  {
+                    "question": "What is the main job of an astronaut aboard the International Space Station?",
+                    "options": ["Repairing satellites", "Conducting scientific research", "Space tourism", "Training for missions"],
+                    "answer": "Conducting scientific research",
+                    "explanation": "Astronauts aboard the ISS conduct scientific research in microgravity, studying everything from biology to physics."
+                  },
+                  {
+                    "question": "Who was the first person to fly in space?",
+                    "options": ["Neil Armstrong", "Yuri Gagarin", "Alan Shepard", "John Glenn"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin was the first person to fly in space on April 12, 1961, aboard Vostok 1."
                   }
                 ]
-              }
+              },
+              {
+                "setNumber": 2,
+                "questions": [
+                  {
+                    "question": "Which astronaut was the first to circle the Earth?",
+                    "options": ["John Glenn", "Yuri Gagarin", "Neil Armstrong", "Alan Shepard"],
+                    "answer": "John Glenn",
+                    "explanation": "John Glenn was the first American to orbit the Earth, completing three orbits on February 20, 1962, aboard Friendship 7."
+                  },
+                  {
+                    "question": "What is the term for an astronaut's training before going into space?",
+                    "options": ["Pre-flight training", "Space training", "Astronaut training", "Mission training"],
+                    "answer": "Astronaut training",
+                    "explanation": "Astronaut training involves rigorous physical and mental preparation for missions, including simulations and technical training."
+                  },
+                  {
+                    "question": "Who was the first astronaut to command a Space Shuttle mission?",
+                    "options": ["John Young", "Bob Crippen", "Richard Truly", "Fred Gregory"],
+                    "answer": "John Young",
+                    "explanation": "John Young was the commander of the first Space Shuttle mission, STS-1, alongside pilot Bob Crippen in 1981."
+                  },
+                  {
+                    "question": "Which astronaut became the first African American in space?",
+                    "options": ["Charles Bolden", "Mae Jemison", "Guion Bluford", "Jeanette Epps"],
+                    "answer": "Guion Bluford",
+                    "explanation": "Guion Bluford became the first African American in space on August 30, 1983, aboard the STS-8 mission."
+                  },
+                  {
+                    "question": "What is the name of the program that sent astronauts to the Moon?",
+                    "options": ["Apollo", "Gemini", "Mercury", "Orion"],
+                    "answer": "Apollo",
+                    "explanation": "The Apollo program was a series of missions that landed humans on the Moon from 1969 to 1972."
+                  },
+                  {
+                    "question": "Who was the first astronaut to live on the International Space Station?",
+                    "options": ["Sergei Krikalev", "Yuri Malyshev", "Chris Hadfield", "Scott Kelly"],
+                    "answer": "Sergei Krikalev",
+                    "explanation": "Sergei Krikalev was part of the first crew to inhabit the International Space Station in November 2000."
+                  },
+                  {
+                    "question": "What do astronauts wear during spacewalks?",
+                    "options": ["Space suits", "Flight suits", "Casual wear", "Pressure suits"],
+                    "answer": "Space suits",
+                    "explanation": "Astronauts wear specialized space suits during spacewalks to protect them from the harsh environment of space."
+                  },
+                  {
+                    "question": "Which astronaut was the first woman to command a Space Shuttle mission?",
+                    "options": ["Sally Ride", "Eileen Collins", "Mae Jemison", "Linda Godwin"],
+                    "answer": "Eileen Collins",
+                    "explanation": "Eileen Collins was the first woman to command a Space Shuttle mission, leading STS-93 in 1999."
+                  },
+                  {
+                    "question": "How many astronauts walked on the Moon during the Apollo program?",
+                    "options": ["12", "10", "14", "8"],
+                    "answer": "12",
+                    "explanation": "A total of 12 astronauts walked on the Moon during the Apollo program between 1969 and 1972."
+                  },
+                  {
+                    "question": "Which astronaut is known for his 'Space Oddity' music video filmed in space?",
+                    "options": ["Chris Hadfield", "Buzz Aldrin", "Mark Kelly", "Scott Kelly"],
+                    "answer": "Chris Hadfield",
+                    "explanation": "Chris Hadfield is known for his performance of 'Space Oddity' while aboard the International Space Station in 2013."
+                  }
+                ]
+              }                            
             ]
           }
         ]

@@ -20,9 +20,9 @@ export const localised = {
   `📝 More Explanation of **${subtopicName}:**\n${description}`,
   difficulty: `🎯 Choose your quiz level to get started!🚀`,
   rightAnswer: (explanation: string) =>
-  `🌟 Fantastic! You got it 👍right!\nCheck this out: **${explanation}**`,
+  `🌟 Fantastic! You got it 👍right!\n 🎯Check this out: **${explanation}**`,
   wrongAnswer: (correctAnswer: string, explanation: string) =>
- `👎Not quite right, but you’re learning! 💪\nThe correct answer is: **${correctAnswer}**\nHere’s the explanation: **${explanation}**`,
+    `👎 Not quite right, but you’re learning! 💪\nThe correct answer is: **${correctAnswer}** 🎯\n\nHere’s the explanation: **${explanation}** 🧠`,
   score: (score: number, totalQuestions: number, badge:string) =>
   `🌟 Great job! Your score is **${score}** out of **${totalQuestions}**.\n\n💪 Congratulations! You earned ${badge} badge! `,
    

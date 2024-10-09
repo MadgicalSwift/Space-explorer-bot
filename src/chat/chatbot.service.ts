@@ -261,7 +261,7 @@ export class ChatbotService {
 
     // Handle text message input - reset user data and send a welcome message
     else{
-
+      console.log(text.body)
       if (localised.validText.includes(text.body)) {
         const userData = await this.userService.findUserByMobileNumber(
           from,
