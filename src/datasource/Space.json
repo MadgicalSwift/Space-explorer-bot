@@ -76,7 +76,593 @@
                   "explanation": "Sirius is a binary star system consisting of Sirius A and Sirius B, making it one of the closest binary systems to Earth."
                 }
               ]
-            }
+            },
+            {
+              "setNumber": 2,
+              "questions": [
+                {
+                  "question": "Which is the second closest star system to Earth after the Sun?",
+                  "options": ["Alpha Centauri", "Sirius", "Proxima Centauri", "Betelgeuse"],
+                  "answer": "Proxima Centauri",
+                  "explanation": "Proxima Centauri is the second closest star to Earth, located about 4.24 light years away."
+                },
+                {
+                  "question": "What color is the hottest star?",
+                  "options": ["Red", "Blue", "Yellow", "White"],
+                  "answer": "Blue",
+                  "explanation": "Blue stars are the hottest, with surface temperatures reaching tens of thousands of degrees Celsius."
+                },
+                {
+                  "question": "What is the lifecycle stage of our Sun?",
+                  "options": ["Red giant", "White dwarf", "Main sequence", "Supernova"],
+                  "answer": "Main sequence",
+                  "explanation": "The Sun is currently in its main sequence phase, where it fuses hydrogen into helium."
+                },
+                {
+                  "question": "What is the name of the bright star in the constellation Orion?",
+                  "options": ["Sirius", "Betelgeuse", "Vega", "Polaris"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse is a red supergiant star located in the Orion constellation and is one of the brightest stars in the night sky."
+                },
+                {
+                  "question": "Which element is most abundant in stars?",
+                  "options": ["Helium", "Carbon", "Oxygen", "Hydrogen"],
+                  "answer": "Hydrogen",
+                  "explanation": "Hydrogen is the most abundant element in stars, making up about 75% of their mass."
+                },
+                {
+                  "question": "What type of star is the Sun?",
+                  "options": ["Red giant", "White dwarf", "G-type main-sequence star", "Neutron star"],
+                  "answer": "G-type main-sequence star",
+                  "explanation": "The Sun is classified as a G-type main-sequence star, also known as a yellow dwarf."
+                },
+                {
+                  "question": "Which star is the brightest in the night sky?",
+                  "options": ["Sirius", "Vega", "Polaris", "Betelgeuse"],
+                  "answer": "Sirius",
+                  "explanation": "Sirius, also known as the Dog Star, is the brightest star visible from Earth in the night sky."
+                },
+                {
+                  "question": "What will the Sun eventually become at the end of its life?",
+                  "options": ["Black hole", "Neutron star", "White dwarf", "Supernova"],
+                  "answer": "White dwarf",
+                  "explanation": "The Sun will eventually shed its outer layers and shrink to become a white dwarf at the end of its life cycle."
+                },
+                {
+                  "question": "What constellation is the North Star, Polaris, part of?",
+                  "options": ["Orion", "Ursa Major", "Ursa Minor", "Cassiopeia"],
+                  "answer": "Ursa Minor",
+                  "explanation": "Polaris, the North Star, is part of the Ursa Minor constellation and is used for navigation."
+                },
+                {
+                  "question": "What is the largest type of star by volume?",
+                  "options": ["Red giant", "Supergiant", "Neutron star", "White dwarf"],
+                  "answer": "Supergiant",
+                  "explanation": "Supergiants are the largest stars by volume, many times the size of our Sun."
+                }
+              ]
+            },
+            {
+              "setNumber": 3,
+              "questions": [
+                {
+                  "question": "What type of star is Betelgeuse?",
+                  "options": ["Red giant", "Blue supergiant", "White dwarf", "Neutron star"],
+                  "answer": "Red giant",
+                  "explanation": "Betelgeuse is a red giant star located in the constellation Orion, nearing the end of its lifecycle."
+                },
+                {
+                  "question": "What is a supernova?",
+                  "options": ["A type of galaxy", "A giant planet", "The explosion of a dying star", "A comet"],
+                  "answer": "The explosion of a dying star",
+                  "explanation": "A supernova is the explosive death of a massive star after it has exhausted its nuclear fuel."
+                },
+                {
+                  "question": "What star is often referred to as the North Star?",
+                  "options": ["Vega", "Sirius", "Polaris", "Rigel"],
+                  "answer": "Polaris",
+                  "explanation": "Polaris is called the North Star because it is located almost directly above Earth's north pole."
+                },
+                {
+                  "question": "What is the approximate lifespan of a star like the Sun?",
+                  "options": ["10 million years", "1 billion years", "10 billion years", "100 billion years"],
+                  "answer": "10 billion years",
+                  "explanation": "Stars like the Sun typically have a lifespan of around 10 billion years."
+                },
+                {
+                  "question": "What is the final stage of a massive star's life?",
+                  "options": ["White dwarf", "Red giant", "Neutron star", "Main sequence star"],
+                  "answer": "Neutron star",
+                  "explanation": "A massive star ends its life as a neutron star or black hole, depending on its mass."
+                },
+                {
+                  "question": "What is the name of the star closest to the Sun?",
+                  "options": ["Alpha Centauri", "Proxima Centauri", "Vega", "Sirius"],
+                  "answer": "Proxima Centauri",
+                  "explanation": "Proxima Centauri is the closest known star to the Sun, located about 4.24 light-years away."
+                },
+                {
+                  "question": "Which star is the brightest in the constellation Lyra?",
+                  "options": ["Altair", "Sirius", "Vega", "Arcturus"],
+                  "answer": "Vega",
+                  "explanation": "Vega is the brightest star in the constellation Lyra and one of the brightest in the night sky."
+                },
+                {
+                  "question": "What type of stars are found at the end of their life cycle, having exhausted all their fuel?",
+                  "options": ["White dwarfs", "Neutron stars", "Red dwarfs", "Main sequence stars"],
+                  "answer": "White dwarfs",
+                  "explanation": "White dwarfs are the remnants of medium-sized stars that have exhausted their nuclear fuel."
+                },
+                {
+                  "question": "Which star is known for its variability in brightness over time?",
+                  "options": ["Polaris", "Betelgeuse", "Vega", "Rigel"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse is a variable star, meaning its brightness changes over time due to internal and external factors."
+                },
+                {
+                  "question": "Which star is known as the 'Evening Star' because it is often visible in the early evening?",
+                  "options": ["Sirius", "Polaris", "Vega", "Venus"],
+                  "answer": "Venus",
+                  "explanation": "Though not a star, Venus is often called the 'Evening Star' because it shines brightly in the early evening sky."
+                }
+              ]
+            },
+            {
+              "setNumber": 4,
+              "questions": [
+                {
+                  "question": "Which star is the brightest star visible from Earth?",
+                  "options": ["Betelgeuse", "Rigel", "Vega", "Sirius"],
+                  "answer": "Sirius",
+                  "explanation": "Sirius is the brightest star visible from Earth, also known as the Dog Star."
+                },
+                {
+                  "question": "What is a binary star system?",
+                  "options": ["A star with two planets", "A pair of stars orbiting each other", "Two black holes colliding", "A star going supernova"],
+                  "answer": "A pair of stars orbiting each other",
+                  "explanation": "A binary star system consists of two stars orbiting a common center of mass."
+                },
+                {
+                  "question": "Which star will eventually become a red giant?",
+                  "options": ["The Sun", "Sirius", "Polaris", "Betelgeuse"],
+                  "answer": "The Sun",
+                  "explanation": "The Sun will eventually become a red giant in about 5 billion years as it exhausts its hydrogen fuel."
+                },
+                {
+                  "question": "What happens in a supernova event?",
+                  "options": ["A black hole is formed", "A star collapses and explodes", "Planets are created", "A star is born"],
+                  "answer": "A star collapses and explodes",
+                  "explanation": "A supernova occurs when a star collapses under its own gravity and explodes."
+                },
+                {
+                  "question": "What star is often called the 'North Star' due to its position near Earth's North Pole?",
+                  "options": ["Sirius", "Vega", "Polaris", "Betelgeuse"],
+                  "answer": "Polaris",
+                  "explanation": "Polaris, or the North Star, is located near the celestial North Pole and is used for navigation."
+                },
+                {
+                  "question": "What is the largest type of star in terms of size?",
+                  "options": ["Neutron star", "Red dwarf", "White dwarf", "Supergiant"],
+                  "answer": "Supergiant",
+                  "explanation": "Supergiant stars are the largest stars by volume, far larger than our Sun."
+                },
+                {
+                  "question": "What is the primary fuel for stars during their main sequence phase?",
+                  "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+                  "answer": "Hydrogen",
+                  "explanation": "During the main sequence phase, stars primarily fuse hydrogen atoms into helium to generate energy."
+                },
+                {
+                  "question": "Which star is located at the center of our solar system?",
+                  "options": ["Alpha Centauri", "The Sun", "Sirius", "Polaris"],
+                  "answer": "The Sun",
+                  "explanation": "The Sun is located at the center of our solar system and provides light and energy to the planets."
+                },
+                {
+                  "question": "What determines the color of a star?",
+                  "options": ["Its distance from Earth", "Its size", "Its temperature", "Its age"],
+                  "answer": "Its temperature",
+                  "explanation": "A star's color is determined by its surface temperature, with blue being the hottest and red the coolest."
+                },
+                {
+                  "question": "Which star in the constellation Orion is expected to go supernova soon?",
+                  "options": ["Sirius", "Betelgeuse", "Polaris", "Rigel"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse is a red supergiant in Orion that is expected to go supernova within the next million years."
+                }
+              ]
+            },
+            {
+              "setNumber": 5,
+              "questions": [
+                {
+                  "question": "What are the small, dense remnants of a star called after a supernova?",
+                  "options": ["Neutron stars", "White dwarfs", "Black holes", "Red giants"],
+                  "answer": "Neutron stars",
+                  "explanation": "Neutron stars are incredibly dense remnants left behind after a supernova explosion."
+                },
+                {
+                  "question": "Which type of star is the smallest by size?",
+                  "options": ["Red giant", "White dwarf", "Neutron star", "Supergiant"],
+                  "answer": "Neutron star",
+                  "explanation": "Neutron stars are the smallest and densest type of star, often only 20 kilometers in diameter."
+                },
+                {
+                  "question": "What is a pulsar?",
+                  "options": ["A star about to explode", "A star that emits regular radio waves", "A very hot star", "A planet-forming star"],
+                  "answer": "A star that emits regular radio waves",
+                  "explanation": "A pulsar is a highly magnetized neutron star that emits beams of electromagnetic radiation, often detected as regular pulses of radio waves."
+                },
+                {
+                  "question": "What type of stars are known for burning out slowly due to their low mass?",
+                  "options": ["Supergiants", "Red dwarfs", "White dwarfs", "Blue giants"],
+                  "answer": "Red dwarfs",
+                  "explanation": "Red dwarfs are small, cool stars with long lifespans, burning through their fuel slowly."
+                },
+                {
+                  "question": "What happens when a massive star exhausts its nuclear fuel?",
+                  "options": ["It forms a black hole", "It becomes a white dwarf", "It expands into a red giant", "It turns into a brown dwarf"],
+                  "answer": "It forms a black hole",
+                  "explanation": "When a massive star runs out of fuel, it may collapse under its gravity and form a black hole."
+                },
+                {
+                  "question": "Which star in our galaxy is expected to explode as a supernova in the near future?",
+                  "options": ["Polaris", "Vega", "Sirius", "Betelgeuse"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse, a red supergiant star, is nearing the end of its life and is expected to go supernova."
+                },
+                {
+                  "question": "Which type of star is extremely dense, with a strong magnetic field, and emits X-rays?",
+                  "options": ["White dwarf", "Red giant", "Neutron star", "Supergiant"],
+                  "answer": "Neutron star",
+                  "explanation": "Neutron stars are extremely dense and can have strong magnetic fields, emitting X-rays."
+                },
+                {
+                  "question": "Which star type burns its fuel the fastest?",
+                  "options": ["Red dwarf", "Blue supergiant", "White dwarf", "Neutron star"],
+                  "answer": "Blue supergiant",
+                  "explanation": "Blue supergiants burn their fuel very quickly due to their high temperature and mass, resulting in a short lifespan."
+                },
+                {
+                  "question": "What is the next stage in the Sun's lifecycle?",
+                  "options": ["White dwarf", "Neutron star", "Red giant", "Black hole"],
+                  "answer": "Red giant",
+                  "explanation": "The Sun will expand into a red giant as it runs out of hydrogen in its core in about 5 billion years."
+                },
+                {
+                  "question": "Which type of stars are the largest by volume?",
+                  "options": ["Supergiants", "White dwarfs", "Neutron stars", "Red dwarfs"],
+                  "answer": "Supergiants",
+                  "explanation": "Supergiants are the largest stars by volume, far larger than our Sun."
+                }
+              ]
+            },
+            {
+              "setNumber": 6,
+              "questions": [
+                {
+                  "question": "What is the largest star visible to the naked eye in the night sky?",
+                  "options": ["Betelgeuse", "Antares", "Aldebaran", "Sirius"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse, a red supergiant in the Orion constellation, is one of the largest stars visible to the naked eye."
+                },
+                {
+                  "question": "What is the name of the process by which a star becomes a red giant?",
+                  "options": ["Fusion of helium", "Supernova", "Gravitational collapse", "Planetary nebula formation"],
+                  "answer": "Fusion of helium",
+                  "explanation": "A star becomes a red giant when it exhausts its hydrogen fuel and begins to fuse helium in its core."
+                },
+                {
+                  "question": "What is the remnant core of a low-mass star called after it sheds its outer layers?",
+                  "options": ["Neutron star", "White dwarf", "Black hole", "Supernova remnant"],
+                  "answer": "White dwarf",
+                  "explanation": "When a low-mass star like the Sun exhausts its fuel, it becomes a white dwarf after shedding its outer layers."
+                },
+                {
+                  "question": "Which element is primarily produced in the core of a star during its main sequence phase?",
+                  "options": ["Oxygen", "Carbon", "Helium", "Nitrogen"],
+                  "answer": "Helium",
+                  "explanation": "During the main sequence phase, stars fuse hydrogen into helium in their cores, producing vast amounts of energy."
+                },
+                {
+                  "question": "Which star is considered a red supergiant?",
+                  "options": ["Sirius", "Vega", "Betelgeuse", "Rigel"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse is a red supergiant star, nearing the end of its life, and will eventually explode as a supernova."
+                },
+                {
+                  "question": "What is the phenomenon called when a star suddenly increases in brightness due to an explosion?",
+                  "options": ["Nova", "Black hole", "Pulsar", "Brown dwarf"],
+                  "answer": "Nova",
+                  "explanation": "A nova occurs when a star suddenly increases in brightness due to a nuclear explosion on its surface."
+                },
+                {
+                  "question": "What star is the primary component of the Alpha Centauri system?",
+                  "options": ["Sirius A", "Alpha Centauri A", "Proxima Centauri", "Barnard's Star"],
+                  "answer": "Alpha Centauri A",
+                  "explanation": "Alpha Centauri A is one of the two primary stars in the Alpha Centauri system, the closest star system to the Sun."
+                },
+                {
+                  "question": "Which type of star is extremely dense and forms after a supernova explosion of a massive star?",
+                  "options": ["Neutron star", "White dwarf", "Red dwarf", "Main sequence star"],
+                  "answer": "Neutron star",
+                  "explanation": "A neutron star is formed from the collapsed core of a massive star after a supernova explosion, and is extremely dense."
+                },
+                {
+                  "question": "What type of star is the smallest and coolest in the main sequence?",
+                  "options": ["Red dwarf", "White dwarf", "Blue giant", "Neutron star"],
+                  "answer": "Red dwarf",
+                  "explanation": "Red dwarfs are the smallest and coolest stars in the main sequence, with a long lifespan compared to larger stars."
+                },
+                {
+                  "question": "What is the name of the bright star located in the constellation Lyra?",
+                  "options": ["Vega", "Sirius", "Betelgeuse", "Altair"],
+                  "answer": "Vega",
+                  "explanation": "Vega is the brightest star in the constellation Lyra and one of the brightest stars in the night sky."
+                }
+              ]
+            },
+            {
+              "setNumber": 7,
+              "questions": [
+                {
+                  "question": "What is the final stage of evolution for a star like the Sun?",
+                  "options": ["Red giant", "Supernova", "White dwarf", "Neutron star"],
+                  "answer": "White dwarf",
+                  "explanation": "A star like the Sun will end its life as a white dwarf after going through the red giant phase."
+                },
+                {
+                  "question": "Which element is most commonly formed during the process of nuclear fusion in stars?",
+                  "options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+                  "answer": "Helium",
+                  "explanation": "Helium is the main element formed during nuclear fusion in stars, as hydrogen atoms fuse together in the core."
+                },
+                {
+                  "question": "What type of star is known for its rapid spinning and emission of radio waves?",
+                  "options": ["Pulsar", "White dwarf", "Red giant", "Black hole"],
+                  "answer": "Pulsar",
+                  "explanation": "Pulsars are rapidly spinning neutron stars that emit beams of radio waves detectable from Earth."
+                },
+                {
+                  "question": "What is the surface temperature of the Sun?",
+                  "options": ["6,000°C", "1,000°C", "10,000°C", "15,000°C"],
+                  "answer": "6,000°C",
+                  "explanation": "The surface temperature of the Sun is approximately 6,000°C (5,773 Kelvin), which gives it its yellowish color."
+                },
+                {
+                  "question": "Which star is the main source of light for Earth?",
+                  "options": ["Proxima Centauri", "Sirius", "The Sun", "Betelgeuse"],
+                  "answer": "The Sun",
+                  "explanation": "The Sun is the primary source of light and energy for Earth, essential for sustaining life."
+                },
+                {
+                  "question": "What is the explosion of a massive star at the end of its life cycle called?",
+                  "options": ["Nova", "Supernova", "Neutron star", "Solar flare"],
+                  "answer": "Supernova",
+                  "explanation": "A supernova is the explosion of a massive star at the end of its life cycle, resulting in an extremely bright, powerful event."
+                },
+                {
+                  "question": "Which type of star is the most common in the Milky Way galaxy?",
+                  "options": ["Red dwarf", "Blue giant", "White dwarf", "Neutron star"],
+                  "answer": "Red dwarf",
+                  "explanation": "Red dwarfs are the most common type of star in the Milky Way galaxy, though they are not easily visible to the naked eye."
+                },
+                {
+                  "question": "What is the term for the region around a star where conditions are right for liquid water to exist?",
+                  "options": ["Event horizon", "Radiation belt", "Goldilocks zone", "Supernova remnant"],
+                  "answer": "Goldilocks zone",
+                  "explanation": "The Goldilocks zone is the habitable region around a star where conditions are just right for liquid water to exist."
+                },
+                {
+                  "question": "What kind of star is formed when a red giant sheds its outer layers and leaves a hot core behind?",
+                  "options": ["White dwarf", "Neutron star", "Black hole", "Brown dwarf"],
+                  "answer": "White dwarf",
+                  "explanation": "When a red giant sheds its outer layers, it leaves behind a dense, hot core called a white dwarf."
+                },
+                {
+                  "question": "Which star is located near the center of the Milky Way galaxy?",
+                  "options": ["Sirius", "Sagittarius A*", "Vega", "Polaris"],
+                  "answer": "Sagittarius A*",
+                  "explanation": "Sagittarius A* is a supermassive black hole located near the center of the Milky Way galaxy."
+                }
+              ]
+            },
+            {
+              "setNumber": 8,
+              "questions": [
+                {
+                  "question": "What is a protostar?",
+                  "options": ["A type of neutron star", "A newborn star", "A collapsing gas cloud that will become a star", "A dying star"],
+                  "answer": "A collapsing gas cloud that will become a star",
+                  "explanation": "A protostar is a collapsing cloud of gas and dust that is in the process of forming a new star."
+                },
+                {
+                  "question": "What is the name of the constellation that contains the Big Dipper?",
+                  "options": ["Orion", "Ursa Minor", "Ursa Major", "Cassiopeia"],
+                  "answer": "Ursa Major",
+                  "explanation": "The Big Dipper is part of the larger constellation Ursa Major, also known as the Great Bear."
+                },
+                {
+                  "question": "Which element is the heaviest element stars can produce through fusion before going supernova?",
+                  "options": ["Iron", "Gold", "Oxygen", "Carbon"],
+                  "answer": "Iron",
+                  "explanation": "Iron is the heaviest element that stars can produce through fusion before undergoing a supernova."
+                },
+                {
+                  "question": "What is the lifespan of a typical red dwarf star?",
+                  "options": ["10 million years", "1 billion years", "100 billion years", "10 trillion years"],
+                  "answer": "10 trillion years",
+                  "explanation": "Red dwarf stars have lifespans that can last up to 10 trillion years due to their slow energy consumption."
+                },
+                {
+                  "question": "What is the point at which a star can no longer sustain fusion in its core called?",
+                  "options": ["Main sequence", "Supernova", "White dwarf phase", "Chandrasekhar limit"],
+                  "answer": "Chandrasekhar limit",
+                  "explanation": "The Chandrasekhar limit is the maximum mass that a white dwarf can have before collapsing into a neutron star or black hole."
+                },
+                {
+                  "question": "Which type of star burns the hottest and is usually blue in color?",
+                  "options": ["Red giant", "Blue supergiant", "Red dwarf", "White dwarf"],
+                  "answer": "Blue supergiant",
+                  "explanation": "Blue supergiants are among the hottest stars, with surface temperatures exceeding 30,000°C, giving them a blue hue."
+                },
+                {
+                  "question": "Which famous star is part of the Summer Triangle asterism?",
+                  "options": ["Sirius", "Polaris", "Vega", "Betelgeuse"],
+                  "answer": "Vega",
+                  "explanation": "Vega is one of the three stars that form the Summer Triangle, an easily recognizable asterism in the northern hemisphere."
+                },
+                {
+                  "question": "What is the difference between a star cluster and a galaxy?",
+                  "options": ["A star cluster contains fewer stars", "A galaxy is smaller than a star cluster", "A star cluster has no planets", "A star cluster contains only blue stars"],
+                  "answer": "A star cluster contains fewer stars",
+                  "explanation": "A star cluster is a group of stars that are gravitationally bound, but it contains far fewer stars than a galaxy."
+                },
+                {
+                  "question": "What is the name given to the brightest star in the constellation Canis Major?",
+                  "options": ["Procyon", "Sirius", "Betelgeuse", "Altair"],
+                  "answer": "Sirius",
+                  "explanation": "Sirius, also known as the Dog Star, is the brightest star in the constellation Canis Major and the night sky."
+                },
+                {
+                  "question": "Which type of star can eventually collapse into a black hole?",
+                  "options": ["White dwarf", "Neutron star", "Red dwarf", "Massive star"],
+                  "answer": "Massive star",
+                  "explanation": "Massive stars can collapse into black holes after going through a supernova explosion."
+                }
+              ]
+            },
+            {
+              "setNumber": 9,
+              "questions": [
+                {
+                  "question": "Which element is primarily formed in supernova explosions?",
+                  "options": ["Iron", "Hydrogen", "Gold", "Carbon"],
+                  "answer": "Gold",
+                  "explanation": "Gold and other heavy elements are primarily formed in the extreme conditions of supernova explosions."
+                },
+                {
+                  "question": "What is the approximate age of the Sun?",
+                  "options": ["1 billion years", "4.6 billion years", "10 billion years", "20 billion years"],
+                  "answer": "4.6 billion years",
+                  "explanation": "The Sun is approximately 4.6 billion years old and is currently in its middle age."
+                },
+                {
+                  "question": "What do we call a large group of stars, gas, and dust bound together by gravity?",
+                  "options": ["Star cluster", "Planetary nebula", "Galaxy", "Quasar"],
+                  "answer": "Galaxy",
+                  "explanation": "A galaxy is a massive collection of stars, gas, and dust bound together by gravity, with the Milky Way being one example."
+                },
+                {
+                  "question": "What is the name of the process in which a star forms from a collapsing cloud of gas?",
+                  "options": ["Fusion", "Accretion", "Nebular hypothesis", "Gravitational collapse"],
+                  "answer": "Gravitational collapse",
+                  "explanation": "Stars form through gravitational collapse, where a cloud of gas and dust contracts due to its own gravity, eventually forming a protostar."
+                },
+                {
+                  "question": "What is the faint outer atmosphere of a star called?",
+                  "options": ["Corona", "Photosphere", "Chromosphere", "Radiation zone"],
+                  "answer": "Corona",
+                  "explanation": "The corona is the outermost part of a star's atmosphere, visible during solar eclipses."
+                },
+                {
+                  "question": "Which star is located closest to the North Pole of Earth's celestial sphere?",
+                  "options": ["Polaris", "Sirius", "Betelgeuse", "Aldebaran"],
+                  "answer": "Polaris",
+                  "explanation": "Polaris, also known as the North Star, is located near the celestial North Pole and has been used for navigation for centuries."
+                },
+                {
+                  "question": "What type of star will the Sun eventually become?",
+                  "options": ["Red giant", "White dwarf", "Neutron star", "Black hole"],
+                  "answer": "White dwarf",
+                  "explanation": "The Sun will expand into a red giant and eventually shed its outer layers, leaving behind a white dwarf."
+                },
+                {
+                  "question": "What do we call a star system with two stars orbiting each other?",
+                  "options": ["Binary star system", "Neutron star system", "Star cluster", "Quasar"],
+                  "answer": "Binary star system",
+                  "explanation": "A binary star system consists of two stars that orbit around a common center of mass."
+                },
+                {
+                  "question": "What is the most common chemical element found in stars?",
+                  "options": ["Oxygen", "Carbon", "Hydrogen", "Iron"],
+                  "answer": "Hydrogen",
+                  "explanation": "Hydrogen is the most common element in stars and serves as the primary fuel for nuclear fusion."
+                },
+                {
+                  "question": "What do astronomers call the explosion of a dying star?",
+                  "options": ["Black hole", "Pulsar", "Supernova", "Neutron star"],
+                  "answer": "Supernova",
+                  "explanation": "A supernova is the dramatic explosion of a dying star, releasing tremendous energy."
+                }
+              ]
+            },
+            {
+              "setNumber": 10,
+              "questions": [
+                {
+                  "question": "Which star is the brightest in the night sky?",
+                  "options": ["Sirius", "Betelgeuse", "Proxima Centauri", "Polaris"],
+                  "answer": "Sirius",
+                  "explanation": "Sirius, also known as the Dog Star, is the brightest star in the Earth's night sky."
+                },
+                {
+                  "question": "What is the term for the remnants of a low-mass star after it has shed its outer layers?",
+                  "options": ["Neutron star", "White dwarf", "Pulsar", "Supernova remnant"],
+                  "answer": "White dwarf",
+                  "explanation": "A white dwarf is the dense remnant of a low-mass star after it has shed its outer layers at the end of its life cycle."
+                },
+                {
+                  "question": "Which element is produced in the core of stars during their main sequence stage?",
+                  "options": ["Helium", "Carbon", "Oxygen", "Iron"],
+                  "answer": "Helium",
+                  "explanation": "Stars in their main sequence stage fuse hydrogen into helium in their cores to produce energy."
+                },
+                {
+                  "question": "Which star is located in the constellation Orion and is known for its red color?",
+                  "options": ["Rigel", "Betelgeuse", "Sirius", "Proxima Centauri"],
+                  "answer": "Betelgeuse",
+                  "explanation": "Betelgeuse is a red supergiant located in the constellation Orion and is known for its reddish hue."
+                },
+                {
+                  "question": "What phenomenon occurs when a star collapses into a small, dense object emitting regular radio pulses?",
+                  "options": ["Neutron star", "Pulsar", "Supernova", "Black hole"],
+                  "answer": "Pulsar",
+                  "explanation": "A pulsar is a type of neutron star that emits regular pulses of radiation, often detectable as radio waves."
+                },
+                {
+                  "question": "What is the most massive type of star found in the universe?",
+                  "options": ["Red giant", "Supergiant", "White dwarf", "Neutron star"],
+                  "answer": "Supergiant",
+                  "explanation": "Supergiants are the most massive stars, with sizes and masses far greater than the Sun."
+                },
+                {
+                  "question": "What is the name of the phase in which a star burns helium after it has exhausted its hydrogen?",
+                  "options": ["Red giant phase", "White dwarf phase", "Main sequence phase", "Black hole phase"],
+                  "answer": "Red giant phase",
+                  "explanation": "The red giant phase occurs when a star burns helium in its core after exhausting its hydrogen fuel."
+                },
+                {
+                  "question": "What is the term for a star system with three stars?",
+                  "options": ["Binary star system", "Triple star system", "Quasar", "Galaxy"],
+                  "answer": "Triple star system",
+                  "explanation": "A triple star system is a system with three stars that are gravitationally bound and orbit a common center of mass."
+                },
+                {
+                  "question": "What type of star is the Sun classified as?",
+                  "options": ["Red dwarf", "Yellow dwarf", "White dwarf", "Supergiant"],
+                  "answer": "Yellow dwarf",
+                  "explanation": "The Sun is classified as a yellow dwarf, a medium-sized star in the main sequence stage."
+                },
+                {
+                  "question": "Which star is the closest star to Earth besides the Sun?",
+                  "options": ["Alpha Centauri", "Proxima Centauri", "Betelgeuse", "Sirius"],
+                  "answer": "Proxima Centauri",
+                  "explanation": "Proxima Centauri, part of the Alpha Centauri system, is the closest star to Earth after the Sun."
+                }
+              ]
+            }            
+            
           ]
         },
         {
@@ -150,6 +736,591 @@
                   "options": ["Mercury", "Venus", "Earth", "Mars"],
                   "answer": "Venus",
                   "explanation": "Venus has a thick atmosphere of carbon dioxide, trapping heat and leading to surface temperatures hot enough to melt lead."
+                }
+              ]
+            },
+            {
+              "setNumber": 2,
+              "questions": [
+                {
+                  "question": "Which planet is closest to the Sun?",
+                  "options": ["Venus", "Mercury", "Earth", "Mars"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury is the closest planet to the Sun and has a very short orbital period of about 88 days."
+                },
+                {
+                  "question": "Which planet is known for its spectacular ring system?",
+                  "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn is famous for its extensive and bright ring system made mostly of ice particles."
+                },
+                {
+                  "question": "Which planet has the most moons?",
+                  "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter has the most moons in the solar system, with at least 79 known moons as of recent discoveries."
+                },
+                {
+                  "question": "Which planet has the longest day in the solar system?",
+                  "options": ["Venus", "Mercury", "Jupiter", "Uranus"],
+                  "answer": "Venus",
+                  "explanation": "A day on Venus (the time it takes to complete one rotation) lasts longer than its year due to its slow rotation."
+                },
+                {
+                  "question": "Which planet is known for its Great Red Spot, a giant storm?",
+                  "options": ["Saturn", "Mars", "Jupiter", "Uranus"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter’s Great Red Spot is a massive storm that has been raging for at least 400 years."
+                },
+                {
+                  "question": "Which planet is tilted on its side, causing extreme seasonal variations?",
+                  "options": ["Uranus", "Saturn", "Earth", "Neptune"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus is tilted at an angle of about 98 degrees, which makes it unique among the planets and causes extreme seasons."
+                },
+                {
+                  "question": "Which planet has a surface covered with thick clouds of sulfuric acid?",
+                  "options": ["Mars", "Mercury", "Venus", "Earth"],
+                  "answer": "Venus",
+                  "explanation": "Venus is shrouded in thick clouds of sulfuric acid, which reflect sunlight and trap heat, making it the hottest planet."
+                },
+                {
+                  "question": "Which planet is known as the 'Ice Giant' along with Uranus?",
+                  "options": ["Neptune", "Saturn", "Mars", "Jupiter"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune, like Uranus, is classified as an Ice Giant because of its composition, primarily made of water, ammonia, and methane ices."
+                },
+                {
+                  "question": "Which planet is sometimes called Earth's 'twin' due to its similar size and composition?",
+                  "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+                  "answer": "Venus",
+                  "explanation": "Venus is called Earth's 'twin' because the two planets are similar in size, mass, and composition, though Venus has a very different atmosphere."
+                },
+                {
+                  "question": "Which planet takes the longest time to orbit the Sun?",
+                  "options": ["Neptune", "Saturn", "Jupiter", "Mars"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune takes about 165 Earth years to complete one orbit around the Sun, making it the planet with the longest year."
+                }
+              ]
+            },
+            {
+              "setNumber": 3,
+              "questions": [
+                {
+                  "question": "Which planet has the highest mountain in the solar system?",
+                  "options": ["Earth", "Venus", "Mars", "Mercury"],
+                  "answer": "Mars",
+                  "explanation": "Olympus Mons on Mars is the tallest volcano and mountain in the solar system, standing about 13.6 miles high."
+                },
+                {
+                  "question": "Which planet is the densest in our solar system?",
+                  "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+                  "answer": "Earth",
+                  "explanation": "Earth is the densest planet in the solar system due to its metal core and rocky composition."
+                },
+                {
+                  "question": "Which planet has the fastest winds in the solar system?",
+                  "options": ["Mars", "Jupiter", "Neptune", "Venus"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune experiences the fastest winds in the solar system, with speeds reaching up to 1,200 miles per hour."
+                },
+                {
+                  "question": "Which planet is known for having 'seasons' similar to Earth?",
+                  "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+                  "answer": "Mars",
+                  "explanation": "Mars has seasons similar to Earth because its tilt is close to Earth's tilt, which results in changing seasons."
+                },
+                {
+                  "question": "Which planet has no atmosphere to speak of?",
+                  "options": ["Mercury", "Venus", "Earth", "Mars"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury has a very thin atmosphere, known as an exosphere, that is not dense enough to support weather or life as we know it."
+                },
+                {
+                  "question": "Which planet's day is longer than its year?",
+                  "options": ["Venus", "Mars", "Mercury", "Saturn"],
+                  "answer": "Venus",
+                  "explanation": "Venus takes longer to complete one rotation on its axis (a day) than it does to orbit the Sun (a year)."
+                },
+                {
+                  "question": "Which planet has the most prominent system of rings?",
+                  "options": ["Jupiter", "Uranus", "Saturn", "Neptune"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn's rings are the most prominent and extensive ring system in the solar system, consisting of ice and rock particles."
+                },
+                {
+                  "question": "Which planet is home to the largest canyon in the solar system?",
+                  "options": ["Venus", "Mars", "Earth", "Mercury"],
+                  "answer": "Mars",
+                  "explanation": "Valles Marineris on Mars is the largest canyon in the solar system, stretching over 4,000 kilometers."
+                },
+                {
+                  "question": "Which planet is second from the Sun?",
+                  "options": ["Mercury", "Venus", "Earth", "Mars"],
+                  "answer": "Venus",
+                  "explanation": "Venus is the second planet from the Sun and is similar to Earth in size and composition but with a much harsher climate."
+                },
+                {
+                  "question": "Which planet is named after the Roman god of war?",
+                  "options": ["Mars", "Jupiter", "Mercury", "Neptune"],
+                  "answer": "Mars",
+                  "explanation": "Mars is named after the Roman god of war due to its reddish appearance, which is reminiscent of blood."
+                }
+              ]
+            },
+            {
+              "setNumber": 4,
+              "questions": [
+                {
+                  "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+                  "options": ["Venus", "Mars", "Mercury", "Saturn"],
+                  "answer": "Venus",
+                  "explanation": "Venus is often called the 'Morning Star' or 'Evening Star' because it is the brightest object in the sky at dawn or dusk."
+                },
+                {
+                  "question": "Which planet has a day that is almost the same length as its night?",
+                  "options": ["Earth", "Mars", "Venus", "Saturn"],
+                  "answer": "Earth",
+                  "explanation": "Earth's rotation gives us nearly equal day and night periods throughout the year, especially around the equinoxes."
+                },
+                {
+                  "question": "Which planet's moon, Titan, has lakes of liquid methane and ethane?",
+                  "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn’s largest moon, Titan, is the only known moon in the solar system with stable lakes and rivers of liquid methane and ethane."
+                },
+                {
+                  "question": "Which planet has the coldest average surface temperature in the solar system?",
+                  "options": ["Neptune", "Uranus", "Pluto", "Mars"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune, being far from the Sun, has the coldest average surface temperature of any planet in the solar system."
+                },
+                {
+                  "question": "Which planet is sometimes called the 'Blue Planet' due to its abundant water?",
+                  "options": ["Earth", "Mars", "Neptune", "Jupiter"],
+                  "answer": "Earth",
+                  "explanation": "Earth is known as the 'Blue Planet' because its surface is covered by about 71% water, giving it a blue appearance from space."
+                },
+                {
+                  "question": "Which planet was demoted to a 'dwarf planet' in 2006?",
+                  "options": ["Neptune", "Mars", "Pluto", "Uranus"],
+                  "answer": "Pluto",
+                  "explanation": "In 2006, Pluto was reclassified as a dwarf planet by the International Astronomical Union due to its inability to clear its orbit."
+                },
+                {
+                  "question": "Which planet has the shortest day, rotating once every 10 hours?",
+                  "options": ["Jupiter", "Earth", "Saturn", "Mars"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter has the shortest day of any planet, completing one full rotation in just under 10 hours."
+                },
+                {
+                  "question": "Which planet was visited by the Voyager 2 spacecraft in 1989?",
+                  "options": ["Jupiter", "Uranus", "Neptune", "Saturn"],
+                  "answer": "Neptune",
+                  "explanation": "Voyager 2 flew by Neptune in 1989, providing the first close-up images of the planet and its moons."
+                },
+                {
+                  "question": "Which planet is tilted at an angle of 97.77 degrees, giving it extreme seasons?",
+                  "options": ["Earth", "Mars", "Uranus", "Venus"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus is tilted at nearly 98 degrees, which results in extreme seasonal variations with one pole facing the Sun for half of its orbit."
+                },
+                {
+                  "question": "Which planet has the largest known volcano in the solar system?",
+                  "options": ["Earth", "Mars", "Venus", "Mercury"],
+                  "answer": "Mars",
+                  "explanation": "Mars is home to Olympus Mons, the largest volcano and shield volcano in the solar system."
+                }
+              ]
+            },
+            {
+              "setNumber": 5,
+              "questions": [
+                {
+                  "question": "Which planet has moons named after characters from Shakespeare and Pope?",
+                  "options": ["Uranus", "Saturn", "Neptune", "Mars"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus' moons are named after characters from the works of Shakespeare and Alexander Pope, including Titania, Oberon, and Miranda."
+                },
+                {
+                  "question": "Which planet has a thick atmosphere that causes a runaway greenhouse effect?",
+                  "options": ["Venus", "Earth", "Mars", "Jupiter"],
+                  "answer": "Venus",
+                  "explanation": "Venus has a thick atmosphere mainly composed of carbon dioxide, causing a strong greenhouse effect and making it the hottest planet."
+                },
+                {
+                  "question": "Which planet is known for its extremely bright appearance in the night sky?",
+                  "options": ["Venus", "Mars", "Saturn", "Neptune"],
+                  "answer": "Venus",
+                  "explanation": "Venus is the brightest planet in the night sky and can often be seen just before sunrise or after sunset."
+                },
+                {
+                  "question": "Which planet has seasons similar to Earth's due to a similar axial tilt?",
+                  "options": ["Mars", "Venus", "Jupiter", "Neptune"],
+                  "answer": "Mars",
+                  "explanation": "Mars has seasons similar to Earth's because its axial tilt is close to that of Earth, resulting in similar seasonal cycles."
+                },
+                {
+                  "question": "Which planet has a large storm system known as the Great Dark Spot?",
+                  "options": ["Jupiter", "Saturn", "Neptune", "Mars"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune's Great Dark Spot was a giant storm similar to Jupiter's Great Red Spot, though it has since disappeared."
+                },
+                {
+                  "question": "Which planet has the largest moon in the solar system?",
+                  "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter's moon Ganymede is the largest moon in the solar system, even bigger than the planet Mercury."
+                },
+                {
+                  "question": "Which planet has a day that is about 24.6 hours long?",
+                  "options": ["Earth", "Mars", "Mercury", "Venus"],
+                  "answer": "Mars",
+                  "explanation": "A day on Mars, or one full rotation on its axis, lasts about 24.6 Earth hours, making it similar to Earth's day length."
+                },
+                {
+                  "question": "Which planet is sometimes referred to as Earth's 'sister planet'?",
+                  "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+                  "answer": "Venus",
+                  "explanation": "Venus is often called Earth's 'sister planet' because of their similar size and proximity to the Sun, although their environments are vastly different."
+                },
+                {
+                  "question": "Which planet's day lasts 58 Earth days?",
+                  "options": ["Mercury", "Venus", "Mars", "Earth"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury takes about 58 Earth days to complete one full rotation on its axis, making its day very long compared to Earth's."
+                },
+                {
+                  "question": "Which planet's atmosphere is mostly composed of hydrogen and helium?",
+                  "options": ["Jupiter", "Earth", "Mars", "Venus"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter's atmosphere is primarily composed of hydrogen and helium, similar to the Sun's composition."
+                }
+              ]
+            },
+            {
+              "setNumber": 6,
+              "questions": [
+                {
+                  "question": "Which planet is the smallest in the solar system?",
+                  "options": ["Mars", "Mercury", "Venus", "Earth"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury is the smallest planet in our solar system, with a diameter of only about 4,880 kilometers."
+                },
+                {
+                  "question": "Which planet is known for having a storm system called the 'Hexagon' at its north pole?",
+                  "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn has a unique hexagonal storm system at its north pole, which has puzzled scientists for years."
+                },
+                {
+                  "question": "Which planet has the hottest surface temperature in the solar system?",
+                  "options": ["Mercury", "Venus", "Earth", "Mars"],
+                  "answer": "Venus",
+                  "explanation": "Venus has the hottest surface temperature in the solar system, reaching temperatures of up to 475°C due to its thick atmosphere and greenhouse gases."
+                },
+                {
+                  "question": "Which planet was the first to be discovered using a telescope?",
+                  "options": ["Uranus", "Neptune", "Jupiter", "Saturn"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus was the first planet discovered with a telescope by William Herschel in 1781."
+                },
+                {
+                  "question": "Which planet is known for having the largest canyon system in the solar system?",
+                  "options": ["Mars", "Earth", "Mercury", "Venus"],
+                  "answer": "Mars",
+                  "explanation": "Valles Marineris on Mars is the largest canyon system in the solar system, stretching over 4,000 kilometers in length."
+                },
+                {
+                  "question": "Which planet's name comes from the Roman god of the sea?",
+                  "options": ["Neptune", "Jupiter", "Mars", "Saturn"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune is named after the Roman god of the sea, fitting its deep blue color and distant location in the solar system."
+                },
+                {
+                  "question": "Which planet has an atmosphere mostly composed of carbon dioxide?",
+                  "options": ["Venus", "Earth", "Jupiter", "Mars"],
+                  "answer": "Venus",
+                  "explanation": "Venus' thick atmosphere is mostly made of carbon dioxide, contributing to its extreme greenhouse effect and high surface temperatures."
+                },
+                {
+                  "question": "Which planet's orbit lies between Mars and Jupiter?",
+                  "options": ["Venus", "Saturn", "Mercury", "There is no planet between Mars and Jupiter"],
+                  "answer": "There is no planet between Mars and Jupiter",
+                  "explanation": "There is no planet between Mars and Jupiter; instead, the asteroid belt occupies this region of the solar system."
+                },
+                {
+                  "question": "Which planet is home to a vast magnetic field that is tilted significantly from its rotation axis?",
+                  "options": ["Uranus", "Mars", "Neptune", "Earth"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus has a magnetic field that is tilted by about 60 degrees from its rotation axis, creating unusual magnetic field behavior."
+                },
+                {
+                  "question": "Which planet rotates in the opposite direction to most planets in the solar system?",
+                  "options": ["Earth", "Venus", "Mars", "Jupiter"],
+                  "answer": "Venus",
+                  "explanation": "Venus rotates from east to west, in the opposite direction to most planets in the solar system, a phenomenon known as retrograde rotation."
+                }
+              ]
+            },
+            {
+              "setNumber": 7,
+              "questions": [
+                {
+                  "question": "Which planet is known for having a Great Red Spot, a massive storm?",
+                  "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter's Great Red Spot is a giant storm that has been raging for hundreds of years and is larger than Earth."
+                },
+                {
+                  "question": "Which planet has the most moons?",
+                  "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn has the most moons, with over 80 confirmed moons orbiting it, including the large moon Titan."
+                },
+                {
+                  "question": "Which planet is tilted on its side, causing extreme seasonal changes?",
+                  "options": ["Venus", "Earth", "Uranus", "Neptune"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus has a tilt of 98 degrees, which causes one hemisphere to experience 42 years of daylight followed by 42 years of darkness."
+                },
+                {
+                  "question": "Which planet has a day longer than its year?",
+                  "options": ["Mercury", "Venus", "Earth", "Mars"],
+                  "answer": "Venus",
+                  "explanation": "A day on Venus, or the time it takes to rotate once on its axis, is longer than its orbital period around the Sun."
+                },
+                {
+                  "question": "Which planet has the fastest winds in the solar system?",
+                  "options": ["Mars", "Neptune", "Saturn", "Jupiter"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune experiences winds reaching speeds of over 2,000 km/h, the fastest recorded in the solar system."
+                },
+                {
+                  "question": "Which planet is the densest in our solar system?",
+                  "options": ["Mercury", "Venus", "Earth", "Mars"],
+                  "answer": "Earth",
+                  "explanation": "Earth is the densest planet in the solar system, with a solid core and an average density of about 5.5 g/cm³."
+                },
+                {
+                  "question": "Which planet has the longest orbital period around the Sun?",
+                  "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune takes about 165 Earth years to complete one orbit around the Sun, making it the planet with the longest year."
+                },
+                {
+                  "question": "Which planet's atmosphere is mostly composed of nitrogen and oxygen?",
+                  "options": ["Venus", "Earth", "Mars", "Neptune"],
+                  "answer": "Earth",
+                  "explanation": "Earth's atmosphere is unique in the solar system, consisting mostly of nitrogen (78%) and oxygen (21%), which supports life."
+                },
+                {
+                  "question": "Which planet has polar ice caps made of frozen carbon dioxide and water ice?",
+                  "options": ["Earth", "Mars", "Saturn", "Neptune"],
+                  "answer": "Mars",
+                  "explanation": "Mars has polar ice caps that contain both frozen carbon dioxide (dry ice) and water ice, which grow and recede with the seasons."
+                },
+                {
+                  "question": "Which planet has a surface temperature hot enough to melt lead?",
+                  "options": ["Mercury", "Venus", "Earth", "Mars"],
+                  "answer": "Venus",
+                  "explanation": "Venus has a surface temperature of around 475°C (900°F), hot enough to melt lead, due to its thick, heat-trapping atmosphere."
+                }
+              ]
+            },
+            {
+              "setNumber": 8,
+              "questions": [
+                {
+                  "question": "Which planet has rings made primarily of ice particles?",
+                  "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn is famous for its extensive ring system, composed mostly of ice particles and smaller amounts of rocky debris."
+                },
+                {
+                  "question": "Which planet has a moon with active volcanoes?",
+                  "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter's moon Io is the most volcanically active body in the solar system, with hundreds of active volcanoes."
+                },
+                {
+                  "question": "Which planet is the farthest from the Sun?",
+                  "options": ["Saturn", "Uranus", "Neptune", "Pluto"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune is the farthest planet from the Sun, orbiting at a distance of about 4.5 billion kilometers."
+                },
+                {
+                  "question": "Which planet experiences the greenhouse effect most strongly?",
+                  "options": ["Earth", "Mars", "Venus", "Neptune"],
+                  "answer": "Venus",
+                  "explanation": "Venus experiences a runaway greenhouse effect, causing its surface temperatures to rise to extremes."
+                },
+                {
+                  "question": "Which planet has a unique feature known as Olympus Mons, the tallest volcano in the solar system?",
+                  "options": ["Earth", "Mars", "Mercury", "Venus"],
+                  "answer": "Mars",
+                  "explanation": "Olympus Mons on Mars is the tallest volcano and the largest planetary mountain in the solar system."
+                },
+                {
+                  "question": "Which planet is home to the largest storm in the solar system, known as the Great Dark Spot?",
+                  "options": ["Jupiter", "Neptune", "Saturn", "Uranus"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune's Great Dark Spot is a massive storm similar to Jupiter's Great Red Spot but shorter-lived."
+                },
+                {
+                  "question": "Which planet has a thick atmosphere of methane, giving it a blue color?",
+                  "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune appears blue due to the methane in its atmosphere, which absorbs red light and reflects blue."
+                },
+                {
+                  "question": "Which planet has two moons named Phobos and Deimos?",
+                  "options": ["Mars", "Saturn", "Jupiter", "Earth"],
+                  "answer": "Mars",
+                  "explanation": "Mars has two small moons, Phobos and Deimos, which are believed to be captured asteroids."
+                },
+                {
+                  "question": "Which planet is closest to the Sun?",
+                  "options": ["Venus", "Mercury", "Earth", "Mars"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury is the closest planet to the Sun, orbiting at an average distance of about 58 million kilometers."
+                },
+                {
+                  "question": "Which planet takes approximately 84 Earth years to complete one orbit around the Sun?",
+                  "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus takes about 84 Earth years to complete one orbit around the Sun due to its distant position in the solar system."
+                }
+              ]
+            },
+            {
+              "setNumber": 9,
+              "questions": [
+                {
+                  "question": "Which planet has the shortest day, rotating once every 10 hours?",
+                  "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter has the shortest day in the solar system, rotating once on its axis every 10 hours."
+                },
+                {
+                  "question": "Which planet has the thickest atmosphere?",
+                  "options": ["Venus", "Earth", "Mars", "Neptune"],
+                  "answer": "Venus",
+                  "explanation": "Venus has the thickest atmosphere among the planets, composed mainly of carbon dioxide with clouds of sulfuric acid."
+                },
+                {
+                  "question": "Which planet has no atmosphere, resulting in extreme temperature fluctuations?",
+                  "options": ["Venus", "Mars", "Mercury", "Earth"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury lacks a significant atmosphere, leading to drastic temperature changes between day and night."
+                },
+                {
+                  "question": "Which planet is known for having icy rings?",
+                  "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+                  "answer": "Saturn",
+                  "explanation": "Saturn is renowned for its magnificent icy rings, which are visible even with small telescopes."
+                },
+                {
+                  "question": "Which planet is the coldest in the solar system?",
+                  "options": ["Uranus", "Neptune", "Pluto", "Mars"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus is the coldest planet in the solar system, with atmospheric temperatures dropping to -224°C (-371°F)."
+                },
+                {
+                  "question": "Which planet was once classified as the ninth planet but is now considered a dwarf planet?",
+                  "options": ["Pluto", "Neptune", "Eris", "Ceres"],
+                  "answer": "Pluto",
+                  "explanation": "Pluto was reclassified as a dwarf planet in 2006, after new criteria for defining planets were established."
+                },
+                {
+                  "question": "Which planet has an atmosphere dominated by hydrogen and helium?",
+                  "options": ["Earth", "Jupiter", "Mars", "Venus"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter's atmosphere is mostly made up of hydrogen and helium, similar to the composition of the Sun."
+                },
+                {
+                  "question": "Which planet experiences the most extreme seasons due to its 98-degree tilt?",
+                  "options": ["Venus", "Uranus", "Mars", "Earth"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus' extreme axial tilt of 98 degrees causes it to have the most extreme seasonal variations in the solar system."
+                },
+                {
+                  "question": "Which planet's surface is dominated by craters from asteroid impacts?",
+                  "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury's surface is heavily cratered, resembling Earth's moon, due to constant impacts from asteroids and comets."
+                },
+                {
+                  "question": "Which planet has an ice giant composition with no solid surface?",
+                  "options": ["Neptune", "Saturn", "Mars", "Earth"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune is an ice giant, composed mainly of hydrogen, helium, and icy materials, with no solid surface."
+                }
+              ]
+            },
+            {
+              "setNumber": 10,
+              "questions": [
+                {
+                  "question": "Which planet was explored by the rover named Curiosity?",
+                  "options": ["Mars", "Venus", "Earth", "Mercury"],
+                  "answer": "Mars",
+                  "explanation": "NASA's Curiosity rover landed on Mars in 2012 and has been exploring the planet to study its climate and geology."
+                },
+                {
+                  "question": "Which planet has the second-highest number of moons after Saturn?",
+                  "options": ["Jupiter", "Mars", "Neptune", "Uranus"],
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter has the second-highest number of moons in the solar system, with 79 confirmed moons."
+                },
+                {
+                  "question": "Which planet's year is shorter than its day?",
+                  "options": ["Venus", "Mercury", "Earth", "Mars"],
+                  "answer": "Venus",
+                  "explanation": "Venus has a longer day (one rotation) than its year (one orbit around the Sun), due to its slow rotation speed."
+                },
+                {
+                  "question": "Which planet was named after the Roman god of war?",
+                  "options": ["Mars", "Jupiter", "Saturn", "Mercury"],
+                  "answer": "Mars",
+                  "explanation": "Mars is named after the Roman god of war, fitting its reddish color, which is reminiscent of blood."
+                },
+                {
+                  "question": "Which planet has the most elliptical orbit in the solar system?",
+                  "options": ["Pluto", "Mercury", "Mars", "Neptune"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury has the most elliptical (oval-shaped) orbit, with its distance from the Sun varying more than any other planet."
+                },
+                {
+                  "question": "Which planet's moon, Titan, has an atmosphere thicker than Earth's?",
+                  "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+                  "answer": "Saturn",
+                  "explanation": "Titan, Saturn's largest moon, has a dense atmosphere primarily composed of nitrogen, thicker than Earth's."
+                },
+                {
+                  "question": "Which planet was the first to be visited by a spacecraft?",
+                  "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+                  "answer": "Venus",
+                  "explanation": "Venus was the first planet to be visited by a spacecraft, with Mariner 2 flying by it in 1962."
+                },
+                {
+                  "question": "Which planet has a rotation axis tilted so much that it orbits the Sun on its side?",
+                  "options": ["Uranus", "Neptune", "Jupiter", "Earth"],
+                  "answer": "Uranus",
+                  "explanation": "Uranus' extreme tilt causes the planet to rotate on its side, leading to unusual seasonal changes."
+                },
+                {
+                  "question": "Which planet is known for its spectacular blue color?",
+                  "options": ["Neptune", "Uranus", "Mars", "Earth"],
+                  "answer": "Neptune",
+                  "explanation": "Neptune's blue color is due to the methane in its atmosphere, which absorbs red light and reflects blue."
+                },
+                {
+                  "question": "Which planet takes 88 Earth days to complete one orbit around the Sun?",
+                  "options": ["Venus", "Mars", "Mercury", "Earth"],
+                  "answer": "Mercury",
+                  "explanation": "Mercury takes only 88 Earth days to orbit the Sun, making it the fastest planet in the solar system."
                 }
               ]
             }
@@ -294,6 +1465,526 @@
                   "explanation": "Albert Einstein's theory of general relativity predicted the existence of black holes."
                 }
               ]
+            },
+            {
+              "setNumber": 3,
+              "questions": [
+                {
+                  "question": "Which of the following is a characteristic feature of black holes?",
+                  "options": ["They emit light", "They can be seen directly", "They have an event horizon", "They are cold objects"],
+                  "answer": "They have an event horizon",
+                  "explanation": "One of the defining features of a black hole is the event horizon, which marks the boundary beyond which nothing can escape."
+                },
+                {
+                  "question": "What is the term for the gravitational force that a black hole exerts on nearby objects?",
+                  "options": ["Gravity well", "Black gravity", "Singularity pull", "Event force"],
+                  "answer": "Gravity well",
+                  "explanation": "The gravitational force of a black hole creates a gravity well, pulling nearby matter towards it with immense strength."
+                },
+                {
+                  "question": "Which type of black hole is formed when a massive star undergoes a supernova explosion?",
+                  "options": ["Stellar black hole", "Supermassive black hole", "Primordial black hole", "Micro black hole"],
+                  "answer": "Stellar black hole",
+                  "explanation": "Stellar black holes are formed from the remnants of massive stars after they explode in supernovae."
+                },
+                {
+                  "question": "What is the boundary around a black hole called?",
+                  "options": ["Event horizon", "Schwarzschild radius", "Photon sphere", "Singularity"],
+                  "answer": "Event horizon",
+                  "explanation": "The event horizon is the boundary surrounding a black hole, beyond which nothing can escape."
+                },
+                {
+                  "question": "What is the point of infinite density at the center of a black hole called?",
+                  "options": ["Event horizon", "Singularity", "Core", "Nucleus"],
+                  "answer": "Singularity",
+                  "explanation": "The singularity is the point at the center of a black hole where density becomes infinite and the laws of physics as we know them break down."
+                },
+                {
+                  "question": "What type of black hole forms when a massive star exhausts its fuel and collapses?",
+                  "options": ["Supermassive black hole", "Stellar black hole", "Primordial black hole", "Supernova black hole"],
+                  "answer": "Stellar black hole",
+                  "explanation": "A stellar black hole forms from the gravitational collapse of a massive star at the end of its life cycle."
+                },
+                {
+                  "question": "What is the name of the disk formed by material spiraling into a black hole?",
+                  "options": ["Accretion disk", "Nebula", "Quasar", "Debris field"],
+                  "answer": "Accretion disk",
+                  "explanation": "An accretion disk is formed by the accumulation of gas and dust that spirals into a black hole, heating up and emitting radiation."
+                },
+                {
+                  "question": "What astronomical phenomenon is caused by the collision of two black holes?",
+                  "options": ["Neutron star formation", "Supernova", "Gravitational waves", "Gamma-ray bursts"],
+                  "answer": "Gravitational waves",
+                  "explanation": "The merger of two black holes produces gravitational waves, ripples in spacetime that can be detected by observatories."
+                },
+                {
+                  "question": "What method do scientists use to infer the presence of black holes?",
+                  "options": ["Observing stars in orbit", "Detecting gamma rays", "Studying cosmic microwave background", "Radio wave emissions"],
+                  "answer": "Observing stars in orbit",
+                  "explanation": "Scientists infer the presence of black holes by observing the motion of stars and gas around them, which suggests a massive, invisible object."
+                },
+                {
+                  "question": "What is the term for the theoretical particles that may escape from a black hole due to quantum effects?",
+                  "options": ["Neutrinos", "Photons", "Hawking radiation", "Gravitons"],
+                  "answer": "Hawking radiation",
+                  "explanation": "Hawking radiation is a theoretical prediction that black holes can emit particles, potentially allowing them to lose mass and energy over time."
+                }
+              ]
+            },            
+            {
+              "setNumber": 4,
+              "questions": [
+                {
+                  "question": "What is the Schwarzschild radius?",
+                  "options": ["The distance from a black hole where light can escape", "The size of a neutron star", "The radius of a black hole's event horizon", "The distance at which gravity becomes negligible"],
+                  "answer": "The radius of a black hole's event horizon",
+                  "explanation": "The Schwarzschild radius is the radius of the event horizon of a black hole, marking the point beyond which nothing can escape its gravitational pull."
+                },
+                {
+                  "question": "What happens to time as one approaches a black hole?",
+                  "options": ["Time speeds up", "Time slows down", "Time remains the same", "Time reverses"],
+                  "answer": "Time slows down",
+                  "explanation": "As one approaches a black hole, the intense gravity causes time to slow down relative to an observer far away from the black hole."
+                },
+                {
+                  "question": "Which type of black hole is believed to exist from the beginning of the universe?",
+                  "options": ["Stellar black hole", "Supermassive black hole", "Primordial black hole", "Intermediate black hole"],
+                  "answer": "Primordial black hole",
+                  "explanation": "Primordial black holes are theorized to have formed in the early universe due to density fluctuations and can vary in size."
+                },
+                {
+                  "question": "What is the effect called when light bends around a black hole?",
+                  "options": ["Gravitational lensing", "Redshift", "Photon sphere", "Time dilation"],
+                  "answer": "Gravitational lensing",
+                  "explanation": "Gravitational lensing occurs when the gravitational field of a black hole bends the path of light coming from objects behind it."
+                },
+                {
+                  "question": "What evidence supports the existence of black holes in the universe?",
+                  "options": ["X-ray emissions", "Gravitational waves", "Orbital motion of stars", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "Evidence for black holes includes X-ray emissions from accreting material, gravitational waves from mergers, and the orbital motion of stars around unseen objects."
+                },
+                {
+                  "question": "What is the maximum theoretical mass for a stellar black hole?",
+                  "options": ["About 20 solar masses", "About 50 solar masses", "About 100 solar masses", "There is no limit"],
+                  "answer": "About 50 solar masses",
+                  "explanation": "Stellar black holes typically form from stars with masses around 20-50 solar masses, as exceeding this limit can lead to different outcomes."
+                },
+                {
+                  "question": "What happens to the light emitted by objects falling into a black hole?",
+                  "options": ["It escapes the black hole", "It is redshifted", "It becomes blue-shifted", "It disappears"],
+                  "answer": "It is redshifted",
+                  "explanation": "Light emitted by objects falling into a black hole is redshifted due to the gravitational effects, making it appear longer in wavelength as it approaches the event horizon."
+                },
+                {
+                  "question": "Which scientist proposed the theory of Hawking radiation?",
+                  "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+                  "answer": "Stephen Hawking",
+                  "explanation": "Stephen Hawking proposed the concept of Hawking radiation, suggesting that black holes can emit radiation due to quantum effects near the event horizon."
+                },
+                {
+                  "question": "What is the term for a black hole that has formed from the remnants of a supernova?",
+                  "options": ["Stellar black hole", "Supermassive black hole", "Neutron star", "White dwarf"],
+                  "answer": "Stellar black hole",
+                  "explanation": "Stellar black holes are formed from the gravitational collapse of massive stars after they have exploded in a supernova."
+                },
+                {
+                  "question": "What is the relationship between black holes and galaxies?",
+                  "options": ["They are unrelated", "All galaxies contain black holes", "Black holes destroy galaxies", "Galaxies form from black holes"],
+                  "answer": "All galaxies contain black holes",
+                  "explanation": "Most galaxies, including our Milky Way, are believed to harbor supermassive black holes at their centers, influencing their formation and evolution."
+                }
+              ]
+            },
+            {
+              "setNumber": 5,
+              "questions": [
+                {
+                  "question": "What kind of light is emitted from the accretion disk of a black hole?",
+                  "options": ["Infrared", "Visible light", "X-rays", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "The accretion disk of a black hole emits a range of light, including X-rays, due to the intense heating of matter spiraling into the black hole."
+                },
+                {
+                  "question": "What is the primary factor determining a black hole's size?",
+                  "options": ["Its color", "Its mass", "Its age", "Its distance from Earth"],
+                  "answer": "Its mass",
+                  "explanation": "A black hole's size, specifically the radius of its event horizon, is directly related to its mass."
+                },
+                {
+                  "question": "What happens to an object as it approaches the event horizon of a black hole?",
+                  "options": ["It gets pulled into the black hole", "It accelerates indefinitely", "It experiences tidal forces", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "As an object approaches a black hole's event horizon, it is pulled in by gravity, accelerates, and experiences intense tidal forces."
+                },
+                {
+                  "question": "Which black hole is known for being the first black hole to be imaged directly?",
+                  "options": ["Sagittarius A*", "M87*", "Cygnus X-1", "V404 Cygni"],
+                  "answer": "M87*",
+                  "explanation": "The black hole in the center of the M87 galaxy, known as M87*, was the first to be directly imaged by the Event Horizon Telescope in 2019."
+                },
+                {
+                  "question": "What is the term for the area around a black hole where gravity is strong enough to trap light?",
+                  "options": ["Photon sphere", "Accretion disk", "Event horizon", "Singularity"],
+                  "answer": "Photon sphere",
+                  "explanation": "The photon sphere is the region outside the event horizon where gravity is strong enough to force light to travel in orbits."
+                },
+                {
+                  "question": "How does the mass of a black hole affect its gravitational pull?",
+                  "options": ["More mass equals less gravity", "More mass equals stronger gravity", "Mass has no effect on gravity", "All masses have the same gravity"],
+                  "answer": "More mass equals stronger gravity",
+                  "explanation": "The gravitational pull of a black hole increases with its mass; more massive black holes exert a stronger gravitational force."
+                },
+                {
+                  "question": "What is the phenomenon called when black holes merge together?",
+                  "options": ["Gravitational collapse", "Black hole coalescence", "Black hole merger", "Supernova"],
+                  "answer": "Black hole merger",
+                  "explanation": "When two black holes come close to each other, they can spiral inwards and merge, releasing gravitational waves in the process."
+                },
+                {
+                  "question": "What can happen to the mass of a black hole over time?",
+                  "options": ["It can increase", "It can decrease", "It can evaporate", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "The mass of a black hole can increase by accreting material, decrease due to Hawking radiation, or potentially evaporate entirely."
+                },
+                {
+                  "question": "Which black hole has been identified as the closest known black hole to Earth?",
+                  "options": ["V616 Monocerotis", "A0620-00", "Sagittarius A*", "Cygnus X-1"],
+                  "answer": "V616 Monocerotis",
+                  "explanation": "V616 Monocerotis, also known as A0620-00, is the closest known black hole to Earth, located about 3,000 light-years away."
+                },
+                {
+                  "question": "What is a 'naked singularity'?",
+                  "options": ["A black hole without an event horizon", "A visible black hole", "A star undergoing collapse", "A neutron star"],
+                  "answer": "A black hole without an event horizon",
+                  "explanation": "A naked singularity is a theoretical concept where a singularity is not hidden behind an event horizon, allowing light to escape."
+                }
+              ]
+            },
+            {
+              "setNumber": 6,
+              "questions": [
+                {
+                  "question": "What is the primary difference between stellar black holes and supermassive black holes?",
+                  "options": ["Their mass", "Their color", "Their location", "Their rotation speed"],
+                  "answer": "Their mass",
+                  "explanation": "Stellar black holes form from the collapse of massive stars, while supermassive black holes have masses millions to billions of times that of the Sun."
+                },
+                {
+                  "question": "What scientific tool is often used to observe black holes indirectly?",
+                  "options": ["Telescopes", "Spectrometers", "Gravitational wave detectors", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "Astronomers use telescopes to observe the effects of black holes, spectrometers to analyze emissions, and gravitational wave detectors to observe mergers."
+                },
+                {
+                  "question": "What is the effect of gravitational waves generated by black hole mergers?",
+                  "options": ["They create light", "They change the fabric of spacetime", "They create black holes", "They destroy matter"],
+                  "answer": "They change the fabric of spacetime",
+                  "explanation": "Gravitational waves are ripples in spacetime caused by accelerating masses, such as black holes merging."
+                },
+                {
+                  "question": "What is the main difference between black holes and wormholes?",
+                  "options": ["Black holes are visible, wormholes are not", "Wormholes connect different points in space", "Black holes emit light, wormholes absorb it", "There is no difference"],
+                  "answer": "Wormholes connect different points in space",
+                  "explanation": "While black holes are regions of extreme gravity, wormholes are theoretical passages through spacetime that could connect distant regions."
+                },
+                {
+                  "question": "What happens to matter that crosses the event horizon?",
+                  "options": ["It escapes", "It is destroyed", "It becomes part of the black hole", "It becomes a neutron star"],
+                  "answer": "It becomes part of the black hole",
+                  "explanation": "Matter that crosses the event horizon is irrevocably drawn into the black hole and contributes to its mass."
+                },
+                {
+                  "question": "How do black holes affect their surrounding space?",
+                  "options": ["They have no effect", "They distort spacetime", "They absorb all nearby objects", "They create new stars"],
+                  "answer": "They distort spacetime",
+                  "explanation": "Black holes warp the fabric of spacetime around them, influencing the paths of nearby objects and light."
+                },
+                {
+                  "question": "What is the 'no-hair theorem' in relation to black holes?",
+                  "options": ["Black holes have no unique properties", "All black holes are identical", "Black holes cannot grow", "All black holes can be observed"],
+                  "answer": "Black holes have no unique properties",
+                  "explanation": "The 'no-hair theorem' states that black holes can be completely described by only three properties: mass, charge, and angular momentum."
+                },
+                {
+                  "question": "What discovery did the Event Horizon Telescope make in 2019?",
+                  "options": ["First image of a black hole", "Detection of gravitational waves", "Discovery of a new planet", "Evidence of dark matter"],
+                  "answer": "First image of a black hole",
+                  "explanation": "In 2019, the Event Horizon Telescope captured the first image of a black hole, specifically in the center of the galaxy M87."
+                },
+                {
+                  "question": "What theoretical particles are associated with black holes and quantum mechanics?",
+                  "options": ["Electrons", "Quarks", "Bosons", "Hawking radiation"],
+                  "answer": "Hawking radiation",
+                  "explanation": "Hawking radiation is a theoretical prediction related to black holes and quantum mechanics, suggesting that black holes can emit radiation."
+                },
+                {
+                  "question": "What happens to a black hole when it consumes too much mass?",
+                  "options": ["It explodes", "It merges with another black hole", "It evaporates", "It can become supermassive"],
+                  "answer": "It can become supermassive",
+                  "explanation": "When a black hole consumes large amounts of mass, it can grow in size and become supermassive, often found at the centers of galaxies."
+                }
+              ]
+            },
+            {
+              "setNumber": 7,
+              "questions": [
+                {
+                  "question": "What is the fate of a star that is too massive to become a neutron star after it collapses?",
+                  "options": ["It becomes a white dwarf", "It forms a black hole", "It turns into a brown dwarf", "It forms a supernova remnant"],
+                  "answer": "It forms a black hole",
+                  "explanation": "If a star is massive enough, it can collapse under its own gravity to form a black hole after undergoing a supernova explosion."
+                },
+                {
+                  "question": "What happens to time near a black hole?",
+                  "options": ["Time speeds up", "Time slows down", "Time stops", "Time reverses"],
+                  "answer": "Time slows down",
+                  "explanation": "According to general relativity, time slows down near a black hole due to the intense gravitational field."
+                },
+                {
+                  "question": "What is the term for the intense gravitational pull exerted by black holes on objects near them?",
+                  "options": ["Tidal forces", "Spaghettification", "Gravitational distortion", "Inertia"],
+                  "answer": "Spaghettification",
+                  "explanation": "Spaghettification refers to the process where an object gets stretched into thin strips by the strong gravitational forces near a black hole."
+                },
+                {
+                  "question": "How do black holes grow in size?",
+                  "options": ["By merging with other stars", "By absorbing matter", "By rotating faster", "Through nuclear fusion"],
+                  "answer": "By absorbing matter",
+                  "explanation": "Black holes grow by accreting matter, which falls into them and increases their mass."
+                },
+                {
+                  "question": "What is the supermassive black hole at the center of the Milky Way galaxy called?",
+                  "options": ["Andromeda A", "Cygnus X-1", "Sagittarius A*", "Vega A"],
+                  "answer": "Sagittarius A*",
+                  "explanation": "Sagittarius A* is the name of the supermassive black hole located at the center of our galaxy."
+                },
+                {
+                  "question": "What kind of black hole is thought to have formed just after the Big Bang?",
+                  "options": ["Stellar black holes", "Supermassive black holes", "Primordial black holes", "Quantum black holes"],
+                  "answer": "Primordial black holes",
+                  "explanation": "Primordial black holes are hypothetical black holes that may have formed in the early universe due to density fluctuations."
+                },
+                {
+                  "question": "What happens to objects as they cross the event horizon of a black hole?",
+                  "options": ["They disappear", "They are crushed", "They escape", "They become invisible"],
+                  "answer": "They are crushed",
+                  "explanation": "Once objects cross the event horizon, they are pulled into the black hole and are eventually crushed by the immense gravitational force."
+                },
+                {
+                  "question": "What is a rotating black hole called?",
+                  "options": ["Schwarzschild black hole", "Kerr black hole", "Primordial black hole", "Quantum black hole"],
+                  "answer": "Kerr black hole",
+                  "explanation": "A Kerr black hole is a rotating black hole, which differs from non-rotating (Schwarzschild) black holes."
+                },
+                {
+                  "question": "What can scientists study to learn more about black holes?",
+                  "options": ["Radio waves", "Cosmic rays", "Accretion disks", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "Scientists study the effects of black holes on surrounding matter, accretion disks, and gravitational waves to learn more about them."
+                },
+                {
+                  "question": "Which scientist proposed the existence of black holes as part of general relativity?",
+                  "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Carl Sagan"],
+                  "answer": "Albert Einstein",
+                  "explanation": "Albert Einstein's theory of general relativity predicted the existence of black holes, though he was initially skeptical about their formation."
+                }
+              ]
+            },
+            {
+              "setNumber": 8,
+              "questions": [
+                {
+                  "question": "What is the minimum mass required for a star to collapse into a black hole?",
+                  "options": ["10 times the mass of the Sun", "5 times the mass of the Sun", "20 times the mass of the Sun", "2 times the mass of the Sun"],
+                  "answer": "5 times the mass of the Sun",
+                  "explanation": "Stars with a mass greater than 5 times that of the Sun can collapse into black holes after exhausting their nuclear fuel."
+                },
+                {
+                  "question": "What type of energy is released when black holes collide?",
+                  "options": ["Electromagnetic waves", "Gravitational waves", "X-rays", "Cosmic rays"],
+                  "answer": "Gravitational waves",
+                  "explanation": "The collision of black holes releases energy in the form of gravitational waves, which can be detected by observatories like LIGO."
+                },
+                {
+                  "question": "What theory combines general relativity and quantum mechanics to describe black holes?",
+                  "options": ["String theory", "Quantum gravity", "Hawking radiation", "Loop quantum gravity"],
+                  "answer": "Quantum gravity",
+                  "explanation": "Quantum gravity is the theoretical framework that attempts to combine quantum mechanics with general relativity to explain phenomena such as black holes."
+                },
+                {
+                  "question": "What is the process called when a black hole emits radiation due to quantum effects?",
+                  "options": ["Fission", "Quasar radiation", "Hawking radiation", "Neutrino emission"],
+                  "answer": "Hawking radiation",
+                  "explanation": "Hawking radiation is a theoretical process by which black holes can emit radiation, causing them to lose mass and eventually evaporate."
+                },
+                {
+                  "question": "Which space observatory was the first to photograph a black hole?",
+                  "options": ["Hubble Space Telescope", "Chandra X-ray Observatory", "Event Horizon Telescope", "Kepler Space Telescope"],
+                  "answer": "Event Horizon Telescope",
+                  "explanation": "In 2019, the Event Horizon Telescope captured the first-ever image of a black hole located in the M87 galaxy."
+                },
+                {
+                  "question": "What is the phenomenon called when light is bent around a black hole?",
+                  "options": ["Gravitational lensing", "Redshift", "Photon bending", "Time dilation"],
+                  "answer": "Gravitational lensing",
+                  "explanation": "Gravitational lensing occurs when the gravitational field of a massive object, like a black hole, bends the path of light passing near it."
+                },
+                {
+                  "question": "What is the distance from the center of a black hole to its event horizon called?",
+                  "options": ["Photon sphere", "Singularity", "Schwarzschild radius", "Kerr radius"],
+                  "answer": "Schwarzschild radius",
+                  "explanation": "The Schwarzschild radius is the distance from the center of a black hole to the event horizon, where the escape velocity equals the speed of light."
+                },
+                {
+                  "question": "How do black holes impact the space around them?",
+                  "options": ["They create wormholes", "They warp spacetime", "They slow down time", "Both B and C"],
+                  "answer": "Both B and C",
+                  "explanation": "Black holes warp spacetime and cause time to slow down near the event horizon due to their immense gravitational pull."
+                },
+                {
+                  "question": "What is the name of the phenomenon where particles escape from the vicinity of a black hole?",
+                  "options": ["Spaghettification", "Neutrino emission", "Hawking radiation", "Photon scattering"],
+                  "answer": "Hawking radiation",
+                  "explanation": "Hawking radiation refers to the particles that escape from the event horizon of a black hole due to quantum effects."
+                },
+                {
+                  "question": "Which type of black hole is the most massive?",
+                  "options": ["Primordial black hole", "Stellar black hole", "Intermediate black hole", "Supermassive black hole"],
+                  "answer": "Supermassive black hole",
+                  "explanation": "Supermassive black holes, located at the centers of galaxies, have masses millions to billions of times greater than the Sun."
+                }
+              ]
+            },
+            {
+              "setNumber": 9,
+              "questions": [
+                {
+                  "question": "What are the two types of black holes based on their mass?",
+                  "options": ["Stellar and supermassive", "Primordial and galactic", "Binary and isolated", "Dark and bright"],
+                  "answer": "Stellar and supermassive",
+                  "explanation": "Black holes are classified based on their mass, with stellar black holes being smaller and supermassive black holes being much larger and found in galaxy centers."
+                },
+                {
+                  "question": "How do scientists know that black holes exist?",
+                  "options": ["By observing light", "Through their gravitational effects", "By detecting sound", "Through cosmic radiation"],
+                  "answer": "Through their gravitational effects",
+                  "explanation": "Scientists infer the existence of black holes by observing their gravitational effects on nearby stars and matter."
+                },
+                {
+                  "question": "What happens to light as it passes near a black hole?",
+                  "options": ["It speeds up", "It gets absorbed", "It bends", "It changes color"],
+                  "answer": "It bends",
+                  "explanation": "The strong gravitational field of a black hole can bend light passing near it, a phenomenon known as gravitational lensing."
+                },
+                {
+                  "question": "What name is given to black holes that exist from the early universe?",
+                  "options": ["Stellar black holes", "Quantum black holes", "Primordial black holes", "Mini black holes"],
+                  "answer": "Primordial black holes",
+                  "explanation": "Primordial black holes are hypothetical black holes that may have formed shortly after the Big Bang."
+                },
+                {
+                  "question": "What is the name of the hypothetical black hole particle predicted by Stephen Hawking?",
+                  "options": ["Graviton", "Photon", "Hawking radiation", "Neutrino"],
+                  "answer": "Hawking radiation",
+                  "explanation": "Hawking radiation is the theoretical radiation predicted to be emitted from black holes due to quantum effects."
+                },
+                {
+                  "question": "What happens to an object as it approaches a black hole?",
+                  "options": ["It gets stretched", "It speeds up", "It becomes frozen in time", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "An object near a black hole experiences spaghettification (stretching), increasing speed, and time dilation due to the immense gravity."
+                },
+                {
+                  "question": "Which scientist's theory of general relativity predicted black holes?",
+                  "options": ["Isaac Newton", "Stephen Hawking", "Albert Einstein", "Carl Sagan"],
+                  "answer": "Albert Einstein",
+                  "explanation": "Albert Einstein's general theory of relativity predicted the existence of black holes, even though he initially doubted their existence."
+                },
+                {
+                  "question": "What is the radius of the event horizon of a black hole called?",
+                  "options": ["Photon sphere", "Event horizon radius", "Schwarzschild radius", "Gravitational radius"],
+                  "answer": "Schwarzschild radius",
+                  "explanation": "The Schwarzschild radius is the distance from the center of a black hole to its event horizon, where not even light can escape."
+                },
+                {
+                  "question": "How do stellar black holes form?",
+                  "options": ["From supernova explosions", "From collisions of galaxies", "From quasar collapses", "From planetary nebulae"],
+                  "answer": "From supernova explosions",
+                  "explanation": "Stellar black holes are formed when massive stars collapse after exhausting their fuel and undergoing a supernova explosion."
+                },
+                {
+                  "question": "What is the shape of a black hole’s event horizon?",
+                  "options": ["Spherical", "Cylindrical", "Flat", "Triangular"],
+                  "answer": "Spherical",
+                  "explanation": "The event horizon of a black hole is a spherical boundary around it, beyond which nothing can escape its gravitational pull."
+                }
+              ]
+            },
+            {
+              "setNumber": 10,
+              "questions": [
+                {
+                  "question": "What is the event horizon of a black hole?",
+                  "options": ["The point where light is trapped", "The surface of the singularity", "The outer edge of the accretion disk", "The boundary where escape velocity exceeds the speed of light"],
+                  "answer": "The boundary where escape velocity exceeds the speed of light",
+                  "explanation": "The event horizon is the boundary around a black hole where the escape velocity exceeds the speed of light, making it impossible for anything to escape."
+                },
+                {
+                  "question": "What happens to space and time near a black hole?",
+                  "options": ["They behave normally", "They are compressed", "They are warped", "They disappear"],
+                  "answer": "They are warped",
+                  "explanation": "Near a black hole, space and time are warped due to the extreme gravitational field."
+                },
+                {
+                  "question": "How do black holes affect the light from stars behind them?",
+                  "options": ["They brighten the light", "They change its color", "They bend it", "They block it completely"],
+                  "answer": "They bend it",
+                  "explanation": "Black holes bend light due to their strong gravitational pull, a phenomenon known as gravitational lensing."
+                },
+                {
+                  "question": "What is the term used to describe the stretching of objects near a black hole?",
+                  "options": ["Flattening", "Spaghettification", "Gravitational stretching", "Event expansion"],
+                  "answer": "Spaghettification",
+                  "explanation": "Spaghettification is the process by which objects are stretched into long, thin shapes by the extreme tidal forces near a black hole."
+                },
+                {
+                  "question": "What do black holes emit as a result of quantum effects?",
+                  "options": ["Gravitational waves", "Hawking radiation", "Cosmic rays", "Gamma rays"],
+                  "answer": "Hawking radiation",
+                  "explanation": "Black holes emit Hawking radiation, a form of theoretical radiation predicted by Stephen Hawking, which allows them to lose mass over time."
+                },
+                {
+                  "question": "What type of black hole has a mass similar to that of a single star?",
+                  "options": ["Primordial black hole", "Stellar black hole", "Supermassive black hole", "Galactic black hole"],
+                  "answer": "Stellar black hole",
+                  "explanation": "Stellar black holes are formed when a massive star collapses after a supernova, and they have masses similar to that of a star."
+                },
+                {
+                  "question": "What scientific instrument was used to capture the first image of a black hole?",
+                  "options": ["Hubble Space Telescope", "Event Horizon Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory"],
+                  "answer": "Event Horizon Telescope",
+                  "explanation": "The Event Horizon Telescope (EHT) captured the first image of a black hole in 2019."
+                },
+                {
+                  "question": "What phenomenon can occur when two black holes merge?",
+                  "options": ["Gamma-ray burst", "Neutrino emission", "Gravitational wave emission", "Cosmic inflation"],
+                  "answer": "Gravitational wave emission",
+                  "explanation": "When two black holes merge, they release gravitational waves, ripples in spacetime that can be detected by instruments like LIGO."
+                },
+                {
+                  "question": "What is the name of the boundary around a rotating black hole?",
+                  "options": ["Kerr horizon", "Photon sphere", "Event horizon", "Ergosphere"],
+                  "answer": "Ergosphere",
+                  "explanation": "The ergosphere is the region around a rotating black hole where spacetime is dragged along with the black hole's rotation."
+                },
+                {
+                  "question": "How do black holes affect time for an observer far away?",
+                  "options": ["Time speeds up near the black hole", "Time appears to stop", "Time appears to slow down", "Time flows in reverse"],
+                  "answer": "Time appears to slow down",
+                  "explanation": "Due to the intense gravitational field of a black hole, time appears to slow down for an observer far away, a phenomenon predicted by general relativity."
+                }
+              ]
             }
           ]
         },
@@ -434,6 +2125,526 @@
                   "options": ["5 billion years", "10 billion years", "15 billion years", "20 billion years"],
                   "answer": "10 billion years",
                   "explanation": "The Sun is expected to have a total lifespan of about 10 billion years; it is currently about halfway through its life."
+                }
+              ]
+            },
+            {
+              "setNumber": 3,
+              "questions": [
+                {
+                  "question": "What type of star is the Sun?",
+                  "options": ["Red giant", "White dwarf", "Yellow dwarf", "Blue supergiant"],
+                  "answer": "Yellow dwarf",
+                  "explanation": "The Sun is classified as a G-type main-sequence star, commonly known as a yellow dwarf."
+                },
+                {
+                  "question": "How long does it take sunlight to reach Earth?",
+                  "options": ["1 minute", "8 minutes", "24 minutes", "1 hour"],
+                  "answer": "8 minutes",
+                  "explanation": "Light from the Sun takes about 8 minutes and 20 seconds to travel the 93 million miles (150 million kilometers) to Earth."
+                },
+                {
+                  "question": "What is the outermost layer of the Sun called?",
+                  "options": ["Photosphere", "Corona", "Chromosphere", "Core"],
+                  "answer": "Corona",
+                  "explanation": "The corona is the outermost part of the Sun's atmosphere, extending millions of kilometers into space."
+                },
+                {
+                  "question": "Which element makes up most of the Sun's mass?",
+                  "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+                  "answer": "Hydrogen",
+                  "explanation": "About 75% of the Sun's mass is composed of hydrogen, which is the primary fuel for its nuclear fusion reactions."
+                },
+                {
+                  "question": "What process generates energy in the Sun’s core?",
+                  "options": ["Nuclear fusion", "Combustion", "Fission", "Magnetic convection"],
+                  "answer": "Nuclear fusion",
+                  "explanation": "The Sun produces energy through nuclear fusion, where hydrogen atoms combine to form helium, releasing massive amounts of energy."
+                },
+                {
+                  "question": "What is the visible surface of the Sun called?",
+                  "options": ["Photosphere", "Corona", "Chromosphere", "Solar wind"],
+                  "answer": "Photosphere",
+                  "explanation": "The photosphere is the layer of the Sun that emits the light we see from Earth."
+                },
+                {
+                  "question": "What is the Sun's approximate age?",
+                  "options": ["2 billion years", "4.6 billion years", "10 billion years", "1 billion years"],
+                  "answer": "4.6 billion years",
+                  "explanation": "The Sun is approximately 4.6 billion years old, having formed from a cloud of gas and dust in the Milky Way."
+                },
+                {
+                  "question": "What is a solar flare?",
+                  "options": ["A storm on Earth", "A sudden burst of radiation from the Sun", "A type of sunspot", "A reflection of sunlight"],
+                  "answer": "A sudden burst of radiation from the Sun",
+                  "explanation": "A solar flare is a sudden and intense burst of radiation from the Sun’s surface, often associated with sunspots."
+                },
+                {
+                  "question": "What phenomenon is caused by interactions between the solar wind and Earth’s magnetic field?",
+                  "options": ["Solar eclipse", "Aurora", "Sunspots", "Solar flares"],
+                  "answer": "Aurora",
+                  "explanation": "The aurora is caused by the solar wind interacting with Earth’s magnetic field, creating spectacular light displays in polar regions."
+                },
+                {
+                  "question": "What will happen to the Sun when it exhausts its nuclear fuel?",
+                  "options": ["It will explode", "It will become a black hole", "It will become a red giant", "It will remain unchanged"],
+                  "answer": "It will become a red giant",
+                  "explanation": "When the Sun exhausts its hydrogen fuel, it will expand into a red giant before eventually shedding its outer layers and becoming a white dwarf."
+                }
+              ]
+            },
+            {
+              "setNumber": 4,
+              "questions": [
+                {
+                  "question": "What percentage of the solar system's total mass does the Sun contain?",
+                  "options": ["50%", "75%", "99.8%", "25%"],
+                  "answer": "99.8%",
+                  "explanation": "The Sun contains 99.8% of the total mass in our solar system, making it by far the largest object in the system."
+                },
+                {
+                  "question": "What are the dark spots visible on the Sun’s surface called?",
+                  "options": ["Solar flares", "Coronal holes", "Sunspots", "Solar winds"],
+                  "answer": "Sunspots",
+                  "explanation": "Sunspots are dark areas on the Sun’s surface caused by magnetic activity, where the surface is cooler than the surrounding areas."
+                },
+                {
+                  "question": "What is the Sun's core temperature estimated to be?",
+                  "options": ["5,000°C", "10,000°C", "1 million°C", "15 million°C"],
+                  "answer": "15 million°C",
+                  "explanation": "The temperature at the Sun’s core is estimated to be around 15 million degrees Celsius, where nuclear fusion occurs."
+                },
+                {
+                  "question": "What effect does solar activity have on communication systems on Earth?",
+                  "options": ["No effect", "It strengthens signals", "It disrupts signals", "It reflects signals"],
+                  "answer": "It disrupts signals",
+                  "explanation": "Solar activity, like solar flares and coronal mass ejections, can disrupt communication and GPS systems on Earth by affecting the ionosphere."
+                },
+                {
+                  "question": "What is the solar wind?",
+                  "options": ["Winds on Earth caused by the Sun", "A stream of charged particles emitted by the Sun", "Storms on the Sun’s surface", "Hot air in the Sun’s atmosphere"],
+                  "answer": "A stream of charged particles emitted by the Sun",
+                  "explanation": "The solar wind is a stream of charged particles, mainly protons and electrons, emitted by the Sun and flowing through the solar system."
+                },
+                {
+                  "question": "Which layer of the Sun lies between the core and the photosphere?",
+                  "options": ["Chromosphere", "Convective zone", "Radiative zone", "Corona"],
+                  "answer": "Radiative zone",
+                  "explanation": "The radiative zone lies between the core and the convective zone, where energy is transported outward through radiation."
+                },
+                {
+                  "question": "What is the approximate diameter of the Sun?",
+                  "options": ["100,000 km", "1.4 million km", "500,000 km", "10 million km"],
+                  "answer": "1.4 million km",
+                  "explanation": "The Sun has an approximate diameter of 1.4 million kilometers, making it 109 times larger than Earth."
+                },
+                {
+                  "question": "What is the energy output of the Sun commonly measured in?",
+                  "options": ["Joules", "Watts", "Electron volts", "Kelvins"],
+                  "answer": "Watts",
+                  "explanation": "The energy output of the Sun is measured in watts, with a total power output of about 3.8 x 10^26 watts."
+                },
+                {
+                  "question": "What layer of the Sun is visible during a solar eclipse?",
+                  "options": ["Chromosphere", "Corona", "Core", "Photosphere"],
+                  "answer": "Corona",
+                  "explanation": "During a total solar eclipse, the Sun's corona, the outermost layer of its atmosphere, becomes visible."
+                },
+                {
+                  "question": "How does the Sun generate its magnetic field?",
+                  "options": ["Through gravitational forces", "Through solar flares", "Through differential rotation", "By absorbing energy from space"],
+                  "answer": "Through differential rotation",
+                  "explanation": "The Sun's magnetic field is generated by its differential rotation, where different parts of the Sun rotate at different speeds."
+                }
+              ]
+            },
+            {
+              "setNumber": 5,
+              "questions": [
+                {
+                  "question": "What is the Sun primarily composed of?",
+                  "options": ["Oxygen and nitrogen", "Carbon and helium", "Hydrogen and helium", "Iron and nickel"],
+                  "answer": "Hydrogen and helium",
+                  "explanation": "The Sun is composed of about 75% hydrogen and 24% helium by mass, with small amounts of other elements."
+                },
+                {
+                  "question": "What is the solar cycle?",
+                  "options": ["A daily rotation of the Sun", "A seasonal change in the Sun's energy", "An 11-year cycle of sunspot activity", "A process of nuclear fusion"],
+                  "answer": "An 11-year cycle of sunspot activity",
+                  "explanation": "The solar cycle is an approximately 11-year cycle in which the number of sunspots on the Sun's surface increases and decreases."
+                },
+                {
+                  "question": "What phenomenon occurs when the Moon passes between the Earth and the Sun?",
+                  "options": ["Lunar eclipse", "Solar eclipse", "Aurora", "Sunspot"],
+                  "answer": "Solar eclipse",
+                  "explanation": "A solar eclipse occurs when the Moon moves directly between the Earth and the Sun, blocking the Sun’s light."
+                },
+                {
+                  "question": "How much longer is the Sun expected to continue nuclear fusion before becoming a red giant?",
+                  "options": ["1 billion years", "5 billion years", "10 billion years", "50 million years"],
+                  "answer": "5 billion years",
+                  "explanation": "The Sun is expected to continue nuclear fusion in its current phase for approximately another 5 billion years before becoming a red giant."
+                },
+                {
+                  "question": "What is the Sun’s primary method of energy transfer in the convective zone?",
+                  "options": ["Radiation", "Convection", "Conduction", "Fission"],
+                  "answer": "Convection",
+                  "explanation": "In the convective zone, energy is transferred by the movement of heated plasma, a process known as convection."
+                },
+                {
+                  "question": "What role do sunspots play in the solar activity cycle?",
+                  "options": ["They cause solar eclipses", "They increase solar energy output", "They are markers of magnetic activity", "They indicate the Sun’s rotation"],
+                  "answer": "They are markers of magnetic activity",
+                  "explanation": "Sunspots are associated with intense magnetic activity on the Sun and are used to track the solar cycle."
+                },
+                {
+                  "question": "What happens to the Sun’s magnetic field during the solar maximum?",
+                  "options": ["It weakens", "It strengthens and flips", "It remains constant", "It disappears"],
+                  "answer": "It strengthens and flips",
+                  "explanation": "During solar maximum, the Sun’s magnetic field becomes stronger and eventually reverses polarity, flipping its north and south poles."
+                },
+                {
+                  "question": "What is the Sun's rotation period at its equator?",
+                  "options": ["24 hours", "11 days", "27 days", "365 days"],
+                  "answer": "27 days",
+                  "explanation": "The Sun's equator takes approximately 27 days to complete one rotation, while the poles rotate more slowly."
+                },
+                {
+                  "question": "Which element is produced as a byproduct of nuclear fusion in the Sun?",
+                  "options": ["Oxygen", "Carbon", "Helium", "Iron"],
+                  "answer": "Helium",
+                  "explanation": "Helium is produced as a byproduct of the fusion of hydrogen atoms in the Sun’s core, which is its primary source of energy."
+                },
+                {
+                  "question": "What is the approximate distance between the Earth and the Sun?",
+                  "options": ["1 million km", "10 million km", "150 million km", "93 million km"],
+                  "answer": "150 million km",
+                  "explanation": "The average distance from the Earth to the Sun is approximately 150 million kilometers, or 93 million miles."
+                }
+              ]
+            },
+            {
+              "setNumber": 6,
+              "questions": [
+                {
+                  "question": "What layer of the Sun is responsible for producing visible light?",
+                  "options": ["Core", "Chromosphere", "Photosphere", "Corona"],
+                  "answer": "Photosphere",
+                  "explanation": "The photosphere is the Sun's visible surface and is the layer that emits the sunlight we see."
+                },
+                {
+                  "question": "What is the Sun's energy output per second called?",
+                  "options": ["Solar wind", "Solar constant", "Luminosity", "Solar flux"],
+                  "answer": "Luminosity",
+                  "explanation": "The Sun's total energy output per second is called its luminosity, and it is approximately 3.8 x 10^26 watts."
+                },
+                {
+                  "question": "What are coronal mass ejections (CMEs)?",
+                  "options": ["Eruptions of gas from the core", "High-energy particles ejected from the corona", "Sunspot eruptions", "Solar wind fluctuations"],
+                  "answer": "High-energy particles ejected from the corona",
+                  "explanation": "Coronal mass ejections (CMEs) are huge bursts of solar wind and magnetic fields rising from the Sun’s corona."
+                },
+                {
+                  "question": "How does the Sun compare in size to other stars in the galaxy?",
+                  "options": ["It is a giant star", "It is an average-sized star", "It is a small star", "It is the largest star"],
+                  "answer": "It is an average-sized star",
+                  "explanation": "The Sun is considered an average-sized star compared to other stars in our galaxy, though it appears large to us because it is so close."
+                },
+                {
+                  "question": "What is solar granulation?",
+                  "options": ["Magnetic activity on the surface", "Convection currents visible on the Sun’s surface", "Explosions in the Sun’s core", "A type of solar flare"],
+                  "answer": "Convection currents visible on the Sun’s surface",
+                  "explanation": "Solar granulation refers to the pattern of convection currents visible on the Sun’s surface, caused by rising and falling plasma."
+                },
+                {
+                  "question": "How does the energy from the Sun reach Earth?",
+                  "options": ["Convection", "Conduction", "Radiation", "Fusion"],
+                  "answer": "Radiation",
+                  "explanation": "Energy from the Sun reaches Earth primarily through radiation, as light and heat are emitted from the Sun's surface."
+                },
+                {
+                  "question": "What is the temperature of the Sun’s corona compared to the surface?",
+                  "options": ["Cooler than the surface", "About the same as the surface", "Hotter than the surface", "Only slightly hotter than the surface"],
+                  "answer": "Hotter than the surface",
+                  "explanation": "The corona is much hotter than the Sun's surface, reaching temperatures of up to 1-3 million degrees Celsius."
+                },
+                {
+                  "question": "What is solar minimum?",
+                  "options": ["The Sun's core temperature decreases", "Sunspot activity is at its lowest", "The Sun's energy output decreases", "The corona disappears"],
+                  "answer": "Sunspot activity is at its lowest",
+                  "explanation": "Solar minimum is the period of least solar activity, when sunspots and solar flares are at their lowest point in the 11-year solar cycle."
+                },
+                {
+                  "question": "Which element will the Sun primarily produce during the red giant phase?",
+                  "options": ["Carbon", "Helium", "Oxygen", "Iron"],
+                  "answer": "Carbon",
+                  "explanation": "During its red giant phase, the Sun will fuse helium into carbon in its core."
+                },
+                {
+                  "question": "How does the Sun stabilize itself against collapse?",
+                  "options": ["Magnetic fields", "Gravitational forces", "Pressure from nuclear fusion", "Solar wind"],
+                  "answer": "Pressure from nuclear fusion",
+                  "explanation": "The Sun stabilizes itself through the balance of gravity pulling inward and the pressure from nuclear fusion pushing outward."
+                }
+              ]
+            },
+            {
+              "setNumber": 7,
+              "questions": [
+                {
+                  "question": "What is the primary source of the Sun's magnetic field?",
+                  "options": ["Plasma convection", "Rotational velocity", "Nuclear fusion", "Differential rotation"],
+                  "answer": "Differential rotation",
+                  "explanation": "The Sun's magnetic field is generated primarily through differential rotation, where different parts of the Sun rotate at different speeds."
+                },
+                {
+                  "question": "What is the heliosphere?",
+                  "options": ["The solar corona", "The Sun's magnetic field", "The region of space influenced by the solar wind", "A layer of the Sun"],
+                  "answer": "The region of space influenced by the solar wind",
+                  "explanation": "The heliosphere is the bubble-like region of space dominated by the solar wind and the Sun’s magnetic field."
+                },
+                {
+                  "question": "What is the approximate rotational period of the Sun at its poles?",
+                  "options": ["27 days", "30 days", "35 days", "40 days"],
+                  "answer": "35 days",
+                  "explanation": "The Sun’s poles take about 35 days to complete a full rotation, while the equator rotates faster, at about 27 days."
+                },
+                {
+                  "question": "What is the most abundant element in the Sun’s core?",
+                  "options": ["Helium", "Carbon", "Hydrogen", "Oxygen"],
+                  "answer": "Hydrogen",
+                  "explanation": "Hydrogen is the most abundant element in the Sun’s core, where it undergoes nuclear fusion to form helium."
+                },
+                {
+                  "question": "What is the solar neutrino problem?",
+                  "options": ["Too many neutrinos detected", "Too few neutrinos detected", "Solar wind affects neutrinos", "Neutrinos stopped being emitted by the Sun"],
+                  "answer": "Too few neutrinos detected",
+                  "explanation": "The solar neutrino problem refers to the fact that early experiments detected fewer neutrinos than predicted by solar models."
+                },
+                {
+                  "question": "What is a prominence on the Sun?",
+                  "options": ["A type of sunspot", "A large, bright loop of gas", "A flare-up of solar wind", "A new magnetic field"],
+                  "answer": "A large, bright loop of gas",
+                  "explanation": "A solar prominence is a large, bright, gaseous loop extending from the Sun’s surface, often associated with magnetic activity."
+                },
+                {
+                  "question": "How does solar radiation affect Earth's climate?",
+                  "options": ["It has no effect", "It controls all weather patterns", "It influences long-term climate patterns", "It only affects the poles"],
+                  "answer": "It influences long-term climate patterns",
+                  "explanation": "Solar radiation influences Earth's long-term climate patterns by affecting temperatures, weather systems, and atmospheric circulation."
+                },
+                {
+                  "question": "What is the chromosphere?",
+                  "options": ["The Sun's core", "A layer between the photosphere and the corona", "A type of solar wind", "A region of sunspots"],
+                  "answer": "A layer between the photosphere and the corona",
+                  "explanation": "The chromosphere is the layer of the Sun’s atmosphere located between the photosphere and the corona."
+                },
+                {
+                  "question": "What is the significance of the Sun’s magnetic poles flipping?",
+                  "options": ["It causes solar flares", "It increases the Sun's energy output", "It signals the solar maximum", "It causes sunspots"],
+                  "answer": "It signals the solar maximum",
+                  "explanation": "The Sun’s magnetic poles flip during the solar maximum, marking the peak of solar activity in the 11-year cycle."
+                },
+                {
+                  "question": "What happens to solar energy that reaches Earth's atmosphere?",
+                  "options": ["It is all absorbed by the atmosphere", "It is reflected by the atmosphere", "Some is absorbed, some is reflected", "It heats the Earth's core"],
+                  "answer": "Some is absorbed, some is reflected",
+                  "explanation": "Solar energy that reaches Earth's atmosphere is partly absorbed and partly reflected, depending on atmospheric conditions and surface features."
+                }
+              ]
+            },
+            {
+              "setNumber": 8,
+              "questions": [
+                {
+                  "question": "What is the primary process by which the Sun produces energy?",
+                  "options": ["Nuclear fusion", "Nuclear fission", "Chemical reactions", "Combustion"],
+                  "answer": "Nuclear fusion",
+                  "explanation": "The Sun produces energy through nuclear fusion, where hydrogen atoms combine to form helium, releasing vast amounts of energy."
+                },
+                {
+                  "question": "What is the outermost layer of the Sun’s atmosphere called?",
+                  "options": ["Photosphere", "Corona", "Chromosphere", "Convective zone"],
+                  "answer": "Corona",
+                  "explanation": "The corona is the Sun's outermost atmospheric layer, which is much hotter than the surface and extends millions of kilometers into space."
+                },
+                {
+                  "question": "What drives the 11-year solar cycle?",
+                  "options": ["The Sun's magnetic field", "The Sun's rotation", "Nuclear fusion in the core", "Solar wind"],
+                  "answer": "The Sun's magnetic field",
+                  "explanation": "The 11-year solar cycle is driven by changes in the Sun's magnetic field, which affects sunspot activity and solar flares."
+                },
+                {
+                  "question": "What are solar flares?",
+                  "options": ["Bright spots on the Sun's surface", "Explosions of energy in the Sun's atmosphere", "Collisions between solar winds", "New stars forming"],
+                  "answer": "Explosions of energy in the Sun's atmosphere",
+                  "explanation": "Solar flares are sudden, intense bursts of radiation and energy from the Sun’s atmosphere, often associated with sunspot activity."
+                },
+                {
+                  "question": "Which layer of the Sun transfers energy from the core through radiation?",
+                  "options": ["Photosphere", "Radiative zone", "Convective zone", "Corona"],
+                  "answer": "Radiative zone",
+                  "explanation": "The radiative zone is the layer of the Sun where energy from the core is transferred outward by radiation."
+                },
+                {
+                  "question": "How does the Sun affect Earth's auroras?",
+                  "options": ["Solar wind interacts with Earth's magnetic field", "The Sun's heat creates auroras", "Nuclear fusion produces auroras", "Sunspots cause auroras"],
+                  "answer": "Solar wind interacts with Earth's magnetic field",
+                  "explanation": "Auroras are created when solar wind particles interact with Earth's magnetic field, causing beautiful light displays in polar regions."
+                },
+                {
+                  "question": "What is the expected fate of the Sun after its red giant phase?",
+                  "options": ["It will become a black hole", "It will explode as a supernova", "It will shrink into a white dwarf", "It will merge with another star"],
+                  "answer": "It will shrink into a white dwarf",
+                  "explanation": "After the Sun expands into a red giant, it will shed its outer layers and eventually shrink into a white dwarf, a dense, cooling remnant."
+                },
+                {
+                  "question": "What is the solar constant?",
+                  "options": ["The Sun's mass", "The amount of energy Earth receives from the Sun", "The length of the solar cycle", "The distance between Earth and the Sun"],
+                  "answer": "The amount of energy Earth receives from the Sun",
+                  "explanation": "The solar constant is the average amount of energy per square meter that Earth receives from the Sun, about 1,366 watts per square meter."
+                },
+                {
+                  "question": "What is the primary cause of sunspots on the Sun?",
+                  "options": ["Differences in the Sun's temperature", "Magnetic field disturbances", "Gravitational waves", "Energy emissions from the core"],
+                  "answer": "Magnetic field disturbances",
+                  "explanation": "Sunspots are caused by disturbances in the Sun's magnetic field, leading to cooler, darker areas on the surface."
+                },
+                {
+                  "question": "Which part of the electromagnetic spectrum does the Sun emit the most radiation?",
+                  "options": ["Infrared", "Visible light", "Ultraviolet", "X-rays"],
+                  "answer": "Visible light",
+                  "explanation": "The Sun emits most of its radiation in the visible light range of the electromagnetic spectrum, which is why it appears bright to our eyes."
+                }
+              ]
+            },
+            {
+              "setNumber": 9,
+              "questions": [
+                {
+                  "question": "What is the Sun's core temperature?",
+                  "options": ["1 million degrees Celsius", "5,000 degrees Celsius", "15 million degrees Celsius", "10,000 degrees Celsius"],
+                  "answer": "15 million degrees Celsius",
+                  "explanation": "The core temperature of the Sun reaches approximately 15 million degrees Celsius, where nuclear fusion takes place."
+                },
+                {
+                  "question": "How long does light from the Sun take to reach Earth?",
+                  "options": ["1 second", "8 minutes", "1 hour", "24 hours"],
+                  "answer": "8 minutes",
+                  "explanation": "Light from the Sun takes about 8 minutes to travel the 150 million kilometers to Earth."
+                },
+                {
+                  "question": "What is solar wind?",
+                  "options": ["Wind caused by the Earth's atmosphere", "A flow of charged particles from the Sun", "A type of radiation", "The Sun's heat"],
+                  "answer": "A flow of charged particles from the Sun",
+                  "explanation": "Solar wind is a stream of charged particles released from the Sun's outer layers that can affect Earth's magnetic field."
+                },
+                {
+                  "question": "What are prominences on the Sun?",
+                  "options": ["Bright, looping structures of plasma", "Dark spots on the Sun's surface", "Sudden explosions of energy", "Regions of high magnetic activity"],
+                  "answer": "Bright, looping structures of plasma",
+                  "explanation": "Prominences are large, bright loops of plasma that extend from the Sun’s surface, often associated with magnetic activity."
+                },
+                {
+                  "question": "What effect do solar storms have on Earth?",
+                  "options": ["Increased temperatures", "Disruption of communication systems", "Change in the weather", "Earthquakes"],
+                  "answer": "Disruption of communication systems",
+                  "explanation": "Solar storms, caused by solar flares or coronal mass ejections, can disrupt satellite communications and power grids on Earth."
+                },
+                {
+                  "question": "Which solar phenomenon involves the release of a large amount of plasma and magnetic field?",
+                  "options": ["Solar flare", "Coronal mass ejection (CME)", "Sunspot", "Prominence"],
+                  "answer": "Coronal mass ejection (CME)",
+                  "explanation": "Coronal mass ejections (CMEs) are massive bursts of solar wind and magnetic fields that can affect Earth’s magnetosphere."
+                },
+                {
+                  "question": "What is the temperature of the Sun's photosphere?",
+                  "options": ["5,500 degrees Celsius", "10,000 degrees Celsius", "15 million degrees Celsius", "1,000 degrees Celsius"],
+                  "answer": "5,500 degrees Celsius",
+                  "explanation": "The Sun’s photosphere, its visible surface, has a temperature of about 5,500 degrees Celsius."
+                },
+                {
+                  "question": "Which element is most abundant in the Sun's core?",
+                  "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+                  "answer": "Hydrogen",
+                  "explanation": "The most abundant element in the Sun's core is hydrogen, which fuses into helium to produce energy."
+                },
+                {
+                  "question": "What happens during a solar eclipse?",
+                  "options": ["The Moon blocks the Sun", "The Earth blocks sunlight from the Moon", "The Sun's magnetic poles flip", "The Sun becomes temporarily dim"],
+                  "answer": "The Moon blocks the Sun",
+                  "explanation": "A solar eclipse occurs when the Moon passes between the Earth and the Sun, blocking the Sun's light."
+                },
+                {
+                  "question": "What is the name of the stream of energetic particles emitted from the Sun's outer layers?",
+                  "options": ["Solar flare", "Solar wind", "Sunspot", "CME"],
+                  "answer": "Solar wind",
+                  "explanation": "The solar wind is a constant flow of charged particles emitted from the Sun's outer layers, traveling through the solar system."
+                }
+              ]
+            },
+            {
+              "setNumber": 10,
+              "questions": [
+                {
+                  "question": "How old is the Sun?",
+                  "options": ["4.6 billion years", "10 billion years", "1 billion years", "100 million years"],
+                  "answer": "4.6 billion years",
+                  "explanation": "The Sun is approximately 4.6 billion years old and is currently in the middle of its life cycle."
+                },
+                {
+                  "question": "What type of star is the Sun?",
+                  "options": ["Red giant", "White dwarf", "Yellow dwarf", "Blue giant"],
+                  "answer": "Yellow dwarf",
+                  "explanation": "The Sun is classified as a G-type main-sequence star, often referred to as a yellow dwarf."
+                },
+                {
+                  "question": "What is a sunspot?",
+                  "options": ["A cooler region on the Sun's surface", "A solar flare", "A planet orbiting the Sun", "A small star near the Sun"],
+                  "answer": "A cooler region on the Sun's surface",
+                  "explanation": "Sunspots are cooler, darker areas on the Sun's surface caused by magnetic activity."
+                },
+                {
+                  "question": "What will happen to the Sun when it runs out of nuclear fuel?",
+                  "options": ["It will explode", "It will shrink into a white dwarf", "It will become a black hole", "It will merge with other stars"],
+                  "answer": "It will shrink into a white dwarf",
+                  "explanation": "Once the Sun exhausts its nuclear fuel, it will expand into a red giant and eventually shrink into a white dwarf."
+                },
+                {
+                  "question": "What percentage of the solar system's mass does the Sun contain?",
+                  "options": ["50%", "75%", "99.8%", "10%"],
+                  "answer": "99.8%",
+                  "explanation": "The Sun contains about 99.8% of the total mass of the solar system, making it the most dominant object in our planetary system."
+                },
+                {
+                  "question": "What is the solar cycle?",
+                  "options": ["The time it takes for the Sun to rotate", "The 11-year cycle of solar activity", "The orbit of the Sun around the galaxy", "The fusion process in the Sun's core"],
+                  "answer": "The 11-year cycle of solar activity",
+                  "explanation": "The solar cycle is an approximately 11-year cycle during which solar activity, such as sunspots and solar flares, increases and decreases."
+                },
+                {
+                  "question": "What is the primary role of the Sun in the solar system?",
+                  "options": ["Creating planets", "Providing heat and light", "Generating black holes", "Producing stars"],
+                  "answer": "Providing heat and light",
+                  "explanation": "The Sun's primary role is to provide heat and light, making life on Earth possible and driving the solar system's dynamics."
+                },
+                {
+                  "question": "What happens during a coronal mass ejection?",
+                  "options": ["The Sun releases solar flares", "The Sun expels large amounts of plasma", "The Sun's core cools", "The Sun's surface becomes hotter"],
+                  "answer": "The Sun expels large amounts of plasma",
+                  "explanation": "During a coronal mass ejection, the Sun expels large quantities of plasma and magnetic field, which can impact space weather."
+                },
+                {
+                  "question": "Which layer of the Sun do we see from Earth?",
+                  "options": ["Photosphere", "Corona", "Core", "Chromosphere"],
+                  "answer": "Photosphere",
+                  "explanation": "The photosphere is the visible surface of the Sun that we see from Earth, where sunlight is emitted."
+                },
+                {
+                  "question": "What does the Sun provide that supports life on Earth?",
+                  "options": ["Gravity", "Water", "Heat and light", "Magnetic fields"],
+                  "answer": "Heat and light",
+                  "explanation": "The Sun provides heat and light, which are essential for supporting life on Earth and sustaining ecosystems."
                 }
               ]
             }
