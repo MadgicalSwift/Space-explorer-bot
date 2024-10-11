@@ -2789,6 +2789,526 @@
                   "explanation": "The galactic plane marks the boundary of the Milky Way's disk, where the majority of the galaxy's mass lies."
                 }
               ]
+            },
+            {
+              "setNumber": 3,
+              "questions": [
+                {
+                  "question": "What shape is the Milky Way galaxy?",
+                  "options": ["Elliptical", "Barred spiral", "Irregular", "Ring-shaped"],
+                  "answer": "Barred spiral",
+                  "explanation": "The Milky Way is a barred spiral galaxy with a central bar structure and several spiral arms."
+                },
+                {
+                  "question": "What is the diameter of the Milky Way galaxy?",
+                  "options": ["10,000 light-years", "50,000 light-years", "100,000 light-years", "1 million light-years"],
+                  "answer": "100,000 light-years",
+                  "explanation": "The Milky Way has a diameter of approximately 100,000 light-years across."
+                },
+                {
+                  "question": "Which arm of the Milky Way is our solar system located in?",
+                  "options": ["Orion Arm", "Perseus Arm", "Sagittarius Arm", "Centaurus Arm"],
+                  "answer": "Orion Arm",
+                  "explanation": "Our solar system is located in a minor spiral arm of the Milky Way called the Orion Arm."
+                },
+                {
+                  "question": "What percentage of the Milky Way's mass is made up of dark matter?",
+                  "options": ["5%", "27%", "50%", "90%"],
+                  "answer": "90%",
+                  "explanation": "Dark matter makes up around 90% of the Milky Way's total mass."
+                },
+                {
+                  "question": "How many major spiral arms does the Milky Way have?",
+                  "options": ["2", "3", "4", "5"],
+                  "answer": "4",
+                  "explanation": "The Milky Way has four major spiral arms: Perseus, Scutum-Centaurus, Carina-Sagittarius, and Norma."
+                },
+                {
+                  "question": "Which satellite galaxy is closest to the Milky Way?",
+                  "options": ["Andromeda", "Triangulum", "Large Magellanic Cloud", "Small Magellanic Cloud"],
+                  "answer": "Large Magellanic Cloud",
+                  "explanation": "The Large Magellanic Cloud is the closest satellite galaxy to the Milky Way."
+                },
+                {
+                  "question": "What is the total estimated number of stars in the Milky Way?",
+                  "options": ["10 million", "100 million", "100 billion", "1 trillion"],
+                  "answer": "100 billion",
+                  "explanation": "The Milky Way is estimated to contain around 100 billion stars."
+                },
+                {
+                  "question": "What is the region called where new stars form in the Milky Way?",
+                  "options": ["Stellar nurseries", "Quasars", "Galactic core", "Hubble Zone"],
+                  "answer": "Stellar nurseries",
+                  "explanation": "Stellar nurseries are regions of the galaxy where gas and dust form new stars."
+                },
+                {
+                  "question": "What is the thick disk component of the Milky Way primarily composed of?",
+                  "options": ["Old stars", "New stars", "Gas clouds", "Planets"],
+                  "answer": "Old stars",
+                  "explanation": "The thick disk of the Milky Way is composed primarily of old stars."
+                },
+                {
+                  "question": "What is the term for the halo of dark matter surrounding the Milky Way?",
+                  "options": ["Galactic core", "Dark matter halo", "Gravitational boundary", "Photon shell"],
+                  "answer": "Dark matter halo",
+                  "explanation": "The dark matter halo surrounds the Milky Way and contributes to its gravitational field."
+                }
+              ]
+            },
+            {
+              "setNumber": 4,
+              "questions": [
+                {
+                  "question": "What is the speed of the Milky Way as it moves through space?",
+                  "options": ["50 km/s", "250 km/s", "550 km/s", "750 km/s"],
+                  "answer": "550 km/s",
+                  "explanation": "The Milky Way moves through space at a speed of around 550 kilometers per second."
+                },
+                {
+                  "question": "What is the main component of the Milky Way's galactic halo?",
+                  "options": ["Stars", "Dark matter", "Gas", "Asteroids"],
+                  "answer": "Dark matter",
+                  "explanation": "The galactic halo of the Milky Way is mainly composed of dark matter, which makes up most of its mass."
+                },
+                {
+                  "question": "How old is the Milky Way galaxy estimated to be?",
+                  "options": ["5 billion years", "10 billion years", "13.6 billion years", "15 billion years"],
+                  "answer": "13.6 billion years",
+                  "explanation": "The Milky Way galaxy is estimated to be about 13.6 billion years old."
+                },
+                {
+                  "question": "What is the name of the supermassive black hole at the center of the Milky Way?",
+                  "options": ["Andromeda A", "Sagittarius A*", "Centaurus B", "Perseus A"],
+                  "answer": "Sagittarius A*",
+                  "explanation": "Sagittarius A* is the name of the supermassive black hole located at the center of the Milky Way galaxy."
+                },
+                {
+                  "question": "What is the thickness of the Milky Way's disk?",
+                  "options": ["1,000 light-years", "10,000 light-years", "100,000 light-years", "1 million light-years"],
+                  "answer": "1,000 light-years",
+                  "explanation": "The Milky Way's disk is about 1,000 light-years thick."
+                },
+                {
+                  "question": "How many globular clusters are in the Milky Way?",
+                  "options": ["50", "100", "150", "200"],
+                  "answer": "150",
+                  "explanation": "The Milky Way contains around 150 known globular clusters, which are densely packed groups of stars."
+                },
+                {
+                  "question": "What are the largest stars in the Milky Way called?",
+                  "options": ["Red dwarfs", "Supergiants", "Brown dwarfs", "White dwarfs"],
+                  "answer": "Supergiants",
+                  "explanation": "Supergiants are the largest and most luminous stars in the Milky Way."
+                },
+                {
+                  "question": "What percentage of the Milky Way is made up of stars?",
+                  "options": ["5%", "10%", "25%", "50%"],
+                  "answer": "5%",
+                  "explanation": "Only about 5% of the Milky Way's mass is made up of stars, with dark matter and gas making up the rest."
+                },
+                {
+                  "question": "Which galaxy is on a collision course with the Milky Way?",
+                  "options": ["Triangulum Galaxy", "Andromeda Galaxy", "Large Magellanic Cloud", "Centaurus Galaxy"],
+                  "answer": "Andromeda Galaxy",
+                  "explanation": "The Andromeda Galaxy is expected to collide with the Milky Way in about 4.5 billion years."
+                },
+                {
+                  "question": "What is the bright band of light across the night sky called, which is part of the Milky Way?",
+                  "options": ["Star stream", "Stellar band", "Milky Way band", "Galactic band"],
+                  "answer": "Milky Way band",
+                  "explanation": "The bright band of light seen in the night sky is part of the Milky Way's disk and is called the Milky Way band."
+                }
+              ]
+            },
+            {
+              "setNumber": 5,
+              "questions": [
+                {
+                  "question": "Which element is most abundant in the Milky Way?",
+                  "options": ["Oxygen", "Hydrogen", "Carbon", "Iron"],
+                  "answer": "Hydrogen",
+                  "explanation": "Hydrogen is the most abundant element in the Milky Way, making up the majority of the galaxy's gas."
+                },
+                {
+                  "question": "What is the name of the nearest major galaxy to the Milky Way?",
+                  "options": ["Triangulum", "Large Magellanic Cloud", "Andromeda", "Centaurus"],
+                  "answer": "Andromeda",
+                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way and is on a collision course with it."
+                },
+                {
+                  "question": "How fast does the Milky Way rotate at its outer edge?",
+                  "options": ["50 km/s", "100 km/s", "200 km/s", "250 km/s"],
+                  "answer": "250 km/s",
+                  "explanation": "The Milky Way rotates at a speed of about 250 kilometers per second at its outer edges."
+                },
+                {
+                  "question": "How many stars are formed in the Milky Way per year, on average?",
+                  "options": ["1-2 stars", "5-10 stars", "10-15 stars", "20-25 stars"],
+                  "answer": "1-2 stars",
+                  "explanation": "On average, about 1 to 2 stars are formed in the Milky Way each year."
+                },
+                {
+                  "question": "Which structure in the Milky Way is filled with interstellar dust and gas?",
+                  "options": ["Galactic core", "Spiral arms", "Halo", "Globular clusters"],
+                  "answer": "Spiral arms",
+                  "explanation": "The spiral arms of the Milky Way contain large amounts of interstellar dust and gas, where star formation occurs."
+                },
+                {
+                  "question": "What is the approximate age of the oldest stars in the Milky Way?",
+                  "options": ["5 billion years", "10 billion years", "13 billion years", "15 billion years"],
+                  "answer": "13 billion years",
+                  "explanation": "Some of the oldest stars in the Milky Way are around 13 billion years old, nearly as old as the universe itself."
+                },
+                {
+                  "question": "What is the term used to describe the movement of stars in the Milky Way?",
+                  "options": ["Galactic rotation", "Galactic drift", "Star spin", "Stellar wobble"],
+                  "answer": "Galactic rotation",
+                  "explanation": "Stars in the Milky Way are in constant motion due to the galaxy's rotation, a phenomenon known as galactic rotation."
+                },
+                {
+                  "question": "Which part of the Milky Way contains mostly old stars?",
+                  "options": ["Halo", "Galactic core", "Spiral arms", "Thick disk"],
+                  "answer": "Halo",
+                  "explanation": "The halo of the Milky Way is populated mainly by old stars, some of which are nearly as old as the galaxy itself."
+                },
+                {
+                  "question": "What phenomenon can occur when galaxies collide, as is predicted with the Milky Way and Andromeda?",
+                  "options": ["Supernova bursts", "Star formation increase", "Black hole mergers", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "When galaxies collide, they can trigger a variety of phenomena, including increased star formation, black hole mergers, and supernova events."
+                },
+                {
+                  "question": "What is the approximate mass of the Milky Way galaxy?",
+                  "options": ["100 billion solar masses", "500 billion solar masses", "1 trillion solar masses", "1.5 trillion solar masses"],
+                  "answer": "1.5 trillion solar masses",
+                  "explanation": "The Milky Way is estimated to have a mass of about 1.5 trillion times that of the Sun."
+                }
+              ]
+            },
+            {
+              "setNumber": 6,
+              "questions": [
+                {
+                  "question": "Which spiral arm of the Milky Way is the largest?",
+                  "options": ["Orion Arm", "Perseus Arm", "Scutum-Centaurus Arm", "Norma Arm"],
+                  "answer": "Scutum-Centaurus Arm",
+                  "explanation": "The Scutum-Centaurus Arm is the largest and most prominent spiral arm of the Milky Way."
+                },
+                {
+                  "question": "Which component of the Milky Way consists mainly of older, red stars?",
+                  "options": ["Halo", "Bulge", "Disk", "Spiral Arms"],
+                  "answer": "Bulge",
+                  "explanation": "The bulge of the Milky Way contains a high concentration of older, red stars near the galactic center."
+                },
+                {
+                  "question": "How is the mass of the Milky Way primarily measured?",
+                  "options": ["By counting stars", "By measuring the rotation curve", "By observing dark matter", "By studying star formation rates"],
+                  "answer": "By measuring the rotation curve",
+                  "explanation": "The mass of the Milky Way is primarily determined by measuring its rotation curve, which reflects the influence of dark matter."
+                },
+                {
+                  "question": "What is the outermost boundary of the Milky Way called?",
+                  "options": ["Galactic disk", "Galactic corona", "Galactic halo", "Galactic fringe"],
+                  "answer": "Galactic halo",
+                  "explanation": "The galactic halo extends beyond the disk and contains old stars, globular clusters, and dark matter."
+                },
+                {
+                  "question": "Which element is most commonly formed in stars in the Milky Way?",
+                  "options": ["Oxygen", "Helium", "Carbon", "Iron"],
+                  "answer": "Helium",
+                  "explanation": "Helium is the second most abundant element in the universe and is primarily formed in stars through nuclear fusion."
+                },
+                {
+                  "question": "What is the velocity of the Milky Way as it moves toward the Andromeda galaxy?",
+                  "options": ["50 km/s", "100 km/s", "110 km/s", "300 km/s"],
+                  "answer": "110 km/s",
+                  "explanation": "The Milky Way is moving toward the Andromeda galaxy at a velocity of about 110 kilometers per second."
+                },
+                {
+                  "question": "Where are star-forming regions most commonly found in the Milky Way?",
+                  "options": ["Galactic bulge", "Spiral arms", "Galactic halo", "Galactic center"],
+                  "answer": "Spiral arms",
+                  "explanation": "Most star-forming regions in the Milky Way are located in the spiral arms, where gas and dust are concentrated."
+                },
+                {
+                  "question": "What is the thick disk of the Milky Way primarily composed of?",
+                  "options": ["Young stars", "Old stars", "Gas clouds", "Dark matter"],
+                  "answer": "Old stars",
+                  "explanation": "The thick disk of the Milky Way contains primarily old stars, which orbit the galaxy at a higher altitude than stars in the thin disk."
+                },
+                {
+                  "question": "What is the predicted outcome of the collision between the Milky Way and Andromeda?",
+                  "options": ["They will merge into a larger galaxy", "They will pass by each other", "They will destroy each other", "No significant event will occur"],
+                  "answer": "They will merge into a larger galaxy",
+                  "explanation": "The Milky Way and Andromeda galaxies are predicted to merge into a larger elliptical galaxy in about 4.5 billion years."
+                },
+                {
+                  "question": "How many spiral arms does the Milky Way have?",
+                  "options": ["2", "3", "4", "6"],
+                  "answer": "4",
+                  "explanation": "The Milky Way has four primary spiral arms: Perseus, Scutum-Centaurus, Norma, and Carina-Sagittarius."
+                }
+              ]
+            },
+            {
+              "setNumber": 7,
+              "questions": [
+                {
+                  "question": "What is the role of dark matter in the Milky Way?",
+                  "options": ["Absorbs light", "Slows down stars", "Prevents galaxies from expanding", "Provides extra gravitational pull"],
+                  "answer": "Provides extra gravitational pull",
+                  "explanation": "Dark matter provides additional gravitational pull, helping to bind the Milky Way together."
+                },
+                {
+                  "question": "How do astronomers determine the age of stars in the Milky Way?",
+                  "options": ["By their color", "By their mass", "By their brightness", "By their chemical composition"],
+                  "answer": "By their chemical composition",
+                  "explanation": "Astronomers can determine a star's age by analyzing its chemical composition, as older stars tend to have fewer heavy elements."
+                },
+                {
+                  "question": "Which component of the Milky Way contains the majority of its gas and dust?",
+                  "options": ["Halo", "Bulge", "Spiral arms", "Core"],
+                  "answer": "Spiral arms",
+                  "explanation": "The spiral arms contain most of the Milky Way's gas and dust, where new stars are born."
+                },
+                {
+                  "question": "What phenomenon occurs in the Milky Way when massive stars die?",
+                  "options": ["Formation of neutron stars", "Supernova explosions", "Black hole formation", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "When massive stars die, they can form neutron stars, cause supernova explosions, and sometimes create black holes."
+                },
+                {
+                  "question": "What part of the Milky Way is closest to Earth?",
+                  "options": ["Spiral arms", "Galactic core", "Halo", "Bulge"],
+                  "answer": "Spiral arms",
+                  "explanation": "The Earth is located within one of the spiral arms of the Milky Way, specifically the Orion Arm."
+                },
+                {
+                  "question": "What is a key feature of the Milky Way's central bar structure?",
+                  "options": ["Dense star clusters", "Large gas clouds", "High star formation rates", "All of the above"],
+                  "answer": "All of the above",
+                  "explanation": "The Milky Way's central bar structure is dense with star clusters, gas clouds, and high rates of star formation."
+                },
+                {
+                  "question": "What is the approximate mass of the supermassive black hole at the center of the Milky Way?",
+                  "options": ["1 million solar masses", "4 million solar masses", "10 million solar masses", "100 million solar masses"],
+                  "answer": "4 million solar masses",
+                  "explanation": "The supermassive black hole at the center of the Milky Way, known as Sagittarius A*, has a mass of about 4 million times that of the Sun."
+                },
+                {
+                  "question": "Which region of the Milky Way is thought to contain the oldest stars?",
+                  "options": ["Galactic core", "Galactic bulge", "Halo", "Spiral arms"],
+                  "answer": "Halo",
+                  "explanation": "The halo of the Milky Way contains some of the oldest stars in the galaxy."
+                },
+                {
+                  "question": "Which method is used to map the structure of the Milky Way?",
+                  "options": ["Radio telescopes", "Optical telescopes", "X-ray observations", "Infrared telescopes"],
+                  "answer": "Radio telescopes",
+                  "explanation": "Radio telescopes are used to map the structure of the Milky Way by observing radio waves emitted by hydrogen gas."
+                },
+                {
+                  "question": "What is the primary factor driving the Milky Way's rotation?",
+                  "options": ["Gravity", "Dark energy", "Solar wind", "Magnetic fields"],
+                  "answer": "Gravity",
+                  "explanation": "The Milky Way's rotation is driven primarily by the gravitational pull of both visible matter and dark matter."
+                }
+              ]
+            },
+            {
+              "setNumber": 8,
+              "questions": [
+                {
+                  "question": "What is the primary component of the Milky Way's spiral arms?",
+                  "options": ["Dark matter", "Dust and gas", "Black holes", "Neutron stars"],
+                  "answer": "Dust and gas",
+                  "explanation": "The Milky Way's spiral arms are primarily composed of dust, gas, and young stars."
+                },
+                {
+                  "question": "Which part of the Milky Way is home to the oldest stars?",
+                  "options": ["Galactic halo", "Spiral arms", "Galactic disk", "Central bulge"],
+                  "answer": "Galactic halo",
+                  "explanation": "The Galactic halo contains the oldest stars in the Milky Way, many of which are part of globular clusters."
+                },
+                {
+                  "question": "What is the speed at which the solar system orbits the center of the Milky Way?",
+                  "options": ["100 km/s", "220 km/s", "500 km/s", "1,000 km/s"],
+                  "answer": "220 km/s",
+                  "explanation": "The solar system orbits the center of the Milky Way at a speed of approximately 220 kilometers per second."
+                },
+                {
+                  "question": "What is the thick, spherical region that surrounds the Milky Way’s disk called?",
+                  "options": ["Galactic halo", "Galactic bulge", "Galactic corona", "Galactic center"],
+                  "answer": "Galactic halo",
+                  "explanation": "The Galactic halo is a spherical region surrounding the Milky Way’s disk, consisting of old stars and dark matter."
+                },
+                {
+                  "question": "In which constellation is the center of the Milky Way located?",
+                  "options": ["Orion", "Sagittarius", "Scorpius", "Andromeda"],
+                  "answer": "Sagittarius",
+                  "explanation": "The center of the Milky Way is located in the direction of the constellation Sagittarius."
+                },
+                {
+                  "question": "Which element is most abundant in the Milky Way galaxy?",
+                  "options": ["Oxygen", "Hydrogen", "Carbon", "Iron"],
+                  "answer": "Hydrogen",
+                  "explanation": "Hydrogen is the most abundant element in the Milky Way, making up most of the interstellar gas."
+                },
+                {
+                  "question": "What is the Milky Way's galactic plane?",
+                  "options": ["The central bulge", "The thin disk where most stars and gas are located", "The area surrounding the supermassive black hole", "A spherical region of dark matter"],
+                  "answer": "The thin disk where most stars and gas are located",
+                  "explanation": "The galactic plane refers to the flat, disk-shaped region where most of the Milky Way's stars and gas reside."
+                },
+                {
+                  "question": "What is the galactic year?",
+                  "options": ["The time it takes the Milky Way to rotate once", "The time it takes for light to cross the galaxy", "The time it takes the solar system to orbit the Milky Way’s center", "The time for a black hole to form in the galaxy"],
+                  "answer": "The time it takes the solar system to orbit the Milky Way’s center",
+                  "explanation": "A galactic year is the time it takes the solar system to make one complete orbit around the Milky Way’s center, approximately 250 million years."
+                },
+                {
+                  "question": "What is the primary source of energy in the Milky Way's stars?",
+                  "options": ["Nuclear fission", "Nuclear fusion", "Magnetism", "Gravitational collapse"],
+                  "answer": "Nuclear fusion",
+                  "explanation": "Nuclear fusion, where hydrogen atoms combine to form helium, is the primary energy source of stars in the Milky Way."
+                },
+                {
+                  "question": "Which region of the Milky Way is the most densely populated with stars?",
+                  "options": ["The Galactic center", "The outer halo", "The spiral arms", "The intergalactic medium"],
+                  "answer": "The Galactic center",
+                  "explanation": "The Galactic center is the densest region of the Milky Way, containing a high concentration of stars and a supermassive black hole."
+                }
+              ]
+            },
+            {
+              "setNumber": 9,
+              "questions": [
+                {
+                  "question": "What is the shape of the Milky Way’s central bulge?",
+                  "options": ["Spherical", "Elliptical", "Peanut-shaped", "Cylindrical"],
+                  "answer": "Peanut-shaped",
+                  "explanation": "The Milky Way's central bulge is peanut-shaped, a common feature in barred spiral galaxies."
+                },
+                {
+                  "question": "Which star-forming region in the Milky Way is the closest to Earth?",
+                  "options": ["Orion Nebula", "Tarantula Nebula", "Eagle Nebula", "Horsehead Nebula"],
+                  "answer": "Orion Nebula",
+                  "explanation": "The Orion Nebula, located about 1,300 light-years away, is the closest massive star-forming region to Earth."
+                },
+                {
+                  "question": "What is the primary force that holds the Milky Way together?",
+                  "options": ["Electromagnetic force", "Strong nuclear force", "Dark energy", "Gravity"],
+                  "answer": "Gravity",
+                  "explanation": "Gravity is the primary force that holds the Milky Way together, keeping stars, gas, and other objects bound to the galaxy."
+                },
+                {
+                  "question": "How many spiral arms does the Milky Way have?",
+                  "options": ["Two", "Four", "Six", "Eight"],
+                  "answer": "Four",
+                  "explanation": "The Milky Way has four primary spiral arms: the Norma, Scutum-Centaurus, Sagittarius, and Perseus arms."
+                },
+                {
+                  "question": "What phenomenon is responsible for the Milky Way’s spiral structure?",
+                  "options": ["Supernova explosions", "Density waves", "Gravitational collapse", "Dark matter interactions"],
+                  "answer": "Density waves",
+                  "explanation": "The spiral structure of the Milky Way is thought to be caused by density waves that compress gas and form new stars in the arms."
+                },
+                {
+                  "question": "Which satellite galaxy is the Milky Way expected to collide with in the distant future?",
+                  "options": ["Andromeda Galaxy", "Large Magellanic Cloud", "Triangulum Galaxy", "Small Magellanic Cloud"],
+                  "answer": "Andromeda Galaxy",
+                  "explanation": "The Milky Way is expected to collide with the Andromeda Galaxy in about 4 billion years, forming a larger elliptical galaxy."
+                },
+                {
+                  "question": "What is the primary method astronomers use to measure the mass of the Milky Way?",
+                  "options": ["Counting stars", "Observing gravitational effects", "Measuring star brightness", "Detecting cosmic rays"],
+                  "answer": "Observing gravitational effects",
+                  "explanation": "Astronomers measure the mass of the Milky Way by observing the gravitational effects on stars, gas, and nearby galaxies."
+                },
+                {
+                  "question": "What structure in the Milky Way consists of dark matter, stars, and gas?",
+                  "options": ["Galactic disk", "Galactic halo", "Galactic bulge", "Supermassive black hole"],
+                  "answer": "Galactic halo",
+                  "explanation": "The Galactic halo is a spherical region surrounding the Milky Way's disk and contains dark matter, stars, and gas."
+                },
+                {
+                  "question": "Which area of the Milky Way contains most of its star-forming regions?",
+                  "options": ["Galactic halo", "Spiral arms", "Galactic bulge", "Galactic center"],
+                  "answer": "Spiral arms",
+                  "explanation": "Most star-forming regions in the Milky Way are located in its spiral arms, where gas and dust clouds are concentrated."
+                },
+                {
+                  "question": "Which type of stars are most common in the Milky Way?",
+                  "options": ["Red dwarfs", "Blue giants", "White dwarfs", "Neutron stars"],
+                  "answer": "Red dwarfs",
+                  "explanation": "Red dwarfs are the most common type of star in the Milky Way, accounting for around 70-80% of the stars in the galaxy."
+                }
+              ]
+            },
+            {
+              "setNumber": 10,
+              "questions": [
+                {
+                  "question": "What is the Milky Way’s velocity relative to the cosmic microwave background?",
+                  "options": ["100 km/s", "370 km/s", "500 km/s", "600 km/s"],
+                  "answer": "370 km/s",
+                  "explanation": "The Milky Way moves at approximately 370 kilometers per second relative to the cosmic microwave background radiation."
+                },
+                {
+                  "question": "What fraction of the Milky Way’s mass is thought to be in stars?",
+                  "options": ["1%", "10%", "25%", "50%"],
+                  "answer": "10%",
+                  "explanation": "Stars make up about 10% of the Milky Way’s total mass, with the rest mainly in dark matter."
+                },
+                {
+                  "question": "Which component of the Milky Way is made up of old, metal-poor stars?",
+                  "options": ["Galactic disk", "Galactic halo", "Galactic center", "Spiral arms"],
+                  "answer": "Galactic halo",
+                  "explanation": "The Galactic halo contains old, metal-poor stars, often found in globular clusters."
+                },
+                {
+                  "question": "Which galaxy group does the Milky Way belong to?",
+                  "options": ["Virgo Cluster", "Coma Cluster", "Local Group", "Perseus Cluster"],
+                  "answer": "Local Group",
+                  "explanation": "The Milky Way is part of the Local Group, a small cluster of galaxies that also includes Andromeda and the Triangulum Galaxy."
+                },
+                {
+                  "question": "What is the approximate mass of the Milky Way?",
+                  "options": ["1 billion solar masses", "10 billion solar masses", "100 billion solar masses", "1 trillion solar masses"],
+                  "answer": "1 trillion solar masses",
+                  "explanation": "The Milky Way has an estimated mass of around 1 trillion solar masses, most of which is dark matter."
+                },
+                {
+                  "question": "What is the term for the hot gas found in the Milky Way's halo?",
+                  "options": ["Intergalactic medium", "Galactic corona", "Galactic bulge", "Dark matter"],
+                  "answer": "Galactic corona",
+                  "explanation": "The galactic corona refers to the hot, ionized gas that surrounds the Milky Way in its halo."
+                },
+                {
+                  "question": "What is the most common element in the Milky Way?",
+                  "options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+                  "answer": "Hydrogen",
+                  "explanation": "Hydrogen is the most common element in the Milky Way, making up about 75% of its normal matter."
+                },
+                {
+                  "question": "How does the Milky Way's rotation curve provide evidence for dark matter?",
+                  "options": ["Stars near the center orbit faster than expected", "The outer stars orbit faster than expected", "The galaxy is not rotating", "Dark matter is visible in the disk"],
+                  "answer": "The outer stars orbit faster than expected",
+                  "explanation": "The unexpectedly fast rotation of stars in the Milky Way's outer regions suggests the presence of dark matter."
+                },
+                {
+                  "question": "Which star cluster type is primarily found in the Milky Way’s halo?",
+                  "options": ["Open clusters", "Globular clusters", "Young clusters", "Protostellar clusters"],
+                  "answer": "Globular clusters",
+                  "explanation": "Globular clusters, which are dense collections of old stars, are primarily found in the Milky Way's halo."
+                },
+                {
+                  "question": "Which feature of the Milky Way indicates it is a barred spiral galaxy?",
+                  "options": ["Central bar of stars", "Presence of a supermassive black hole", "Dark matter halo", "Spherical shape"],
+                  "answer": "Central bar of stars",
+                  "explanation": "The central bar of stars distinguishes the Milky Way as a barred spiral galaxy."
+                }
+              ]
             }
           ]
         }
@@ -2937,7 +3457,527 @@
                     "explanation": "Micrometeoroids are tiny particles from space that enter Earth's atmosphere and can create very faint shooting stars."
                   }
                 ]
-              }
+              },
+              {
+                "setNumber": 3,
+                "questions": [
+                  {
+                    "question": "What is the name of the bright streak left behind by a shooting star?",
+                    "options": ["Meteor trail", "Comet tail", "Asteroid belt", "Galactic arm"],
+                    "answer": "Meteor trail",
+                    "explanation": "The bright streak of light that a shooting star leaves behind as it burns up in the atmosphere is called a meteor trail."
+                  },
+                  {
+                    "question": "What is the difference between a meteor and a meteorite?",
+                    "options": ["Meteors land on Earth, meteorites don't", "Meteors are in space, meteorites land on Earth", "Meteorites explode, meteors don't", "There is no difference"],
+                    "answer": "Meteors are in space, meteorites land on Earth",
+                    "explanation": "A meteor is a space rock that burns up in Earth's atmosphere, while a meteorite is a meteor that survives and lands on Earth's surface."
+                  },
+                  {
+                    "question": "What time of year do meteor showers typically occur?",
+                    "options": ["When the Earth passes through a comet's debris", "During a full moon", "When planets align", "During solar eclipses"],
+                    "answer": "When the Earth passes through a comet's debris",
+                    "explanation": "Meteor showers occur when Earth passes through the debris left behind by a comet."
+                  },
+                  {
+                    "question": "What is the name of the most famous meteor shower?",
+                    "options": ["Halley's Meteor Shower", "Perseids", "Orionids", "Leonids"],
+                    "answer": "Perseids",
+                    "explanation": "The Perseids meteor shower is one of the most famous meteor showers, occurring annually in August."
+                  },
+                  {
+                    "question": "How fast do meteors typically travel as they enter Earth's atmosphere?",
+                    "options": ["10 km/s", "50 km/s", "70 km/s", "100 km/s"],
+                    "answer": "70 km/s",
+                    "explanation": "Meteors can travel at speeds of up to 70 kilometers per second as they enter Earth's atmosphere."
+                  },
+                  {
+                    "question": "What color do most shooting stars appear as?",
+                    "options": ["Red", "Green", "White", "Blue"],
+                    "answer": "White",
+                    "explanation": "Most shooting stars appear as white streaks of light, although their color can vary depending on their chemical composition."
+                  },
+                  {
+                    "question": "What is the difference between a comet and a meteor?",
+                    "options": ["Comets orbit the Sun, meteors burn in the atmosphere", "Comets are ice, meteors are metal", "Comets have tails, meteors don't", "Comets are smaller than meteors"],
+                    "answer": "Comets orbit the Sun, meteors burn in the atmosphere",
+                    "explanation": "Comets are icy objects that orbit the Sun, while meteors are space debris that burn up in Earth's atmosphere."
+                  },
+                  {
+                    "question": "Which celestial event is responsible for the annual Perseid meteor shower?",
+                    "options": ["Halley's Comet", "Swift-Tuttle Comet", "Oumuamua", "Jupiter's orbit"],
+                    "answer": "Swift-Tuttle Comet",
+                    "explanation": "The Perseid meteor shower occurs when Earth passes through the debris left by the Swift-Tuttle Comet."
+                  },
+                  {
+                    "question": "What causes the light of a shooting star to appear brighter than other stars?",
+                    "options": ["Heat from friction", "Nuclear fusion", "Gravitational collapse", "Reflection of sunlight"],
+                    "answer": "Heat from friction",
+                    "explanation": "The bright light of a shooting star is caused by the heat generated from friction as the meteor enters Earth's atmosphere at high speeds."
+                  },
+                  {
+                    "question": "What are meteoroids before they enter Earth's atmosphere?",
+                    "options": ["Asteroids or comet fragments", "Stars", "Planets", "Gas clouds"],
+                    "answer": "Asteroids or comet fragments",
+                    "explanation": "Meteoroids are small fragments of asteroids or comets before they enter Earth's atmosphere and become meteors."
+                  }
+                ]
+              },
+              {
+                "setNumber": 4,
+                "questions": [
+                  {
+                    "question": "What happens to most meteors as they enter the atmosphere?",
+                    "options": ["They explode", "They burn up", "They reach the ground", "They change direction"],
+                    "answer": "They burn up",
+                    "explanation": "Most meteors burn up in the atmosphere due to friction, creating a bright flash of light."
+                  },
+                  {
+                    "question": "What is a fireball in terms of meteors?",
+                    "options": ["A meteor that burns green", "A very bright meteor", "A meteor that explodes", "A large meteor"],
+                    "answer": "A very bright meteor",
+                    "explanation": "A fireball is an exceptionally bright meteor that is visible over a wide area."
+                  },
+                  {
+                    "question": "Where do most meteorites originate from?",
+                    "options": ["The Moon", "The Asteroid Belt", "Comets", "The Sun"],
+                    "answer": "The Asteroid Belt",
+                    "explanation": "Most meteorites originate from the Asteroid Belt, a region of space between Mars and Jupiter."
+                  },
+                  {
+                    "question": "What percentage of meteors make it to Earth's surface as meteorites?",
+                    "options": ["Less than 1%", "10%", "50%", "75%"],
+                    "answer": "Less than 1%",
+                    "explanation": "Less than 1% of meteors survive the atmosphere and make it to Earth's surface as meteorites."
+                  },
+                  {
+                    "question": "What are meteor showers named after?",
+                    "options": ["The planet closest to them", "The star they orbit", "The constellation from which they appear to originate", "Their speed"],
+                    "answer": "The constellation from which they appear to originate",
+                    "explanation": "Meteor showers are named after the constellation they appear to come from when viewed from Earth."
+                  },
+                  {
+                    "question": "Which meteor shower peaks in December and is known for producing bright meteors?",
+                    "options": ["Perseids", "Leonids", "Geminids", "Orionids"],
+                    "answer": "Geminids",
+                    "explanation": "The Geminids meteor shower peaks in December and is known for producing bright and numerous meteors."
+                  },
+                  {
+                    "question": "What is the typical size of a meteor that creates a visible shooting star?",
+                    "options": ["A grain of sand", "A boulder", "A car", "A house"],
+                    "answer": "A grain of sand",
+                    "explanation": "Most visible shooting stars are caused by meteors no larger than a grain of sand burning up in the atmosphere."
+                  },
+                  {
+                    "question": "What is the term for a small rocky body that travels through space and might become a meteor?",
+                    "options": ["Meteorite", "Comet", "Meteoroid", "Planetesimal"],
+                    "answer": "Meteoroid",
+                    "explanation": "A meteoroid is a small rocky body in space that can become a meteor if it enters Earth's atmosphere."
+                  },
+                  {
+                    "question": "What is the radiant point of a meteor shower?",
+                    "options": ["The brightest meteor", "The point from which the meteors appear to originate", "The largest meteor fragment", "The location where meteorites are found"],
+                    "answer": "The point from which the meteors appear to originate",
+                    "explanation": "The radiant point is the area of the sky from which meteors in a shower appear to radiate."
+                  },
+                  {
+                    "question": "What is the main difference between meteors and comets?",
+                    "options": ["Meteors are rocky, comets are icy", "Meteors orbit the Sun, comets don’t", "Comets are larger than meteors", "Meteors are man-made, comets are natural"],
+                    "answer": "Meteors are rocky, comets are icy",
+                    "explanation": "Meteors are typically rocky or metallic, while comets are made of ice, dust, and gas."
+                  }
+                ]
+              },
+              {
+                "setNumber": 5,
+                "questions": [
+                  {
+                    "question": "Which type of meteor is most likely to cause significant damage if it reaches Earth?",
+                    "options": ["A small sand-sized meteor", "A fireball", "A comet", "A bolide"],
+                    "answer": "A bolide",
+                    "explanation": "A bolide is a large, exploding meteor that can cause significant damage if it impacts Earth's surface."
+                  },
+                  {
+                    "question": "How often do large meteors, capable of causing regional damage, impact Earth?",
+                    "options": ["Once a year", "Every 100 years", "Every 500 years", "Every 1,000 years"],
+                    "answer": "Every 100 years",
+                    "explanation": "On average, large meteors capable of causing regional damage impact Earth about once every 100 years."
+                  },
+                  {
+                    "question": "What happens when a meteor explodes in the atmosphere?",
+                    "options": ["It creates a soundless flash", "It causes a sonic boom", "It creates a tsunami", "It disappears instantly"],
+                    "answer": "It causes a sonic boom",
+                    "explanation": "When a meteor explodes in the atmosphere, it can create a sonic boom due to the rapid release of energy."
+                  },
+                  {
+                    "question": "What is the term for a meteor that explodes in the atmosphere but doesn’t reach the ground?",
+                    "options": ["Meteorite", "Bolide", "Fireball", "Comet"],
+                    "answer": "Bolide",
+                    "explanation": "A bolide is a large meteor that explodes in the atmosphere, creating a bright flash but not necessarily reaching the ground."
+                  },
+                  {
+                    "question": "Which element is most commonly found in meteorites?",
+                    "options": ["Iron", "Oxygen", "Carbon", "Nitrogen"],
+                    "answer": "Iron",
+                    "explanation": "Iron is a common element found in meteorites, especially in metallic meteorites."
+                  },
+                  {
+                    "question": "What is the Tunguska event, which is believed to have been caused by a large meteor?",
+                    "options": ["A volcanic eruption", "A meteor explosion over Siberia", "A solar storm", "A man-made disaster"],
+                    "answer": "A meteor explosion over Siberia",
+                    "explanation": "The Tunguska event was a massive explosion over Siberia in 1908, believed to have been caused by a large meteor or comet fragment."
+                  },
+                  {
+                    "question": "How do scientists track meteor showers?",
+                    "options": ["By tracking comets", "Using radar", "Observing the Moon", "Detecting sound waves"],
+                    "answer": "Using radar",
+                    "explanation": "Scientists track meteor showers using radar to detect meteors as they enter Earth's atmosphere."
+                  },
+                  {
+                    "question": "What percentage of a meteor's original mass typically survives to become a meteorite?",
+                    "options": ["1-5%", "20-30%", "50%", "90%"],
+                    "answer": "1-5%",
+                    "explanation": "Only about 1-5% of a meteor's original mass typically survives to become a meteorite after burning up in the atmosphere."
+                  },
+                  {
+                    "question": "What is the common name for a meteor that is larger than normal and explodes in the atmosphere?",
+                    "options": ["Fireball", "Shooting star", "Meteor shower", "Nebula"],
+                    "answer": "Fireball",
+                    "explanation": "A fireball is a very bright meteor that explodes in the atmosphere, often brighter than Venus."
+                  },
+                  {
+                    "question": "Which country holds the record for the largest meteorite ever found?",
+                    "options": ["United States", "Russia", "Australia", "Namibia"],
+                    "answer": "Namibia",
+                    "explanation": "Namibia is home to the largest meteorite ever found, known as the Hoba meteorite."
+                  }
+                ]
+              },
+              {
+                "setNumber": 6,
+                "questions": [
+                  {
+                    "question": "What is the typical height at which meteors become visible in the Earth's atmosphere?",
+                    "options": ["100 km", "10 km", "500 km", "1,000 km"],
+                    "answer": "100 km",
+                    "explanation": "Meteors typically become visible at an altitude of around 100 km as they begin to burn up due to friction with the atmosphere."
+                  },
+                  {
+                    "question": "What is the term for a group of meteors entering the Earth's atmosphere at the same time?",
+                    "options": ["Meteor cluster", "Meteor storm", "Meteorite swarm", "Meteor shower"],
+                    "answer": "Meteor storm",
+                    "explanation": "A meteor storm is an event where a large number of meteors enter the Earth's atmosphere at the same time, often during a meteor shower."
+                  },
+                  {
+                    "question": "Which famous crater is believed to have been caused by a meteor impact?",
+                    "options": ["Barringer Crater", "Crater Lake", "Mount St. Helens", "Vesuvius Crater"],
+                    "answer": "Barringer Crater",
+                    "explanation": "Barringer Crater, also known as Meteor Crater, in Arizona, was created by the impact of a large meteorite around 50,000 years ago."
+                  },
+                  {
+                    "question": "What is a meteorite?",
+                    "options": ["A small asteroid", "A meteor that reaches the ground", "A fragment of a comet", "A planet's debris"],
+                    "answer": "A meteor that reaches the ground",
+                    "explanation": "A meteorite is the term used for a meteor that survives its journey through Earth's atmosphere and reaches the ground."
+                  },
+                  {
+                    "question": "What is the primary cause of the light emitted by a shooting star?",
+                    "options": ["Nuclear fusion", "Combustion", "Friction with the atmosphere", "Magnetic fields"],
+                    "answer": "Friction with the atmosphere",
+                    "explanation": "The light emitted by a shooting star is caused by friction between the meteor and Earth's atmosphere, which heats it up and causes it to glow."
+                  },
+                  {
+                    "question": "What is the term for a meteor shower that is weaker than expected?",
+                    "options": ["Meteor blink", "Meteor trace", "Meteor miss", "Meteor dud"],
+                    "answer": "Meteor dud",
+                    "explanation": "A 'meteor dud' refers to a meteor shower that doesn't live up to its predicted intensity."
+                  },
+                  {
+                    "question": "Which meteor shower is known for producing bright, fast-moving meteors in November?",
+                    "options": ["Perseids", "Leonids", "Geminids", "Orionids"],
+                    "answer": "Leonids",
+                    "explanation": "The Leonids meteor shower, peaking in November, is known for producing fast-moving, bright meteors."
+                  },
+                  {
+                    "question": "What chemical elements in meteors can produce bright green colors?",
+                    "options": ["Oxygen", "Sodium", "Iron", "Nickel"],
+                    "answer": "Nickel",
+                    "explanation": "Meteors containing nickel can produce bright green colors when they burn up in the atmosphere."
+                  },
+                  {
+                    "question": "What is the main factor that determines whether a meteor will burn up or reach the Earth's surface?",
+                    "options": ["Its speed", "Its composition", "Its size", "The angle it enters the atmosphere"],
+                    "answer": "Its size",
+                    "explanation": "The size of the meteor is the main factor that determines whether it will burn up in the atmosphere or reach the Earth's surface as a meteorite."
+                  },
+                  {
+                    "question": "What is the radiant of the Geminid meteor shower?",
+                    "options": ["Orion", "Gemini", "Leo", "Perseus"],
+                    "answer": "Gemini",
+                    "explanation": "The Geminid meteor shower appears to originate from the constellation Gemini, hence its name."
+                  }
+                ]
+              },
+              {
+                "setNumber": 7,
+                "questions": [
+                  {
+                    "question": "Which meteor shower is caused by debris from Halley's Comet?",
+                    "options": ["Orionids", "Leonids", "Geminids", "Perseids"],
+                    "answer": "Orionids",
+                    "explanation": "The Orionids meteor shower occurs in October and is caused by debris from Halley's Comet."
+                  },
+                  {
+                    "question": "How do meteors differ from asteroids?",
+                    "options": ["Meteors are in the atmosphere, asteroids are in space", "Meteors are made of gas, asteroids are made of rock", "Meteors are smaller than asteroids", "Meteors are icy, asteroids are rocky"],
+                    "answer": "Meteors are in the atmosphere, asteroids are in space",
+                    "explanation": "Meteors are space debris that burn up in the atmosphere, while asteroids are rocky objects in space."
+                  },
+                  {
+                    "question": "What is the typical lifespan of a meteor during its visible streak in the sky?",
+                    "options": ["A few seconds", "A few minutes", "Several hours", "Several days"],
+                    "answer": "A few seconds",
+                    "explanation": "Most meteors are visible for only a few seconds as they streak across the sky before burning up in the atmosphere."
+                  },
+                  {
+                    "question": "What is a micrometeorite?",
+                    "options": ["A tiny meteor that reaches Earth", "A dust-sized comet", "A particle in space", "A meteor that explodes"],
+                    "answer": "A tiny meteor that reaches Earth",
+                    "explanation": "A micrometeorite is a tiny meteor that survives the journey through the atmosphere and lands on Earth's surface."
+                  },
+                  {
+                    "question": "What is the main cause of meteor showers?",
+                    "options": ["Passing through a planet's orbit", "Earth passing through comet debris", "Exploding stars", "Meteoroids colliding in space"],
+                    "answer": "Earth passing through comet debris",
+                    "explanation": "Meteor showers occur when Earth passes through the debris left behind by comets."
+                  },
+                  {
+                    "question": "Which meteor shower is known for its slow-moving meteors visible in October?",
+                    "options": ["Perseids", "Leonids", "Draconids", "Orionids"],
+                    "answer": "Draconids",
+                    "explanation": "The Draconid meteor shower, peaking in October, is known for its slow-moving meteors."
+                  },
+                  {
+                    "question": "What happens to most meteors when they hit the Earth's atmosphere?",
+                    "options": ["They explode", "They bounce back into space", "They evaporate", "They burn up"],
+                    "answer": "They burn up",
+                    "explanation": "Most meteors burn up due to friction with Earth's atmosphere, creating a bright streak of light."
+                  },
+                  {
+                    "question": "Which direction do meteors in the Perseid meteor shower appear to come from?",
+                    "options": ["North", "South", "East", "West"],
+                    "answer": "North",
+                    "explanation": "Meteors in the Perseid meteor shower appear to come from the northern sky, radiating from the constellation Perseus."
+                  },
+                  {
+                    "question": "What type of material are most meteoroids made of?",
+                    "options": ["Ice and dust", "Gas and plasma", "Rock and metal", "Liquid and crystals"],
+                    "answer": "Rock and metal",
+                    "explanation": "Most meteoroids are composed of rock and metal, which survive long enough to enter Earth's atmosphere and become meteors."
+                  },
+                  {
+                    "question": "What is the difference between a meteor shower and a meteor storm?",
+                    "options": ["A meteor shower is brighter", "A meteor storm has many more meteors", "Meteor storms occur at night", "Meteor showers happen during the day"],
+                    "answer": "A meteor storm has many more meteors",
+                    "explanation": "A meteor storm is an intense version of a meteor shower with far more meteors visible per hour."
+                  }
+                ]
+              },
+              {
+                "setNumber": 8,
+                "questions": [
+                  {
+                    "question": "What is the typical size range of meteoroids that create shooting stars?",
+                    "options": ["Less than 1 mm to 1 m", "1 cm to 5 m", "5 m to 10 m", "10 cm to 1 km"],
+                    "answer": "Less than 1 mm to 1 m",
+                    "explanation": "Meteoroids that create shooting stars typically range from less than 1 mm to about 1 meter in size."
+                  },
+                  {
+                    "question": "What happens to the majority of meteoroids as they enter the atmosphere?",
+                    "options": ["They explode", "They burn up", "They slow down", "They create sound"],
+                    "answer": "They burn up",
+                    "explanation": "Most meteoroids burn up upon entering the atmosphere due to friction with the air, creating a bright streak of light."
+                  },
+                  {
+                    "question": "During which month is the Leonids meteor shower most active?",
+                    "options": ["March", "May", "November", "September"],
+                    "answer": "November",
+                    "explanation": "The Leonids meteor shower is most active in November, with peak activity typically occurring around the 17th."
+                  },
+                  {
+                    "question": "Which space object is primarily responsible for the Orionids meteor shower?",
+                    "options": ["Halley's Comet", "Encke", "Swift-Tuttle", "Geminids"],
+                    "answer": "Halley's Comet",
+                    "explanation": "The Orionids meteor shower is primarily caused by debris from Halley's Comet, which is visible every 76 years."
+                  },
+                  {
+                    "question": "What is a radiant in relation to meteor showers?",
+                    "options": ["The area where meteors originate", "The brightness of a meteor", "The speed of meteors", "The color of meteors"],
+                    "answer": "The area where meteors originate",
+                    "explanation": "The radiant is the point in the sky from which meteors appear to originate during a meteor shower."
+                  },
+                  {
+                    "question": "What is the relationship between meteoroids and asteroids?",
+                    "options": ["Meteoroids are larger than asteroids", "Asteroids are larger than meteoroids", "They are the same", "Meteoroids are artificial"],
+                    "answer": "Asteroids are larger than meteoroids",
+                    "explanation": "Asteroids are significantly larger than meteoroids; meteoroids are fragments that can break off from asteroids."
+                  },
+                  {
+                    "question": "What is the best way to prepare for watching a meteor shower?",
+                    "options": ["Use a telescope", "Find a dark area", "Bring a flashlight", "Stay indoors"],
+                    "answer": "Find a dark area",
+                    "explanation": "The best way to prepare for watching a meteor shower is to find a dark area away from city lights to improve visibility."
+                  },
+                  {
+                    "question": "What can be concluded about the brightness of a meteor based on its color?",
+                    "options": ["Red indicates larger size", "Blue indicates higher speed", "White indicates metallic composition", "Green indicates it is artificial"],
+                    "answer": "White indicates metallic composition",
+                    "explanation": "The color of a meteor can indicate its chemical composition; for example, white often indicates a high metallic content."
+                  },
+                  {
+                    "question": "What term describes the study of meteors and meteorites?",
+                    "options": ["Astrobiology", "Meteorology", "Astrophysics", "Planetary science"],
+                    "answer": "Planetary science",
+                    "explanation": "The study of meteors and meteorites falls under planetary science, which includes the examination of celestial bodies and their materials."
+                  },
+                  {
+                    "question": "What is the common misconception about shooting stars?",
+                    "options": ["They are actually stars", "They are wishes", "They are planets", "They are visible only at night"],
+                    "answer": "They are actually stars",
+                    "explanation": "A common misconception is that shooting stars are stars, while in reality, they are meteors burning up in the atmosphere."
+                  }
+                ]
+              },
+              {
+                "setNumber": 9,
+                "questions": [
+                  {
+                    "question": "What is the difference between a meteor and a meteoroid?",
+                    "options": ["Meteoroids are larger", "Meteoroids are found on Earth", "Meteoroids are in space, meteors are in the atmosphere", "There is no difference"],
+                    "answer": "Meteoroids are in space, meteors are in the atmosphere",
+                    "explanation": "Meteoroids are small particles in space, while meteors are those meteoroids that enter the Earth's atmosphere and produce a visible streak of light."
+                  },
+                  {
+                    "question": "Which planet is known for having the most meteors due to its dense atmosphere?",
+                    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+                    "answer": "Earth",
+                    "explanation": "Earth has a dense atmosphere, which allows it to capture and observe the most meteors compared to other planets."
+                  },
+                  {
+                    "question": "What is the primary reason why some meteor showers are more prolific than others?",
+                    "options": ["The size of meteoroids", "The time of year", "The amount of debris from comets", "Earth's rotation"],
+                    "answer": "The amount of debris from comets",
+                    "explanation": "Meteor showers are more prolific when there is a larger amount of debris from comets entering Earth's atmosphere."
+                  },
+                  {
+                    "question": "What phenomenon occurs when Earth passes through a trail of debris from a comet?",
+                    "options": ["Meteor shower", "Eclipse", "Aurora", "Supernova"],
+                    "answer": "Meteor shower",
+                    "explanation": "A meteor shower occurs when Earth passes through a trail of debris left behind by a comet, causing numerous meteors to be visible."
+                  },
+                  {
+                    "question": "Which meteor shower is often associated with winter months?",
+                    "options": ["Geminids", "Orionids", "Perseids", "Lyrids"],
+                    "answer": "Geminids",
+                    "explanation": "The Geminids meteor shower, which peaks in December, is often associated with winter months."
+                  },
+                  {
+                    "question": "What factor can enhance the frequency of meteor sightings during a shower?",
+                    "options": ["Cloudy skies", "Clear nights", "Full moon", "Increased light pollution"],
+                    "answer": "Clear nights",
+                    "explanation": "Clear nights enhance the frequency of meteor sightings, providing an unobstructed view of the sky during a meteor shower."
+                  },
+                  {
+                    "question": "What is the term for a bright meteor that lasts longer than a regular meteor?",
+                    "options": ["Bolide", "Fireball", "Shooting star", "Meteorite"],
+                    "answer": "Fireball",
+                    "explanation": "A fireball is a very bright meteor that lasts longer than a typical meteor, often producing a spectacular display."
+                  },
+                  {
+                    "question": "What can often be seen alongside meteors during a meteor shower?",
+                    "options": ["Comets", "Auroras", "Artificial satellites", "Clouds"],
+                    "answer": "Auroras",
+                    "explanation": "Auroras can often be seen alongside meteors during a meteor shower, especially in polar regions."
+                  },
+                  {
+                    "question": "How does light pollution affect meteor watching?",
+                    "options": ["Increases visibility", "Has no effect", "Reduces visibility", "Makes meteors brighter"],
+                    "answer": "Reduces visibility",
+                    "explanation": "Light pollution from urban areas can significantly reduce visibility of meteors during a meteor shower."
+                  },
+                  {
+                    "question": "What is the scientific study of meteors and meteorites called?",
+                    "options": ["Meteorology", "Astrobiology", "Astrophysics", "Cosmochemistry"],
+                    "answer": "Cosmochemistry",
+                    "explanation": "The scientific study of meteors and meteorites, including their composition and origin, is called cosmochemistry."
+                  }
+                ]
+              },
+              {
+                "setNumber": 10,
+                "questions": [
+                  {
+                    "question": "What is the main characteristic that defines a fireball?",
+                    "options": ["Its color", "Its speed", "Its brightness and duration", "Its size"],
+                    "answer": "Its brightness and duration",
+                    "explanation": "A fireball is defined by its exceptional brightness and duration, lasting longer than typical meteors."
+                  },
+                  {
+                    "question": "What is the name of the trail of gas and dust left behind by a meteoroid as it travels through the atmosphere?",
+                    "options": ["Comet tail", "Plasma trail", "Ion trail", "Wake"],
+                    "answer": "Wake",
+                    "explanation": "The trail of gas and dust left behind by a meteoroid as it travels through the atmosphere is called a wake."
+                  },
+                  {
+                    "question": "During which meteor shower can you typically see the most meteors per hour?",
+                    "options": ["Orionids", "Geminids", "Perseids", "Lyrids"],
+                    "answer": "Geminids",
+                    "explanation": "The Geminids meteor shower is often regarded as the most prolific, with rates exceeding 100 meteors per hour during its peak."
+                  },
+                  {
+                    "question": "What event often causes meteor showers to happen on a regular schedule?",
+                    "options": ["Planetary alignment", "The Earth's orbit around the Sun", "Comet passages", "Solar flares"],
+                    "answer": "Comet passages",
+                    "explanation": "Meteor showers occur on a regular schedule due to the Earth's orbit intersecting with the debris trails of comets."
+                  },
+                  {
+                    "question": "What should you ideally do while watching a meteor shower for the best experience?",
+                    "options": ["Stay still and look up", "Move around frequently", "Use binoculars", "Look at the ground"],
+                    "answer": "Stay still and look up",
+                    "explanation": "For the best meteor watching experience, you should stay still and look up, allowing your eyes to adjust to the dark."
+                  },
+                  {
+                    "question": "Which meteor shower is considered to be the best for viewing in the Northern Hemisphere?",
+                    "options": ["Orionids", "Perseids", "Lyrids", "Geminids"],
+                    "answer": "Perseids",
+                    "explanation": "The Perseids meteor shower is considered one of the best for viewing in the Northern Hemisphere, typically peaking in August."
+                  },
+                  {
+                    "question": "What is a common term for the small pieces of debris that can produce meteors?",
+                    "options": ["Micrometeoroids", "Dust bunnies", "Space rocks", "Space debris"],
+                    "answer": "Micrometeoroids",
+                    "explanation": "Micrometeoroids are small pieces of debris from comets or asteroids that can produce meteors as they enter the atmosphere."
+                  },
+                  {
+                    "question": "What typically happens to larger meteoroids when they enter the atmosphere?",
+                    "options": ["They explode", "They burn up completely", "They break apart", "They turn into meteorites"],
+                    "answer": "They break apart",
+                    "explanation": "Larger meteoroids often break apart in the atmosphere, creating multiple meteors from a single entry."
+                  },
+                  {
+                    "question": "What time of night is typically best for observing meteor showers?",
+                    "options": ["Midnight to dawn", "Sunset to midnight", "Dawn to noon", "Evening hours"],
+                    "answer": "Midnight to dawn",
+                    "explanation": "The best time for observing meteor showers is usually from midnight to dawn when the sky is darkest."
+                  },
+                  {
+                    "question": "What is the impact of atmospheric conditions on the visibility of meteor showers?",
+                    "options": ["None", "Increases visibility", "Reduces visibility", "Improves brightness"],
+                    "answer": "Reduces visibility",
+                    "explanation": "Atmospheric conditions such as cloud cover and humidity can significantly reduce the visibility of meteor showers."
+                  }
+                ]
+              } 
             ]
           },
           {
@@ -3076,6 +4116,526 @@
                     "options": ["They are composed of ancient materials", "They contain life", "They control planetary orbits", "They formed after planets"],
                     "answer": "They are composed of ancient materials",
                     "explanation": "Comets are made of ancient materials from the early solar system, offering insights into its formation."
+                  }
+                ]
+              },
+              {
+                "setNumber": 3,
+                "questions": [
+                  {
+                    "question": "What is the primary difference between comets and asteroids?",
+                    "options": ["Size", "Composition", "Color", "Shape"],
+                    "answer": "Composition",
+                    "explanation": "Comets are composed mainly of ice and dust, while asteroids are primarily made of rock and metal."
+                  },
+                  {
+                    "question": "What is the term for the bright cloud of gas and dust that surrounds a comet's nucleus?",
+                    "options": ["Tail", "Coma", "Nucleus", "Asteroid belt"],
+                    "answer": "Coma",
+                    "explanation": "The coma is the nebulous envelope around the nucleus of a comet, formed when it gets close to the Sun."
+                  },
+                  {
+                    "question": "Which of the following is considered a 'dirty snowball'?",
+                    "options": ["Asteroid", "Comet", "Planet", "Moon"],
+                    "answer": "Comet",
+                    "explanation": "Comets are often referred to as 'dirty snowballs' because they contain ice, dust, and rocky material."
+                  },
+                  {
+                    "question": "What is the largest asteroid in the asteroid belt?",
+                    "options": ["Ceres", "Vesta", "Pallas", "Hygiea"],
+                    "answer": "Ceres",
+                    "explanation": "Ceres is the largest asteroid in the asteroid belt and is classified as a dwarf planet."
+                  },
+                  {
+                    "question": "How often does Halley's Comet return to the inner solar system?",
+                    "options": ["Every 76 years", "Every 100 years", "Every 50 years", "Every 120 years"],
+                    "answer": "Every 76 years",
+                    "explanation": "Halley's Comet is known to return to the inner solar system approximately every 76 years."
+                  },
+                  {
+                    "question": "What type of orbit do many comets have?",
+                    "options": ["Circular", "Elliptical", "Parabolic", "Hyperbolic"],
+                    "answer": "Elliptical",
+                    "explanation": "Many comets have highly elliptical orbits, allowing them to travel far out into the solar system before returning close to the Sun."
+                  },
+                  {
+                    "question": "What phenomenon occurs when Earth passes through the debris left by a comet?",
+                    "options": ["Meteor shower", "Solar eclipse", "Lunar eclipse", "Planetary alignment"],
+                    "answer": "Meteor shower",
+                    "explanation": "A meteor shower occurs when Earth passes through the debris trail left by a comet."
+                  },
+                  {
+                    "question": "What is the term for a solid core of a comet?",
+                    "options": ["Nucleus", "Coma", "Tail", "Asteroid"],
+                    "answer": "Nucleus",
+                    "explanation": "The nucleus is the solid, central part of a comet, composed of ice and dust."
+                  },
+                  {
+                    "question": "Which type of celestial object is primarily composed of metallic and rocky materials?",
+                    "options": ["Comet", "Asteroid", "Meteoroid", "Planet"],
+                    "answer": "Asteroid",
+                    "explanation": "Asteroids are primarily composed of metallic and rocky materials and are found mainly in the asteroid belt."
+                  },
+                  {
+                    "question": "What effect does the Sun have on the tail of a comet?",
+                    "options": ["No effect", "It pushes the tail away from the Sun", "It pulls the tail towards the Sun", "It melts the tail"],
+                    "answer": "It pushes the tail away from the Sun",
+                    "explanation": "The solar wind and radiation pressure from the Sun push the tail of a comet away from the Sun."
+                  }
+                ]
+              },
+              {
+                "setNumber": 4,
+                "questions": [
+                  {
+                    "question": "What is the Kuiper Belt?",
+                    "options": ["A region of comets", "An asteroid belt", "A region of gas giants", "A star cluster"],
+                    "answer": "A region of comets",
+                    "explanation": "The Kuiper Belt is a region beyond Neptune that contains many small icy bodies, including comets."
+                  },
+                  {
+                    "question": "What is the primary component of the nucleus of a comet?",
+                    "options": ["Rock", "Gas", "Ice", "Metal"],
+                    "answer": "Ice",
+                    "explanation": "The nucleus of a comet is primarily made of ice, along with dust and other materials."
+                  },
+                  {
+                    "question": "How do astronomers classify comets based on their orbital period?",
+                    "options": ["Short-period and long-period", "Fast and slow", "Near and far", "Bright and dim"],
+                    "answer": "Short-period and long-period",
+                    "explanation": "Comets are classified as short-period (less than 200 years) and long-period (more than 200 years) based on their orbital periods."
+                  },
+                  {
+                    "question": "Which famous comet is known for its 76-year orbit?",
+                    "options": ["Hale-Bopp", "Comet Shoemaker-Levy 9", "Halley's Comet", "Encke's Comet"],
+                    "answer": "Halley's Comet",
+                    "explanation": "Halley's Comet is famous for its regular appearances every 76 years."
+                  },
+                  {
+                    "question": "What can happen to a comet when it gets too close to the Sun?",
+                    "options": ["It can explode", "It can lose its icy material", "It can change its orbit", "It can collide with a planet"],
+                    "answer": "It can lose its icy material",
+                    "explanation": "When a comet approaches the Sun, it can lose its icy material, resulting in the formation of a tail."
+                  },
+                  {
+                    "question": "What is the term for a comet that has been captured by the gravitational pull of a planet?",
+                    "options": ["Dwarf planet", "Asteroid", "Meteoroid", "Temporary satellite"],
+                    "answer": "Temporary satellite",
+                    "explanation": "A comet can be captured by a planet's gravitational pull, becoming a temporary satellite."
+                  },
+                  {
+                    "question": "What is the difference between a comet and a cometary fragment?",
+                    "options": ["Size", "Age", "Composition", "Orbit"],
+                    "answer": "Size",
+                    "explanation": "Cometary fragments are smaller pieces of a comet that have broken off, while comets are larger bodies."
+                  },
+                  {
+                    "question": "What is the significance of the Oort Cloud?",
+                    "options": ["Source of asteroids", "Source of comets", "Region of gas giants", "Location of dark matter"],
+                    "answer": "Source of comets",
+                    "explanation": "The Oort Cloud is a theoretical region surrounding the solar system that is believed to be a source of long-period comets."
+                  },
+                  {
+                    "question": "What happens to asteroids that come too close to a planet's atmosphere?",
+                    "options": ["They explode", "They become comets", "They break apart", "They can become meteoroids"],
+                    "answer": "They can become meteoroids",
+                    "explanation": "Asteroids that come close to a planet's atmosphere can break apart and become meteoroids."
+                  },
+                  {
+                    "question": "What is the primary cause of a comet's tail formation?",
+                    "options": ["Collisions with asteroids", "Solar radiation and solar wind", "Gravitational pull of planets", "Magnetic fields"],
+                    "answer": "Solar radiation and solar wind",
+                    "explanation": "A comet's tail forms due to solar radiation and solar wind that push away gas and dust from the comet."
+                  }
+                ]
+              },
+              {
+                "setNumber": 5,
+                "questions": [
+                  {
+                    "question": "What are Trojan asteroids?",
+                    "options": ["Asteroids that follow a planet's orbit", "Asteroids that collide with comets", "Asteroids made of ice", "Asteroids found in the asteroid belt"],
+                    "answer": "Asteroids that follow a planet's orbit",
+                    "explanation": "Trojan asteroids are asteroids that share an orbit with a larger planet, typically located at stable points in the orbit."
+                  },
+                  {
+                    "question": "What is the expected lifespan of a comet?",
+                    "options": ["A few years", "Hundreds of years", "Thousands of years", "Millions of years"],
+                    "answer": "Thousands of years",
+                    "explanation": "Comets have varying lifespans, but they can last thousands of years before their icy components are depleted."
+                  },
+                  {
+                    "question": "Which celestial body is known for its bright tail and coma?",
+                    "options": ["Asteroid", "Meteoroid", "Comet", "Planet"],
+                    "answer": "Comet",
+                    "explanation": "Comets are known for their bright tails and comas, which form when they approach the Sun."
+                  },
+                  {
+                    "question": "What is an example of a long-period comet?",
+                    "options": ["Comet Hale-Bopp", "Comet Shoemaker-Levy 9", "Halley's Comet", "Comet Encke"],
+                    "answer": "Comet Hale-Bopp",
+                    "explanation": "Comet Hale-Bopp is an example of a long-period comet with a highly elliptical orbit."
+                  },
+                  {
+                    "question": "What is the term for the bright streak of light produced when a meteoroid enters Earth's atmosphere?",
+                    "options": ["Asteroid", "Meteor", "Comet", "Fireball"],
+                    "answer": "Meteor",
+                    "explanation": "The bright streak of light produced by a meteoroid entering Earth's atmosphere is known as a meteor."
+                  },
+                  {
+                    "question": "What material is primarily found in asteroids?",
+                    "options": ["Ice", "Gas", "Rock and metal", "Dust"],
+                    "answer": "Rock and metal",
+                    "explanation": "Asteroids are primarily composed of rock and metal, distinguishing them from comets, which contain ice."
+                  },
+                  {
+                    "question": "How do scientists track the orbits of comets and asteroids?",
+                    "options": ["Using telescopes", "Radar technology", "Mathematical calculations", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "Scientists use telescopes, radar technology, and mathematical calculations to track the orbits of comets and asteroids."
+                  },
+                  {
+                    "question": "What is the primary hazard associated with asteroids near Earth?",
+                    "options": ["They can cause flooding", "They can collide with Earth", "They can create solar flares", "They can disrupt satellites"],
+                    "answer": "They can collide with Earth",
+                    "explanation": "Asteroids that come near Earth pose a collision risk, which can lead to significant damage."
+                  },
+                  {
+                    "question": "What is a comet's tail made of?",
+                    "options": ["Dust and gas", "Rock and ice", "Metal and rock", "Liquid and gas"],
+                    "answer": "Dust and gas",
+                    "explanation": "A comet's tail is primarily made up of dust and gas that is released when the comet approaches the Sun."
+                  },
+                  {
+                    "question": "What is the name of the spacecraft that visited the comet 67P/Churyumov-Gerasimenko?",
+                    "options": ["Voyager", "Rosetta", "Hubble", "New Horizons"],
+                    "answer": "Rosetta",
+                    "explanation": "The Rosetta spacecraft successfully visited comet 67P/Churyumov-Gerasimenko and studied its composition."
+                  }
+                ]
+              },
+              {
+                "setNumber": 6,
+                "questions": [
+                  {
+                    "question": "What causes the bright tail of a comet to form?",
+                    "options": ["Solar wind and radiation", "Gravitational pull", "Asteroid collisions", "Planetary alignment"],
+                    "answer": "Solar wind and radiation",
+                    "explanation": "The bright tail of a comet forms due to the solar wind and radiation from the Sun, which pushes gas and dust away from the comet's nucleus."
+                  },
+                  {
+                    "question": "What is the main component of the coma surrounding a comet?",
+                    "options": ["Dust", "Gas", "Ice", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "The coma of a comet is made up of dust, gas, and ice that are released as the comet approaches the Sun."
+                  },
+                  {
+                    "question": "Which spacecraft was the first to successfully land on a comet?",
+                    "options": ["Voyager", "Rosetta", "New Horizons", "Deep Impact"],
+                    "answer": "Rosetta",
+                    "explanation": "The Rosetta spacecraft successfully landed on the comet 67P/Churyumov-Gerasimenko with its Philae lander in 2014."
+                  },
+                  {
+                    "question": "What are Near-Earth Objects (NEOs)?",
+                    "options": ["Planets near the Sun", "Asteroids and comets that can come close to Earth", "Stars that are about to explode", "Galaxies on a collision course"],
+                    "answer": "Asteroids and comets that can come close to Earth",
+                    "explanation": "NEOs are asteroids and comets that have orbits that bring them close to Earth's orbit."
+                  },
+                  {
+                    "question": "Which of the following is an example of a short-period comet?",
+                    "options": ["Halley's Comet", "Comet Hale-Bopp", "Comet Lovejoy", "Comet Shoemaker-Levy 9"],
+                    "answer": "Halley's Comet",
+                    "explanation": "Halley's Comet is a well-known short-period comet that orbits the Sun approximately every 76 years."
+                  },
+                  {
+                    "question": "What happens to a comet when it approaches the Sun for the first time?",
+                    "options": ["It becomes a planet", "It melts completely", "It may break apart", "It forms a new asteroid"],
+                    "answer": "It may break apart",
+                    "explanation": "When a comet approaches the Sun for the first time, the heat can cause it to lose material and sometimes break apart."
+                  },
+                  {
+                    "question": "Which of the following is a characteristic of asteroids?",
+                    "options": ["They are primarily icy", "They can be found in belts", "They always have tails", "They are larger than planets"],
+                    "answer": "They can be found in belts",
+                    "explanation": "Asteroids are commonly found in the asteroid belt between Mars and Jupiter."
+                  },
+                  {
+                    "question": "What type of orbit do most comets have?",
+                    "options": ["Circular", "Elliptical", "Parabolic", "All of the above"],
+                    "answer": "Elliptical",
+                    "explanation": "Most comets have highly elliptical orbits, bringing them close to the Sun and then taking them far out into the solar system."
+                  },
+                  {
+                    "question": "What is the term for the region beyond Neptune that is populated by icy bodies?",
+                    "options": ["Asteroid belt", "Kuiper Belt", "Oort Cloud", "Hubble Belt"],
+                    "answer": "Kuiper Belt",
+                    "explanation": "The Kuiper Belt is a region beyond Neptune that contains many icy bodies, including short-period comets."
+                  },
+                  {
+                    "question": "How do comets differ from meteoroids?",
+                    "options": ["Comets are larger", "Meteoroids are primarily made of ice", "Comets have a nucleus", "All of the above"],
+                    "answer": "Comets have a nucleus",
+                    "explanation": "Comets have a solid nucleus made of ice and dust, while meteoroids are typically smaller fragments of asteroids or comets."
+                  }
+                ]
+              },
+              {
+                "setNumber": 7,
+                "questions": [
+                  {
+                    "question": "What is a comet's nucleus primarily composed of?",
+                    "options": ["Rock and metal", "Gas and dust", "Ice and rock", "Liquid and metal"],
+                    "answer": "Ice and rock",
+                    "explanation": "The nucleus of a comet is primarily composed of ice mixed with rock and dust."
+                  },
+                  {
+                    "question": "What happens during a comet's perihelion?",
+                    "options": ["It is farthest from the Sun", "It is closest to the Sun", "It breaks apart", "It forms a new tail"],
+                    "answer": "It is closest to the Sun",
+                    "explanation": "Perihelion is the point in a comet's orbit where it is closest to the Sun, causing it to heat up and release gases."
+                  },
+                  {
+                    "question": "What type of celestial object are most comets thought to originate from?",
+                    "options": ["The Oort Cloud", "The asteroid belt", "The Kuiper Belt", "Nearby stars"],
+                    "answer": "The Oort Cloud",
+                    "explanation": "Many long-period comets are thought to originate from the Oort Cloud, a distant region of icy bodies surrounding the solar system."
+                  },
+                  {
+                    "question": "Which of the following is NOT a type of asteroid?",
+                    "options": ["C-type", "S-type", "M-type", "T-type"],
+                    "answer": "T-type",
+                    "explanation": "C-type, S-type, and M-type are classifications of asteroids based on their composition; T-type is not a recognized category."
+                  },
+                  {
+                    "question": "What is the main reason for the fragmentation of comets?",
+                    "options": ["Gravity of planets", "Heat from the Sun", "Collisions with asteroids", "Magnetic forces"],
+                    "answer": "Heat from the Sun",
+                    "explanation": "The heat from the Sun can cause a comet to fragment as it vaporizes ice and expands gas rapidly."
+                  },
+                  {
+                    "question": "What is a comet's tail made of?",
+                    "options": ["Only gas", "Only dust", "Gas and dust", "Rock and ice"],
+                    "answer": "Gas and dust",
+                    "explanation": "A comet's tail is composed of gas and dust that are expelled from the nucleus as it approaches the Sun."
+                  },
+                  {
+                    "question": "Which event is associated with the breakup of Comet Shoemaker-Levy 9?",
+                    "options": ["Impact with the Moon", "Collision with Jupiter", "Solar flares", "Passing through the asteroid belt"],
+                    "answer": "Collision with Jupiter",
+                    "explanation": "Comet Shoemaker-Levy 9 famously collided with Jupiter in 1994, creating spectacular impact sites on the planet."
+                  },
+                  {
+                    "question": "What is the primary risk of near-Earth asteroids?",
+                    "options": ["They can disrupt communications", "They can collide with Earth", "They can cause solar flares", "They can change climate"],
+                    "answer": "They can collide with Earth",
+                    "explanation": "The primary risk of near-Earth asteroids is their potential to collide with Earth, causing significant damage."
+                  },
+                  {
+                    "question": "What term describes a comet that becomes more active as it approaches the Sun?",
+                    "options": ["Dormant comet", "Active comet", "Dead comet", "Icy comet"],
+                    "answer": "Active comet",
+                    "explanation": "An active comet is one that exhibits outgassing and tail formation as it gets closer to the Sun."
+                  },
+                  {
+                    "question": "What do astronomers use to calculate the orbits of comets and asteroids?",
+                    "options": ["Mathematical models", "Observations", "Telescopes", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "Astronomers use mathematical models, observations, and telescopes to accurately calculate the orbits of comets and asteroids."
+                  }
+                ]
+              },
+              {
+                "setNumber": 8,
+                "questions": [
+                  {
+                    "question": "What type of comet has an orbital period of less than 200 years?",
+                    "options": ["Long-period comet", "Short-period comet", "Dwarf comet", "Inactive comet"],
+                    "answer": "Short-period comet",
+                    "explanation": "Short-period comets have orbital periods of less than 200 years, often originating from the Kuiper Belt."
+                  },
+                  {
+                    "question": "Which of the following best describes a meteoroid?",
+                    "options": ["A small rocky body in space", "A large comet", "A planet's moon", "A star"],
+                    "answer": "A small rocky body in space",
+                    "explanation": "A meteoroid is a small rocky or metallic body in space that can become a meteor when it enters Earth's atmosphere."
+                  },
+                  {
+                    "question": "What is the term for the icy outer layer of a comet?",
+                    "options": ["Nucleus", "Tail", "Coma", "Envelope"],
+                    "answer": "Coma",
+                    "explanation": "The coma is the fuzzy, glowing envelope of gas and dust that surrounds the nucleus of a comet."
+                  },
+                  {
+                    "question": "What is the primary difference between comets and asteroids?",
+                    "options": ["Size", "Location", "Composition", "Shape"],
+                    "answer": "Composition",
+                    "explanation": "The primary difference is their composition; comets are made of ice and dust, while asteroids are primarily made of rock and metal."
+                  },
+                  {
+                    "question": "What does the term 'nucleus' refer to in relation to comets?",
+                    "options": ["The tail of the comet", "The solid core of the comet", "The orbit of the comet", "The gas surrounding the comet"],
+                    "answer": "The solid core of the comet",
+                    "explanation": "The nucleus is the solid core of a comet, made of ice, dust, and rocky material."
+                  },
+                  {
+                    "question": "What is a meteor shower?",
+                    "options": ["A sudden increase in comet activity", "A series of meteors appearing in the sky", "A type of asteroid", "A solar storm"],
+                    "answer": "A series of meteors appearing in the sky",
+                    "explanation": "A meteor shower occurs when many meteors are seen streaking across the sky, often as Earth passes through debris from a comet."
+                  },
+                  {
+                    "question": "Which type of comet typically has a highly elliptical orbit?",
+                    "options": ["Short-period comets", "Long-period comets", "Inactive comets", "Asteroids"],
+                    "answer": "Long-period comets",
+                    "explanation": "Long-period comets have highly elliptical orbits that can take them far beyond the orbit of Pluto."
+                  },
+                  {
+                    "question": "What happens to the temperature of a comet as it approaches the Sun?",
+                    "options": ["It increases", "It decreases", "It stays the same", "It becomes variable"],
+                    "answer": "It increases",
+                    "explanation": "As a comet approaches the Sun, its temperature increases, causing its ice to sublimate and release gas and dust."
+                  },
+                  {
+                    "question": "What are the two main types of asteroids based on composition?",
+                    "options": ["Carbonaceous and metallic", "Icy and rocky", "Gas and dust", "Rocky and gaseous"],
+                    "answer": "Carbonaceous and metallic",
+                    "explanation": "Asteroids are mainly categorized into carbonaceous (C-type) and metallic (M-type) based on their composition."
+                  },
+                  {
+                    "question": "Which celestial event is associated with the Leonid meteor shower?",
+                    "options": ["The passing of Halley's Comet", "Debris from Comet Tempel-Tuttle", "The collision of asteroids", "Solar flares"],
+                    "answer": "Debris from Comet Tempel-Tuttle",
+                    "explanation": "The Leonid meteor shower occurs as Earth passes through the debris left by Comet Tempel-Tuttle."
+                  }
+                ]
+              },
+              {
+                "setNumber": 9,
+                "questions": [
+                  {
+                    "question": "What is the Oort Cloud?",
+                    "options": ["A region of asteroids", "A theoretical cloud of icy bodies surrounding the solar system", "A type of comet", "A planet's atmosphere"],
+                    "answer": "A theoretical cloud of icy bodies surrounding the solar system",
+                    "explanation": "The Oort Cloud is a theoretical region believed to contain many icy bodies, serving as the source of long-period comets."
+                  },
+                  {
+                    "question": "What is a significant characteristic of the asteroid belt?",
+                    "options": ["It is very dense", "It is mostly empty space", "It is composed of gas", "It is located near the Sun"],
+                    "answer": "It is mostly empty space",
+                    "explanation": "The asteroid belt contains many asteroids, but it is mostly empty space, with large distances between the objects."
+                  },
+                  {
+                    "question": "Which comet is known for its spectacular appearances and periodic returns?",
+                    "options": ["Comet Hale-Bopp", "Comet Shoemaker-Levy 9", "Halley's Comet", "Comet Lovejoy"],
+                    "answer": "Halley's Comet",
+                    "explanation": "Halley's Comet is famous for its periodic appearances approximately every 76 years, making it visible to the naked eye."
+                  },
+                  {
+                    "question": "How do comets contribute to the solar system's evolution?",
+                    "options": ["By creating new planets", "By colliding with asteroids", "By delivering water and organic materials", "By forming stars"],
+                    "answer": "By delivering water and organic materials",
+                    "explanation": "Comets may have delivered water and organic materials to early Earth, influencing the development of life."
+                  },
+                  {
+                    "question": "What is the name of the asteroid that caused the extinction of the dinosaurs?",
+                    "options": ["Asteroid 2011 AG5", "Chicxulub asteroid", "Asteroid 243 Ida", "Asteroid 433 Eros"],
+                    "answer": "Chicxulub asteroid",
+                    "explanation": "The Chicxulub asteroid is believed to have caused the mass extinction event that led to the demise of the dinosaurs about 66 million years ago."
+                  },
+                  {
+                    "question": "What is the term for a meteor that survives its passage through the atmosphere and reaches Earth's surface?",
+                    "options": ["Meteorite", "Asteroid", "Comet", "Meteoroid"],
+                    "answer": "Meteorite",
+                    "explanation": "A meteorite is a meteoroid that survives the intense heat and pressure of entering Earth's atmosphere and lands on the surface."
+                  },
+                  {
+                    "question": "Which spacecraft was launched to study the asteroid belt and its composition?",
+                    "options": ["Cassini", "Pioneer", "Dawn", "Voyager"],
+                    "answer": "Dawn",
+                    "explanation": "The Dawn spacecraft was launched to study the asteroid belt, particularly the two largest asteroids, Vesta and Ceres."
+                  },
+                  {
+                    "question": "What does the term 'impact event' refer to?",
+                    "options": ["A collision between celestial bodies", "A meteor shower", "A comet sighting", "A solar flare"],
+                    "answer": "A collision between celestial bodies",
+                    "explanation": "An impact event refers to the collision of a celestial body, such as an asteroid or comet, with another body, like Earth."
+                  },
+                  {
+                    "question": "What can studying asteroids teach scientists about the solar system?",
+                    "options": ["The formation of planets", "Star formation", "The behavior of comets", "The nature of black holes"],
+                    "answer": "The formation of planets",
+                    "explanation": "Studying asteroids helps scientists understand the early solar system and the processes involved in the formation of planets."
+                  },
+                  {
+                    "question": "What is the primary method used to observe comets and asteroids?",
+                    "options": ["Radar", "Optical telescopes", "Infrared detectors", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "Astronomers use radar, optical telescopes, and infrared detectors to observe and study comets and asteroids."
+                  }
+                ]
+              },
+              {
+                "setNumber": 10,
+                "questions": [
+                  {
+                    "question": "What is a distinguishing feature of a carbonaceous (C-type) asteroid?",
+                    "options": ["High metal content", "Contains water and organic materials", "Mostly composed of ice", "Very reflective surface"],
+                    "answer": "Contains water and organic materials",
+                    "explanation": "C-type asteroids are rich in carbon and often contain water and organic materials, making them similar to comets."
+                  },
+                  {
+                    "question": "What is a significant event that can occur during a comet's close approach to Earth?",
+                    "options": ["Earthquakes", "Meteor showers", "Volcanic eruptions", "Tsunamis"],
+                    "answer": "Meteor showers",
+                    "explanation": "When a comet passes close to Earth, it can result in meteor showers if Earth crosses its debris trail."
+                  },
+                  {
+                    "question": "What defines a long-period comet?",
+                    "options": ["Orbits every few years", "Orbits every few decades", "Orbits every few hundred years", "Orbits every few thousand years"],
+                    "answer": "Orbits every few thousand years",
+                    "explanation": "Long-period comets take thousands of years to complete an orbit around the Sun, originating from the Oort Cloud."
+                  },
+                  {
+                    "question": "What was the first asteroid to be discovered?",
+                    "options": ["Ceres", "Pallas", "Vesta", "Eros"],
+                    "answer": "Ceres",
+                    "explanation": "Ceres was the first asteroid to be discovered in 1801 and is now classified as a dwarf planet."
+                  },
+                  {
+                    "question": "What role do comets play in the study of the early solar system?",
+                    "options": ["They help track asteroids", "They provide clues about the conditions in the early solar system", "They are sources of solar energy", "They create new planets"],
+                    "answer": "They provide clues about the conditions in the early solar system",
+                    "explanation": "Comets are considered to be primordial remnants of the solar system, preserving information about its early conditions."
+                  },
+                  {
+                    "question": "Which event in 1994 brought global attention to the impact of comets?",
+                    "options": ["The impact of Comet Hale-Bopp", "The collision of Comet Shoemaker-Levy 9 with Jupiter", "The first observation of a comet", "The launch of the Hubble Space Telescope"],
+                    "answer": "The collision of Comet Shoemaker-Levy 9 with Jupiter",
+                    "explanation": "The collision of Comet Shoemaker-Levy 9 with Jupiter in 1994 was significant as it demonstrated the potential danger of comet impacts."
+                  },
+                  {
+                    "question": "What is the Kuiper Belt known for?",
+                    "options": ["A region of asteroids", "A cloud of gas", "A ring of planets", "A region of icy bodies beyond Neptune"],
+                    "answer": "A region of icy bodies beyond Neptune",
+                    "explanation": "The Kuiper Belt is known for containing many icy bodies, including dwarf planets and short-period comets."
+                  },
+                  {
+                    "question": "What do astronomers hope to find by studying asteroids and comets?",
+                    "options": ["The origin of life", "New planets", "Alien civilizations", "The fate of the universe"],
+                    "answer": "The origin of life",
+                    "explanation": "Studying asteroids and comets can provide insights into the origin of life on Earth by revealing the materials present in the early solar system."
+                  },
+                  {
+                    "question": "What is the typical lifespan of a comet?",
+                    "options": ["Millions of years", "Hundreds of years", "Thousands of years", "Billions of years"],
+                    "answer": "Thousands of years",
+                    "explanation": "The lifespan of a comet can range from thousands to millions of years, depending on its orbit and interactions with the Sun."
+                  },
+                  {
+                    "question": "What is a common effect of a comet passing close to Earth?",
+                    "options": ["Increased solar activity", "Tides changing", "Visible meteor showers", "Rise in temperature"],
+                    "answer": "Visible meteor showers",
+                    "explanation": "As comets pass close to Earth, they can produce visible meteor showers as Earth travels through their debris."
                   }
                 ]
               }
