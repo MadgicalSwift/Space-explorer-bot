@@ -4785,8 +4785,529 @@
                     "explanation": "The Parker Solar Probe was launched to study the Sun's outer atmosphere and solar wind."
                   }
                 ]
-              }              
+              },
+              {
+                "setNumber": 3,
+                "questions": [
+                  {
+                    "question": "What type of orbit do most communication satellites use?",
+                    "options": ["Low Earth orbit", "Geostationary orbit", "Polar orbit", "Heliocentric orbit"],
+                    "answer": "Geostationary orbit",
+                    "explanation": "Most communication satellites are placed in geostationary orbit, where they stay fixed over a single point on Earth's surface."
+                  },
+                  {
+                    "question": "What was the first satellite to successfully relay a live television signal?",
+                    "options": ["Telstar 1", "Sputnik 2", "Explorer 1", "Hubble"],
+                    "answer": "Telstar 1",
+                    "explanation": "Telstar 1, launched in 1962, was the first satellite to successfully relay live television signals across the Atlantic."
+                  },
+                  {
+                    "question": "Which satellite is known for revolutionizing global positioning systems (GPS)?",
+                    "options": ["Voyager", "Navstar", "Landsat", "Galileo"],
+                    "answer": "Navstar",
+                    "explanation": "Navstar is a series of satellites that form the GPS system, which provides accurate positioning and navigation worldwide."
+                  },
+                  {
+                    "question": "Which satellite is used to monitor Earth’s weather patterns?",
+                    "options": ["Hubble", "GOES", "Voyager", "ISS"],
+                    "answer": "GOES",
+                    "explanation": "The GOES (Geostationary Operational Environmental Satellites) system is used to monitor Earth's weather and atmospheric conditions."
+                  },
+                  {
+                    "question": "What is the function of remote sensing satellites?",
+                    "options": ["Communication", "Navigation", "Scientific research", "Earth observation"],
+                    "answer": "Earth observation",
+                    "explanation": "Remote sensing satellites are used for Earth observation, capturing images and data about the planet's surface."
+                  },
+                  {
+                    "question": "What kind of satellite is the Hubble Space Telescope?",
+                    "options": ["Communication satellite", "Weather satellite", "Scientific satellite", "Navigation satellite"],
+                    "answer": "Scientific satellite",
+                    "explanation": "The Hubble Space Telescope is a scientific satellite used to observe stars, galaxies, and other celestial objects."
+                  },
+                  {
+                    "question": "Which manmade satellite continuously tracks global climate and environmental changes?",
+                    "options": ["GPS", "NOAA", "Landsat", "Galileo"],
+                    "answer": "Landsat",
+                    "explanation": "The Landsat series of satellites provides continuous observation of Earth’s land surfaces, monitoring changes in agriculture, forestry, and climate."
+                  },
+                  {
+                    "question": "How do satellites in polar orbits help with Earth observation?",
+                    "options": ["They remain fixed over one spot", "They orbit the equator", "They scan the entire Earth as it rotates", "They focus on specific regions"],
+                    "answer": "They scan the entire Earth as it rotates",
+                    "explanation": "Satellites in polar orbits pass over both poles, scanning the entire Earth over time as the planet rotates."
+                  },
+                  {
+                    "question": "What is the role of navigation satellites like GPS?",
+                    "options": ["Providing weather data", "Relaying television signals", "Tracking ocean currents", "Providing accurate location and time information"],
+                    "answer": "Providing accurate location and time information",
+                    "explanation": "Navigation satellites like GPS provide precise location, navigation, and timing information for various applications."
+                  },
+                  {
+                    "question": "Which international project uses satellites to monitor environmental pollution?",
+                    "options": ["Copernicus", "Apollo", "Voyager", "Navstar"],
+                    "answer": "Copernicus",
+                    "explanation": "The COPERNICUS program uses a series of satellites to monitor environmental pollution and climate changes on Earth."
+                  }
+                ]
+              },
+              {
+                "setNumber": 4,
+                "questions": [
+                  {
+                    "question": "Which satellite provides real-time images of Earth for weather forecasting?",
+                    "options": ["NOAA", "Navstar", "Galileo", "Telstar"],
+                    "answer": "NOAA",
+                    "explanation": "NOAA satellites provide real-time weather data and images for forecasting and monitoring storms and other atmospheric conditions."
+                  },
+                  {
+                    "question": "What powers most manmade satellites in space?",
+                    "options": ["Nuclear energy", "Wind power", "Solar panels", "Battery packs"],
+                    "answer": "Solar panels",
+                    "explanation": "Most satellites are powered by solar panels, which convert sunlight into electricity to power their systems."
+                  },
+                  {
+                    "question": "Which satellite is known for mapping Earth’s surface in detail?",
+                    "options": ["Landsat", "GPS", "Hubble", "Navstar"],
+                    "answer": "Landsat",
+                    "explanation": "The Landsat series of satellites provides detailed imaging of Earth's surface, used for environmental monitoring and urban planning."
+                  },
+                  {
+                    "question": "What is the main advantage of satellites in geostationary orbits?",
+                    "options": ["They move quickly", "They provide a global view", "They stay over the same area", "They observe deep space"],
+                    "answer": "They stay over the same area",
+                    "explanation": "Satellites in geostationary orbit stay over the same point on Earth's surface, making them ideal for continuous communication and weather observation."
+                  },
+                  {
+                    "question": "What is the main function of a reconnaissance satellite?",
+                    "options": ["Weather forecasting", "Military intelligence gathering", "Telecommunications", "Navigational aid"],
+                    "answer": "Military intelligence gathering",
+                    "explanation": "Reconnaissance satellites are primarily used by governments for military intelligence gathering and surveillance purposes."
+                  },
+                  {
+                    "question": "Which satellite was launched to study Earth's magnetic field?",
+                    "options": ["SOHO", "GRACE", "Swarm", "Voyager"],
+                    "answer": "Swarm",
+                    "explanation": "The European Space Agency's Swarm mission was launched to study Earth's magnetic field and its changes over time."
+                  },
+                  {
+                    "question": "What is a weather satellite used for?",
+                    "options": ["Predicting solar storms", "Tracking space debris", "Monitoring weather patterns", "Measuring Earth's gravity"],
+                    "answer": "Monitoring weather patterns",
+                    "explanation": "Weather satellites are used to monitor and predict weather patterns, including storms, hurricanes, and other atmospheric events."
+                  },
+                  {
+                    "question": "What was the first satellite to carry a living organism into space?",
+                    "options": ["Sputnik 2", "Explorer 1", "Telstar", "Voyager 2"],
+                    "answer": "Sputnik 2",
+                    "explanation": "Sputnik 2 was the first satellite to carry a living organism, a dog named Laika, into space in 1957."
+                  },
+                  {
+                    "question": "Which type of satellite is used to detect natural disasters like hurricanes and earthquakes?",
+                    "options": ["Reconnaissance satellites", "Communication satellites", "Earth observation satellites", "Astronomical satellites"],
+                    "answer": "Earth observation satellites",
+                    "explanation": "Earth observation satellites are used to monitor natural disasters, track their development, and assess damage."
+                  },
+                  {
+                    "question": "Which manmade satellite is closest to Earth?",
+                    "options": ["GPS satellites", "Low Earth orbit satellites", "Geostationary satellites", "Voyager 1"],
+                    "answer": "Low Earth orbit satellites",
+                    "explanation": "Low Earth orbit satellites are the closest to Earth, orbiting at altitudes of around 160 to 2,000 kilometers."
+                  }
+                ]
+              },
+              {
+                "setNumber": 5,
+                "questions": [
+                  {
+                    "question": "What is a satellite constellation?",
+                    "options": ["A single satellite", "A group of stars", "A network of satellites working together", "A natural moon"],
+                    "answer": "A network of satellites working together",
+                    "explanation": "A satellite constellation is a group of satellites that work together to provide coverage over a large area, such as the GPS system."
+                  },
+                  {
+                    "question": "What is the main purpose of navigation satellites?",
+                    "options": ["Weather monitoring", "Providing positioning and timing data", "Military reconnaissance", "Scientific research"],
+                    "answer": "Providing positioning and timing data",
+                    "explanation": "Navigation satellites, like GPS, provide accurate positioning and timing information for navigation on land, sea, and air."
+                  },
+                  {
+                    "question": "What is a CubeSat?",
+                    "options": ["A satellite made of cubes", "A small, lightweight satellite", "A large research satellite", "A type of telescope"],
+                    "answer": "A small, lightweight satellite",
+                    "explanation": "A CubeSat is a type of miniaturized satellite used for research and communications, typically weighing less than 1.33 kilograms."
+                  },
+                  {
+                    "question": "What does a satellite in a polar orbit do?",
+                    "options": ["Orbits the equator", "Orbits over the poles", "Stays fixed over one location", "Orbits the Sun"],
+                    "answer": "Orbits over the poles",
+                    "explanation": "A satellite in polar orbit passes over the North and South Poles, allowing it to scan the entire Earth's surface."
+                  },
+                  {
+                    "question": "What kind of data do weather satellites collect?",
+                    "options": ["Television signals", "Temperature and humidity data", "Magnetic field strength", "Cosmic radiation levels"],
+                    "answer": "Temperature and humidity data",
+                    "explanation": "Weather satellites collect data on temperature, humidity, cloud cover, and other atmospheric conditions to help forecast weather."
+                  },
+                  {
+                    "question": "Which country launched the first artificial satellite into space?",
+                    "options": ["USA", "Russia", "China", "Japan"],
+                    "answer": "Russia",
+                    "explanation": "Russia (then the Soviet Union) launched the first artificial satellite, Sputnik 1, into space in 1957."
+                  },
+                  {
+                    "question": "How do satellites help in search and rescue operations?",
+                    "options": ["Monitoring weather", "Tracking ocean currents", "Relaying distress signals", "Taking high-resolution images"],
+                    "answer": "Relaying distress signals",
+                    "explanation": "Satellites can relay distress signals from ships, aircraft, and people in remote areas, aiding in search and rescue operations."
+                  },
+                  {
+                    "question": "Which type of satellite orbits closest to Earth?",
+                    "options": ["Low Earth orbit satellites", "Geostationary satellites", "Polar orbit satellites", "Medium Earth orbit satellites"],
+                    "answer": "Low Earth orbit satellites",
+                    "explanation": "Low Earth orbit satellites are the closest to Earth, orbiting at altitudes between 160 and 2,000 kilometers."
+                  },
+                  {
+                    "question": "What is the primary role of weather satellites like GOES?",
+                    "options": ["Communication", "Navigation", "Weather forecasting", "Military reconnaissance"],
+                    "answer": "Weather forecasting",
+                    "explanation": "Weather satellites like GOES are primarily used for weather forecasting, tracking storms, and monitoring atmospheric conditions."
+                  },
+                  {
+                    "question": "Which satellite system is used for global positioning services (GPS)?",
+                    "options": ["Hubble", "Galileo", "Navstar", "Telstar"],
+                    "answer": "Navstar",
+                    "explanation": "Navstar is the satellite system used for GPS, providing accurate positioning data to users worldwide."
+                  }
+                ]
+              },
+              {
+                "setNumber": 6,
+                "questions": [
+                  {
+                    "question": "What is the lifespan of most manmade satellites in orbit?",
+                    "options": ["1 year", "5-15 years", "50 years", "100 years"],
+                    "answer": "5-15 years",
+                    "explanation": "Most manmade satellites have an operational lifespan of around 5 to 15 years before they are decommissioned or replaced."
+                  },
+                  {
+                    "question": "Which satellite was launched to study the Sun's corona and solar wind?",
+                    "options": ["Voyager 1", "Parker Solar Probe", "Sputnik 1", "Galileo"],
+                    "answer": "Parker Solar Probe",
+                    "explanation": "The Parker Solar Probe was launched to study the Sun's outer corona and the solar wind."
+                  },
+                  {
+                    "question": "Which orbit is primarily used for satellites that observe deep space?",
+                    "options": ["Low Earth orbit", "Geostationary orbit", "Medium Earth orbit", "Heliocentric orbit"],
+                    "answer": "Heliocentric orbit",
+                    "explanation": "Heliocentric orbit is used by satellites that observe deep space, as it places them in orbit around the Sun."
+                  },
+                  {
+                    "question": "What is the function of reconnaissance satellites?",
+                    "options": ["Communication", "Military intelligence gathering", "Weather forecasting", "Astronomical observation"],
+                    "answer": "Military intelligence gathering",
+                    "explanation": "Reconnaissance satellites are used by militaries for intelligence gathering and surveillance."
+                  },
+                  {
+                    "question": "What is the purpose of scientific satellites like the Hubble Space Telescope?",
+                    "options": ["Providing GPS signals", "Monitoring Earth's weather", "Observing celestial objects", "Relaying television signals"],
+                    "answer": "Observing celestial objects",
+                    "explanation": "Scientific satellites like Hubble are used to observe celestial objects, providing valuable data for astronomers."
+                  },
+                  {
+                    "question": "What was the first satellite to carry human passengers into space?",
+                    "options": ["Sputnik 1", "Apollo 11", "Vostok 1", "Gemini 1"],
+                    "answer": "Vostok 1",
+                    "explanation": "Vostok 1 was the first satellite to carry a human, Yuri Gagarin, into space in 1961."
+                  },
+                  {
+                    "question": "What powers most satellites in space?",
+                    "options": ["Nuclear power", "Solar panels", "Wind turbines", "Fossil fuels"],
+                    "answer": "Solar panels",
+                    "explanation": "Most satellites are powered by solar panels, which convert sunlight into electricity."
+                  },
+                  {
+                    "question": "Which type of satellite is used to monitor Earth's environmental changes?",
+                    "options": ["Communication satellites", "Remote sensing satellites", "GPS satellites", "Weather satellites"],
+                    "answer": "Remote sensing satellites",
+                    "explanation": "Remote sensing satellites monitor environmental changes on Earth, such as deforestation, pollution, and climate change."
+                  },
+                  {
+                    "question": "How do satellites maintain their orbits around Earth?",
+                    "options": ["They use rockets continuously", "They are pulled by Earth's gravity", "They are pushed by solar wind", "They stay in orbit due to a balance between gravity and velocity"],
+                    "answer": "They stay in orbit due to a balance between gravity and velocity",
+                    "explanation": "Satellites remain in orbit by balancing Earth's gravitational pull with their forward velocity, preventing them from falling back to Earth."
+                  },
+                  {
+                    "question": "Which satellite helped create the first accurate global map of Earth's gravitational field?",
+                    "options": ["Landsat", "GOCE", "NOAA", "Voyager"],
+                    "answer": "GOCE",
+                    "explanation": "The GOCE (Gravity Field and Steady-State Ocean Circulation Explorer) satellite provided an accurate map of Earth's gravitational field."
+                  }
+                ]
+              },
+              {
+                "setNumber": 7,
+                "questions": [
+                  {
+                    "question": "What is the primary function of weather satellites?",
+                    "options": ["Telecommunications", "Monitoring ocean currents", "Tracking space debris", "Monitoring atmospheric conditions"],
+                    "answer": "Monitoring atmospheric conditions",
+                    "explanation": "Weather satellites track atmospheric conditions, providing data for weather forecasting and climate monitoring."
+                  },
+                  {
+                    "question": "Which orbit is ideal for global communications satellites?",
+                    "options": ["Low Earth orbit", "Medium Earth orbit", "Polar orbit", "Geostationary orbit"],
+                    "answer": "Geostationary orbit",
+                    "explanation": "Geostationary orbit is ideal for global communications satellites as they remain fixed over a single location on Earth's surface."
+                  },
+                  {
+                    "question": "Which manmade satellite system is known for providing global navigation services?",
+                    "options": ["Hubble", "Galileo", "GOES", "Navstar"],
+                    "answer": "Navstar",
+                    "explanation": "Navstar is the satellite system used for GPS, providing global navigation services for location and timing."
+                  },
+                  {
+                    "question": "What is the main difference between a satellite in low Earth orbit and one in geostationary orbit?",
+                    "options": ["Geostationary satellites orbit faster", "Low Earth orbit satellites are closer to Earth", "Geostationary satellites monitor deep space", "Low Earth orbit satellites move slower"],
+                    "answer": "Low Earth orbit satellites are closer to Earth",
+                    "explanation": "Satellites in low Earth orbit are much closer to Earth than those in geostationary orbit, allowing them to circle the planet more quickly."
+                  },
+                  {
+                    "question": "Which satellite provided the first live broadcast of the Olympic Games?",
+                    "options": ["Telstar", "GOES", "Sputnik", "Hubble"],
+                    "answer": "Telstar",
+                    "explanation": "Telstar was the first satellite to provide a live broadcast of the Olympic Games in 1962."
+                  },
+                  {
+                    "question": "What is the purpose of CubeSats?",
+                    "options": ["Weather observation", "Scientific experiments", "Telecommunications", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "CubeSats are small satellites used for a variety of purposes, including scientific experiments, telecommunications, and weather observation."
+                  },
+                  {
+                    "question": "Which country developed and launched the first manmade satellite?",
+                    "options": ["USA", "Russia", "China", "Japan"],
+                    "answer": "Russia",
+                    "explanation": "Russia (then the Soviet Union) launched the first manmade satellite, Sputnik 1, in 1957."
+                  },
+                  {
+                    "question": "What is the role of navigation satellites in everyday life?",
+                    "options": ["Broadcasting television signals", "Providing accurate location information", "Monitoring weather", "Measuring magnetic fields"],
+                    "answer": "Providing accurate location information",
+                    "explanation": "Navigation satellites, like those in the GPS system, provide accurate location information for navigation and timing services."
+                  },
+                  {
+                    "question": "Which type of orbit allows satellites to scan the entire Earth over time?",
+                    "options": ["Geostationary orbit", "Low Earth orbit", "Polar orbit", "Medium Earth orbit"],
+                    "answer": "Polar orbit",
+                    "explanation": "Satellites in polar orbit pass over the Earth's poles, allowing them to scan the entire surface over time."
+                  },
+                  {
+                    "question": "What was the first satellite launched for weather observation?",
+                    "options": ["Sputnik", "Telstar", "TIROS-1", "Voyager"],
+                    "answer": "TIROS-1",
+                    "explanation": "TIROS-1 was the first satellite dedicated to weather observation, launched in 1960 by NASA."
+                  }
+                ]
+              },
+              {
+                "setNumber": 8,
+                "questions": [
+                  {
+                    "question": "What is the main advantage of geostationary satellites for television broadcasting?",
+                    "options": ["They can orbit faster", "They stay over one spot", "They monitor deep space", "They use less energy"],
+                    "answer": "They stay over one spot",
+                    "explanation": "Geostationary satellites stay fixed over a single point on Earth's surface, making them ideal for continuous television broadcasting."
+                  },
+                  {
+                    "question": "Which satellite system provides global weather data?",
+                    "options": ["GPS", "Landsat", "GOES", "Navstar"],
+                    "answer": "GOES",
+                    "explanation": "The GOES (Geostationary Operational Environmental Satellites) system provides global weather data used in forecasting."
+                  },
+                  {
+                    "question": "How do satellites in low Earth orbit communicate with ground stations?",
+                    "options": ["Direct radio signals", "Laser beams", "Solar panels", "They don’t communicate"],
+                    "answer": "Direct radio signals",
+                    "explanation": "Satellites in low Earth orbit use direct radio signals to communicate with ground stations for data transmission."
+                  },
+                  {
+                    "question": "What is the main function of the Landsat satellite?",
+                    "options": ["Studying deep space", "Mapping Earth's surface", "Relaying phone calls", "Tracking weather systems"],
+                    "answer": "Mapping Earth's surface",
+                    "explanation": "The Landsat satellite is primarily used for mapping Earth's surface, monitoring changes in land use, and studying natural resources."
+                  },
+                  {
+                    "question": "What enables communication satellites to transmit signals across the globe?",
+                    "options": ["Low Earth orbit", "High-frequency radio waves", "Geostationary orbit", "Powerful solar panels"],
+                    "answer": "High-frequency radio waves",
+                    "explanation": "Communication satellites transmit signals using high-frequency radio waves, allowing for global telecommunications."
+                  },
+                  {
+                    "question": "Which satellite was the first to take pictures of the entire Earth?",
+                    "options": ["Sputnik", "GOES", "TIROS-1", "ATS-1"],
+                    "answer": "ATS-1",
+                    "explanation": "ATS-1 was the first satellite to capture images of the entire Earth from space in 1966."
+                  },
+                  {
+                    "question": "What is the purpose of spy satellites?",
+                    "options": ["Weather forecasting", "Military reconnaissance", "Navigating ships", "Broadcasting television"],
+                    "answer": "Military reconnaissance",
+                    "explanation": "Spy satellites are used for military reconnaissance, gathering intelligence by taking high-resolution images of Earth’s surface."
+                  },
+                  {
+                    "question": "How does a satellite deorbit at the end of its life?",
+                    "options": ["It crashes into the Moon", "It is pushed into deep space", "It burns up in the atmosphere", "It stays in orbit forever"],
+                    "answer": "It burns up in the atmosphere",
+                    "explanation": "At the end of its life, many satellites are deorbited and burn up in Earth's atmosphere as they re-enter."
+                  },
+                  {
+                    "question": "Which satellite was launched to study climate change from space?",
+                    "options": ["Landsat", "Sentinel-6", "Telstar", "Voyager"],
+                    "answer": "Sentinel-6",
+                    "explanation": "Sentinel-6 is a satellite dedicated to monitoring sea level rise and other climate change indicators from space."
+                  },
+                  {
+                    "question": "What prevents satellites from colliding in space?",
+                    "options": ["Different orbits", "They use lasers", "Constant communication", "They are very small"],
+                    "answer": "Different orbits",
+                    "explanation": "Satellites are placed in different orbits to minimize the risk of collision, and space agencies track their positions carefully."
+                  }
+                ]
+              },
+              {
+                "setNumber": 9,
+                "questions": [
+                  {
+                    "question": "What is the purpose of polar-orbiting satellites?",
+                    "options": ["To map weather patterns", "To study deep space", "To orbit faster than other satellites", "To monitor the poles only"],
+                    "answer": "To map weather patterns",
+                    "explanation": "Polar-orbiting satellites are used to map weather patterns as they can scan the entire Earth's surface."
+                  },
+                  {
+                    "question": "What is the name of the international space station orbiting Earth?",
+                    "options": ["Voyager", "International Space Station", "Sputnik", "Hubble"],
+                    "answer": "International Space Station",
+                    "explanation": "The International Space Station (ISS) orbits Earth and serves as a laboratory for scientific research in space."
+                  },
+                  {
+                    "question": "Which orbit allows satellites to provide detailed images of Earth's surface?",
+                    "options": ["Low Earth orbit", "Geostationary orbit", "Heliocentric orbit", "Medium Earth orbit"],
+                    "answer": "Low Earth orbit",
+                    "explanation": "Satellites in low Earth orbit provide detailed images of Earth's surface as they are closer to the planet."
+                  },
+                  {
+                    "question": "Which satellite was responsible for discovering the ozone hole?",
+                    "options": ["GOES", "Navstar", "Landsat", "Nimbus 7"],
+                    "answer": "Nimbus 7",
+                    "explanation": "The Nimbus 7 satellite was responsible for discovering the ozone hole over Antarctica in the 1980s."
+                  },
+                  {
+                    "question": "How are satellites powered in space?",
+                    "options": ["Nuclear energy", "Solar panels", "Wind turbines", "Gas engines"],
+                    "answer": "Solar panels",
+                    "explanation": "Satellites are primarily powered by solar panels, which convert sunlight into electricity."
+                  },
+                  {
+                    "question": "Which satellite helps track hurricanes and severe storms?",
+                    "options": ["Galileo", "GOES", "Telstar", "Sentinel-6"],
+                    "answer": "GOES",
+                    "explanation": "The GOES satellite helps track hurricanes, severe storms, and other weather events from space."
+                  },
+                  {
+                    "question": "Which organization is responsible for launching GPS satellites?",
+                    "options": ["NASA", "ESA", "NOAA", "U.S. Department of Defense"],
+                    "answer": "U.S. Department of Defense",
+                    "explanation": "The U.S. Department of Defense is responsible for the Navstar GPS satellite system."
+                  },
+                  {
+                    "question": "What is the approximate speed of a satellite in low Earth orbit?",
+                    "options": ["1,000 km/h", "28,000 km/h", "100,000 km/h", "5,000 km/h"],
+                    "answer": "28,000 km/h",
+                    "explanation": "Satellites in low Earth orbit travel at an approximate speed of 28,000 km/h to stay in orbit."
+                  },
+                  {
+                    "question": "What is the role of telecommunication satellites?",
+                    "options": ["Sending data for GPS", "Relaying telephone, radio, and television signals", "Tracking weather patterns", "Observing distant galaxies"],
+                    "answer": "Relaying telephone, radio, and television signals",
+                    "explanation": "Telecommunication satellites relay signals for services like telephone, radio, and television."
+                  },
+                  {
+                    "question": "What does a geostationary satellite's position relative to the Earth allow it to do?",
+                    "options": ["Orbit the poles", "Stay fixed over one point", "Monitor the whole Earth", "Travel faster"],
+                    "answer": "Stay fixed over one point",
+                    "explanation": "Geostationary satellites stay fixed over one point on Earth, allowing them to provide continuous coverage of that area."
+                  }
+                ]
+              },
+              {
+                "setNumber": 10,
+                "questions": [
+                  {
+                    "question": "Which satellite is known for providing detailed maps of Earth’s surface through radar imaging?",
+                    "options": ["GPS", "Sentinel-1", "Hubble", "Telstar"],
+                    "answer": "Sentinel-1",
+                    "explanation": "Sentinel-1 uses radar imaging to provide detailed maps of Earth’s surface, even through clouds and at night."
+                  },
+                  {
+                    "question": "What is the Kessler Syndrome?",
+                    "options": ["The expansion of the universe", "The collapse of stars", "The potential chain reaction of colliding space debris", "The disintegration of comets"],
+                    "answer": "The potential chain reaction of colliding space debris",
+                    "explanation": "Kessler Syndrome refers to the theoretical scenario where space debris collisions create a cascade of further collisions, increasing the risk to satellites."
+                  },
+                  {
+                    "question": "Which satellite system is used for satellite television services?",
+                    "options": ["Landsat", "Iridium", "DirecTV", "GOES"],
+                    "answer": "DirecTV",
+                    "explanation": "DirecTV operates a satellite system providing television services to customers across the globe."
+                  },
+                  {
+                    "question": "Which country operates the BeiDou satellite navigation system?",
+                    "options": ["USA", "Russia", "China", "India"],
+                    "answer": "China",
+                    "explanation": "The BeiDou satellite navigation system is operated by China as an alternative to GPS and other global navigation systems."
+                  },
+                  {
+                    "question": "What is the main function of Earth observation satellites?",
+                    "options": ["Tracking spacecraft", "Monitoring space weather", "Observing Earth’s environment and changes", "Relaying communication signals"],
+                    "answer": "Observing Earth’s environment and changes",
+                    "explanation": "Earth observation satellites monitor environmental changes, land use, and natural disasters."
+                  },
+                  {
+                    "question": "What was the first satellite to successfully transmit a human voice from space?",
+                    "options": ["Sputnik 1", "Apollo 11", "Echo 1", "Telstar 1"],
+                    "answer": "Echo 1",
+                    "explanation": "Echo 1 was the first satellite to successfully transmit a human voice from space in 1960."
+                  },
+                  {
+                    "question": "Which satellite provided the first global communications network?",
+                    "options": ["Iridium", "Telstar", "Galileo", "Voyager"],
+                    "answer": "Iridium",
+                    "explanation": "The Iridium satellite constellation provided the first truly global communications network, enabling worldwide mobile phone services."
+                  },
+                  {
+                    "question": "What is the main purpose of CubeSats?",
+                    "options": ["Large-scale weather monitoring", "Cost-effective scientific research in space", "Global communication services", "Military surveillance"],
+                    "answer": "Cost-effective scientific research in space",
+                    "explanation": "CubeSats are small, cost-effective satellites used for scientific experiments and research in space."
+                  },
+                  {
+                    "question": "What kind of data do weather satellites primarily collect?",
+                    "options": ["Solar radiation data", "Seismic activity data", "Atmospheric and cloud pattern data", "Deep space temperature data"],
+                    "answer": "Atmospheric and cloud pattern data",
+                    "explanation": "Weather satellites primarily collect data on atmospheric conditions, cloud patterns, and other meteorological phenomena to aid in weather forecasting."
+                  },
+                  {
+                    "question": "What is the name of the satellite used to monitor sea levels and track climate change?",
+                    "options": ["Voyager", "Sentinel-6", "Galileo", "Kepler"],
+                    "answer": "Sentinel-6",
+                    "explanation": "Sentinel-6 is used to monitor rising sea levels and track climate change from space."
+                  }
+                ]
+              }
               
+
             ]
           },
           {
