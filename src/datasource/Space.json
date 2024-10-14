@@ -5449,7 +5449,527 @@
                     "explanation": "The space shuttle could carry a variety of payloads, including astronauts, scientific instruments, and satellites."
                   }
                 ]
-              }                            
+              },
+              {  
+                "setNumber": 3,  
+                "questions": [  
+                  {  
+                    "question": "What was the main purpose of space shuttles in NASA's program?",  
+                    "options": ["Deep space exploration", "Transporting crew and cargo to low Earth orbit", "Lunar landings", "Mars missions"],  
+                    "answer": "Transporting crew and cargo to low Earth orbit",  
+                    "explanation": "Space shuttles were primarily designed to transport astronauts and cargo to low Earth orbit, including trips to the International Space Station (ISS)."  
+                  },  
+                  {  
+                    "question": "Which space shuttle was the first to dock with the Russian Mir space station?",  
+                    "options": ["Atlantis", "Discovery", "Columbia", "Challenger"],  
+                    "answer": "Atlantis",  
+                    "explanation": "The space shuttle Atlantis was the first to dock with the Russian space station Mir on the STS-71 mission in 1995."  
+                  },  
+                  {  
+                    "question": "How many astronauts could a space shuttle typically carry?",  
+                    "options": ["3", "5", "7", "10"],  
+                    "answer": "7",  
+                    "explanation": "A typical space shuttle mission carried a crew of seven astronauts."  
+                  },  
+                  {  
+                    "question": "What reusable component of the space shuttle system helped it re-enter Earth's atmosphere?",  
+                    "options": ["Solid rocket boosters", "Main engines", "Thermal protection tiles", "Cargo bay"],  
+                    "answer": "Thermal protection tiles",  
+                    "explanation": "The thermal protection tiles on the shuttle’s underside protected it from the intense heat during re-entry into Earth's atmosphere."  
+                  },  
+                  {  
+                    "question": "Which space shuttle completed the final mission of NASA's shuttle program?",  
+                    "options": ["Endeavour", "Columbia", "Challenger", "Atlantis"],  
+                    "answer": "Atlantis",  
+                    "explanation": "Atlantis completed the final space shuttle mission, STS-135, in July 2011."  
+                  },  
+                  {  
+                    "question": "What was the function of the space shuttle's cargo bay?",  
+                    "options": ["Storing fuel", "Housing crew members", "Carrying satellites and cargo", "Protecting the shuttle during re-entry"],  
+                    "answer": "Carrying satellites and cargo",  
+                    "explanation": "The shuttle's large cargo bay was used to carry satellites, scientific instruments, and other cargo into space."  
+                  },  
+                  {  
+                    "question": "Which of the following was the first reusable space vehicle?",  
+                    "options": ["Apollo capsule", "Space shuttle", "Lunar module", "Soyuz spacecraft"],  
+                    "answer": "Space shuttle",  
+                    "explanation": "The space shuttle was the first reusable space vehicle, designed to fly multiple missions into space."  
+                  },  
+                  {  
+                    "question": "Which space shuttle suffered a catastrophic failure during re-entry in 2003?",  
+                    "options": ["Challenger", "Columbia", "Endeavour", "Atlantis"],  
+                    "answer": "Columbia",  
+                    "explanation": "The space shuttle Columbia disintegrated during re-entry on February 1, 2003, due to damage to its thermal protection system."  
+                  },  
+                  {  
+                    "question": "How long was the average mission duration for space shuttle flights?",  
+                    "options": ["1 week", "2 weeks", "1 month", "6 months"],  
+                    "answer": "2 weeks",  
+                    "explanation": "The average duration of a space shuttle mission was about 14 days, depending on the specific objectives of the mission."  
+                  },  
+                  {  
+                    "question": "What was the primary launch site for space shuttle missions?",  
+                    "options": ["Kennedy Space Center", "Vandenberg Air Force Base", "Johnson Space Center", "Cape Canaveral"],  
+                    "answer": "Kennedy Space Center",  
+                    "explanation": "Most space shuttle missions were launched from Kennedy Space Center in Florida."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 4,  
+                "questions": [  
+                  {  
+                    "question": "What was unique about the space shuttle's design compared to earlier spacecraft?",  
+                    "options": ["It was disposable", "It was fully reusable", "It could land like a plane", "It had a round shape"],  
+                    "answer": "It could land like a plane",  
+                    "explanation": "Unlike earlier spacecraft, the space shuttle could land like a plane on a runway, allowing for the reuse of key components."  
+                  },  
+                  {  
+                    "question": "Which part of the space shuttle provided the main thrust during launch?",  
+                    "options": ["Solid rocket boosters", "Orbital module", "Thermal tiles", "Payload bay"],  
+                    "answer": "Solid rocket boosters",  
+                    "explanation": "The solid rocket boosters provided the main thrust during the first two minutes of the shuttle’s launch."  
+                  },  
+                  {  
+                    "question": "How many orbiters were built for NASA's space shuttle program?",  
+                    "options": ["4", "5", "6", "7"],  
+                    "answer": "5",  
+                    "explanation": "NASA built five operational space shuttle orbiters: Columbia, Challenger, Discovery, Atlantis, and Endeavour."  
+                  },  
+                  {  
+                    "question": "What was the name of the first shuttle built but never flew in space?",  
+                    "options": ["Enterprise", "Challenger", "Columbia", "Endeavour"],  
+                    "answer": "Enterprise",  
+                    "explanation": "The space shuttle Enterprise was used for test flights and never flew in space."  
+                  },  
+                  {  
+                    "question": "What was the average orbit altitude for a space shuttle mission?",  
+                    "options": ["100 km", "200 km", "400 km", "800 km"],  
+                    "answer": "400 km",  
+                    "explanation": "The space shuttle typically orbited Earth at an altitude of about 400 kilometers."  
+                  },  
+                  {  
+                    "question": "What did astronauts do during spacewalks (EVA) on shuttle missions?",  
+                    "options": ["Launch satellites", "Repair spacecraft", "Conduct experiments", "All of the above"],  
+                    "answer": "All of the above",  
+                    "explanation": "Astronauts conducted spacewalks to launch satellites, repair spacecraft, and perform scientific experiments."  
+                  },  
+                  {  
+                    "question": "What was the primary fuel used in the space shuttle's external tank?",  
+                    "options": ["Solid propellant", "Liquid hydrogen and oxygen", "Hydrazine", "Methane"],  
+                    "answer": "Liquid hydrogen and oxygen",  
+                    "explanation": "The space shuttle's external tank was filled with liquid hydrogen and oxygen, which powered the shuttle's main engines."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission deployed the Hubble Space Telescope?",  
+                    "options": ["STS-31", "STS-51", "STS-41", "STS-1"],  
+                    "answer": "STS-31",  
+                    "explanation": "The Hubble Space Telescope was deployed by the space shuttle Discovery during mission STS-31 in 1990."  
+                  },  
+                  {  
+                    "question": "Which shuttle was used to make the first servicing mission to the Hubble Space Telescope?",  
+                    "options": ["Endeavour", "Columbia", "Challenger", "Atlantis"],  
+                    "answer": "Endeavour",  
+                    "explanation": "The first servicing mission to the Hubble Space Telescope was conducted by the shuttle Endeavour during mission STS-61 in 1993."  
+                  },  
+                  {  
+                    "question": "What was the longest mission ever conducted by a space shuttle?",  
+                    "options": ["12 days", "14 days", "17 days", "10 days"],  
+                    "answer": "17 days",  
+                    "explanation": "The longest space shuttle mission lasted 17 days, achieved by the STS-80 mission on the shuttle Columbia in 1996."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 5,  
+                "questions": [  
+                  {  
+                    "question": "Which shuttle was responsible for launching the first American space station module?",  
+                    "options": ["Atlantis", "Discovery", "Challenger", "Endeavour"],  
+                    "answer": "Endeavour",  
+                    "explanation": "The shuttle Endeavour launched the Unity module, the first American component of the International Space Station, in 1998."  
+                  },  
+                  {  
+                    "question": "What was the approximate landing speed of a space shuttle upon returning to Earth?",  
+                    "options": ["80 mph", "150 mph", "220 mph", "300 mph"],  
+                    "answer": "220 mph",  
+                    "explanation": "Upon re-entry, the space shuttle landed at a speed of about 220 miles per hour (355 km/h)."  
+                  },  
+                  {  
+                    "question": "Which space shuttle was used to fly the first African American woman into space?",  
+                    "options": ["Atlantis", "Challenger", "Columbia", "Endeavour"],  
+                    "answer": "Endeavour",  
+                    "explanation": "The shuttle Endeavour carried Dr. Mae Jemison, the first African American woman in space, during the STS-47 mission in 1992."  
+                  },  
+                  {  
+                    "question": "Which part of the shuttle system was jettisoned during launch and recovered for reuse?",  
+                    "options": ["Main engines", "External fuel tank", "Solid rocket boosters", "Orbiter"],  
+                    "answer": "Solid rocket boosters",  
+                    "explanation": "The solid rocket boosters were jettisoned shortly after launch and were recovered from the ocean for reuse."  
+                  },  
+                  {  
+                    "question": "What was the name of the program that succeeded the space shuttle program?",  
+                    "options": ["Apollo", "Artemis", "Constellation", "Orion"],  
+                    "answer": "Orion",  
+                    "explanation": "The Orion program was initiated after the space shuttle program ended, as part of NASA's plans to return to deep space exploration."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission was the first to carry an all-woman crew?",  
+                    "options": ["STS-63", "STS-51G", "STS-41G", "STS-2"],  
+                    "answer": "STS-41G",  
+                    "explanation": "The space shuttle Challenger’s STS-41G mission in 1984 carried an all-woman crew, a first in spaceflight history."  
+                  },  
+                  {  
+                    "question": "What type of engines did the space shuttle use for launch?",  
+                    "options": ["Solid rocket engines", "Ion engines", "Hydrogen-oxygen liquid engines", "Nuclear engines"],  
+                    "answer": "Hydrogen-oxygen liquid engines",  
+                    "explanation": "The shuttle's main engines burned liquid hydrogen and oxygen, producing the thrust needed to reach orbit."  
+                  },  
+                  {  
+                    "question": "How long did it take for the space shuttle to reach orbit after launch?",  
+                    "options": ["2 minutes", "10 minutes", "45 minutes", "30 minutes"],  
+                    "answer": "10 minutes",  
+                    "explanation": "It took approximately 10 minutes for the space shuttle to reach orbit after liftoff."  
+                  },  
+                  {  
+                    "question": "Which space shuttle was involved in the construction of the International Space Station?",  
+                    "options": ["All of them", "Columbia only", "Challenger and Atlantis", "Endeavour only"],  
+                    "answer": "All of them",  
+                    "explanation": "All of the operational space shuttles (except Challenger) contributed to the construction of the International Space Station."  
+                  },  
+                  {  
+                    "question": "What innovation made space shuttles reusable?",  
+                    "options": ["Thermal shields", "Rocket boosters", "Advanced avionics", "Heat-resistant tiles"],  
+                    "answer": "Heat-resistant tiles",  
+                    "explanation": "The space shuttle was reusable due to the heat-resistant tiles that protected it during re-entry into Earth's atmosphere."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 6,  
+                "questions": [  
+                  {  
+                    "question": "Which shuttle conducted the first mission to repair the Hubble Space Telescope?",  
+                    "options": ["Columbia", "Challenger", "Endeavour", "Discovery"],  
+                    "answer": "Endeavour",  
+                    "explanation": "Endeavour performed the first servicing mission to repair the Hubble Space Telescope in 1993."  
+                  },  
+                  {  
+                    "question": "Which shuttle had the most spaceflights during its service?",  
+                    "options": ["Atlantis", "Discovery", "Endeavour", "Challenger"],  
+                    "answer": "Discovery",  
+                    "explanation": "Discovery flew the most space shuttle missions, with a total of 39 successful flights."  
+                  },  
+                  {  
+                    "question": "How many crew members were lost in the Challenger disaster?",  
+                    "options": ["5", "7", "8", "6"],  
+                    "answer": "7",  
+                    "explanation": "Seven astronauts tragically lost their lives in the Challenger disaster on January 28, 1986."  
+                  },  
+                  {  
+                    "question": "What was unique about the landing of space shuttles?",  
+                    "options": ["They splashed down in the ocean", "They returned to Earth like a plane", "They were parachuted to the ground", "They burned up in the atmosphere"],  
+                    "answer": "They returned to Earth like a plane",  
+                    "explanation": "Space shuttles landed like a plane on a runway, unlike other space vehicles that used parachutes or ocean landings."  
+                  },  
+                  {  
+                    "question": "Which shuttle carried the first female commander into space?",  
+                    "options": ["Challenger", "Endeavour", "Atlantis", "Discovery"],  
+                    "answer": "Discovery",  
+                    "explanation": "Discovery carried Eileen Collins, the first female shuttle commander, into space in 1999 on the STS-93 mission."  
+                  },  
+                  {  
+                    "question": "How many space shuttle orbiters were destroyed in accidents?",  
+                    "options": ["1", "2", "3", "4"],  
+                    "answer": "2",  
+                    "explanation": "Two space shuttles, Challenger in 1986 and Columbia in 2003, were destroyed in tragic accidents."  
+                  },  
+                  {  
+                    "question": "How much cargo could the space shuttle carry to space?",  
+                    "options": ["10 tons", "50 tons", "25 tons", "75 tons"],  
+                    "answer": "25 tons",  
+                    "explanation": "The space shuttle could carry up to 25 tons of cargo into space, making it a versatile vehicle for space missions."  
+                  },  
+                  {  
+                    "question": "Which shuttle was the final orbiter to be built?",  
+                    "options": ["Challenger", "Columbia", "Endeavour", "Atlantis"],  
+                    "answer": "Endeavour",  
+                    "explanation": "Endeavour was the last space shuttle orbiter to be built, first flying in 1992."  
+                  },  
+                  {  
+                    "question": "What was the purpose of the orbiter section of the space shuttle?",  
+                    "options": ["Launching rockets", "Carrying astronauts and cargo", "Collecting solar energy", "Studying other planets"],  
+                    "answer": "Carrying astronauts and cargo",  
+                    "explanation": "The orbiter section of the space shuttle was responsible for carrying astronauts and cargo into space."  
+                  },  
+                  {  
+                    "question": "What space shuttle mission involved the first rendezvous with the ISS?",  
+                    "options": ["STS-88", "STS-51", "STS-61", "STS-107"],  
+                    "answer": "STS-88",  
+                    "explanation": "The STS-88 mission, flown by Endeavour, was the first space shuttle mission to rendezvous with the ISS in 1998."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 7,  
+                "questions": [  
+                  {  
+                    "question": "Which shuttle mission first flew in 1981, marking the beginning of the shuttle era?",  
+                    "options": ["STS-1", "STS-51", "STS-93", "STS-107"],  
+                    "answer": "STS-1",  
+                    "explanation": "The STS-1 mission, flown by Columbia in 1981, was the first shuttle mission and marked the beginning of the shuttle era."  
+                  },  
+                  {  
+                    "question": "Which space shuttle program was responsible for launching the Galileo spacecraft to Jupiter?",  
+                    "options": ["Discovery", "Atlantis", "Challenger", "Columbia"],  
+                    "answer": "Atlantis",  
+                    "explanation": "The space shuttle Atlantis launched the Galileo spacecraft to Jupiter on the STS-34 mission in 1989."  
+                  },  
+                  {  
+                    "question": "What caused the Columbia disaster during re-entry in 2003?",  
+                    "options": ["Software malfunction", "Fuel leak", "Damaged thermal protection tiles", "Exploded engine"],  
+                    "answer": "Damaged thermal protection tiles",  
+                    "explanation": "The Columbia disaster was caused by damage to the thermal protection tiles during re-entry."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission marked the 100th human spaceflight by NASA?",  
+                    "options": ["STS-92", "STS-51", "STS-61", "STS-1"],  
+                    "answer": "STS-92",  
+                    "explanation": "STS-92, flown by Discovery in 2000, marked the 100th human spaceflight by NASA."  
+                  },  
+                  {  
+                    "question": "What was the maximum altitude that space shuttles typically reached during their missions?",  
+                    "options": ["100 km", "400 km", "600 km", "800 km"],  
+                    "answer": "400 km",  
+                    "explanation": "Space shuttles typically reached an altitude of around 400 km while in low Earth orbit."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission was responsible for installing solar arrays on the ISS?",  
+                    "options": ["STS-116", "STS-61", "STS-107", "STS-51"],  
+                    "answer": "STS-116",  
+                    "explanation": "The STS-116 mission, flown by Discovery, installed new solar arrays on the International Space Station."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission retrieved and repaired the Solar Max satellite?",  
+                    "options": ["STS-41C", "STS-61", "STS-51", "STS-93"],  
+                    "answer": "STS-41C",  
+                    "explanation": "The STS-41C mission, flown by Challenger, successfully retrieved and repaired the Solar Max satellite."  
+                  },  
+                  {  
+                    "question": "How much did the space shuttle weigh at liftoff?",  
+                    "options": ["2 million pounds", "4.5 million pounds", "1 million pounds", "3 million pounds"],  
+                    "answer": "4.5 million pounds",  
+                    "explanation": "At liftoff, the space shuttle weighed approximately 4.5 million pounds due to its fuel, solid rocket boosters, and orbiter."  
+                  },  
+                  {  
+                    "question": "Which shuttle was used to deploy the Chandra X-ray Observatory?",  
+                    "options": ["Columbia", "Endeavour", "Discovery", "Atlantis"],  
+                    "answer": "Columbia",  
+                    "explanation": "Columbia deployed the Chandra X-ray Observatory during the STS-93 mission in 1999."  
+                  },  
+                  {  
+                    "question": "What type of missions were commonly conducted by space shuttles?",  
+                    "options": ["Scientific research", "Satellite deployment", "Space station construction", "All of the above"],  
+                    "answer": "All of the above",  
+                    "explanation": "Space shuttles were used for a variety of missions, including scientific research, satellite deployment, and space station construction."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 8,  
+                "questions": [  
+                  {  
+                    "question": "Which space shuttle had the distinction of flying the final shuttle mission?",  
+                    "options": ["Columbia", "Challenger", "Atlantis", "Endeavour"],  
+                    "answer": "Atlantis",  
+                    "explanation": "Atlantis flew the final shuttle mission, STS-135, marking the end of the space shuttle program in July 2011."  
+                  },  
+                  {  
+                    "question": "What was the main function of the space shuttle's payload bay?",  
+                    "options": ["Housing the crew", "Carrying cargo and satellites", "Storing fuel", "Communication operations"],  
+                    "answer": "Carrying cargo and satellites",  
+                    "explanation": "The payload bay was designed to carry large cargo items such as satellites and components for the International Space Station."  
+                  },  
+                  {  
+                    "question": "Which space shuttle mission was the first to include a spacewalk?",  
+                    "options": ["STS-6", "STS-7", "STS-9", "STS-51"],  
+                    "answer": "STS-6",  
+                    "explanation": "The STS-6 mission, flown by Challenger, featured the first spacewalk of the space shuttle program in 1983."  
+                  },  
+                  {  
+                    "question": "What was the approximate duration of most space shuttle missions?",  
+                    "options": ["1-2 days", "3-5 days", "7-16 days", "30-40 days"],  
+                    "answer": "7-16 days",  
+                    "explanation": "Most space shuttle missions lasted between 7 and 16 days, depending on the objectives of the mission."  
+                  },  
+                  {  
+                    "question": "How did the space shuttle generate electricity while in space?",  
+                    "options": ["Solar panels", "Nuclear reactors", "Fuel cells", "Wind turbines"],  
+                    "answer": "Fuel cells",  
+                    "explanation": "The space shuttle used fuel cells to generate electricity by combining hydrogen and oxygen while in space."  
+                  },  
+                  {  
+                    "question": "Which shuttle first flew the Spacehab module for science experiments?",  
+                    "options": ["Discovery", "Endeavour", "Columbia", "Challenger"],  
+                    "answer": "Discovery",  
+                    "explanation": "Discovery was the first shuttle to carry the Spacehab module on STS-57, providing a laboratory for science experiments in space."  
+                  },  
+                  {  
+                    "question": "What part of the space shuttle provided protection during re-entry?",  
+                    "options": ["Aluminum shell", "Heat-resistant tiles", "Retractable wings", "Parachute system"],  
+                    "answer": "Heat-resistant tiles",  
+                    "explanation": "The shuttle's heat-resistant tiles protected it from the intense heat of re-entry, allowing it to safely return to Earth."  
+                  },  
+                  {  
+                    "question": "Which space shuttle launched the first American female astronaut, Sally Ride, into space?",  
+                    "options": ["Endeavour", "Challenger", "Atlantis", "Columbia"],  
+                    "answer": "Challenger",  
+                    "explanation": "Challenger launched the first American female astronaut, Sally Ride, into space on the STS-7 mission in 1983."  
+                  },  
+                  {  
+                    "question": "What was the purpose of the robotic arm aboard the space shuttles?",  
+                    "options": ["Conducting repairs", "Deploying and retrieving satellites", "Assisting spacewalks", "All of the above"],  
+                    "answer": "All of the above",  
+                    "explanation": "The space shuttle's robotic arm, known as the Canadarm, was used for a variety of tasks, including deploying and retrieving satellites and assisting astronauts during spacewalks."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission was the first to dock with the Russian space station Mir?",  
+                    "options": ["STS-71", "STS-51", "STS-93", "STS-107"],  
+                    "answer": "STS-71",  
+                    "explanation": "The STS-71 mission, flown by Atlantis, marked the first docking between a space shuttle and the Russian space station Mir in 1995."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 9,  
+                "questions": [  
+                  {  
+                    "question": "Which shuttle was responsible for launching the Ulysses spacecraft to study the Sun?",  
+                    "options": ["Atlantis", "Challenger", "Columbia", "Discovery"],  
+                    "answer": "Discovery",  
+                    "explanation": "Discovery launched the Ulysses spacecraft on STS-41 in 1990 to study the Sun's polar regions."  
+                  },  
+                  {  
+                    "question": "Which of the following was NOT a component of the space shuttle system?",  
+                    "options": ["Orbiter", "Solid rocket boosters", "Service module", "External fuel tank"],  
+                    "answer": "Service module",  
+                    "explanation": "The space shuttle system consisted of the orbiter, solid rocket boosters, and an external fuel tank, but no service module was part of its design."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission was the first to include an international astronaut?",  
+                    "options": ["STS-61", "STS-51A", "STS-9", "STS-5"],  
+                    "answer": "STS-9",  
+                    "explanation": "STS-9, flown by Columbia in 1983, included the first international astronaut, Ulf Merbold from West Germany."  
+                  },  
+                  {  
+                    "question": "What was the primary mission of STS-107, the last flight of Columbia?",  
+                    "options": ["Hubble repair", "Scientific research", "ISS construction", "Satellite deployment"],  
+                    "answer": "Scientific research",  
+                    "explanation": "STS-107, flown by Columbia, was primarily focused on scientific research, conducting a variety of experiments during its mission."  
+                  },  
+                  {  
+                    "question": "What type of material were the shuttle's heat-resistant tiles made from?",  
+                    "options": ["Carbon", "Ceramic", "Plastic", "Metal"],  
+                    "answer": "Ceramic",  
+                    "explanation": "The space shuttle's heat-resistant tiles were made of ceramic material to withstand the high temperatures of re-entry."  
+                  },  
+                  {  
+                    "question": "How did the space shuttle re-enter Earth's atmosphere?",  
+                    "options": ["Using thrusters", "By gliding", "Free-falling", "Using rocket engines"],  
+                    "answer": "By gliding",  
+                    "explanation": "The space shuttle re-entered Earth's atmosphere by gliding after its deorbit burn, landing like a plane."  
+                  },  
+                  {  
+                    "question": "Which space shuttle was the first to fly a classified Department of Defense mission?",  
+                    "options": ["Challenger", "Columbia", "Atlantis", "Discovery"],  
+                    "answer": "Challenger",  
+                    "explanation": "Challenger flew the first classified Department of Defense mission on the STS-4 mission in 1982."  
+                  },  
+                  {  
+                    "question": "How many main engines did the space shuttle orbiter have?",  
+                    "options": ["2", "3", "4", "5"],  
+                    "answer": "3",  
+                    "explanation": "The space shuttle orbiter had three main engines, which provided thrust during launch alongside the solid rocket boosters."  
+                  },  
+                  {  
+                    "question": "Which shuttle first carried the European Space Agency's Spacelab module into space?",  
+                    "options": ["Atlantis", "Endeavour", "Columbia", "Discovery"],  
+                    "answer": "Columbia",  
+                    "explanation": "Columbia first carried the European Space Agency's Spacelab module into space during the STS-9 mission in 1983."  
+                  },  
+                  {  
+                    "question": "Which shuttle was responsible for deploying the Magellan spacecraft to Venus?",  
+                    "options": ["Atlantis", "Challenger", "Columbia", "Endeavour"],  
+                    "answer": "Atlantis",  
+                    "explanation": "Atlantis deployed the Magellan spacecraft to Venus during the STS-30 mission in 1989."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 10,  
+                "questions": [  
+                  {  
+                    "question": "Which shuttle first carried a Russian cosmonaut into space?",  
+                    "options": ["Endeavour", "Discovery", "Atlantis", "Columbia"],  
+                    "answer": "Discovery",  
+                    "explanation": "Discovery was the first shuttle to carry a Russian cosmonaut, Sergei Krikalev, into space during the STS-60 mission in 1994."  
+                  },  
+                  {  
+                    "question": "What was the purpose of the shuttle's solid rocket boosters?",  
+                    "options": ["To provide main power for orbit", "To launch the shuttle from the launchpad", "To maintain stability in orbit", "To protect against re-entry heat"],  
+                    "answer": "To launch the shuttle from the launchpad",  
+                    "explanation": "The solid rocket boosters provided the primary thrust needed to launch the shuttle from the ground and into space."  
+                  },  
+                  {  
+                    "question": "Which space shuttle flew the STS-125 mission to repair the Hubble Space Telescope?",  
+                    "options": ["Atlantis", "Endeavour", "Discovery", "Columbia"],  
+                    "answer": "Atlantis",  
+                    "explanation": "Atlantis flew the STS-125 mission in 2009, the last mission to repair and upgrade the Hubble Space Telescope."  
+                  },  
+                  {  
+                    "question": "How many astronauts could a space shuttle typically carry?",  
+                    "options": ["3-4", "7-8", "10-12", "15-16"],  
+                    "answer": "7-8",  
+                    "explanation": "A space shuttle could typically carry 7 to 8 astronauts, depending on the mission's configuration."  
+                  },  
+                  {  
+                    "question": "What was the name of the program that succeeded the space shuttle program?",  
+                    "options": ["Apollo", "Artemis", "Constellation", "Commercial Crew Program"],  
+                    "answer": "Commercial Crew Program",  
+                    "explanation": "The Commercial Crew Program, involving private companies like SpaceX and Boeing, succeeded the space shuttle program for human spaceflight."  
+                  },  
+                  {  
+                    "question": "Which shuttle flew the first mission to the International Space Station (ISS)?",  
+                    "options": ["Endeavour", "Discovery", "Atlantis", "Columbia"],  
+                    "answer": "Endeavour",  
+                    "explanation": "Endeavour flew the first shuttle mission to the ISS during the STS-88 mission in 1998, delivering the first module of the station."  
+                  },  
+                  {  
+                    "question": "What special landing method did space shuttles use to land on Earth?",  
+                    "options": ["Vertical landing", "Parachute-assisted landing", "Wings and glide landing", "Controlled crash landing"],  
+                    "answer": "Wings and glide landing",  
+                    "explanation": "Space shuttles used a wings and glide method to land like an airplane, without power, after re-entry."  
+                  },  
+                  {  
+                    "question": "Which shuttle carried the first American woman to walk in space?",  
+                    "options": ["Columbia", "Atlantis", "Challenger", "Discovery"],  
+                    "answer": "Discovery",  
+                    "explanation": "Discovery carried Kathryn D. Sullivan, the first American woman to walk in space, during the STS-41G mission in 1984."  
+                  },  
+                  {  
+                    "question": "What was the speed of the space shuttle during re-entry?",  
+                    "options": ["Mach 3", "Mach 10", "Mach 25", "Mach 30"],  
+                    "answer": "Mach 25",  
+                    "explanation": "The space shuttle re-entered Earth's atmosphere at a speed of around Mach 25, approximately 25 times the speed of sound."  
+                  },  
+                  {  
+                    "question": "Which shuttle mission was the first to test the shuttle's launch abort system?",  
+                    "options": ["STS-51", "STS-1", "STS-3", "STS-93"],  
+                    "answer": "STS-1",  
+                    "explanation": "STS-1, the maiden flight of Columbia in 1981, tested various systems of the shuttle, including its launch abort system."  
+                  }  
+                ]  
+              }  
             ]
           },
           {
@@ -5523,6 +6043,573 @@
                     "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope"],
                     "answer": "James Webb Space Telescope",
                     "explanation": "The James Webb Space Telescope, launched in 2021, has a 6.5-meter primary mirror, allowing it to capture incredibly detailed images of the universe."
+                  }
+                ]
+              },
+              {  
+                "setNumber": 2,  
+                "questions": [  
+                  {  
+                    "question": "Which space telescope is designed to observe infrared light?",  
+                    "options": ["Hubble Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope", "Fermi Gamma-ray Space Telescope"],  
+                    "answer": "Spitzer Space Telescope",  
+                    "explanation": "The Spitzer Space Telescope was designed to observe the universe in infrared light, allowing it to see through cosmic dust."  
+                  },  
+                  {  
+                    "question": "What kind of light does the Chandra X-ray Observatory primarily observe?",  
+                    "options": ["Visible light", "Radio waves", "X-rays", "Ultraviolet light"],  
+                    "answer": "X-rays",  
+                    "explanation": "The Chandra X-ray Observatory primarily observes X-rays emitted by extremely hot regions in the universe, such as the remnants of exploded stars."  
+                  },  
+                  {  
+                    "question": "What makes the James Webb Space Telescope unique compared to Hubble?",  
+                    "options": ["It can see in ultraviolet light", "It operates at colder temperatures", "It orbits inside Earth's atmosphere", "It uses a smaller mirror"],  
+                    "answer": "It operates at colder temperatures",  
+                    "explanation": "The James Webb Space Telescope is designed to operate at very cold temperatures to observe faint infrared light from distant galaxies."  
+                  },  
+                  {  
+                    "question": "Which space telescope was primarily used to detect gamma rays?",  
+                    "options": ["Hubble Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope", "Fermi Gamma-ray Space Telescope"],  
+                    "answer": "Fermi Gamma-ray Space Telescope",  
+                    "explanation": "The Fermi Gamma-ray Space Telescope is designed to detect gamma rays, the most energetic form of light in the universe."  
+                  },  
+                  {  
+                    "question": "What type of celestial objects can the Hubble Space Telescope observe?",  
+                    "options": ["Only planets", "Only galaxies", "Stars, galaxies, and nebulae", "Black holes only"],  
+                    "answer": "Stars, galaxies, and nebulae",  
+                    "explanation": "Hubble can observe a wide variety of celestial objects, including stars, galaxies, nebulae, and even exoplanets."  
+                  },  
+                  {  
+                    "question": "Which space telescope has a segmented mirror made of beryllium?",  
+                    "options": ["James Webb Space Telescope", "Hubble Space Telescope", "Kepler Space Telescope", "Spitzer Space Telescope"],  
+                    "answer": "James Webb Space Telescope",  
+                    "explanation": "The James Webb Space Telescope uses a large segmented mirror made of beryllium to capture infrared light from distant objects."  
+                  },  
+                  {  
+                    "question": "What mission was the Kepler Space Telescope primarily designed for?",  
+                    "options": ["Studying black holes", "Observing star formation", "Detecting exoplanets", "Studying supernovae"],  
+                    "answer": "Detecting exoplanets",  
+                    "explanation": "The Kepler Space Telescope was primarily designed to detect exoplanets by observing the dimming of stars as planets pass in front of them."  
+                  },  
+                  {  
+                    "question": "How does the Hubble Space Telescope communicate with Earth?",  
+                    "options": ["Radio signals", "Laser beams", "Microwaves", "Satellite relay"],  
+                    "answer": "Radio signals",  
+                    "explanation": "The Hubble Space Telescope communicates with Earth using radio signals, which transmit data back to ground stations."  
+                  },  
+                  {  
+                    "question": "Which space telescope was the first to be serviced by astronauts in space?",  
+                    "options": ["Spitzer Space Telescope", "James Webb Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory"],  
+                    "answer": "Hubble Space Telescope",  
+                    "explanation": "The Hubble Space Telescope was the first space telescope to be serviced and repaired by astronauts during multiple shuttle missions."  
+                  },  
+                  {  
+                    "question": "Which space telescope is positioned at the second Lagrange point (L2) to observe distant galaxies?",  
+                    "options": ["Hubble Space Telescope", "Spitzer Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory"],  
+                    "answer": "James Webb Space Telescope",  
+                    "explanation": "The James Webb Space Telescope is positioned at the second Lagrange point (L2), a stable location ideal for observing distant galaxies and the early universe."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 3,  
+                "questions": [  
+                  {  
+                    "question": "What was the primary mission of the Kepler Space Telescope?",  
+                    "options": ["Studying galaxies", "Observing black holes", "Hunting exoplanets", "Mapping the cosmic microwave background"],  
+                    "answer": "Hunting exoplanets",  
+                    "explanation": "The Kepler Space Telescope was primarily designed to hunt for exoplanets by detecting the dimming of stars as planets passed in front of them."  
+                  },  
+                  {  
+                    "question": "Which telescope discovered the first confirmed exoplanet in the habitable zone?",  
+                    "options": ["Hubble", "Kepler", "James Webb", "Spitzer"],  
+                    "answer": "Kepler",  
+                    "explanation": "Kepler discovered the first confirmed exoplanet in the habitable zone, where conditions might allow liquid water to exist."  
+                  },  
+                  {  
+                    "question": "What is the main advantage of space telescopes compared to ground-based telescopes?",  
+                    "options": ["They are closer to planets", "They avoid atmospheric distortion", "They are cheaper to maintain", "They have larger mirrors"],  
+                    "answer": "They avoid atmospheric distortion",  
+                    "explanation": "Space telescopes avoid the distortion caused by Earth's atmosphere, allowing for clearer and more detailed observations."  
+                  },  
+                  {  
+                    "question": "Which space telescope focused on studying X-rays from high-energy regions of space?",  
+                    "options": ["Hubble", "Spitzer", "Chandra", "James Webb"],  
+                    "answer": "Chandra",  
+                    "explanation": "The Chandra X-ray Observatory studies X-rays from extremely high-energy regions, such as supernovae and black holes."  
+                  },  
+                  {  
+                    "question": "Which space telescope was used to map the cosmic microwave background radiation?",  
+                    "options": ["Hubble", "WMAP", "Spitzer", "Kepler"],  
+                    "answer": "WMAP",  
+                    "explanation": "The Wilkinson Microwave Anisotropy Probe (WMAP) was used to map the cosmic microwave background radiation, providing information about the early universe."  
+                  },  
+                  {  
+                    "question": "How do space telescopes help in the search for dark matter?",  
+                    "options": ["By detecting gravitational lensing", "By observing galaxies in infrared light", "By studying asteroid orbits", "By capturing black hole emissions"],  
+                    "answer": "By detecting gravitational lensing",  
+                    "explanation": "Space telescopes can detect gravitational lensing, which occurs when dark matter bends the light from distant galaxies, helping in the study of this mysterious substance."  
+                  },  
+                  {  
+                    "question": "Which space telescope observed distant galaxy clusters through gravitational lensing?",  
+                    "options": ["James Webb", "Hubble", "Spitzer", "Kepler"],  
+                    "answer": "Hubble",  
+                    "explanation": "Hubble observed distant galaxy clusters through gravitational lensing, allowing astronomers to study the distribution of dark matter."  
+                  },  
+                  {  
+                    "question": "What was the main goal of the Spitzer Space Telescope?",  
+                    "options": ["Studying the Sun", "Observing in the infrared spectrum", "Detecting gamma rays", "Mapping the early universe"],  
+                    "answer": "Observing in the infrared spectrum",  
+                    "explanation": "The Spitzer Space Telescope's main goal was to observe the universe in the infrared spectrum, enabling the study of cooler objects like dust clouds and distant galaxies."  
+                  },  
+                  {  
+                    "question": "Which space telescope is the successor to Hubble and focuses primarily on infrared observations?",  
+                    "options": ["Chandra", "Kepler", "James Webb", "Fermi"],  
+                    "answer": "James Webb",  
+                    "explanation": "The James Webb Space Telescope is the successor to Hubble and focuses on infrared observations, studying galaxies, stars, and planets at greater distances and earlier times."  
+                  },  
+                  {  
+                    "question": "Which space telescope helped confirm the accelerating expansion of the universe?",  
+                    "options": ["Spitzer", "Chandra", "Hubble", "WMAP"],  
+                    "answer": "Hubble",  
+                    "explanation": "Hubble's observations of distant supernovae helped confirm that the universe's expansion is accelerating, a discovery that led to the concept of dark energy."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 4,  
+                "questions": [  
+                  {  
+                    "question": "Which space telescope was instrumental in studying supermassive black holes?",  
+                    "options": ["Hubble", "Chandra", "Kepler", "James Webb"],  
+                    "answer": "Chandra",  
+                    "explanation": "The Chandra X-ray Observatory was instrumental in studying supermassive black holes by detecting X-rays emitted from the regions surrounding them."  
+                  },  
+                  {  
+                    "question": "What is one of the key contributions of the Hubble Space Telescope?",  
+                    "options": ["Mapping exoplanets", "Providing evidence for dark energy", "Detecting gravitational waves", "Exploring the solar wind"],  
+                    "answer": "Providing evidence for dark energy",  
+                    "explanation": "Hubble helped provide key evidence for dark energy by observing distant supernovae and studying the expansion rate of the universe."  
+                  },  
+                  {  
+                    "question": "Which space telescope was used to find galaxies forming early in the universe?",  
+                    "options": ["James Webb", "Hubble", "Spitzer", "Kepler"],  
+                    "answer": "James Webb",  
+                    "explanation": "The James Webb Space Telescope is designed to find and observe galaxies forming in the early universe, thanks to its infrared capabilities."  
+                  },  
+                  {  
+                    "question": "Which space telescope is stationed at the second Lagrange point (L2) to avoid heat from the Earth and Sun?",  
+                    "options": ["Spitzer", "Chandra", "James Webb", "Hubble"],  
+                    "answer": "James Webb",  
+                    "explanation": "James Webb is stationed at the L2 point, allowing it to stay cold and avoid heat and light from the Earth and Sun, improving its infrared observations."  
+                  },  
+                  {  
+                    "question": "What was the primary objective of the Herschel Space Observatory?",  
+                    "options": ["Detecting gravitational waves", "Studying far-infrared and submillimeter wavelengths", "Observing visible light", "Mapping the cosmic microwave background"],  
+                    "answer": "Studying far-infrared and submillimeter wavelengths",  
+                    "explanation": "The Herschel Space Observatory was designed to study far-infrared and submillimeter wavelengths, helping scientists understand star formation and galaxy evolution."  
+                  },  
+                  {  
+                    "question": "Which space telescope played a key role in confirming the existence of dark matter?",  
+                    "options": ["WMAP", "Hubble", "Kepler", "Chandra"],  
+                    "answer": "Hubble",  
+                    "explanation": "Hubble's observations of gravitational lensing in galaxy clusters provided strong evidence for the existence of dark matter."  
+                  },  
+                  {  
+                    "question": "What technique did the Kepler Space Telescope use to detect exoplanets?",  
+                    "options": ["Direct imaging", "Gravitational lensing", "Transit method", "Microlensing"],  
+                    "answer": "Transit method",  
+                    "explanation": "Kepler used the transit method to detect exoplanets by measuring the dimming of a star as a planet passed in front of it."  
+                  },  
+                  {  
+                    "question": "Which space telescope specializes in observing black holes and neutron stars?",  
+                    "options": ["Chandra X-ray Observatory", "Spitzer Space Telescope", "James Webb Space Telescope", "Hubble Space Telescope"],  
+                    "answer": "Chandra X-ray Observatory",  
+                    "explanation": "The Chandra X-ray Observatory specializes in observing high-energy objects like black holes, neutron stars, and supernova remnants using X-rays."  
+                  },  
+                  {  
+                    "question": "Which space telescope discovered the oldest and most distant galaxy ever observed?",  
+                    "options": ["Hubble", "Kepler", "Spitzer", "James Webb"],  
+                    "answer": "James Webb",  
+                    "explanation": "The James Webb Space Telescope discovered the oldest and most distant galaxy ever observed, dating back to shortly after the Big Bang."  
+                  },  
+                  {  
+                    "question": "Which space telescope used to observe the Sun's outer atmosphere in extreme ultraviolet light?",  
+                    "options": ["SOHO", "Hubble", "James Webb", "Fermi"],  
+                    "answer": "SOHO",  
+                    "explanation": "The SOHO (Solar and Heliospheric Observatory) telescope is designed to observe the Sun's outer atmosphere in extreme ultraviolet light."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 5,  
+                "questions": [  
+                  {  
+                    "question": "What is the main purpose of the James Webb Space Telescope?",  
+                    "options": ["Study exoplanets", "Observe distant galaxies and stars", "Monitor solar activity", "Track asteroids near Earth"],  
+                    "answer": "Observe distant galaxies and stars",  
+                    "explanation": "The James Webb Space Telescope is designed to observe distant galaxies and stars, especially from the early universe, using infrared light."  
+                  },  
+                  {  
+                    "question": "Which space telescope is primarily focused on studying the universe in the gamma-ray spectrum?",  
+                    "options": ["James Webb Space Telescope", "Chandra X-ray Observatory", "Fermi Gamma-ray Space Telescope", "Spitzer Space Telescope"],  
+                    "answer": "Fermi Gamma-ray Space Telescope",  
+                    "explanation": "The Fermi Gamma-ray Space Telescope is designed to study high-energy phenomena in the universe through gamma-ray observations."  
+                  },  
+                  {  
+                    "question": "Which telescope is best known for taking deep-field images of the universe?",  
+                    "options": ["James Webb", "Spitzer", "Chandra", "Hubble"],  
+                    "answer": "Hubble",  
+                    "explanation": "The Hubble Space Telescope is famous for capturing deep-field images, which reveal thousands of galaxies in a small area of the sky."  
+                  },  
+                  {  
+                    "question": "How does the Spitzer Space Telescope detect objects?",  
+                    "options": ["By using infrared light", "By detecting visible light", "Through X-rays", "By measuring ultraviolet emissions"],  
+                    "answer": "By using infrared light",  
+                    "explanation": "The Spitzer Space Telescope detects objects by using infrared light, which allows it to see through dust clouds and study cooler objects in space."  
+                  },  
+                  {  
+                    "question": "What is a significant feature of the James Webb Space Telescope's mirror?",  
+                    "options": ["It is made of gold", "It is larger than Hubble’s mirror", "It is positioned closer to Earth", "It uses liquid nitrogen for cooling"],  
+                    "answer": "It is larger than Hubble’s mirror",  
+                    "explanation": "The James Webb Space Telescope has a much larger mirror than Hubble, allowing it to capture more light from faint, distant objects."  
+                  },  
+                  {  
+                    "question": "What type of light does the Hubble Space Telescope primarily observe?",  
+                    "options": ["X-rays", "Infrared light", "Visible and ultraviolet light", "Gamma rays"],  
+                    "answer": "Visible and ultraviolet light",  
+                    "explanation": "The Hubble Space Telescope observes primarily in the visible and ultraviolet light spectrums, providing clear images of stars, galaxies, and nebulae."  
+                  },  
+                  {  
+                    "question": "Which space telescope was crucial in mapping the large-scale structure of the universe?",  
+                    "options": ["Hubble", "WMAP", "James Webb", "Kepler"],  
+                    "answer": "WMAP",  
+                    "explanation": "The WMAP (Wilkinson Microwave Anisotropy Probe) helped map the large-scale structure of the universe by observing the cosmic microwave background radiation."  
+                  },  
+                  {  
+                    "question": "Which space telescope contributed to the discovery of thousands of exoplanets?",  
+                    "options": ["Hubble", "James Webb", "Chandra", "Kepler"],  
+                    "answer": "Kepler",  
+                    "explanation": "The Kepler Space Telescope was dedicated to discovering exoplanets by using the transit method, leading to the discovery of thousands of planets."  
+                  },  
+                  {  
+                    "question": "What is the main focus of the Chandra X-ray Observatory?",  
+                    "options": ["Observing galaxies", "Studying black holes", "Mapping the solar system", "Exploring dark matter"],  
+                    "answer": "Studying black holes",  
+                    "explanation": "The Chandra X-ray Observatory focuses on studying high-energy regions of the universe, including black holes, neutron stars, and supernovae."  
+                  },  
+                  {  
+                    "question": "How does the James Webb Space Telescope protect itself from heat?",  
+                    "options": ["By orbiting close to the Sun", "By using a giant sunshield", "By positioning itself in Earth's shadow", "By using cooling fluids"],  
+                    "answer": "By using a giant sunshield",  
+                    "explanation": "The James Webb Space Telescope is protected from heat by a large sunshield that keeps its instruments cool, enabling it to observe in infrared light."  
+                  }  
+                ]  
+              },
+              {  
+                "setNumber": 6,  
+                "questions": [  
+                  {  
+                    "question": "What space telescope was used to measure the cosmic microwave background radiation?",  
+                    "options": ["Hubble", "WMAP", "Chandra", "Kepler"],  
+                    "answer": "WMAP",  
+                    "explanation": "The WMAP (Wilkinson Microwave Anisotropy Probe) was used to measure the cosmic microwave background, providing clues about the early universe."  
+                  },  
+                  {  
+                    "question": "Which space telescope studies distant black holes through X-rays?",  
+                    "options": ["Chandra", "Hubble", "Spitzer", "James Webb"],  
+                    "answer": "Chandra",  
+                    "explanation": "The Chandra X-ray Observatory is designed to study distant black holes and high-energy phenomena through X-ray observations."  
+                  },  
+                  {  
+                    "question": "What role does the James Webb Space Telescope play in understanding exoplanets?",  
+                    "options": ["Detects their light in visible wavelengths", "Measures their magnetic fields", "Analyzes their atmospheres in infrared light", "Maps their orbits"],  
+                    "answer": "Analyzes their atmospheres in infrared light",  
+                    "explanation": "The James Webb Space Telescope can analyze exoplanet atmospheres in infrared light, helping scientists understand their compositions."  
+                  },  
+                  {  
+                    "question": "Which space telescope launched in 1990 and remains operational today?",  
+                    "options": ["James Webb", "Kepler", "Hubble", "Spitzer"],  
+                    "answer": "Hubble",  
+                    "explanation": "The Hubble Space Telescope, launched in 1990, remains operational today and continues to capture high-quality images of the universe."  
+                  },  
+                  {  
+                    "question": "Which telescope is designed to study gamma rays emitted by black holes and neutron stars?",  
+                    "options": ["Spitzer", "Fermi Gamma-ray Space Telescope", "Hubble", "James Webb"],  
+                    "answer": "Fermi Gamma-ray Space Telescope",  
+                    "explanation": "The Fermi Gamma-ray Space Telescope is designed to study gamma rays emitted by high-energy phenomena such as black holes and neutron stars."  
+                  },  
+                  {  
+                    "question": "Which space telescope has provided the deepest view of the universe?",  
+                    "options": ["Kepler", "Spitzer", "Hubble", "James Webb"],  
+                    "answer": "Hubble",  
+                    "explanation": "Hubble's deep-field images provide the deepest view of the universe, showing galaxies billions of light-years away."  
+                  },  
+                  {  
+                    "question": "How does the James Webb Space Telescope detect faint galaxies?",  
+                    "options": ["Through X-ray emissions", "By observing in the infrared spectrum", "Using gravitational lensing", "By mapping gamma rays"],  
+                    "answer": "By observing in the infrared spectrum",  
+                    "explanation": "James Webb detects faint galaxies by observing them in the infrared spectrum, which allows it to look farther back in time."  
+                  },  
+                  {  
+                    "question": "Which space telescope has been essential for studying star-forming regions?",  
+                    "options": ["Hubble", "Spitzer", "Kepler", "Chandra"],  
+                    "answer": "Spitzer",  
+                    "explanation": "The Spitzer Space Telescope's infrared observations have been essential for studying star-forming regions, which are often hidden by dust."  
+                  },  
+                  {  
+                    "question": "Which telescope is positioned at the second Lagrange point (L2) to observe the universe?",  
+                    "options": ["Spitzer", "Kepler", "James Webb", "Hubble"],  
+                    "answer": "James Webb",  
+                    "explanation": "The James Webb Space Telescope is positioned at the second Lagrange point (L2), allowing it to observe the universe with minimal interference."  
+                  },  
+                  {  
+                    "question": "What discovery was made by Hubble that suggested the universe is expanding at an accelerating rate?",  
+                    "options": ["Black holes", "Dark energy", "Dark matter", "Cosmic rays"],  
+                    "answer": "Dark energy",  
+                    "explanation": "Hubble's observations of distant supernovae suggested the universe's expansion is accelerating, leading to the discovery of dark energy."  
+                  }  
+                ]  
+              },
+              {
+                "setNumber": 7,
+                "questions": [
+                  {
+                    "question": "What is the primary purpose of the Hubble Space Telescope?",
+                    "options": ["To study X-rays", "To observe distant galaxies", "To monitor solar activity", "To search for asteroids"],
+                    "answer": "To observe distant galaxies",
+                    "explanation": "The Hubble Space Telescope primarily observes distant galaxies, providing insights into the structure and evolution of the universe."
+                  },
+                  {
+                    "question": "Which telescope is known for its ability to observe the faintest objects in the universe?",
+                    "options": ["Chandra X-ray Observatory", "James Webb Space Telescope", "Hubble Space Telescope", "Kepler"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope is designed to observe faint objects and is particularly sensitive to infrared light."
+                  },
+                  {
+                    "question": "What type of light does the Chandra X-ray Observatory primarily detect?",
+                    "options": ["Visible light", "Infrared light", "X-rays", "Radio waves"],
+                    "answer": "X-rays",
+                    "explanation": "The Chandra X-ray Observatory is specialized for detecting X-rays, allowing scientists to study high-energy processes in the universe."
+                  },
+                  {
+                    "question": "What significant feature does the James Webb Space Telescope use to keep itself cool?",
+                    "options": ["Radiative cooling shield", "Water cooling system", "Solar panels", "Heat sinks"],
+                    "answer": "Radiative cooling shield",
+                    "explanation": "The James Webb Space Telescope uses a large sunshield to reflect sunlight and keep its instruments cool."
+                  },
+                  {
+                    "question": "How far from Earth is the Hubble Space Telescope located?",
+                    "options": ["Low Earth Orbit", "Geostationary Orbit", "Lunar Orbit", "Solar Orbit"],
+                    "answer": "Low Earth Orbit",
+                    "explanation": "The Hubble Space Telescope is located in low Earth orbit at an altitude of about 547 kilometers (about 340 miles)."
+                  },
+                  {
+                    "question": "Which telescope was launched in 2019 to observe exoplanets?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Kepler Space Telescope", "Spitzer Space Telescope"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope, launched in 2021, is designed to observe exoplanets and other celestial phenomena."
+                  },
+                  {
+                    "question": "What is one of the primary goals of the Hubble Space Telescope?",
+                    "options": ["Mapping the solar system", "Studying cosmic microwave background", "Investigating dark matter", "Determining the rate of universe expansion"],
+                    "answer": "Determining the rate of universe expansion",
+                    "explanation": "One of Hubble's primary goals is to measure the expansion rate of the universe, helping to refine the value of the Hubble constant."
+                  },
+                  {
+                    "question": "Which space telescope is specifically designed to study gamma-ray bursts?",
+                    "options": ["Hubble Space Telescope", "Chandra X-ray Observatory", "Fermi Gamma-ray Space Telescope", "Spitzer Space Telescope"],
+                    "answer": "Fermi Gamma-ray Space Telescope",
+                    "explanation": "The Fermi Gamma-ray Space Telescope is designed to study gamma-ray bursts and other high-energy phenomena in the universe."
+                  },
+                  {
+                    "question": "What innovative technique does the Hubble Space Telescope use to achieve high-resolution images?",
+                    "options": ["Adaptive optics", "Interferometry", "Spectroscopy", "Polarimetry"],
+                    "answer": "Adaptive optics",
+                    "explanation": "Hubble employs adaptive optics to counteract the blurring effects of Earth's atmosphere, achieving high-resolution images."
+                  }
+                ]
+              },
+              {
+                "setNumber": 8,
+                "questions": [
+                  {
+                    "question": "What is the primary mission of the Kepler Space Telescope?",
+                    "options": ["Mapping the universe", "Searching for exoplanets", "Studying black holes", "Observing dark matter"],
+                    "answer": "Searching for exoplanets",
+                    "explanation": "The primary mission of the Kepler Space Telescope was to search for Earth-like exoplanets in the habitable zones of stars."
+                  },
+                  {
+                    "question": "Which space telescope can observe cosmic microwave background radiation?",
+                    "options": ["Planck Space Observatory", "James Webb Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory"],
+                    "answer": "Planck Space Observatory",
+                    "explanation": "The Planck Space Observatory was designed to observe the cosmic microwave background radiation, providing insights into the early universe."
+                  },
+                  {
+                    "question": "What is the primary design feature of the James Webb Space Telescope?",
+                    "options": ["Large mirror", "Small size", "Multiple lenses", "No moving parts"],
+                    "answer": "Large mirror",
+                    "explanation": "The James Webb Space Telescope features a large mirror (6.5 meters in diameter) to collect more light and observe faint astronomical objects."
+                  },
+                  {
+                    "question": "Which telescope is named after a famous astronomer known for his laws of planetary motion?",
+                    "options": ["Hubble Space Telescope", "Kepler Space Telescope", "Galileo Space Telescope", "Chandra X-ray Observatory"],
+                    "answer": "Kepler Space Telescope",
+                    "explanation": "The Kepler Space Telescope is named after Johannes Kepler, known for his laws of planetary motion and contributions to astronomy."
+                  },
+                  {
+                    "question": "What unique aspect of the Hubble Space Telescope allows it to conduct long-duration observations?",
+                    "options": ["Solar panels", "Gyroscopes", "Advanced sensors", "Low Earth orbit"],
+                    "answer": "Gyroscopes",
+                    "explanation": "The Hubble Space Telescope uses gyroscopes to maintain its orientation, enabling long-duration observations of celestial objects."
+                  },
+                  {
+                    "question": "Which space telescope is equipped with infrared capabilities to study distant galaxies?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory", "Fermi Gamma-ray Space Telescope"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope is equipped with infrared capabilities, allowing it to study distant galaxies and their formation."
+                  },
+                  {
+                    "question": "What is the advantage of using space telescopes over ground-based telescopes?",
+                    "options": ["Lower cost", "Ability to see in visible light", "No atmospheric interference", "Smaller size"],
+                    "answer": "No atmospheric interference",
+                    "explanation": "Space telescopes avoid atmospheric interference, allowing them to capture clearer and more detailed images of celestial objects."
+                  },
+                  {
+                    "question": "Which telescope is known for making the first direct image of an exoplanet?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "SPITZER Space Telescope", "Keck Observatory"],
+                    "answer": "SPITZER Space Telescope",
+                    "explanation": "The Spitzer Space Telescope was involved in the first direct imaging of an exoplanet, providing valuable data about its atmosphere."
+                  },
+                  {
+                    "question": "What type of celestial objects does the Chandra X-ray Observatory primarily observe?",
+                    "options": ["Planets", "Comets", "High-energy phenomena", "Stars"],
+                    "answer": "High-energy phenomena",
+                    "explanation": "The Chandra X-ray Observatory is designed to observe high-energy phenomena, such as supernovae and black holes."
+                  }
+                ]
+              },
+              {
+                "setNumber": 9,
+                "questions": [
+                  {
+                    "question": "What is the main limitation of ground-based telescopes compared to space telescopes?",
+                    "options": ["Cost", "Size", "Atmospheric distortion", "Weight"],
+                    "answer": "Atmospheric distortion",
+                    "explanation": "Ground-based telescopes are affected by atmospheric distortion, which can blur images, unlike space telescopes that operate above the atmosphere."
+                  },
+                  {
+                    "question": "What mission does the Hubble Space Telescope's successor aim to fulfill?",
+                    "options": ["Replace Hubble", "Enhance solar observations", "Develop new technology", "Explore Mars"],
+                    "answer": "Replace Hubble",
+                    "explanation": "The James Webb Space Telescope is designed to succeed Hubble and enhance our understanding of the universe through infrared observations."
+                  },
+                  {
+                    "question": "Which telescope is primarily focused on observing gravitational waves?",
+                    "options": ["Fermi Gamma-ray Space Telescope", "LIGO", "Hubble Space Telescope", "Kepler Space Telescope"],
+                    "answer": "LIGO",
+                    "explanation": "LIGO is not a telescope in the traditional sense, but it is designed specifically to detect gravitational waves, unlike optical telescopes."
+                  },
+                  {
+                    "question": "What type of celestial objects are primarily studied with the Hubble Space Telescope?",
+                    "options": ["Asteroids", "Distant galaxies", "Planets in our solar system", "Comets"],
+                    "answer": "Distant galaxies",
+                    "explanation": "The Hubble Space Telescope primarily studies distant galaxies, providing critical insights into the universe's formation and evolution."
+                  },
+                  {
+                    "question": "What innovative technology does the James Webb Space Telescope utilize to reduce light interference?",
+                    "options": ["Adaptive optics", "Cryogenic cooling", "Laser guides", "Reflective surfaces"],
+                    "answer": "Cryogenic cooling",
+                    "explanation": "The James Webb Space Telescope uses cryogenic cooling to reduce thermal noise and improve the quality of its infrared observations."
+                  },
+                  {
+                    "question": "Which space telescope is expected to study the early universe after the Big Bang?",
+                    "options": ["James Webb Space Telescope", "Hubble Space Telescope", "Chandra X-ray Observatory", "Kepler Space Telescope"],
+                    "answer": "James Webb Space Telescope",
+                    "explanation": "The James Webb Space Telescope is designed to study the early universe, including the formation of stars and galaxies shortly after the Big Bang."
+                  },
+                  {
+                    "question": "What unique observation method does the Kepler Space Telescope use?",
+                    "options": ["Direct imaging", "Gravitational microlensing", "Transit method", "Spectroscopy"],
+                    "answer": "Transit method",
+                    "explanation": "The Kepler Space Telescope uses the transit method to detect exoplanets by measuring the dimming of stars as planets pass in front of them."
+                  },
+                  {
+                    "question": "What is the primary focus of the Fermi Gamma-ray Space Telescope?",
+                    "options": ["Studying the solar system", "Observing cosmic rays", "Detecting gamma rays", "Studying distant galaxies"],
+                    "answer": "Detecting gamma rays",
+                    "explanation": "The Fermi Gamma-ray Space Telescope focuses on detecting gamma rays, providing insights into high-energy astrophysical phenomena."
+                  },
+                  {
+                    "question": "What is one of the goals of the Hubble Space Telescope in studying exoplanets?",
+                    "options": ["To discover new asteroids", "To measure their atmospheric compositions", "To determine their distances", "To observe their moons"],
+                    "answer": "To measure their atmospheric compositions",
+                    "explanation": "The Hubble Space Telescope aims to measure the atmospheric compositions of exoplanets, contributing to our understanding of potential habitability."
+                  }
+                ]
+              },
+              {
+                "setNumber": 10,
+                "questions": [
+                  {
+                    "question": "What unique technology does the James Webb Space Telescope use for imaging?",
+                    "options": ["Multi-spectral imaging", "Infrared interferometry", "Optical lenses", "Radio telescopes"],
+                    "answer": "Infrared interferometry",
+                    "explanation": "The James Webb Space Telescope employs infrared interferometry to achieve high-resolution imaging of distant objects."
+                  },
+                  {
+                    "question": "What type of mirror design does the Hubble Space Telescope use?",
+                    "options": ["Concave", "Convex", "Flat", "Aspheric"],
+                    "answer": "Concave",
+                    "explanation": "The Hubble Space Telescope uses a concave mirror design to collect and focus light from distant astronomical objects."
+                  },
+                  {
+                    "question": "Which telescope is known for detecting the most distant galaxy ever observed?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory", "Kepler Space Telescope"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope has detected some of the most distant galaxies, helping astronomers study the early universe."
+                  },
+                  {
+                    "question": "Which space telescope has contributed significantly to the study of dark energy?",
+                    "options": ["Chandra X-ray Observatory", "James Webb Space Telescope", "Hubble Space Telescope", "Fermi Gamma-ray Space Telescope"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope has made crucial contributions to our understanding of dark energy and the accelerating expansion of the universe."
+                  },
+                  {
+                    "question": "What is the significance of the Kepler Space Telescope's findings?",
+                    "options": ["Identifying asteroids", "Detecting new stars", "Finding thousands of exoplanets", "Mapping black holes"],
+                    "answer": "Finding thousands of exoplanets",
+                    "explanation": "The Kepler Space Telescope discovered thousands of exoplanets, significantly advancing our knowledge of planetary systems."
+                  },
+                  {
+                    "question": "What major discovery was made using the Spitzer Space Telescope?",
+                    "options": ["Presence of water on Mars", "Direct imaging of an exoplanet", "Observing the Kuiper Belt", "Studying the cosmic microwave background"],
+                    "answer": "Direct imaging of an exoplanet",
+                    "explanation": "The Spitzer Space Telescope made significant discoveries, including direct imaging of exoplanets and studying their atmospheres."
+                  },
+                  {
+                    "question": "Which space telescope specializes in observing ultraviolet light?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Fermi Gamma-ray Space Telescope", "Chandra X-ray Observatory"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope is equipped to observe ultraviolet light, providing crucial data about hot stars and galaxies."
+                  },
+                  {
+                    "question": "What significant discovery did the Chandra X-ray Observatory contribute to our understanding of black holes?",
+                    "options": ["Black hole mergers", "Detection of supermassive black holes", "Existence of wormholes", "Black holes evaporating"],
+                    "answer": "Detection of supermassive black holes",
+                    "explanation": "The Chandra X-ray Observatory has played a vital role in detecting supermassive black holes in the centers of galaxies."
+                  },
+                  {
+                    "question": "What is the main scientific goal of the European Space Agency's Gaia mission?",
+                    "options": ["Detecting gravitational waves", "Mapping the Milky Way", "Studying dark matter", "Observing exoplanets"],
+                    "answer": "Mapping the Milky Way",
+                    "explanation": "The Gaia mission aims to create a three-dimensional map of the Milky Way galaxy, providing detailed data on its structure and stars."
+                  },
+                  {
+                    "question": "Which telescope has helped scientists study the evolution of galaxies over billions of years?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Kepler Space Telescope", "Spitzer Space Telescope"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope has provided invaluable data that helps scientists study the evolution of galaxies across cosmic time."
                   }
                 ]
               }
@@ -5606,6 +6693,591 @@
                         "options": ["Studying lunar soil", "Finding extraterrestrial life", "Mapping the lunar surface", "Understanding lunar geology"],
                         "answer": "Finding extraterrestrial life",
                         "explanation": "The main objectives of India's Moon missions include studying lunar soil, mapping the lunar surface, and understanding lunar geology, but not searching for extraterrestrial life."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 2,
+                    "questions": [
+                      {
+                        "question": "What was the primary objective of Chandrayaan-1?",
+                        "options": ["Sample collection", "Mapping the lunar surface", "Establishing a lunar base", "Studying Mars' atmosphere"],
+                        "answer": "Mapping the lunar surface",
+                        "explanation": "The primary objective of Chandrayaan-1 was to map the lunar surface in detail."
+                      },
+                      {
+                        "question": "Which Indian organization is responsible for the Chandrayaan missions?",
+                        "options": ["DRDO", "ISRO", "ISRO and NASA", "SpaceX"],
+                        "answer": "ISRO",
+                        "explanation": "The Indian Space Research Organisation (ISRO) is responsible for the Chandrayaan missions."
+                      },
+                      {
+                        "question": "What type of orbiter was used in Chandrayaan-2?",
+                        "options": ["Lunar orbiter", "Mars orbiter", "Space shuttle", "Saturn orbiter"],
+                        "answer": "Lunar orbiter",
+                        "explanation": "Chandrayaan-2 included a lunar orbiter designed to study the Moon's surface and atmosphere."
+                      },
+                      {
+                        "question": "What significant achievement did Chandrayaan-3 accomplish?",
+                        "options": ["First to map the Moon", "First to discover helium on the Moon", "First soft landing on the Moon's south pole", "First orbiter around the Moon"],
+                        "answer": "First soft landing on the Moon's south pole",
+                        "explanation": "Chandrayaan-3 successfully achieved India's first soft landing on the Moon's south pole in 2023."
+                      },
+                      {
+                        "question": "What was the launch vehicle for Chandrayaan-2?",
+                        "options": ["PSLV", "GSLV", "Ariane 5", "Falcon 9"],
+                        "answer": "GSLV",
+                        "explanation": "Chandrayaan-2 was launched using the Geosynchronous Satellite Launch Vehicle (GSLV Mk II)."
+                      },
+                      {
+                        "question": "What instrument on Chandrayaan-1 helped detect water on the Moon?",
+                        "options": ["X-ray Spectrometer", "Moon Impact Probe", "Infrared Spectrometer", "Lunar Laser Ranging Experiment"],
+                        "answer": "Infrared Spectrometer",
+                        "explanation": "The Infrared Spectrometer aboard Chandrayaan-1 helped detect water molecules on the lunar surface."
+                      },
+                      {
+                        "question": "What is the significance of the Moon's south pole for scientific research?",
+                        "options": ["High temperature", "Presence of ice", "Rich mineral deposits", "Low gravity"],
+                        "answer": "Presence of ice",
+                        "explanation": "The Moon's south pole is significant for scientific research due to the presence of water ice, which is critical for future exploration."
+                      },
+                      {
+                        "question": "Which year was Chandrayaan-2 launched?",
+                        "options": ["2017", "2018", "2019", "2020"],
+                        "answer": "2019",
+                        "explanation": "Chandrayaan-2 was launched on July 22, 2019."
+                      },
+                      {
+                        "question": "What was the name of the lander in the Chandrayaan-2 mission?",
+                        "options": ["Vikram", "Pragyan", "Surya", "Chandra"],
+                        "answer": "Vikram",
+                        "explanation": "The lander of the Chandrayaan-2 mission was named Vikram, after Dr. Vikram Sarabhai."
+                      },
+                      {
+                        "question": "What was the mission duration of Chandrayaan-1?",
+                        "options": ["2 years", "1 year", "10 months", "6 months"],
+                        "answer": "10 months",
+                        "explanation": "Chandrayaan-1 operated for about 10 months before losing contact."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 2,
+                    "questions": [
+                      {
+                        "question": "What was the primary objective of Chandrayaan-1?",
+                        "options": ["Sample collection", "Mapping the lunar surface", "Establishing a lunar base", "Studying Mars' atmosphere"],
+                        "answer": "Mapping the lunar surface",
+                        "explanation": "The primary objective of Chandrayaan-1 was to map the lunar surface in detail."
+                      },
+                      {
+                        "question": "Which Indian organization is responsible for the Chandrayaan missions?",
+                        "options": ["DRDO", "ISRO", "ISRO and NASA", "SpaceX"],
+                        "answer": "ISRO",
+                        "explanation": "The Indian Space Research Organisation (ISRO) is responsible for the Chandrayaan missions."
+                      },
+                      {
+                        "question": "What type of orbiter was used in Chandrayaan-2?",
+                        "options": ["Lunar orbiter", "Mars orbiter", "Space shuttle", "Saturn orbiter"],
+                        "answer": "Lunar orbiter",
+                        "explanation": "Chandrayaan-2 included a lunar orbiter designed to study the Moon's surface and atmosphere."
+                      },
+                      {
+                        "question": "What significant achievement did Chandrayaan-3 accomplish?",
+                        "options": ["First to map the Moon", "First to discover helium on the Moon", "First soft landing on the Moon's south pole", "First orbiter around the Moon"],
+                        "answer": "First soft landing on the Moon's south pole",
+                        "explanation": "Chandrayaan-3 successfully achieved India's first soft landing on the Moon's south pole in 2023."
+                      },
+                      {
+                        "question": "What was the launch vehicle for Chandrayaan-2?",
+                        "options": ["PSLV", "GSLV", "Ariane 5", "Falcon 9"],
+                        "answer": "GSLV",
+                        "explanation": "Chandrayaan-2 was launched using the Geosynchronous Satellite Launch Vehicle (GSLV Mk II)."
+                      },
+                      {
+                        "question": "What instrument on Chandrayaan-1 helped detect water on the Moon?",
+                        "options": ["X-ray Spectrometer", "Moon Impact Probe", "Infrared Spectrometer", "Lunar Laser Ranging Experiment"],
+                        "answer": "Infrared Spectrometer",
+                        "explanation": "The Infrared Spectrometer aboard Chandrayaan-1 helped detect water molecules on the lunar surface."
+                      },
+                      {
+                        "question": "What is the significance of the Moon's south pole for scientific research?",
+                        "options": ["High temperature", "Presence of ice", "Rich mineral deposits", "Low gravity"],
+                        "answer": "Presence of ice",
+                        "explanation": "The Moon's south pole is significant for scientific research due to the presence of water ice, which is critical for future exploration."
+                      },
+                      {
+                        "question": "Which year was Chandrayaan-2 launched?",
+                        "options": ["2017", "2018", "2019", "2020"],
+                        "answer": "2019",
+                        "explanation": "Chandrayaan-2 was launched on July 22, 2019."
+                      },
+                      {
+                        "question": "What was the name of the lander in the Chandrayaan-2 mission?",
+                        "options": ["Vikram", "Pragyan", "Surya", "Chandra"],
+                        "answer": "Vikram",
+                        "explanation": "The lander of the Chandrayaan-2 mission was named Vikram, after Dr. Vikram Sarabhai."
+                      },
+                      {
+                        "question": "What was the mission duration of Chandrayaan-1?",
+                        "options": ["2 years", "1 year", "10 months", "6 months"],
+                        "answer": "10 months",
+                        "explanation": "Chandrayaan-1 operated for about 10 months before losing contact."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 4,
+                    "questions": [
+                      {
+                        "question": "What is the main scientific instrument onboard Chandrayaan-2’s orbiter?",
+                        "options": ["Terrain Mapping Camera", "Spectrometer", "Lidar", "Magnetometer"],
+                        "answer": "Terrain Mapping Camera",
+                        "explanation": "The Terrain Mapping Camera on Chandrayaan-2's orbiter is designed to create 3D maps of the lunar surface."
+                      },
+                      {
+                        "question": "How did Chandrayaan-1 contribute to lunar science?",
+                        "options": ["Sample return", "Discovering lunar volcanism", "Mapping surface minerals", "Establishing a lunar base"],
+                        "answer": "Mapping surface minerals",
+                        "explanation": "Chandrayaan-1 significantly contributed to lunar science by mapping surface minerals on the Moon."
+                      },
+                      {
+                        "question": "What critical phase was achieved during the Chandrayaan-2 mission in 2019?",
+                        "options": ["Orbital insertion", "Lander deployment", "Sample collection", "Lunar impact"],
+                        "answer": "Orbital insertion",
+                        "explanation": "Chandrayaan-2 achieved successful orbital insertion around the Moon before attempting to land."
+                      },
+                      {
+                        "question": "Which component of Chandrayaan-1 was launched as a secondary payload?",
+                        "options": ["Astrosat", "Moon Impact Probe", "Mars Orbiter", "INSAT-3"],
+                        "answer": "Moon Impact Probe",
+                        "explanation": "The Moon Impact Probe was launched as a secondary payload with Chandrayaan-1."
+                      },
+                      {
+                        "question": "What is the key focus of Chandrayaan-3’s mission?",
+                        "options": ["Sample return", "Soft landing and rover operation", "Mapping the Moon", "Satellite communications"],
+                        "answer": "Soft landing and rover operation",
+                        "explanation": "Chandrayaan-3's key focus is on achieving a soft landing and operating the rover on the lunar surface."
+                      },
+                      {
+                        "question": "Which year did ISRO announce the Chandrayaan-3 mission?",
+                        "options": ["2020", "2021", "2022", "2023"],
+                        "answer": "2020",
+                        "explanation": "ISRO announced the Chandrayaan-3 mission in 2020 as a follow-up to Chandrayaan-2."
+                      },
+                      {
+                        "question": "What was the purpose of the Payload Module in Chandrayaan-1?",
+                        "options": ["To provide power", "To store samples", "To carry scientific instruments", "To serve as a landing gear"],
+                        "answer": "To carry scientific instruments",
+                        "explanation": "The Payload Module in Chandrayaan-1 was designed to carry various scientific instruments for lunar exploration."
+                      },
+                      {
+                        "question": "Which feature did Chandrayaan-1 successfully confirm on the Moon?",
+                        "options": ["Presence of lava tubes", "Presence of water ice", "Presence of ancient river beds", "Presence of asteroids"],
+                        "answer": "Presence of water ice",
+                        "explanation": "Chandrayaan-1 successfully confirmed the presence of water ice in the Moon's polar regions."
+                      },
+                      {
+                        "question": "What is the estimated weight of Chandrayaan-2's lander Vikram?",
+                        "options": ["750 kg", "600 kg", "800 kg", "500 kg"],
+                        "answer": "600 kg",
+                        "explanation": "The Vikram lander of Chandrayaan-2 weighs approximately 600 kg."
+                      },
+                      {
+                        "question": "What technological advancement did Chandrayaan-3 utilize for landing?",
+                        "options": ["Robotic arms", "Artificial intelligence", "Navigation algorithms", "Laser altimeter"],
+                        "answer": "Laser altimeter",
+                        "explanation": "Chandrayaan-3 utilized a laser altimeter for precise navigation and landing on the Moon."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 5,
+                    "questions": [
+                      {
+                        "question": "What was the primary goal of the Chandrayaan-1 mission?",
+                        "options": ["Search for lunar minerals", "Conduct sample return", "Map the lunar surface", "Establish a permanent presence"],
+                        "answer": "Map the lunar surface",
+                        "explanation": "The primary goal of the Chandrayaan-1 mission was to create a detailed map of the lunar surface."
+                      },
+                      {
+                        "question": "What significant discovery did the Chandrayaan-1 mission make?",
+                        "options": ["Presence of liquid water", "Presence of carbon dioxide", "Presence of water ice", "Presence of lunar quakes"],
+                        "answer": "Presence of water ice",
+                        "explanation": "Chandrayaan-1 made the significant discovery of water ice on the Moon."
+                      },
+                      {
+                        "question": "What technology was used to land the Vikram lander of Chandrayaan-2?",
+                        "options": ["Thrusters and parachutes", "Nuclear propulsion", "Solar sails", "Magnetic levitation"],
+                        "answer": "Thrusters and parachutes",
+                        "explanation": "The Vikram lander used thrusters for a controlled descent and parachutes to slow down."
+                      },
+                      {
+                        "question": "In which year did the Chandrayaan-3 mission launch?",
+                        "options": ["2020", "2021", "2022", "2023"],
+                        "answer": "2023",
+                        "explanation": "Chandrayaan-3 was launched in 2023 to attempt a soft landing on the Moon."
+                      },
+                      {
+                        "question": "What was the weight of the Chandrayaan-2 orbiter?",
+                        "options": ["1,500 kg", "2,000 kg", "3,500 kg", "4,000 kg"],
+                        "answer": "2,000 kg",
+                        "explanation": "The Chandrayaan-2 orbiter weighed approximately 2,000 kg at launch."
+                      },
+                      {
+                        "question": "What did Chandrayaan-2's orbiter primarily focus on studying?",
+                        "options": ["Lunar atmosphere", "Lunar geology", "Lunar radiation", "Lunar weather"],
+                        "answer": "Lunar geology",
+                        "explanation": "The primary focus of Chandrayaan-2's orbiter was to study the Moon's geology and surface features."
+                      },
+                      {
+                        "question": "Which lunar pole did Chandrayaan-3 target for landing?",
+                        "options": ["North pole", "South pole", "Equator", "Farside"],
+                        "answer": "South pole",
+                        "explanation": "Chandrayaan-3 targeted the Moon's south pole for its landing, a scientifically significant area."
+                      },
+                      {
+                        "question": "What instruments were carried by Chandrayaan-2's lander Vikram?",
+                        "options": ["Seismometer and thermal probe", "Spectrometer and camera", "Laser altimeter and camera", "Magnetometer and radar"],
+                        "answer": "Seismometer and thermal probe",
+                        "explanation": "Vikram was equipped with a seismometer and a thermal probe to study the lunar surface."
+                      },
+                      {
+                        "question": "What aspect of the lunar surface did Chandrayaan-1 analyze?",
+                        "options": ["Surface temperature", "Surface composition", "Surface age", "Surface pressure"],
+                        "answer": "Surface composition",
+                        "explanation": "Chandrayaan-1 analyzed the surface composition of the Moon through various instruments."
+                      },
+                      {
+                        "question": "How many scientific instruments were on board Chandrayaan-2's orbiter?",
+                        "options": ["8", "5", "10", "3"],
+                        "answer": "8",
+                        "explanation": "Chandrayaan-2's orbiter carried a total of 8 scientific instruments to study the Moon."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 6,
+                    "questions": [
+                      {
+                        "question": "What was the launch date of Chandrayaan-1?",
+                        "options": ["October 22, 2008", "November 14, 2008", "September 28, 2008", "July 22, 2009"],
+                        "answer": "October 22, 2008",
+                        "explanation": "Chandrayaan-1 was launched on October 22, 2008, marking India's first mission to the Moon."
+                      },
+                      {
+                        "question": "What was the primary purpose of the lander Vikram in the Chandrayaan-2 mission?",
+                        "options": ["To orbit the Moon", "To study lunar geology", "To perform a soft landing", "To transmit data to Earth"],
+                        "answer": "To perform a soft landing",
+                        "explanation": "The primary purpose of the lander Vikram was to achieve a soft landing on the lunar surface."
+                      },
+                      {
+                        "question": "Which instrument on the Chandrayaan-1 helped identify minerals on the lunar surface?",
+                        "options": ["Imaging spectrometer", "X-ray spectrometer", "Infrared spectrometer", "Laser altimeter"],
+                        "answer": "Imaging spectrometer",
+                        "explanation": "The imaging spectrometer on Chandrayaan-1 was crucial for identifying various minerals on the Moon's surface."
+                      },
+                      {
+                        "question": "What was the name of the orbiter that accompanied Chandrayaan-3?",
+                        "options": ["Chandrayaan-1", "Chandrayaan-2", "Chandrayaan-3 orbiter", "No orbiter"],
+                        "answer": "No orbiter",
+                        "explanation": "Chandrayaan-3 did not carry an orbiter; it consisted only of a lander and a rover."
+                      },
+                      {
+                        "question": "Which region of the Moon is known for its potential water ice deposits, explored by Chandrayaan missions?",
+                        "options": ["Mare Tranquillitatis", "Sea of Serenity", "South pole", "Mare Imbrium"],
+                        "answer": "South pole",
+                        "explanation": "The Moon's south pole region is known for potential water ice deposits, making it a key area of study for Chandrayaan missions."
+                      },
+                      {
+                        "question": "What challenge did the Vikram lander face during its descent in Chandrayaan-2?",
+                        "options": ["Insufficient fuel", "High velocity", "Faulty landing gear", "Communication loss"],
+                        "answer": "High velocity",
+                        "explanation": "The Vikram lander faced challenges due to high velocity during its descent, leading to a hard landing."
+                      },
+                      {
+                        "question": "Which component of the Chandrayaan-2 mission was responsible for lunar exploration?",
+                        "options": ["Orbiter", "Lander", "Rover", "Satellite"],
+                        "answer": "Rover",
+                        "explanation": "The Pragyan rover was responsible for conducting lunar exploration and experiments on the Moon's surface."
+                      },
+                      {
+                        "question": "What type of data did Chandrayaan-1 collect about the Moon's atmosphere?",
+                        "options": ["Chemical composition", "Temperature data", "Atmospheric pressure", "Density measurements"],
+                        "answer": "Chemical composition",
+                        "explanation": "Chandrayaan-1 collected data regarding the chemical composition of the Moon's very thin atmosphere."
+                      },
+                      {
+                        "question": "What is the significance of the landing site chosen for Chandrayaan-3?",
+                        "options": ["High temperature", "Ancient volcanoes", "Scientific research potential", "Rich mineral deposits"],
+                        "answer": "Scientific research potential",
+                        "explanation": "The landing site for Chandrayaan-3 was chosen for its high potential for scientific research."
+                      },
+                      {
+                        "question": "How did Chandrayaan-2's orbiter contribute to the mission's success?",
+                        "options": ["Conducting soil samples", "Mapping lunar surface", "Providing communication link", "Both B and C"],
+                        "answer": "Both B and C",
+                        "explanation": "Chandrayaan-2's orbiter played a crucial role in mapping the lunar surface and providing a communication link during the mission."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 7,
+                    "questions": [
+                      {
+                        "question": "Which ISRO center was responsible for the development of Chandrayaan-2?",
+                        "options": ["ISRO Propulsion Complex", "Vikram Sarabhai Space Centre", "Space Applications Centre", "National Remote Sensing Centre"],
+                        "answer": "Vikram Sarabhai Space Centre",
+                        "explanation": "The Vikram Sarabhai Space Centre was responsible for the development and integration of Chandrayaan-2."
+                      },
+                      {
+                        "question": "What aspect of the Moon's surface did Chandrayaan-1's radar system analyze?",
+                        "options": ["Surface roughness", "Mineral composition", "Ice presence", "Temperature variations"],
+                        "answer": "Surface roughness",
+                        "explanation": "Chandrayaan-1's radar system analyzed the surface roughness of the Moon to study its geology."
+                      },
+                      {
+                        "question": "What scientific discovery was confirmed by Chandrayaan-2's orbiter?",
+                        "options": ["Presence of water ice", "Presence of volcanic activity", "Presence of a magnetic field", "Presence of oxygen"],
+                        "answer": "Presence of water ice",
+                        "explanation": "Chandrayaan-2's orbiter confirmed the presence of water ice in the Moon's polar regions."
+                      },
+                      {
+                        "question": "What was the unique feature of the Chandrayaan-3 lander's descent?",
+                        "options": ["Autonomous navigation", "Manual landing controls", "Parachute assistance", "Jet propulsion"],
+                        "answer": "Autonomous navigation",
+                        "explanation": "Chandrayaan-3's lander utilized autonomous navigation for a precise and safe landing on the lunar surface."
+                      },
+                      {
+                        "question": "What was the mission duration of Chandrayaan-2's orbiter?",
+                        "options": ["1 year", "6 months", "2 years", "3 months"],
+                        "answer": "1 year",
+                        "explanation": "Chandrayaan-2's orbiter was designed for a mission duration of at least 1 year."
+                      },
+                      {
+                        "question": "What type of rover was Pragyan, part of the Chandrayaan-2 mission?",
+                        "options": ["Solar-powered", "Nuclear-powered", "Radioisotope-powered", "Battery-powered"],
+                        "answer": "Solar-powered",
+                        "explanation": "The Pragyan rover was solar-powered and operated during the lunar day."
+                      },
+                      {
+                        "question": "Which Indian astronaut's name was associated with India's lunar missions?",
+                        "options": ["Rakesh Sharma", "Kalpana Chawla", "Sunita Williams", "None"],
+                        "answer": "None",
+                        "explanation": "No Indian astronaut has yet been associated with lunar missions; all missions have been conducted via robotic spacecraft."
+                      },
+                      {
+                        "question": "What was one of the primary objectives of the Chandrayaan-3 mission?",
+                        "options": ["Return lunar samples", "Conduct a soft landing", "Establish a lunar base", "Orbit the Moon"],
+                        "answer": "Conduct a soft landing",
+                        "explanation": "One of the primary objectives of Chandrayaan-3 was to conduct a successful soft landing on the Moon."
+                      },
+                      {
+                        "question": "What was the total number of instruments carried by Chandrayaan-1?",
+                        "options": ["10", "12", "8", "6"],
+                        "answer": "11",
+                        "explanation": "Chandrayaan-1 carried a total of 11 scientific instruments to study the Moon."
+                      },
+                      {
+                        "question": "In which month and year did ISRO announce the launch of Chandrayaan-3?",
+                        "options": ["April 2020", "January 2021", "July 2021", "December 2022"],
+                        "answer": "December 2022",
+                        "explanation": "ISRO announced the launch of Chandrayaan-3 in December 2022."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 8,
+                    "questions": [
+                      {
+                        "question": "What technology did Chandrayaan-1 use to map the Moon?",
+                        "options": ["Infrared sensors", "Optical imaging", "Radar imaging", "Ultraviolet sensors"],
+                        "answer": "Radar imaging",
+                        "explanation": "Chandrayaan-1 utilized radar imaging technology to create detailed maps of the Moon's surface."
+                      },
+                      {
+                        "question": "What unique challenge did the Chandrayaan-2 mission face during its landing attempt?",
+                        "options": ["Communication blackout", "Low battery", "Loss of navigation data", "Meteor shower"],
+                        "answer": "Communication blackout",
+                        "explanation": "Chandrayaan-2 experienced a communication blackout just before the landing attempt."
+                      },
+                      {
+                        "question": "What was the focus of Chandrayaan-1's X-ray spectrometer?",
+                        "options": ["Lunar ice detection", "Mineral composition analysis", "Surface temperature measurement", "Atmospheric pressure analysis"],
+                        "answer": "Mineral composition analysis",
+                        "explanation": "The X-ray spectrometer on Chandrayaan-1 focused on analyzing the mineral composition of the lunar surface."
+                      },
+                      {
+                        "question": "What was the launch vehicle used for Chandrayaan-3?",
+                        "options": ["PSLV", "GSLV Mk II", "GSLV Mk III", "Ariane 5"],
+                        "answer": "GSLV Mk III",
+                        "explanation": "Chandrayaan-3 was launched using the GSLV Mk III launch vehicle."
+                      },
+                      {
+                        "question": "Which type of terrain did Chandrayaan-2 aim to explore on the Moon?",
+                        "options": ["Maria", "Highlands", "Polar regions", "Craters"],
+                        "answer": "Polar regions",
+                        "explanation": "Chandrayaan-2 aimed to explore the polar regions of the Moon, known for their potential water ice deposits."
+                      },
+                      {
+                        "question": "Which country collaborated with India on the Chandrayaan-1 mission?",
+                        "options": ["USA", "Russia", "Japan", "None"],
+                        "answer": "None",
+                        "explanation": "Chandrayaan-1 was primarily an indigenous mission with no formal international collaborations."
+                      },
+                      {
+                        "question": "What was the primary objective of the orbiter in the Chandrayaan-2 mission?",
+                        "options": ["Sample collection", "High-resolution mapping", "Communication relay", "Rover deployment"],
+                        "answer": "High-resolution mapping",
+                        "explanation": "The primary objective of the orbiter in Chandrayaan-2 was to perform high-resolution mapping of the lunar surface."
+                      },
+                      {
+                        "question": "What is the name of the instrument on Chandrayaan-2 that analyzes lunar soil?",
+                        "options": ["Alpha Particle X-ray Spectrometer", "Thermal Imaging Camera", "Laser-Induced Breakdown Spectroscopy", "Visible Imaging Camera"],
+                        "answer": "Alpha Particle X-ray Spectrometer",
+                        "explanation": "The Alpha Particle X-ray Spectrometer on Chandrayaan-2 analyzes the elemental composition of lunar soil."
+                      },
+                      {
+                        "question": "How many countries had successfully landed on the Moon before India’s Chandrayaan-3 mission?",
+                        "options": ["3", "4", "5", "6"],
+                        "answer": "3",
+                        "explanation": "Before Chandrayaan-3, only the USA, Russia, and China had successfully landed on the Moon."
+                      },
+                      {
+                        "question": "What was the significance of the Chandrayaan-1 mission in lunar exploration?",
+                        "options": ["First mission to map the Moon", "First mission to find water", "First Indian mission to the Moon", "First mission to study lunar poles"],
+                        "answer": "First Indian mission to the Moon",
+                        "explanation": "Chandrayaan-1 was significant as it was India's first mission to the Moon, marking a major milestone in space exploration."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 9,
+                    "questions": [
+                      {
+                        "question": "What was the primary instrument aboard Chandrayaan-2's Vikram lander?",
+                        "options": ["Thermal probe", "Seismometer", "Imaging spectrometer", "X-ray spectrometer"],
+                        "answer": "Seismometer",
+                        "explanation": "The Vikram lander was equipped with a seismometer to study moonquakes and the lunar surface."
+                      },
+                      {
+                        "question": "What year did Chandrayaan-2 launch?",
+                        "options": ["2017", "2018", "2019", "2020"],
+                        "answer": "2019",
+                        "explanation": "Chandrayaan-2 was launched on July 22, 2019."
+                      },
+                      {
+                        "question": "What is the primary purpose of the Chandrayaan-3 mission?",
+                        "options": ["Study lunar surface", "Achieve a soft landing", "Collect lunar soil samples", "Establish a lunar base"],
+                        "answer": "Achieve a soft landing",
+                        "explanation": "The primary purpose of the Chandrayaan-3 mission is to achieve a successful soft landing on the Moon."
+                      },
+                      {
+                        "question": "What feature was Chandrayaan-1's Moon Impact Probe designed to do?",
+                        "options": ["Conduct surface analysis", "Release the rover", "Crash-land on the Moon", "Establish communication"],
+                        "answer": "Crash-land on the Moon",
+                        "explanation": "The Moon Impact Probe was designed to crash-land on the lunar surface to gather data."
+                      },
+                      {
+                        "question": "What was the operational lifespan of the Chandrayaan-1 mission?",
+                        "options": ["2 years", "1 year", "6 months", "3 years"],
+                        "answer": "2 years",
+                        "explanation": "Chandrayaan-1 was operational for about 2 years before it lost contact."
+                      },
+                      {
+                        "question": "Which lunar element was detected by the Chandrayaan-1 mission?",
+                        "options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+                        "answer": "Hydrogen",
+                        "explanation": "Chandrayaan-1 detected the presence of hydrogen on the Moon, suggesting the presence of water ice."
+                      },
+                      {
+                        "question": "What was the focus of Chandrayaan-2's orbiter?",
+                        "options": ["Soil sampling", "Lunar mapping", "Atmospheric studies", "Mineral analysis"],
+                        "answer": "Lunar mapping",
+                        "explanation": "The focus of Chandrayaan-2's orbiter was on mapping the lunar surface in high detail."
+                      },
+                      {
+                        "question": "Which organization developed the Chandrayaan missions?",
+                        "options": ["NASA", "ESA", "ISRO", "Roscosmos"],
+                        "answer": "ISRO",
+                        "explanation": "The Indian Space Research Organisation (ISRO) developed the Chandrayaan missions."
+                      },
+                      {
+                        "question": "What was the launch vehicle used for Chandrayaan-1?",
+                        "options": ["PSLV-C11", "GSLV-F10", "Ariane 5", "Falcon 9"],
+                        "answer": "PSLV-C11",
+                        "explanation": "Chandrayaan-1 was launched aboard the PSLV-C11 launch vehicle."
+                      },
+                      {
+                        "question": "How did ISRO plan to achieve the soft landing for Chandrayaan-3?",
+                        "options": ["By using parachutes", "By utilizing thrusters", "By relying on a controlled descent", "By deploying landing gear"],
+                        "answer": "By utilizing thrusters",
+                        "explanation": "ISRO planned to achieve the soft landing for Chandrayaan-3 by utilizing thrusters for a controlled descent."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 10,
+                    "questions": [
+                      {
+                        "question": "Which instrument onboard Chandrayaan-1 was responsible for creating 3D maps of the lunar surface?",
+                        "options": ["Terrain Mapping Camera", "Lunar Orbiter", "X-ray Spectrometer", "Infrared Spectrometer"],
+                        "answer": "Terrain Mapping Camera",
+                        "explanation": "The Terrain Mapping Camera onboard Chandrayaan-1 was responsible for creating 3D maps of the lunar surface."
+                      },
+                      {
+                        "question": "Which mission followed Chandrayaan-1 as India's next lunar endeavor?",
+                        "options": ["Chandrayaan-2", "Mangalyaan", "Chandrayaan-3", "Astrosat"],
+                        "answer": "Chandrayaan-2",
+                        "explanation": "Chandrayaan-2 followed Chandrayaan-1 as India's next lunar mission."
+                      },
+                      {
+                        "question": "What was the key feature of the Chandrayaan-3 rover Pragyan?",
+                        "options": ["Solar-powered", "Nuclear-powered", "Hydrogen-powered", "Wind-powered"],
+                        "answer": "Solar-powered",
+                        "explanation": "The Pragyan rover of Chandrayaan-3 was solar-powered, enabling it to operate during the lunar day."
+                      },
+                      {
+                        "question": "What was the mission duration of Chandrayaan-2's lander Vikram?",
+                        "options": ["1 month", "2 weeks", "1 week", "3 months"],
+                        "answer": "1 week",
+                        "explanation": "The lander Vikram was expected to operate for approximately one week on the lunar surface."
+                      },
+                      {
+                        "question": "What did Chandrayaan-1 discover about the Moon's surface temperature?",
+                        "options": ["Extremely high", "Extremely low", "Moderate", "Unstable"],
+                        "answer": "Extremely low",
+                        "explanation": "Chandrayaan-1 found that the Moon's surface temperature can drop to extremely low levels."
+                      },
+                      {
+                        "question": "What year was Chandrayaan-3 launched?",
+                        "options": ["2020", "2021", "2022", "2023"],
+                        "answer": "2023",
+                        "explanation": "Chandrayaan-3 was launched in 2023, aiming to achieve a soft landing on the Moon."
+                      },
+                      {
+                        "question": "What was the main goal of the Chandrayaan-1 mission?",
+                        "options": ["To collect soil samples", "To map the lunar surface", "To study lunar atmosphere", "To analyze lunar resources"],
+                        "answer": "To map the lunar surface",
+                        "explanation": "The main goal of the Chandrayaan-1 mission was to create detailed maps of the lunar surface."
+                      },
+                      {
+                        "question": "Which international organization did ISRO collaborate with for technology in the Chandrayaan missions?",
+                        "options": ["NASA", "ESA", "Roscosmos", "None"],
+                        "answer": "None",
+                        "explanation": "ISRO conducted the Chandrayaan missions independently, without formal collaborations for technology."
+                      },
+                      {
+                        "question": "Which lunar feature did Chandrayaan-2 primarily study?",
+                        "options": ["Lunar maria", "Lunar highlands", "Polar regions", "Lunar craters"],
+                        "answer": "Polar regions",
+                        "explanation": "Chandrayaan-2 primarily aimed to study the polar regions of the Moon, known for potential water ice."
+                      },
+                      {
+                        "question": "What was the significance of the Chandrayaan-1 mission for future lunar exploration?",
+                        "options": ["Increased funding", "International collaborations", "Discovery of water", "Technological advancements"],
+                        "answer": "Discovery of water",
+                        "explanation": "The discovery of water molecules on the Moon by Chandrayaan-1 paved the way for future lunar exploration."
                       }
                     ]
                   }
@@ -5700,7 +7372,205 @@
                         "explanation": "Mangalyaan was originally designed for a 6-month mission, but it has continued to function and transmit data beyond that period."
                       }
                     ]
+                  },
+                  {
+                    "setNumber": 2,
+                    "questions": [
+                      {
+                        "question": "What is another name for India's Mars Orbiter Mission?",
+                        "options": ["Mangalyaan", "Chandrayaan", "Vikram", "MOM"],
+                        "answer": "MOM",
+                        "explanation": "India's Mars Orbiter Mission is also called MOM, short for Mars Orbiter Mission."
+                      },
+                      {
+                        "question": "Which organization is responsible for India's Mars missions?",
+                        "options": ["DRDO", "ISRO", "NASA", "ESA"],
+                        "answer": "ISRO",
+                        "explanation": "ISRO, the Indian Space Research Organisation, is responsible for planning and executing India's Mars missions."
+                      },
+                      {
+                        "question": "How many instruments did the Mars Orbiter Mission (MOM) carry to study Mars?",
+                        "options": ["3", "4", "5", "6"],
+                        "answer": "5",
+                        "explanation": "MOM carried 5 scientific instruments to study the Martian atmosphere and surface."
+                      },
+                      {
+                        "question": "What was the primary goal of India's Mars Orbiter Mission?",
+                        "options": ["Exploring Mars' moons", "Searching for water", "Studying Mars' atmosphere", "Studying Mars' gravity"],
+                        "answer": "Studying Mars' atmosphere",
+                        "explanation": "The primary goal of the Mars Orbiter Mission was to study the Martian atmosphere, including its composition and behavior."
+                      },
+                      {
+                        "question": "How long was the Mars Orbiter Mission originally planned to last?",
+                        "options": ["6 months", "1 year", "2 years", "5 years"],
+                        "answer": "6 months",
+                        "explanation": "The Mars Orbiter Mission was initially designed to last for 6 months, but it exceeded expectations and operated for years."
+                      },
+                      {
+                        "question": "Which rocket was used to launch the Mars Orbiter Mission?",
+                        "options": ["PSLV-C25", "GSLV-Mk III", "GSLV Mk II", "Ariane 5"],
+                        "answer": "PSLV-C25",
+                        "explanation": "The Mars Orbiter Mission was launched using the PSLV-C25 rocket, known for its reliability."
+                      },
+                      {
+                        "question": "What significant achievement did India accomplish with the Mars Orbiter Mission?",
+                        "options": ["First to land on Mars", "First to reach Mars in first attempt", "First to orbit two planets", "First to send a rover"],
+                        "answer": "First to reach Mars in first attempt",
+                        "explanation": "India became the first country to successfully reach Mars on its first attempt with the Mars Orbiter Mission."
+                      },
+                      {
+                        "question": "What was one of the key scientific instruments onboard Mangalyaan?",
+                        "options": ["Mars Colour Camera", "Lunar Lander", "Drill System", "Gravitational Sensor"],
+                        "answer": "Mars Colour Camera",
+                        "explanation": "The Mars Colour Camera onboard Mangalyaan was used to capture images of the Martian surface and its features."
+                      },
+                      {
+                        "question": "What was the total cost of India's Mars Orbiter Mission?",
+                        "options": ["$50 million", "$74 million", "$100 million", "$150 million"],
+                        "answer": "$74 million",
+                        "explanation": "The Mars Orbiter Mission cost approximately $74 million, making it one of the most cost-effective interplanetary missions."
+                      },
+                      {
+                        "question": "Which planet did India explore through the Mars Orbiter Mission?",
+                        "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+                        "answer": "Mars",
+                        "explanation": "Mangalyaan, or the Mars Orbiter Mission, was India's first mission to explore the planet Mars."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 3,
+                    "questions": [
+                      {
+                        "question": "What type of orbit did Mangalyaan achieve around Mars?",
+                        "options": ["Polar orbit", "Geostationary orbit", "Elliptical orbit", "Circular orbit"],
+                        "answer": "Elliptical orbit",
+                        "explanation": "Mangalyaan entered an elliptical orbit around Mars, allowing it to study various parts of the planet."
+                      },
+                      {
+                        "question": "How many days did it take for Mangalyaan to reach Mars after launch?",
+                        "options": ["100 days", "200 days", "300 days", "450 days"],
+                        "answer": "300 days",
+                        "explanation": "Mangalyaan took around 300 days to travel from Earth to Mars after its launch."
+                      },
+                      {
+                        "question": "Which instrument on Mangalyaan was designed to study methane on Mars?",
+                        "options": ["Mars Colour Camera", "Methane Sensor for Mars", "Lyman Alpha Photometer", "Thermal Infrared Imaging System"],
+                        "answer": "Methane Sensor for Mars",
+                        "explanation": "The Methane Sensor for Mars was one of the key instruments aboard Mangalyaan, designed to detect methane in the Martian atmosphere."
+                      },
+                      {
+                        "question": "Which country became the first to reach Mars on its maiden attempt with Mangalyaan?",
+                        "options": ["USA", "India", "Russia", "China"],
+                        "answer": "India",
+                        "explanation": "India became the first country to reach Mars on its first attempt with the Mars Orbiter Mission, Mangalyaan."
+                      },
+                      {
+                        "question": "What was the primary function of the Mars Colour Camera on Mangalyaan?",
+                        "options": ["To measure Mars' gravity", "To capture images of Mars", "To analyze Mars' atmosphere", "To study Martian soil"],
+                        "answer": "To capture images of Mars",
+                        "explanation": "The Mars Colour Camera was designed to capture high-quality images of the Martian surface."
+                      },
+                      {
+                        "question": "Which Indian scientist is credited as the project director of the Mars Orbiter Mission?",
+                        "options": ["APJ Abdul Kalam", "Mylswamy Annadurai", "Vikram Sarabhai", "Satish Dhawan"],
+                        "answer": "Mylswamy Annadurai",
+                        "explanation": "Mylswamy Annadurai was the project director of India's Mars Orbiter Mission."
+                      },
+                      {
+                        "question": "What fuel was used in Mangalyaan's propulsion system?",
+                        "options": ["Hydrazine", "Liquid Oxygen", "Solid Fuel", "Methane"],
+                        "answer": "Hydrazine",
+                        "explanation": "Mangalyaan used hydrazine as the primary fuel for its propulsion system."
+                      },
+                      {
+                        "question": "What was the altitude range of Mangalyaan’s elliptical orbit around Mars?",
+                        "options": ["100-500 km", "200-800 km", "300-70,000 km", "500-150,000 km"],
+                        "answer": "300-70,000 km",
+                        "explanation": "Mangalyaan's elliptical orbit around Mars ranged from 300 km at its closest point to 70,000 km at its farthest."
+                      },
+                      {
+                        "question": "Which Indian Prime Minister lauded the success of the Mars Orbiter Mission?",
+                        "options": ["Manmohan Singh", "Narendra Modi", "Indira Gandhi", "Rajiv Gandhi"],
+                        "answer": "Narendra Modi",
+                        "explanation": "Prime Minister Narendra Modi praised the successful Mars Orbiter Mission after it reached Mars in 2014."
+                      },
+                      {
+                        "question": "How long did Mangalyaan operate around Mars beyond its expected mission life?",
+                        "options": ["6 months", "1 year", "5 years", "7 years"],
+                        "answer": "5 years",
+                        "explanation": "Mangalyaan continued to operate for around 5 years, far exceeding its planned 6-month mission."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 4,
+                    "questions": [
+                      {
+                        "question": "Which space agency assisted ISRO in tracking Mangalyaan after launch?",
+                        "options": ["NASA", "ESA", "Roscosmos", "JAXA"],
+                        "answer": "NASA",
+                        "explanation": "NASA assisted ISRO in tracking Mangalyaan after its launch through the Deep Space Network."
+                      },
+                      {
+                        "question": "How much did India's Mars Orbiter Mission weigh?",
+                        "options": ["500 kg", "850 kg", "1,350 kg", "1,500 kg"],
+                        "answer": "1,350 kg",
+                        "explanation": "India's Mars Orbiter Mission had a total mass of approximately 1,350 kg at launch."
+                      },
+                      {
+                        "question": "Which feature of Mars was extensively studied by Mangalyaan?",
+                        "options": ["Valles Marineris", "Olympus Mons", "Polar ice caps", "Dust storms"],
+                        "answer": "Dust storms",
+                        "explanation": "Mangalyaan focused on studying Martian dust storms as part of its scientific mission."
+                      },
+                      {
+                        "question": "Which Indian satellite launch vehicle was used to send Mangalyaan to Mars?",
+                        "options": ["PSLV-C25", "GSLV Mk III", "PSLV-C37", "GSLV Mk II"],
+                        "answer": "PSLV-C25",
+                        "explanation": "The PSLV-C25 was used to launch Mangalyaan into space, marking a significant milestone for ISRO."
+                      },
+                      {
+                        "question": "What was the key challenge faced during Mangalyaan's mission planning?",
+                        "options": ["Budget constraints", "Distance from Mars", "Technological capabilities", "All of the above"],
+                        "answer": "All of the above",
+                        "explanation": "India faced multiple challenges including budget constraints, long distance, and limited technology during Mangalyaan’s planning."
+                      },
+                      {
+                        "question": "What was the role of the Lyman Alpha Photometer on Mangalyaan?",
+                        "options": ["To study Mars' atmosphere", "To detect gravitational anomalies", "To analyze Martian soil", "To measure methane levels"],
+                        "answer": "To study Mars' atmosphere",
+                        "explanation": "The Lyman Alpha Photometer on Mangalyaan was designed to study the upper layers of Mars' atmosphere."
+                      },
+                      {
+                        "question": "Which region of Mars did Mangalyaan's Methane Sensor specifically study?",
+                        "options": ["Polar regions", "Equatorial regions", "Valles Marineris", "Olympus Mons"],
+                        "answer": "Equatorial regions",
+                        "explanation": "Mangalyaan's Methane Sensor focused on studying methane levels in Mars' equatorial regions."
+                      },
+                      {
+                        "question": "How did Mangalyaan capture and transmit data back to Earth?",
+                        "options": ["Through optical signals", "Via radio waves", "Laser communication", "Infrared signals"],
+                        "answer": "Via radio waves",
+                        "explanation": "Mangalyaan used radio waves to communicate and send data back to Earth."
+                      },
+                      {
+                        "question": "Which Indian city houses the mission control center for Mangalyaan?",
+                        "options": ["New Delhi", "Mumbai", "Bangalore", "Chennai"],
+                        "answer": "Bangalore",
+                        "explanation": "The Indian Space Research Organisation's mission control center in Bangalore oversees the Mangalyaan mission."
+                      },
+                      {
+                        "question": "What was one of the significant discoveries made by Mangalyaan about the Martian surface?",
+                        "options": ["Presence of liquid water", "Frequent volcanic eruptions", "Abundant dust storms", "Ice deposits near the equator"],
+                        "answer": "Abundant dust storms",
+                        "explanation": "Mangalyaan provided valuable insights into the frequent and large-scale dust storms occurring on the Martian surface."
+                      }
+                    ]
                   }
+                  
+                  
+                  
                 ]
               }              
         ]
