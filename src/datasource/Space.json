@@ -6827,6 +6827,72 @@
                     ]
                   },
                   {
+                    "setNumber": 3,
+                    "questions": [
+                      {
+                        "question": "What is the name of the rover carried by Chandrayaan-2?",
+                        "options": ["Pragyan", "Vikram", "Rohini", "Gaganyaan"],
+                        "answer": "Pragyan",
+                        "explanation": "The rover carried by Chandrayaan-2 is named Pragyan, which means 'wisdom' in Sanskrit."
+                      },
+                      {
+                        "question": "Which Indian satellite helped in the communication for the Chandrayaan-2 mission?",
+                        "options": ["GSAT-29", "INSAT-3", "RISAT-2", "NavIC"],
+                        "answer": "GSAT-29",
+                        "explanation": "GSAT-29 provided the necessary communication link during the Chandrayaan-2 mission."
+                      },
+                      {
+                        "question": "What was the primary goal of the Chandrayaan-2 lander Vikram?",
+                        "options": ["To collect samples", "To perform soft landing", "To orbit the Moon", "To map lunar surface"],
+                        "answer": "To perform soft landing",
+                        "explanation": "The primary goal of the Chandrayaan-2 lander Vikram was to perform a soft landing on the lunar surface."
+                      },
+                      {
+                        "question": "Which lunar feature was Chandrayaan-1 instrumental in identifying?",
+                        "options": ["Lunar maria", "Lunar highlands", "Polar ice caps", "Lunar mountains"],
+                        "answer": "Lunar maria",
+                        "explanation": "Chandrayaan-1 helped identify the presence of lunar maria and detailed their composition."
+                      },
+                      {
+                        "question": "What is the duration of the Chandrayaan-3 mission planned to operate on the Moon?",
+                        "options": ["30 days", "14 days", "1 year", "6 months"],
+                        "answer": "14 days",
+                        "explanation": "Chandrayaan-3 is designed to operate for about 14 Earth days, corresponding to a lunar day."
+                      },
+                      {
+                        "question": "In which year did India launch its second mission to the Moon?",
+                        "options": ["2015", "2017", "2019", "2021"],
+                        "answer": "2019",
+                        "explanation": "India launched its second mission to the Moon, Chandrayaan-2, in 2019."
+                      },
+                      {
+                        "question": "What is the name of the impactor that was part of Chandrayaan-1?",
+                        "options": ["Vikram", "Pragyan", "Moon Impact Probe", "Mangalyaan"],
+                        "answer": "Moon Impact Probe",
+                        "explanation": "The Moon Impact Probe was an impactor that was released by Chandrayaan-1 to study the lunar surface."
+                      },
+                      {
+                        "question": "Which lunar region did Chandrayaan-3 aim to explore?",
+                        "options": ["Oceanus Procellarum", "Mare Imbrium", "Moon’s south pole", "Tycho Crater"],
+                        "answer": "Moon’s south pole",
+                        "explanation": "Chandrayaan-3 aimed to explore the Moon’s south pole, a region of significant scientific interest."
+                      },
+                      {
+                        "question": "What technology did ISRO use to ensure a safe landing for Chandrayaan-3?",
+                        "options": ["Auto-pilot system", "GPS navigation", "Terrain mapping", "Laser guidance system"],
+                        "answer": "Terrain mapping",
+                        "explanation": "ISRO used terrain mapping technology to ensure a safe landing for Chandrayaan-3 on the Moon."
+                      },
+                      {
+                        "question": "What unique feature does Chandrayaan-2's orbiter possess?",
+                        "options": ["X-ray imaging", "Infrared observations", "High-resolution imaging", "Lidar capabilities"],
+                        "answer": "High-resolution imaging",
+                        "explanation": "Chandrayaan-2's orbiter is equipped with high-resolution imaging capabilities to capture detailed lunar surface images."
+                      }
+                    ]
+                  },
+                  
+                  {
                     "setNumber": 4,
                     "questions": [
                       {
@@ -7567,12 +7633,399 @@
                         "explanation": "Mangalyaan provided valuable insights into the frequent and large-scale dust storms occurring on the Martian surface."
                       }
                     ]
-                  }
-                  
-                  
-                  
-                ]
-              }              
+                  },
+                  {
+                    "setNumber": 5,
+                    "questions": [
+                      {
+                        "question": "Which Indian satellite was designed to orbit and study Mars?",
+                        "options": ["Chandrayaan-2", "Mangalyaan", "Gaganyaan", "Shukrayaan"],
+                        "answer": "Mangalyaan",
+                        "explanation": "Mangalyaan, also known as the Mars Orbiter Mission (MOM), was designed by ISRO to study Mars from orbit."
+                      },
+                      {
+                        "question": "What was the unique feature of the Mangalyaan mission regarding its budget?",
+                        "options": ["Most expensive", "Cheapest interplanetary mission", "First reusable spacecraft", "First to use solar sails"],
+                        "answer": "Cheapest interplanetary mission",
+                        "explanation": "Mangalyaan became the cheapest interplanetary mission ever, with a cost of just $74 million."
+                      },
+                      {
+                        "question": "What was Mangalyaan's major achievement for India in space exploration?",
+                        "options": ["First lunar landing", "First interplanetary mission", "First reusable spacecraft", "First human spaceflight"],
+                        "answer": "First interplanetary mission",
+                        "explanation": "Mangalyaan was India's first interplanetary mission, marking its successful venture into exploring planets beyond Earth."
+                      },
+                      {
+                        "question": "What was the main objective of the Methane Sensor onboard Mangalyaan?",
+                        "options": ["Measure atmospheric pressure", "Detect methane in Mars' atmosphere", "Study solar wind", "Monitor dust storms"],
+                        "answer": "Detect methane in Mars' atmosphere",
+                        "explanation": "The Methane Sensor was designed to detect methane, a potential indicator of life, in the Martian atmosphere."
+                      },
+                      {
+                        "question": "What method was used to insert Mangalyaan into Mars' orbit?",
+                        "options": ["Direct insertion", "Orbital maneuvering", "Hohmann transfer orbit", "Gravity assist"],
+                        "answer": "Hohmann transfer orbit",
+                        "explanation": "Mangalyaan used a Hohmann transfer orbit to travel from Earth to Mars, allowing efficient use of fuel and energy."
+                      },
+                      {
+                        "question": "Which agency collaborated with ISRO for deep space communication with Mangalyaan?",
+                        "options": ["JAXA", "ESA", "NASA", "CNSA"],
+                        "answer": "NASA",
+                        "explanation": "NASA collaborated with ISRO to provide deep space communication services through its Deep Space Network."
+                      },
+                      {
+                        "question": "What was Mangalyaan's launch vehicle?",
+                        "options": ["GSLV Mk III", "PSLV-C25", "Ariane 5", "Falcon 9"],
+                        "answer": "PSLV-C25",
+                        "explanation": "ISRO's trusted PSLV-C25 was used to launch Mangalyaan, marking another success for the Polar Satellite Launch Vehicle."
+                      },
+                      {
+                        "question": "What was the distance between Earth and Mars when Mangalyaan reached the planet?",
+                        "options": ["54 million km", "78 million km", "100 million km", "225 million km"],
+                        "answer": "225 million km",
+                        "explanation": "When Mangalyaan reached Mars, it was approximately 225 million kilometers away from Earth."
+                      },
+                      {
+                        "question": "Which component of Mangalyaan was responsible for communication with Earth?",
+                        "options": ["Solar panels", "High gain antenna", "Lander module", "Mars Color Camera"],
+                        "answer": "High gain antenna",
+                        "explanation": "The high gain antenna onboard Mangalyaan was responsible for communication with mission control on Earth."
+                      },
+                      {
+                        "question": "How long did it take for Mangalyaan’s signal to reach Earth from Mars?",
+                        "options": ["4 minutes", "12 minutes", "24 minutes", "30 minutes"],
+                        "answer": "12 minutes",
+                        "explanation": "Due to the vast distance between Mars and Earth, it took about 12 minutes for Mangalyaan's signals to reach Earth."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 6,
+                    "questions": [
+                      {
+                        "question": "Which country became the first Asian nation to reach Mars with Mangalyaan?",
+                        "options": ["Japan", "China", "India", "South Korea"],
+                        "answer": "India",
+                        "explanation": "India became the first Asian nation to reach Mars with its successful Mars Orbiter Mission, Mangalyaan."
+                      },
+                      {
+                        "question": "How many stages did the PSLV rocket have to successfully launch Mangalyaan?",
+                        "options": ["2", "3", "4", "5"],
+                        "answer": "4",
+                        "explanation": "The PSLV-C25 rocket, which launched Mangalyaan, had 4 stages."
+                      },
+                      {
+                        "question": "What is the significance of the Mars Color Camera onboard Mangalyaan?",
+                        "options": ["Measuring methane", "Capturing high-resolution images of Mars", "Monitoring solar radiation", "Tracking dust storms"],
+                        "answer": "Capturing high-resolution images of Mars",
+                        "explanation": "The Mars Color Camera was used to capture high-resolution images of the Martian surface and atmosphere."
+                      },
+                      {
+                        "question": "Which anniversary did ISRO celebrate shortly after Mangalyaan’s successful Mars orbit insertion?",
+                        "options": ["25th", "40th", "50th", "75th"],
+                        "answer": "50th",
+                        "explanation": "Shortly after Mangalyaan’s successful mission, ISRO celebrated its 50th anniversary."
+                      },
+                      {
+                        "question": "What unique achievement did India accomplish with Mangalyaan compared to other countries?",
+                        "options": ["First human on Mars", "First successful Mars mission on first attempt", "First to discover water on Mars", "First to study Martian soil"],
+                        "answer": "First successful Mars mission on first attempt",
+                        "explanation": "India became the first country to successfully send a spacecraft to Mars on its first attempt with Mangalyaan."
+                      },
+                      {
+                        "question": "What was one of the scientific goals of Mangalyaan?",
+                        "options": ["Study Venus’ atmosphere", "Study methane levels on Mars", "Land a rover on Mars", "Send humans to Mars"],
+                        "answer": "Study methane levels on Mars",
+                        "explanation": "One of Mangalyaan’s key scientific goals was to study the methane levels in Mars’ atmosphere, which could indicate the presence of life."
+                      },
+                      {
+                        "question": "How did Mangalyaan maintain power during its mission around Mars?",
+                        "options": ["Nuclear reactor", "Solar panels", "Chemical batteries", "Wind energy"],
+                        "answer": "Solar panels",
+                        "explanation": "Mangalyaan used solar panels to generate power for its operations around Mars."
+                      },
+                      {
+                        "question": "Which space mission was launched by India prior to Mangalyaan?",
+                        "options": ["Chandrayaan-1", "Chandrayaan-2", "Gaganyaan", "Aditya-L1"],
+                        "answer": "Chandrayaan-1",
+                        "explanation": "Chandrayaan-1 was India's first successful mission to explore the Moon, launched before Mangalyaan."
+                      },
+                      {
+                        "question": "What scientific observation was made by Mangalyaan regarding Mars' atmosphere?",
+                        "options": ["Presence of liquid water", "No magnetic field", "Frequent volcanic eruptions", "Water in the form of ice"],
+                        "answer": "Water in the form of ice",
+                        "explanation": "Mangalyaan provided observations indicating that water exists on Mars in the form of ice."
+                      },
+                      {
+                        "question": "Which system was used by Mangalyaan to navigate through space?",
+                        "options": ["Star sensors", "Gyroscopes", "Radio signals", "Magnetic compass"],
+                        "answer": "Star sensors",
+                        "explanation": "Mangalyaan used star sensors to help navigate its trajectory through space on its journey to Mars."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 7,
+                    "questions": [
+                      {
+                        "question": "How many days did Mangalyaan take to reach Mars from Earth?",
+                        "options": ["180 days", "210 days", "300 days", "365 days"],
+                        "answer": "300 days",
+                        "explanation": "Mangalyaan took 300 days to travel from Earth and enter Mars’ orbit."
+                      },
+                      {
+                        "question": "Which country did ISRO surpass by becoming the fourth to reach Mars?",
+                        "options": ["USA", "Russia", "China", "European Union"],
+                        "answer": "China",
+                        "explanation": "With the success of Mangalyaan, India became the fourth space agency to reach Mars, surpassing China in the process."
+                      },
+                      {
+                        "question": "What communication system did Mangalyaan use to relay data to Earth?",
+                        "options": ["Radio waves", "Infrared signals", "Optical fibers", "Laser transmission"],
+                        "answer": "Radio waves",
+                        "explanation": "Mangalyaan used radio waves to communicate and send data back to Earth."
+                      },
+                      {
+                        "question": "What discovery about Mars’ atmosphere was revealed through Mangalyaan’s observations?",
+                        "options": ["Mars has liquid water", "Mars lacks an ozone layer", "Mars has methane", "Mars has an active magnetic field"],
+                        "answer": "Mars has methane",
+                        "explanation": "Mangalyaan detected the presence of methane in Mars' atmosphere, which could indicate biological or geological activity."
+                      },
+                      {
+                        "question": "Which launch vehicle was responsible for placing Mangalyaan into Earth's orbit?",
+                        "options": ["GSLV Mk III", "PSLV-C11", "PSLV-C25", "GSLV Mk II"],
+                        "answer": "PSLV-C25",
+                        "explanation": "The PSLV-C25 launch vehicle placed Mangalyaan into Earth's orbit for its journey to Mars."
+                      },
+                      {
+                        "question": "What is Mangalyaan’s formal name in ISRO’s records?",
+                        "options": ["Mars Satellite 1", "Mars Orbiter Mission", "Mars Exploration Probe", "Martian Orbital Craft"],
+                        "answer": "Mars Orbiter Mission",
+                        "explanation": "Mangalyaan is formally known as the Mars Orbiter Mission (MOM) in ISRO’s records."
+                      },
+                      {
+                        "question": "How did Mangalyaan help in studying the Martian weather system?",
+                        "options": ["By measuring temperature", "By analyzing dust storms", "By capturing solar flares", "By detecting thunderstorms"],
+                        "answer": "By analyzing dust storms",
+                        "explanation": "Mangalyaan helped study and analyze large-scale dust storms in the Martian atmosphere."
+                      },
+                      {
+                        "question": "What primary fuel did Mangalyaan use to power its propulsion system?",
+                        "options": ["Cryogenic fuel", "Liquid oxygen", "Mono-methylhydrazine", "Hydrogen peroxide"],
+                        "answer": "Mono-methylhydrazine",
+                        "explanation": "Mangalyaan used mono-methylhydrazine as the primary fuel in its propulsion system."
+                      },
+                      {
+                        "question": "Which ISRO facility tracked and controlled Mangalyaan throughout its mission?",
+                        "options": ["Satish Dhawan Space Centre", "Master Control Facility", "Indian Deep Space Network", "U R Rao Satellite Centre"],
+                        "answer": "Indian Deep Space Network",
+                        "explanation": "The Indian Deep Space Network (IDSN) was responsible for tracking and controlling Mangalyaan during its mission."
+                      },
+                      {
+                        "question": "How many scientific instruments were onboard Mangalyaan?",
+                        "options": ["5", "7", "10", "3"],
+                        "answer": "5",
+                        "explanation": "Mangalyaan was equipped with five scientific instruments to study Mars' surface, atmosphere, and space environment."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 8,
+                    "questions": [
+                      {
+                        "question": "What major global milestone did India achieve with the success of Mangalyaan?",
+                        "options": ["First mission to Mars", "First Asian country to reach Mars", "First spacecraft to study Mars", "First human mission to Mars"],
+                        "answer": "First Asian country to reach Mars",
+                        "explanation": "India became the first Asian country to reach Mars with the successful insertion of Mangalyaan into Martian orbit."
+                      },
+                      {
+                        "question": "How long was Mangalyaan initially expected to operate around Mars?",
+                        "options": ["6 months", "1 year", "2 years", "5 years"],
+                        "answer": "6 months",
+                        "explanation": "Mangalyaan was originally expected to operate for six months, though its mission was extended as it continued to function efficiently."
+                      },
+                      {
+                        "question": "Which two types of instruments were used on Mangalyaan to study Mars' atmosphere and surface?",
+                        "options": ["Imaging and spectrometry", "Radar and sonar", "Ultrasound and X-rays", "Microscope and telescope"],
+                        "answer": "Imaging and spectrometry",
+                        "explanation": "Mangalyaan was equipped with imaging and spectrometry instruments to study Mars' atmosphere and surface."
+                      },
+                      {
+                        "question": "Which notable feature on Mars was closely observed by Mangalyaan?",
+                        "options": ["Olympus Mons", "Valles Marineris", "Martian poles", "Phobos"],
+                        "answer": "Olympus Mons",
+                        "explanation": "Mangalyaan captured images of Olympus Mons, the largest volcano in the solar system, located on Mars."
+                      },
+                      {
+                        "question": "What technique did Mangalyaan use to conserve fuel while traveling to Mars?",
+                        "options": ["Gravitational slingshot", "Aerobraking", "Hohmann transfer", "Direct propulsion"],
+                        "answer": "Hohmann transfer",
+                        "explanation": "Mangalyaan used the Hohmann transfer technique to travel from Earth to Mars, an energy-efficient trajectory for interplanetary travel."
+                      },
+                      {
+                        "question": "What is the name of the Mars rover planned by ISRO after Mangalyaan?",
+                        "options": ["Chandrayaan-3", "Shukrayaan", "Mangalyaan-2", "Mars Rover Mission"],
+                        "answer": "Mangalyaan-2",
+                        "explanation": "ISRO is planning a follow-up mission to Mangalyaan, named Mangalyaan-2, which may include a rover to explore the Martian surface."
+                      },
+                      {
+                        "question": "Which payload onboard Mangalyaan was designed to study the Martian exosphere?",
+                        "options": ["Mars Color Camera", "Methane Sensor", "Lyman Alpha Photometer", "Thermal Infrared Spectrometer"],
+                        "answer": "Lyman Alpha Photometer",
+                        "explanation": "The Lyman Alpha Photometer onboard Mangalyaan was designed to study the Martian exosphere, particularly its hydrogen content."
+                      },
+                      {
+                        "question": "How did Mangalyaan help improve ISRO's standing in global space exploration?",
+                        "options": ["Developing reusable rockets", "Proving expertise in low-cost space missions", "Conducting human spaceflight", "Creating the first space station"],
+                        "answer": "Proving expertise in low-cost space missions",
+                        "explanation": "Mangalyaan showcased ISRO's ability to execute interplanetary missions on a low budget, elevating India's standing in global space exploration."
+                      },
+                      {
+                        "question": "What key component allowed Mangalyaan to study the surface features of Mars?",
+                        "options": ["Solar panels", "Mars Color Camera", "Methane Sensor", "Magnetometer"],
+                        "answer": "Mars Color Camera",
+                        "explanation": "The Mars Color Camera onboard Mangalyaan captured detailed images of the Martian surface, studying its topographical features."
+                      },
+                      {
+                        "question": "Which element of Mars’ atmosphere was Mangalyaan particularly focused on studying?",
+                        "options": ["Methane", "Oxygen", "Carbon dioxide", "Nitrogen"],
+                        "answer": "Methane",
+                        "explanation": "Mangalyaan's Methane Sensor was specifically designed to study the presence of methane in Mars' atmosphere, which could be a sign of biological or geological processes."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 9,
+                    "questions": [
+                      {
+                        "question": "Which mission milestone did Mangalyaan achieve on 24th September 2014?",
+                        "options": ["Launch", "Mars orbit insertion", "Completion of first orbit", "First image transmission"],
+                        "answer": "Mars orbit insertion",
+                        "explanation": "On 24th September 2014, Mangalyaan successfully entered Mars’ orbit, marking a historic achievement for India."
+                      },
+                      {
+                        "question": "How many engines did Mangalyaan use for its Mars orbit insertion?",
+                        "options": ["1", "5", "10", "3"],
+                        "answer": "1",
+                        "explanation": "Mangalyaan used a single engine for its Mars orbit insertion, which was restarted after a long cruise through space."
+                      },
+                      {
+                        "question": "What was one of the primary goals of the Mars Orbiter Mission?",
+                        "options": ["Exploring Mars' moons", "Studying Mars' surface composition", "Looking for human settlements", "Tracking asteroids"],
+                        "answer": "Studying Mars' surface composition",
+                        "explanation": "One of the primary goals of Mangalyaan was to study Mars' surface composition and atmosphere."
+                      },
+                      {
+                        "question": "Which component of Mangalyaan’s payload helped detect methane in Mars' atmosphere?",
+                        "options": ["Mars Color Camera", "Methane Sensor", "Thermal Infrared Spectrometer", "Magnetometer"],
+                        "answer": "Methane Sensor",
+                        "explanation": "The Methane Sensor onboard Mangalyaan helped in detecting and studying the levels of methane in Mars' atmosphere."
+                      },
+                      {
+                        "question": "Which global space agencies praised ISRO for the success of Mangalyaan?",
+                        "options": ["NASA and ESA", "CNSA and JAXA", "Roscosmos and CNSA", "ESA and JAXA"],
+                        "answer": "NASA and ESA",
+                        "explanation": "Both NASA and the European Space Agency (ESA) praised ISRO for the success of the Mars Orbiter Mission."
+                      },
+                      {
+                        "question": "How did Mangalyaan contribute to India's reputation in space science?",
+                        "options": ["Proved reusable launch capabilities", "Successfully demonstrated interplanetary exploration", "Developed the first Mars rover", "First spacewalk mission"],
+                        "answer": "Successfully demonstrated interplanetary exploration",
+                        "explanation": "Mangalyaan’s success demonstrated India’s ability to conduct interplanetary missions, establishing its reputation in space science."
+                      },
+                      {
+                        "question": "What challenge did ISRO face when executing the Mangalyaan mission?",
+                        "options": ["Limited budget", "Lack of communication systems", "Insufficient launch vehicles", "No tracking stations"],
+                        "answer": "Limited budget",
+                        "explanation": "One of the main challenges for ISRO was the limited budget for Mangalyaan, which they overcame with innovative solutions."
+                      },
+                      {
+                        "question": "Which celestial event did Mangalyaan observe after reaching Mars?",
+                        "options": ["Solar eclipse", "Martian dust storm", "Close flyby of comet Siding Spring", "Auroras on Mars"],
+                        "answer": "Close flyby of comet Siding Spring",
+                        "explanation": "Mangalyaan observed the close flyby of comet Siding Spring near Mars shortly after reaching the planet."
+                      },
+                      {
+                        "question": "What was the total duration of Mangalyaan’s planned mission life?",
+                        "options": ["6 months", "1 year", "2 years", "5 years"],
+                        "answer": "6 months",
+                        "explanation": "Mangalyaan’s initial mission life was planned for six months, but it continued to function for several years beyond that."
+                      },
+                      {
+                        "question": "What major international cooperation did India engage in for deep space communication during the Mangalyaan mission?",
+                        "options": ["With NASA", "With Roscosmos", "With ESA", "With JAXA"],
+                        "answer": "With NASA",
+                        "explanation": "ISRO collaborated with NASA for deep space communication, utilizing NASA's Deep Space Network for tracking and communication."
+                      }
+                    ]
+                  },
+                  {
+                    "setNumber": 10,
+                    "questions": [
+                      {
+                        "question": "Which Indian organization was responsible for designing and executing the Mars Orbiter Mission?",
+                        "options": ["DRDO", "ISRO", "BARC", "HAL"],
+                        "answer": "ISRO",
+                        "explanation": "The Indian Space Research Organisation (ISRO) was responsible for designing and executing the Mars Orbiter Mission, Mangalyaan."
+                      },
+                      {
+                        "question": "Which aspect of Mars was closely studied by Mangalyaan’s Thermal Infrared Spectrometer?",
+                        "options": ["Surface temperature", "Magnetic field", "Ice deposits", "Solar radiation"],
+                        "answer": "Surface temperature",
+                        "explanation": "Mangalyaan’s Thermal Infrared Spectrometer was designed to study Mars’ surface temperature."
+                      },
+                      {
+                        "question": "How many Indian space missions had ISRO completed before launching Mangalyaan?",
+                        "options": ["10", "25", "50", "75"],
+                        "answer": "50",
+                        "explanation": "Before launching Mangalyaan, ISRO had completed over 50 space missions."
+                      },
+                      {
+                        "question": "Which part of Mangalyaan’s orbit made it unique for capturing Mars’ surface images?",
+                        "options": ["Polar orbit", "Equatorial orbit", "Elliptical orbit", "Geosynchronous orbit"],
+                        "answer": "Elliptical orbit",
+                        "explanation": "Mangalyaan’s elliptical orbit around Mars allowed it to capture both close-up and distant images of the planet’s surface."
+                      },
+                      {
+                        "question": "What key element in Mangalyaan’s design helped achieve its low-cost mission success?",
+                        "options": ["Efficient fuel system", "Innovative launch vehicle", "Miniaturized instruments", "Smaller spacecraft size"],
+                        "answer": "Miniaturized instruments",
+                        "explanation": "Mangalyaan’s design utilized miniaturized instruments, helping to reduce mission costs while maintaining scientific capabilities."
+                      },
+                      {
+                        "question": "What was the cost of Mangalyaan in terms of Indian Rupees?",
+                        "options": ["₹450 crore", "₹850 crore", "₹1,000 crore", "₹1,500 crore"],
+                        "answer": "₹450 crore",
+                        "explanation": "The total cost of Mangalyaan was approximately ₹450 crore, making it one of the most cost-effective interplanetary missions."
+                      },
+                      {
+                        "question": "What special achievement did Mangalyaan accomplish on its first attempt?",
+                        "options": ["Land on Mars", "Orbit Mars successfully", "Return to Earth", "Deploy a rover"],
+                        "answer": "Orbit Mars successfully",
+                        "explanation": "Mangalyaan successfully entered orbit around Mars on its first attempt, an achievement only a few countries have managed."
+                      },
+                      {
+                        "question": "Which notable feature of Mars was studied using Mangalyaan’s Mars Color Camera?",
+                        "options": ["Ice caps", "Martian volcanoes", "Dust storms", "Craters"],
+                        "answer": "Ice caps",
+                        "explanation": "Mangalyaan’s Mars Color Camera studied the ice caps at Mars’ poles, providing new data on their composition and behavior."
+                      },
+                      {
+                        "question": "What was one of the scientific objectives of the Mars Orbiter Mission?",
+                        "options": ["Explore Mars' moons", "Map Mars’ surface", "Search for signs of life", "Capture images of Mars' atmosphere"],
+                        "answer": "Map Mars’ surface",
+                        "explanation": "One of the key scientific objectives of Mangalyaan was to map the Martian surface and study its composition."
+                      },
+                      {
+                        "question": "Which aspect of Mars’ atmosphere was a focus of Mangalyaan’s Methane Sensor?",
+                        "options": ["Oxygen levels", "Carbon dioxide content", "Methane concentrations", "Water vapor levels"],
+                        "answer": "Methane concentrations",
+                        "explanation": "Mangalyaan’s Methane Sensor was focused on studying methane concentrations in the Martian atmosphere."
+                      }
+                    ]
+                  }   
+            ]
+          }              
         ]
       },
       {
@@ -7717,7 +8170,592 @@
                     "explanation": "Chris Hadfield is known for his performance of 'Space Oddity' while aboard the International Space Station in 2013."
                   }
                 ]
-              }                            
+              },
+              {
+                "setNumber": 3,
+                "questions": [
+                  {
+                    "question": "Who was the first human to travel into space?",
+                    "options": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin was the first human to journey into outer space on April 12, 1961, aboard Vostok 1."
+                  },
+                  {
+                    "question": "Which astronaut spent the longest continuous time in space?",
+                    "options": ["Scott Kelly", "Gennady Padalka", "Valeri Polyakov", "Peggy Whitson"],
+                    "answer": "Valeri Polyakov",
+                    "explanation": "Valeri Polyakov holds the record for the longest continuous time spent in space, staying aboard the Mir space station for 437 days."
+                  },
+                  {
+                    "question": "Who was the first African American woman to travel to space?",
+                    "options": ["Mae Jemison", "Jeanette Epps", "Stephanie Wilson", "Ellen Ochoa"],
+                    "answer": "Mae Jemison",
+                    "explanation": "Mae Jemison became the first African American woman to travel to space aboard the Space Shuttle Endeavour in 1992."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the most spacewalks?",
+                    "options": ["Chris Hadfield", "Peggy Whitson", "Anatoly Solovyev", "Scott Kelly"],
+                    "answer": "Anatoly Solovyev",
+                    "explanation": "Anatoly Solovyev holds the record for the most spacewalks, having completed 16 spacewalks during his career."
+                  },
+                  {
+                    "question": "Who was the first American woman to fly in space?",
+                    "options": ["Eileen Collins", "Sally Ride", "Judith Resnik", "Peggy Whitson"],
+                    "answer": "Sally Ride",
+                    "explanation": "Sally Ride became the first American woman to fly in space on June 18, 1983, aboard the Space Shuttle Challenger."
+                  },
+                  {
+                    "question": "Which astronaut was the first person to fly in space more than once?",
+                    "options": ["Gus Grissom", "John Glenn", "Yuri Gagarin", "Neil Armstrong"],
+                    "answer": "Gus Grissom",
+                    "explanation": "Gus Grissom was the first person to fly in space twice, first during the Mercury-Redstone 4 mission and then during the Gemini 3 mission."
+                  },
+                  {
+                    "question": "Who was the first astronaut to orbit Earth?",
+                    "options": ["Yuri Gagarin", "John Glenn", "Alan Shepard", "Neil Armstrong"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin was the first astronaut to orbit Earth during his historic Vostok 1 flight in 1961."
+                  },
+                  {
+                    "question": "Who became the first American to orbit Earth?",
+                    "options": ["John Glenn", "Alan Shepard", "Scott Carpenter", "Gordon Cooper"],
+                    "answer": "John Glenn",
+                    "explanation": "John Glenn became the first American to orbit Earth on February 20, 1962, aboard Friendship 7."
+                  },
+                  {
+                    "question": "Which astronaut was the commander of Apollo 11?",
+                    "options": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "John Young"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong was the commander of Apollo 11, the mission that made the first successful landing on the Moon."
+                  },
+                  {
+                    "question": "Who was the first woman to command a space shuttle mission?",
+                    "options": ["Sally Ride", "Eileen Collins", "Peggy Whitson", "Valentina Tereshkova"],
+                    "answer": "Eileen Collins",
+                    "explanation": "Eileen Collins was the first woman to command a space shuttle mission during the STS-93 mission aboard Columbia in 1999."
+                  }
+                ]
+              },
+              {
+                "setNumber": 4,
+                "questions": [
+                  {
+                    "question": "Who is the first astronaut of Indian descent to fly in space?",
+                    "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Vikram Sarabhai"],
+                    "answer": "Kalpana Chawla",
+                    "explanation": "Kalpana Chawla was the first astronaut of Indian descent to fly in space, serving as a mission specialist on the Space Shuttle Columbia."
+                  },
+                  {
+                    "question": "Which astronaut conducted the first untethered spacewalk?",
+                    "options": ["Bruce McCandless", "Ed White", "John Glenn", "Buzz Aldrin"],
+                    "answer": "Bruce McCandless",
+                    "explanation": "Bruce McCandless performed the first untethered spacewalk in 1984 using the Manned Maneuvering Unit (MMU)."
+                  },
+                  {
+                    "question": "Who was the first person to command two space shuttle missions?",
+                    "options": ["John Young", "Gus Grissom", "Alan Shepard", "Chris Hadfield"],
+                    "answer": "John Young",
+                    "explanation": "John Young was the first astronaut to command two space shuttle missions: STS-1 (the first shuttle flight) and STS-9."
+                  },
+                  {
+                    "question": "Who was the first person to fly in space for over a year in a single mission?",
+                    "options": ["Scott Kelly", "Valeri Polyakov", "Peggy Whitson", "Gennady Padalka"],
+                    "answer": "Valeri Polyakov",
+                    "explanation": "Valeri Polyakov holds the record for the longest single spaceflight, spending 437 days aboard the Mir space station."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the longest cumulative time spent in space?",
+                    "options": ["Gennady Padalka", "Peggy Whitson", "Sergei Krikalev", "Chris Hadfield"],
+                    "answer": "Gennady Padalka",
+                    "explanation": "Russian cosmonaut Gennady Padalka holds the record for the most cumulative time spent in space, with 878 days across five missions."
+                  },
+                  {
+                    "question": "Who was the first private citizen to fly to space?",
+                    "options": ["Dennis Tito", "Yusaku Maezawa", "Elon Musk", "Jeff Bezos"],
+                    "answer": "Dennis Tito",
+                    "explanation": "In 2001, Dennis Tito became the first private citizen to fly to space as a space tourist aboard a Russian Soyuz spacecraft."
+                  },
+                  {
+                    "question": "Who was the first woman to walk in space?",
+                    "options": ["Valentina Tereshkova", "Svetlana Savitskaya", "Sally Ride", "Peggy Whitson"],
+                    "answer": "Svetlana Savitskaya",
+                    "explanation": "Svetlana Savitskaya became the first woman to walk in space on July 25, 1984, during her second flight to the Salyut 7 space station."
+                  },
+                  {
+                    "question": "Which astronaut served as the backup commander for Apollo 11?",
+                    "options": ["Neil Armstrong", "Jim Lovell", "Buzz Aldrin", "John Young"],
+                    "answer": "Jim Lovell",
+                    "explanation": "Jim Lovell was the backup commander for the Apollo 11 mission and later commanded Apollo 13."
+                  },
+                  {
+                    "question": "Who was the first astronaut to fly aboard both the Space Shuttle and the Russian Soyuz spacecraft?",
+                    "options": ["John Young", "Chris Hadfield", "Sergei Krikalev", "Peggy Whitson"],
+                    "answer": "Sergei Krikalev",
+                    "explanation": "Sergei Krikalev was the first astronaut to fly aboard both the Space Shuttle and the Russian Soyuz spacecraft."
+                  },
+                  {
+                    "question": "Who was the first human to set foot on the Moon?",
+                    "options": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "John Glenn"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong became the first person to set foot on the Moon during the Apollo 11 mission on July 20, 1969."
+                  }
+                ]
+              },
+              {
+                "setNumber": 5,
+                "questions": [
+                  {
+                    "question": "Who was the first astronaut to fly aboard a commercial spacecraft?",
+                    "options": ["Chris Hadfield", "Doug Hurley", "Robert Behnken", "Neil Armstrong"],
+                    "answer": "Doug Hurley",
+                    "explanation": "Doug Hurley was one of the two astronauts on the first crewed flight of the SpaceX Crew Dragon in 2020, making him the first astronaut to fly aboard a commercial spacecraft."
+                  },
+                  {
+                    "question": "Who was the first human to spend a year in space consecutively on the International Space Station?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Gennady Padalka", "Chris Hadfield"],
+                    "answer": "Scott Kelly",
+                    "explanation": "Scott Kelly spent a year aboard the International Space Station from 2015 to 2016 as part of NASA’s Year in Space mission."
+                  },
+                  {
+                    "question": "Which astronaut became the first person to pilot both the space shuttle and the Russian Soyuz?",
+                    "options": ["John Young", "Sergei Krikalev", "Peggy Whitson", "Chris Hadfield"],
+                    "answer": "Chris Hadfield",
+                    "explanation": "Canadian astronaut Chris Hadfield was the first person to pilot both the Space Shuttle and the Russian Soyuz spacecraft."
+                  },
+                  {
+                    "question": "Who was the first astronaut to fly in space from an ESA member state?",
+                    "options": ["Jean-Loup Chrétien", "Ulf Merbold", "Claude Nicollier", "Alexander Gerst"],
+                    "answer": "Ulf Merbold",
+                    "explanation": "Ulf Merbold was the first ESA astronaut to fly in space, participating in the Space Shuttle mission STS-9 in 1983."
+                  },
+                  {
+                    "question": "Who was the first person to tweet from space?",
+                    "options": ["Samantha Cristoforetti", "Scott Kelly", "Tim Peake", "Mike Massimino"],
+                    "answer": "Mike Massimino",
+                    "explanation": "Mike Massimino became the first astronaut to tweet from space during the STS-125 mission in 2009."
+                  },
+                  {
+                    "question": "Who was the first astronaut to complete a spacewalk while being blind?",
+                    "options": ["Chris Hadfield", "Jim Lovell", "Ed White", "Peggy Whitson"],
+                    "answer": "Chris Hadfield",
+                    "explanation": "During a spacewalk in 2001, Chris Hadfield temporarily went blind when his helmet visor became contaminated, but he completed the spacewalk successfully."
+                  },
+                  {
+                    "question": "Who was the first woman of Indian origin to fly to space?",
+                    "options": ["Kalpana Chawla", "Sunita Williams", "Sally Ride", "Eileen Collins"],
+                    "answer": "Kalpana Chawla",
+                    "explanation": "Kalpana Chawla was the first woman of Indian origin to fly to space, serving on the Space Shuttle Columbia."
+                  },
+                  {
+                    "question": "Which astronaut became the first commander of the International Space Station (ISS)?",
+                    "options": ["Bill Shepherd", "Gennady Padalka", "Scott Kelly", "Peggy Whitson"],
+                    "answer": "Bill Shepherd",
+                    "explanation": "Bill Shepherd was the first commander of the International Space Station, leading Expedition 1 in 2000."
+                  },
+                  {
+                    "question": "Who was the first astronaut to command three different spacecraft?",
+                    "options": ["John Young", "Gus Grissom", "Chris Hadfield", "Neil Armstrong"],
+                    "answer": "John Young",
+                    "explanation": "John Young became the first astronaut to command three different spacecraft: Gemini, Apollo, and the Space Shuttle."
+                  },
+                  {
+                    "question": "Who was the first astronaut to fly in space after being selected as a NASA educator astronaut?",
+                    "options": ["Barbara Morgan", "Christa McAuliffe", "Joe Acaba", "Ricky Arnold"],
+                    "answer": "Barbara Morgan",
+                    "explanation": "Barbara Morgan, originally Christa McAuliffe’s backup for the Challenger mission, became the first educator astronaut to fly into space aboard Endeavour in 2007."
+                  }
+                ]
+              },
+              {
+                "setNumber": 6,
+                "questions": [
+                  {
+                    "question": "Who was the first Asian astronaut to fly in space?",
+                    "options": ["Rakesh Sharma", "Toyohiro Akiyama", "Yi So-yeon", "Koichi Wakata"],
+                    "answer": "Toyohiro Akiyama",
+                    "explanation": "Toyohiro Akiyama from Japan became the first Asian astronaut to fly in space aboard Soyuz TM-11 in 1990."
+                  },
+                  {
+                    "question": "Which astronaut was the first to fly solo in space?",
+                    "options": ["John Glenn", "Yuri Gagarin", "Valentina Tereshkova", "Gus Grissom"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin flew solo during the first human spaceflight on Vostok 1 in 1961."
+                  },
+                  {
+                    "question": "Who was the first astronaut to complete 10 spacewalks?",
+                    "options": ["Chris Hadfield", "Anatoly Solovyev", "Michael Lopez-Alegria", "Peggy Whitson"],
+                    "answer": "Michael Lopez-Alegria",
+                    "explanation": "Michael Lopez-Alegria became the first astronaut to complete 10 spacewalks during his career."
+                  },
+                  {
+                    "question": "Who was the first British astronaut to fly to space?",
+                    "options": ["Helen Sharman", "Tim Peake", "Piers Sellers", "Michael Foale"],
+                    "answer": "Helen Sharman",
+                    "explanation": "Helen Sharman was the first British astronaut, flying aboard Soyuz TM-12 to the Mir space station in 1991."
+                  },
+                  {
+                    "question": "Which astronaut served as the commander of the longest space mission aboard the ISS?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Sergei Krikalev", "Chris Hadfield"],
+                    "answer": "Peggy Whitson",
+                    "explanation": "Peggy Whitson commanded the International Space Station and holds the record for the longest cumulative time spent in space by a woman."
+                  },
+                  {
+                    "question": "Who was the first astronaut to use the Manned Maneuvering Unit (MMU) during a spacewalk?",
+                    "options": ["Ed White", "Bruce McCandless", "John Young", "Buzz Aldrin"],
+                    "answer": "Bruce McCandless",
+                    "explanation": "Bruce McCandless was the first astronaut to use the MMU during a spacewalk in 1984."
+                  },
+                  {
+                    "question": "Who was the first South Korean astronaut to travel to space?",
+                    "options": ["Koichi Wakata", "Rakesh Sharma", "Yi So-yeon", "Toyohiro Akiyama"],
+                    "answer": "Yi So-yeon",
+                    "explanation": "Yi So-yeon became the first South Korean astronaut to travel to space aboard Soyuz TMA-12 in 2008."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the most spaceflights by a woman?",
+                    "options": ["Eileen Collins", "Sally Ride", "Peggy Whitson", "Sunita Williams"],
+                    "answer": "Peggy Whitson",
+                    "explanation": "Peggy Whitson holds the record for the most spaceflights by a woman, having completed three long-duration space missions."
+                  },
+                  {
+                    "question": "Who was the first person to command a space station for six months consecutively?",
+                    "options": ["Valeri Polyakov", "Gennady Padalka", "Peggy Whitson", "Scott Kelly"],
+                    "answer": "Valeri Polyakov",
+                    "explanation": "Valeri Polyakov commanded the Mir space station for six months in the early 1990s, setting records for time spent in space."
+                  },
+                  {
+                    "question": "Which astronaut was the first to vote in a U.S. presidential election from space?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Shannon Walker", "Kate Rubins"],
+                    "answer": "Kate Rubins",
+                    "explanation": "Kate Rubins became the first person to vote in a U.S. presidential election from space while aboard the ISS in 2016."
+                  }
+                ]
+              },
+              {
+                "setNumber": 6,
+                "questions": [
+                  {
+                    "question": "Who was the first Asian astronaut to fly in space?",
+                    "options": ["Rakesh Sharma", "Toyohiro Akiyama", "Yi So-yeon", "Koichi Wakata"],
+                    "answer": "Toyohiro Akiyama",
+                    "explanation": "Toyohiro Akiyama from Japan became the first Asian astronaut to fly in space aboard Soyuz TM-11 in 1990."
+                  },
+                  {
+                    "question": "Which astronaut was the first to fly solo in space?",
+                    "options": ["John Glenn", "Yuri Gagarin", "Valentina Tereshkova", "Gus Grissom"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin flew solo during the first human spaceflight on Vostok 1 in 1961."
+                  },
+                  {
+                    "question": "Who was the first astronaut to complete 10 spacewalks?",
+                    "options": ["Chris Hadfield", "Anatoly Solovyev", "Michael Lopez-Alegria", "Peggy Whitson"],
+                    "answer": "Michael Lopez-Alegria",
+                    "explanation": "Michael Lopez-Alegria became the first astronaut to complete 10 spacewalks during his career."
+                  },
+                  {
+                    "question": "Who was the first British astronaut to fly to space?",
+                    "options": ["Helen Sharman", "Tim Peake", "Piers Sellers", "Michael Foale"],
+                    "answer": "Helen Sharman",
+                    "explanation": "Helen Sharman was the first British astronaut, flying aboard Soyuz TM-12 to the Mir space station in 1991."
+                  },
+                  {
+                    "question": "Which astronaut served as the commander of the longest space mission aboard the ISS?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Sergei Krikalev", "Chris Hadfield"],
+                    "answer": "Peggy Whitson",
+                    "explanation": "Peggy Whitson commanded the International Space Station and holds the record for the longest cumulative time spent in space by a woman."
+                  },
+                  {
+                    "question": "Who was the first astronaut to use the Manned Maneuvering Unit (MMU) during a spacewalk?",
+                    "options": ["Ed White", "Bruce McCandless", "John Young", "Buzz Aldrin"],
+                    "answer": "Bruce McCandless",
+                    "explanation": "Bruce McCandless was the first astronaut to use the MMU during a spacewalk in 1984."
+                  },
+                  {
+                    "question": "Who was the first South Korean astronaut to travel to space?",
+                    "options": ["Koichi Wakata", "Rakesh Sharma", "Yi So-yeon", "Toyohiro Akiyama"],
+                    "answer": "Yi So-yeon",
+                    "explanation": "Yi So-yeon became the first South Korean astronaut to travel to space aboard Soyuz TMA-12 in 2008."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the most spaceflights by a woman?",
+                    "options": ["Eileen Collins", "Sally Ride", "Peggy Whitson", "Sunita Williams"],
+                    "answer": "Peggy Whitson",
+                    "explanation": "Peggy Whitson holds the record for the most spaceflights by a woman, having completed three long-duration space missions."
+                  },
+                  {
+                    "question": "Who was the first person to command a space station for six months consecutively?",
+                    "options": ["Valeri Polyakov", "Gennady Padalka", "Peggy Whitson", "Scott Kelly"],
+                    "answer": "Valeri Polyakov",
+                    "explanation": "Valeri Polyakov commanded the Mir space station for six months in the early 1990s, setting records for time spent in space."
+                  },
+                  {
+                    "question": "Which astronaut was the first to vote in a U.S. presidential election from space?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Shannon Walker", "Kate Rubins"],
+                    "answer": "Kate Rubins",
+                    "explanation": "Kate Rubins became the first person to vote in a U.S. presidential election from space while aboard the ISS in 2016."
+                  }
+                ]
+              },
+              {
+                "setNumber": 7,
+                "questions": [
+                  {
+                    "question": "Who was the first astronaut to conduct a spacewalk from the ISS?",
+                    "options": ["Jerry L. Ross", "Chris Hadfield", "John Glenn", "Michael Foale"],
+                    "answer": "Jerry L. Ross",
+                    "explanation": "Jerry L. Ross conducted the first spacewalk from the ISS during the assembly of the station in 1998."
+                  },
+                  {
+                    "question": "Which astronaut set the record for the longest spaceflight by a U.S. astronaut in 2016?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Mark Kelly", "John Glenn"],
+                    "answer": "Scott Kelly",
+                    "explanation": "Scott Kelly spent 340 consecutive days in space aboard the ISS, setting the U.S. record for the longest single spaceflight."
+                  },
+                  {
+                    "question": "Who was the first female astronaut to live aboard the ISS?",
+                    "options": ["Peggy Whitson", "Valentina Tereshkova", "Sally Ride", "Eileen Collins"],
+                    "answer": "Peggy Whitson",
+                    "explanation": "Peggy Whitson became the first female astronaut to live aboard the ISS in 2002 during Expedition 5."
+                  },
+                  {
+                    "question": "Which astronaut became the first to play a musical instrument in space?",
+                    "options": ["Chris Hadfield", "Yuri Gagarin", "John Young", "Alexei Leonov"],
+                    "answer": "Chris Hadfield",
+                    "explanation": "Chris Hadfield played his guitar aboard the ISS, becoming the first astronaut to record music in space."
+                  },
+                  {
+                    "question": "Who was the first American woman to walk in space?",
+                    "options": ["Kathryn Sullivan", "Sally Ride", "Peggy Whitson", "Judith Resnik"],
+                    "answer": "Kathryn Sullivan",
+                    "explanation": "Kathryn Sullivan became the first American woman to walk in space during a shuttle mission in 1984."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the most cumulative days in space by any human?",
+                    "options": ["Sergei Krikalev", "Peggy Whitson", "Valeri Polyakov", "Gennady Padalka"],
+                    "answer": "Gennady Padalka",
+                    "explanation": "Gennady Padalka holds the record for the most cumulative days spent in space by any human, with a total of 878 days."
+                  },
+                  {
+                    "question": "Who was the first Hispanic astronaut to fly in space?",
+                    "options": ["Ellen Ochoa", "Franklin Chang-Diaz", "Joe Acaba", "Carlos Noriega"],
+                    "answer": "Franklin Chang-Diaz",
+                    "explanation": "Franklin Chang-Diaz became the first Hispanic astronaut to fly in space in 1986 aboard the Space Shuttle Columbia."
+                  },
+                  {
+                    "question": "Who became the first astronaut to fly into space aboard a reusable spacecraft?",
+                    "options": ["John Young", "Buzz Aldrin", "Alan Shepard", "John Glenn"],
+                    "answer": "John Young",
+                    "explanation": "John Young was the first astronaut to fly aboard a reusable spacecraft, piloting the first Space Shuttle mission in 1981."
+                  },
+                  {
+                    "question": "Which astronaut flew on the first mission of the SpaceX Crew Dragon?",
+                    "options": ["Chris Cassidy", "Robert Behnken", "Scott Kelly", "Chris Hadfield"],
+                    "answer": "Robert Behnken",
+                    "explanation": "Robert Behnken was one of the astronauts who flew aboard the first crewed mission of the SpaceX Crew Dragon in 2020."
+                  },
+                  {
+                    "question": "Who became the first non-U.S. astronaut to command the ISS?",
+                    "options": ["Chris Hadfield", "Koichi Wakata", "Tim Peake", "Gennady Padalka"],
+                    "answer": "Chris Hadfield",
+                    "explanation": "Chris Hadfield from Canada became the first non-U.S. astronaut to command the ISS in 2013 during Expedition 35."
+                  }
+                ]
+              },
+              {
+                "setNumber": 8,
+                "questions": [
+                  {
+                    "question": "Who was the first human to fly in space more than once?",
+                    "options": ["Gus Grissom", "John Young", "Yuri Gagarin", "Neil Armstrong"],
+                    "answer": "Gus Grissom",
+                    "explanation": "Gus Grissom became the first astronaut to fly in space twice, once during the Mercury-Redstone 4 mission and then during Gemini 3."
+                  },
+                  {
+                    "question": "Which astronaut was the first to fly on both the Space Shuttle and a Russian Soyuz spacecraft?",
+                    "options": ["Chris Hadfield", "John Glenn", "Sergei Krikalev", "Peggy Whitson"],
+                    "answer": "Sergei Krikalev",
+                    "explanation": "Sergei Krikalev was the first astronaut to fly aboard both the Space Shuttle and the Soyuz spacecraft, reflecting international collaboration."
+                  },
+                  {
+                    "question": "Who became the first human to fly to space as a paying tourist?",
+                    "options": ["Dennis Tito", "Richard Garriott", "Charles Simonyi", "Mark Shuttleworth"],
+                    "answer": "Dennis Tito",
+                    "explanation": "Dennis Tito became the first private space tourist, flying to the International Space Station aboard a Russian Soyuz in 2001."
+                  },
+                  {
+                    "question": "Which astronaut was the first to grow a flower in space?",
+                    "options": ["Scott Kelly", "Chris Hadfield", "Peggy Whitson", "Sunita Williams"],
+                    "answer": "Scott Kelly",
+                    "explanation": "Scott Kelly was the first astronaut to grow a flower in space while aboard the ISS, cultivating a zinnia in 2016."
+                  },
+                  {
+                    "question": "Who was the first woman to complete a spacewalk outside the ISS?",
+                    "options": ["Sally Ride", "Peggy Whitson", "Kathryn Sullivan", "Christina Koch"],
+                    "answer": "Kathryn Sullivan",
+                    "explanation": "Kathryn Sullivan became the first woman to complete a spacewalk outside the ISS during a shuttle mission in 1984."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the most time spent outside a spacecraft on spacewalks?",
+                    "options": ["Alexei Leonov", "Anatoly Solovyev", "Chris Hadfield", "Peggy Whitson"],
+                    "answer": "Anatoly Solovyev",
+                    "explanation": "Anatoly Solovyev holds the record for the most time spent outside a spacecraft, completing 16 spacewalks over his career."
+                  },
+                  {
+                    "question": "Who was the first African-American woman to travel to space?",
+                    "options": ["Mae Jemison", "Jeanette Epps", "Ellen Ochoa", "Sally Ride"],
+                    "answer": "Mae Jemison",
+                    "explanation": "Mae Jemison became the first African-American woman to travel to space aboard the Space Shuttle Endeavour in 1992."
+                  },
+                  {
+                    "question": "Who was the first person to run a marathon in space?",
+                    "options": ["Tim Peake", "Scott Kelly", "Sunita Williams", "Chris Hadfield"],
+                    "answer": "Sunita Williams",
+                    "explanation": "Sunita Williams became the first person to run a marathon in space while aboard the ISS in 2007."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the longest single spaceflight by a woman?",
+                    "options": ["Peggy Whitson", "Samantha Cristoforetti", "Christina Koch", "Sunita Williams"],
+                    "answer": "Christina Koch",
+                    "explanation": "Christina Koch holds the record for the longest single spaceflight by a woman, spending 328 days aboard the ISS in 2019-2020."
+                  },
+                  {
+                    "question": "Who was the first Asian-American astronaut to travel to space?",
+                    "options": ["Ellison Onizuka", "Koichi Wakata", "Sunita Williams", "Kalpana Chawla"],
+                    "answer": "Ellison Onizuka",
+                    "explanation": "Ellison Onizuka became the first Asian-American astronaut, flying aboard the Space Shuttle Challenger in 1985."
+                  }
+                ]
+              },
+              {
+                "setNumber": 9,
+                "questions": [
+                  {
+                    "question": "Who was the first astronaut to command a mission to repair the Hubble Space Telescope?",
+                    "options": ["John Young", "Scott Kelly", "Chris Hadfield", "Steven Smith"],
+                    "answer": "Steven Smith",
+                    "explanation": "Steven Smith commanded the first mission to repair the Hubble Space Telescope aboard the Space Shuttle Endeavour in 1993."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the most consecutive days spent in space by a U.S. astronaut?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Christina Koch", "Sunita Williams"],
+                    "answer": "Christina Koch",
+                    "explanation": "Christina Koch holds the record for the most consecutive days spent in space by a U.S. astronaut, with 328 days aboard the ISS."
+                  },
+                  {
+                    "question": "Who was the first astronaut to complete a spacewalk during the Apollo program?",
+                    "options": ["Buzz Aldrin", "Neil Armstrong", "Ed White", "John Young"],
+                    "answer": "Ed White",
+                    "explanation": "Ed White was the first astronaut to complete a spacewalk during the Apollo program, during the Gemini 4 mission in 1965."
+                  },
+                  {
+                    "question": "Which astronaut was the first to fly aboard a commercial spacecraft to the ISS?",
+                    "options": ["Doug Hurley", "Chris Cassidy", "Scott Kelly", "Robert Behnken"],
+                    "answer": "Doug Hurley",
+                    "explanation": "Doug Hurley was one of the astronauts aboard the first crewed mission of the SpaceX Crew Dragon, which flew to the ISS in 2020."
+                  },
+                  {
+                    "question": "Who became the first astronaut to send a message from space using Morse code?",
+                    "options": ["Alexei Leonov", "Valentina Tereshkova", "Yuri Gagarin", "Alan Shepard"],
+                    "answer": "Valentina Tereshkova",
+                    "explanation": "Valentina Tereshkova was the first astronaut to send a message using Morse code during her historic Vostok 6 mission in 1963."
+                  },
+                  {
+                    "question": "Which astronaut flew aboard the first operational Space Shuttle flight?",
+                    "options": ["John Young", "Bob Crippen", "Gus Grissom", "Buzz Aldrin"],
+                    "answer": "John Young",
+                    "explanation": "John Young commanded the first operational Space Shuttle flight (STS-1) aboard Columbia in 1981."
+                  },
+                  {
+                    "question": "Who was the first woman to complete a spacewalk outside the International Space Station?",
+                    "options": ["Kathryn Sullivan", "Christina Koch", "Peggy Whitson", "Samantha Cristoforetti"],
+                    "answer": "Christina Koch",
+                    "explanation": "Christina Koch became the first woman to complete a spacewalk outside the ISS in 2019."
+                  },
+                  {
+                    "question": "Who was the first person to spend over a year in space?",
+                    "options": ["Valeri Polyakov", "Sergei Krikalev", "Peggy Whitson", "Scott Kelly"],
+                    "answer": "Valeri Polyakov",
+                    "explanation": "Valeri Polyakov holds the record for the longest continuous time spent in space, spending 437 days aboard the Mir space station."
+                  },
+                  {
+                    "question": "Which astronaut commanded the Apollo 13 mission that experienced an in-flight emergency?",
+                    "options": ["Jim Lovell", "John Young", "Buzz Aldrin", "Alan Shepard"],
+                    "answer": "Jim Lovell",
+                    "explanation": "Jim Lovell commanded the Apollo 13 mission, which famously experienced an oxygen tank explosion en route to the Moon."
+                  },
+                  {
+                    "question": "Who was the first astronaut to fly a spacecraft manually?",
+                    "options": ["Neil Armstrong", "Yuri Gagarin", "Alan Shepard", "John Glenn"],
+                    "answer": "John Glenn",
+                    "explanation": "John Glenn was the first astronaut to fly a spacecraft manually during his historic Friendship 7 mission in 1962."
+                  }
+                ]
+              },
+              {
+                "setNumber": 10,
+                "questions": [
+                  {
+                    "question": "Who was the first person to visit space more than six times?",
+                    "options": ["John Young", "Jerry Ross", "Scott Kelly", "Peggy Whitson"],
+                    "answer": "Jerry Ross",
+                    "explanation": "Jerry Ross was the first astronaut to fly into space seven times, setting a record for the most spaceflights."
+                  },
+                  {
+                    "question": "Which astronaut was the first to use a space treadmill for exercise?",
+                    "options": ["Chris Hadfield", "Scott Kelly", "Yuri Gagarin", "John Young"],
+                    "answer": "Scott Kelly",
+                    "explanation": "Scott Kelly was one of the first astronauts to use the space treadmill for exercise during his yearlong mission on the ISS."
+                  },
+                  {
+                    "question": "Who became the first African-American astronaut to fly to space?",
+                    "options": ["Guion Bluford", "Mae Jemison", "Ronald McNair", "Jeanette Epps"],
+                    "answer": "Guion Bluford",
+                    "explanation": "Guion Bluford became the first African-American astronaut to fly to space aboard the Space Shuttle Challenger in 1983."
+                  },
+                  {
+                    "question": "Which astronaut became the first to spend over 500 days in space cumulatively?",
+                    "options": ["Peggy Whitson", "Valeri Polyakov", "Sergei Krikalev", "Gennady Padalka"],
+                    "answer": "Sergei Krikalev",
+                    "explanation": "Sergei Krikalev was the first astronaut to spend over 500 cumulative days in space during his six spaceflights."
+                  },
+                  {
+                    "question": "Who became the first U.S. astronaut to serve as the commander of a Russian space station?",
+                    "options": ["Peggy Whitson", "Scott Kelly", "Jerry Ross", "Michael Foale"],
+                    "answer": "Michael Foale",
+                    "explanation": "Michael Foale became the first U.S. astronaut to command a Russian space station (Mir) in 1997."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the longest cumulative spacewalk time by a woman?",
+                    "options": ["Peggy Whitson", "Christina Koch", "Sunita Williams", "Kathryn Sullivan"],
+                    "answer": "Sunita Williams",
+                    "explanation": "Sunita Williams holds the record for the longest cumulative spacewalk time by a woman, with 50 hours and 40 minutes."
+                  },
+                  {
+                    "question": "Who became the first Canadian astronaut to fly aboard a U.S. space shuttle?",
+                    "options": ["Chris Hadfield", "Julie Payette", "Marc Garneau", "Roberta Bondar"],
+                    "answer": "Marc Garneau",
+                    "explanation": "Marc Garneau was the first Canadian astronaut to fly aboard a U.S. space shuttle in 1984."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the longest continuous spaceflight by any astronaut?",
+                    "options": ["Scott Kelly", "Peggy Whitson", "Christina Koch", "Valeri Polyakov"],
+                    "answer": "Valeri Polyakov",
+                    "explanation": "Valeri Polyakov holds the record for the longest continuous spaceflight, spending 437 days aboard Mir in the mid-1990s."
+                  },
+                  {
+                    "question": "Who was the first person to command both a space shuttle and the ISS?",
+                    "options": ["John Young", "Scott Kelly", "Peggy Whitson", "Chris Hadfield"],
+                    "answer": "Peggy Whitson",
+                    "explanation": "Peggy Whitson was the first astronaut to command both a space shuttle mission and the ISS."
+                  },
+                  {
+                    "question": "Which astronaut holds the record for the most number of days spent in space by a U.S. astronaut?",
+                    "options": ["Peggy Whitson", "Scott Kelly", "John Young", "Christina Koch"],
+                    "answer": "Peggy Whitson",
+                    "explanation": "Peggy Whitson holds the record for the most cumulative time spent in space by any U.S. astronaut, with 665 days."
+                  }
+                ]
+              }                          
             ]
           }
         ]
