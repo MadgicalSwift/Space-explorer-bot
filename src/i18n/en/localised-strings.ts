@@ -25,6 +25,18 @@ export const localised = {
     `👎 Not quite right, but you’re learning! 💪\nThe correct answer is: **${correctAnswer}** 🎯\n\nHere’s the explanation: **${explanation}** 🧠`,
   score: (score: number, totalQuestions: number, badge:string) =>
   `🌟 Great job! Your score is **${score}** out of **${totalQuestions}**.\n\n💪 Congratulations! You earned ${badge} badge! `,
+  tellName:"Can you please tell me your name?",
+  ok:"ok",
+  gold:"Gold 🥇",
+  silver:"Silver 🥈",
+  bronze:"Bronze 🥉",
+  no:"No",
+  noChallenge:"No challenges have been completed yet.",
+  text:"text",
+  error:"An error occurred while fetching challenges. Please try again later.",
+  english:"English",
+  button:"button"
+
    
   
 };

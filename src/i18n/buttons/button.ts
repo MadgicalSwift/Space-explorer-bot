@@ -15,10 +15,10 @@ export function createMainTopicButtons(from: string) {
 
   return {
     to: from,
-    type: 'button',
+    type: localised.button,
     button: {
       body: {
-        type: 'text',
+        type: localised.text,
         text: {
           body: localised.chooseTopic,
         },
@@ -43,10 +43,10 @@ export function createSubTopicButtons(from: string, topicName: string) {
 
     return {
       to: from,
-      type: 'button',
+      type: localised.button,
       button: {
         body: {
-          type: 'text',
+          type: localised.text,
           text: {
             body: localised.selectSubtopic(topicName),
           },
@@ -69,26 +69,26 @@ export function createButtonWithExplanation(
   const buttons = [
     {
       type: 'solid',
-      body: 'More Explanation',
-      reply: 'More Explanation',
+      body: localised.Moreexplanation,
+      reply: localised.Moreexplanation,
     },
     {
       type: 'solid',
-      body: 'Start Quiz',
-      reply: 'Start Quiz',
+      body: localised.startQuiz,
+      reply: localised.startQuiz,
     },
     {
       type: 'solid',
-      body: 'Main Menu',
-      reply: 'Main Menu',
+      body: localised.mainMenu,
+      reply: localised.mainMenu,
     },
   ];
   return {
     to: from,
-    type: 'button',
+    type: localised.button,
     button: {
       body: {
-        type: 'text',
+        type: localised.text,
         text: {
           body: localised.explanation(subtopicName, description),
         },
@@ -106,21 +106,21 @@ export function createTestYourSelfButton(
   const buttons = [
     {
       type: 'solid',
-      body: 'Start Quiz',
-      reply: 'Start Quiz',
+      body: localised.startQuiz,
+      reply: localised.startQuiz,
     },
     {
       type: 'solid',
-      body: 'Main Menu',
-      reply: 'Main Menu',
+      body: localised.mainMenu,
+      reply: localised.mainMenu,
     },
   ];
   return {
     to: from,
-    type: 'button',
+    type: localised.button,
     button: {
       body: {
-        type: 'text',
+        type: localised.text,
         text: {
           body: localised.moreExplanation(subtopicName, description),
         },
@@ -130,39 +130,7 @@ export function createTestYourSelfButton(
     },
   };
 }
-export function createDifficultyButtons(from: string) {
-  const buttons = [
-    {
-      type: 'solid',
-      body: 'Easy',
-      reply: 'Easy',
-    },
-    {
-      type: 'solid',
-      body: 'Medium',
-      reply: 'Medium',
-    },
-    {
-      type: 'solid',
-      body: 'Hard',
-      reply: 'Hard',
-    },
-  ];
-  return {
-    to: from,
-    type: 'button',
-    button: {
-      body: {
-        type: 'text',
-        text: {
-          body: localised.difficulty,
-        },
-      },
-      buttons: buttons,
-      allow_custom_response: false,
-    },
-  };
-}
+
 
 export function questionButton(
   from: string,
@@ -173,16 +141,12 @@ export function questionButton(
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
   );
-  if (!topic) {
-    
-  }
+
 
   const subtopic = topic.subtopics.find(
     (subtopic) => subtopic.subtopicName == selectedSubtopic,
   );
-  if (!subtopic) {
-    
-  }
+  
 
   const questionSets = subtopic.questionSets;
   if (questionSets.length === 0) {
@@ -209,10 +173,10 @@ export function questionButton(
 
   const messageData = {
     to: from,
-    type: 'button',
+    type: localised.button,
     button: {
       body: {
-        type: 'text',
+        type: localised.text,
         text: {
           body: question.question,
         },
@@ -234,16 +198,10 @@ export function answerFeedback(
   currentQuestionIndex: number,
 ) {
   const topic = data.topics.find((t) => t.topicName === selectedMainTopic);
-  if (!topic) {
-    
-  }
 
   const subtopic = topic.subtopics.find(
     (st) => st.subtopicName === selectedSubtopic,
   );
-  if (!subtopic) {
-    
-  }
 
   // Find the question set by its level and set number
 
@@ -251,23 +209,12 @@ export function answerFeedback(
     (qs) =>
       qs.setNumber === parseInt(randomSet),
   );
-  // console.log(questionSet);
-  if (!questionSet) {
-   
-  }
-  // console.log(currentQuestionIndex);
+
   const question = questionSet.questions[currentQuestionIndex];
   
 
-  // console.log(question);
   const explanation = question.explanation;
-  if (!explanation) {
-    
-  }
-
-  if (!question.answer) {
-    
-  }
+  
   const correctAnswer = question.answer;
   const userAnswer = Array.isArray(answer) ? answer[0] : answer;
   const correctAns = Array.isArray(correctAnswer) ? correctAnswer[0] : correctAnswer;
@@ -290,29 +237,29 @@ export function buttonWithScore(
 ) {
   return {
     to: from,
-    type: 'button',
+    type: localised.button,
     button: {
       body: {
-        type: 'text',
+        type: localised.text,
         text: {
-          body: localised.score(score, totalQuestions, badge),
+          body: "💪Congrats! The quiz is completed.🌟 Please select a choice to continue the quiz :",
         },
       },
       buttons: [
         {
           type: 'solid',
-          body: 'Main Menu',
-          reply: 'Main Menu',
+          body: localised.mainMenu,
+          reply: localised.mainMenu,
         },
         {
           type: 'solid',
-          body: 'Retake Quiz',
-          reply: 'Retake Quiz',
+          body: localised.retakeQuiz,
+          reply: localised.retakeQuiz,
         },
         {
           type: 'solid',
-          body: 'View Challenges',
-          reply: 'View Challenges',
+          body: localised.viewChallenge,
+          reply: localised.viewChallenge,
         }
       ],
       allow_custom_response: false,
@@ -330,31 +277,20 @@ export function optionButton(
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
   );
-  if (!topic) {
-    
-    
-    return;
-  }
+  
 
   // Find the selected subtopic
   const subtopic = topic.subtopics.find(
     (subtopic) => subtopic.subtopicName === selectedSubtopic,
   );
-  if (!subtopic) {
-    
-    
-    return;
-  }
+  
 
   // Find the question set based on difficulty and set number
   const questionSet = subtopic.questionSets.find(
     (set) =>
        set.setNumber === parseInt(randomSet),
   );
-  if (!questionSet) {
-    
-    return;
-  }
+  
 
   // Check if the current question index is valid
   if (
@@ -376,10 +312,10 @@ export function optionButton(
   }));
   return {
     to: from,
-    type: 'button',
+    type: localised.button,
     button: {
       body: {
-        type: 'text',
+        type: localised.text,
         text: {
           body: question.question,
         },

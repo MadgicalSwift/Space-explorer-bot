@@ -94,11 +94,11 @@ export class UserService {
         };
         console.log(Botid, topic, subTopic, setNumber);
         const result = await dynamoDBClient().query(params).promise();
-        // console.log(result)
+        
         const users = result.Items || [];
-        // console.log("users-", users);
+        
         const filteredUsers = users.filter(user => user.Botid === Botid);
-        // console.log("filtered-", filteredUsers);
+
         if (filteredUsers.length === 0) {
             return [];  
         }
@@ -180,6 +180,18 @@ export class UserService {
     };
     return await dynamoDBClient().put(updateUser).promise();
   }
+  async resetUserData(user: User): Promise<User | any> {
+    user.selectedSet = null;
+    user.selectedMainTopic = null;
+    user.selectedSubtopic = null;
+    user.score = 0;
+    user.questionsAnswered = 0;
+
+    // Save the updated user object to DynamoDB
+    await this.saveUser(user);
+    return user;
+  }
+
   async deleteUser(mobileNumber: string, Botid: string): Promise<void> {
     try {
       const params = {

@@ -4,17 +4,18 @@ import { LocalizationService } from 'src/localization/localization.service';
 import { MessageService } from 'src/message/message.service';
 import { localised } from 'src/i18n/en/localised-strings';
 import data from '../datasource/data.json';
+import axios from "axios";
 import {
   createMainTopicButtons,
   createSubTopicButtons,
   createButtonWithExplanation,
-  createDifficultyButtons,
   createTestYourSelfButton,
   questionButton,
   answerFeedback,
   optionButton,
   buttonWithScore
 } from 'src/i18n/buttons/button';
+
 dotenv.config();
 
 @Injectable()
@@ -27,7 +28,7 @@ export class SwiftchatMessageService extends MessageService {
   private prepareRequestData(from: string, requestBody: string): any {
     return {
       to: from,
-      type: 'text',
+      type: localised.text,
       text: {
         body: requestBody,
       },
@@ -66,7 +67,7 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
   async sendName(from:string){
-    const message= "Can you please tell me your name?";
+    const message= localised.tellName;
     const requestData= this.prepareRequestData(from, message);
     const response = await this.sendMessage(
       this.baseUrl,
@@ -87,13 +88,32 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
 
-  async difficultyButtons(from: string) {
-    const messageData = createDifficultyButtons(from);
-    const response = await this.sendMessage(
-      this.baseUrl,
-      messageData,
-      this.apiKey,
-    );
+  async newscorecard(from: string, score: number, totalQuestions: number, badge:string) {
+    //const messageData = createDifficultyButtons(from);
+    const payload= {
+      to: from,
+      type: "scorecard",
+      scorecard: {
+          theme: "theme1",
+          background: "orange",
+          performance: "high",
+          share_message: "Hey! I got a badge in the Weekly Quiz. Click the link below to take the quiz.",
+          text1: "Weekly Quiz",
+          text2: "Wow! You did an awesome job.",
+          text3: "Congratulations",
+          text4: `${badge} badge`,
+          score: `${score}/10`,
+          animation: "confetti"
+      }
+  }
+  const response = await axios.post(this.baseUrl, payload, {
+    headers: {
+      Authorization: `Bearer ${this.apiKey}`,
+      'Content-Type': 'application/json',
+    },
+  });
+    await this.sendScore(from,score,totalQuestions,badge);
+    console.log(response)
     return response;
   }
 

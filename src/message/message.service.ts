@@ -25,7 +25,7 @@ export abstract class MessageService {
       return response.data;
     } catch (error) {
       // console.log('Error sending message:', error.response?.data);
-      // throw new CustomException(error);
+      throw new CustomException(error);
     }
   }
 
@@ -41,7 +41,7 @@ export abstract class MessageService {
     description: string[],
     subtopicName: string,
   );
-  abstract difficultyButtons(from: string);
+
   abstract sendQuestion(
     from: string,
     selectedMainTopic: string,
@@ -69,4 +69,5 @@ export abstract class MessageService {
   abstract sendScore(from: string, score: number, totalQuestions: number, badge:string);
   abstract endMessage(from:string);
   abstract sendLanguageChangedMessage(from: string, language: string);
+  abstract newscorecard(from: string,score: number, totalQuestions: number, badge:string);
 }

@@ -40,8 +40,9 @@ export class ChatbotService {
   }
 
   public async processMessage(body: any): Promise<any> {
-    // Destructure 'from', 'text', and 'button_response' from the body
+    
     const { from, text, button_response } = body;
+
 
     // Retrieve botID from environment variables
     const botID = process.env.BOT_ID;
@@ -67,27 +68,24 @@ export class ChatbotService {
         botID: botID,
       };
 
-      this.mixpanel.track('Button_Click', trackingData);
+      this.mixpanel.track('buttonClick', trackingData);
 
       // Handle 'Main Menu' button - reset user quiz data and send welcome message
       if (buttonBody === localised.mainMenu) {
         
-        user.selectedSet = null;
-        user.questionsAnswered = 0;
-        user.score = 0;
-        await this.userService.saveUser(user);
+        await this.resetQuizData(user);
         await this.message.sendWelcomeMessage(from, user.language);
         await this.message.sendInitialTopics(from);
-        return 'ok';
+        return localised.ok;
       }
       // Handle 'Retake Quiz' button - reset quiz progress and send the first question
       if (buttonBody === localised.retakeQuiz) {
-        user.questionsAnswered = 0;
+        user.questionsAnswered=0;
         user.score = 0;
         await this.userService.saveUser(user);
         const selectedMainTopic = user.selectedMainTopic;
         const selectedSubtopic = user.selectedSubtopic;
-        // const selectedDifficulty = user.selectedDifficulty;
+
         const randomSet = user.selectedSet;
         await this.message.getQuestionBySet(
           from,
@@ -95,18 +93,19 @@ export class ChatbotService {
           selectedMainTopic,
           selectedSubtopic,
           randomSet,
-          user.questionsAnswered,
+          0,
         );
-        return 'ok';
+        return localised.ok;
       }
       if(buttonBody=== localised.viewChallenge){
         await this.handleViewChallenges(from, userData);
         await this.message.endMessage(from);
-        return 'ok';
+        return localised.ok;
       }
       // Handle 'More Explanation' button - send complete explanation for the subtopic
       if (buttonBody === localised.Moreexplanation) {
         const topic = user.selectedSubtopic;
+
         // Find the selected subtopic in the list of topics
         const subtopic = this.topics
           .flatMap((topic) => topic.subtopics)
@@ -115,11 +114,8 @@ export class ChatbotService {
           const description = subtopic.description;
 
           await this.message.sendCompleteExplanation(from, description, topic);
-        } else {
-          
-          
-        }
-        return 'ok';
+        } 
+        return localised.ok;
       }
       // Handle 'Test Yourself' button - show difficulty options to the user
 
@@ -140,7 +136,7 @@ export class ChatbotService {
         user.selectedSet = randomSet;
         
         await this.userService.saveUser(user);
-        return 'ok';
+        return localised.ok;
       }
 
       // Handle quiz answer submission - check if the user is answering a quiz question
@@ -148,7 +144,6 @@ export class ChatbotService {
         
         const selectedMainTopic = user.selectedMainTopic;
         const selectedSubtopic = user.selectedSubtopic;
-        // const selectedDifficulty = user.selectedDifficulty;
         const randomSet = user.selectedSet;
         const currentQuestionIndex = user.questionsAnswered;
         const { result } = await this.message.checkAnswer(
@@ -170,13 +165,13 @@ export class ChatbotService {
 
           let badge = '';
           if (user.score=== 10) {
-            badge = 'Gold 🥇';
+            badge = localised.gold;
           } else if (user.score>= 7) {
-            badge = 'Silver 🥈';
+            badge = localised.silver;
           } else if (user.score >= 5) {
-            badge = 'Bronze 🥉';
+            badge = localised.bronze;
           } else {
-            badge = 'No';
+            badge = localised.no;
           }
 
           // Store the data to be stored in database
@@ -198,16 +193,16 @@ export class ChatbotService {
             challengeData,
           );
           console.log("Challenge Data:",challengeData)
-          // console.log("user:", user )
           
-          await this.message.sendScore(
-            from,
-            user.score,
-            user.questionsAnswered,
-            badge
-          );
+          // await this.message.sendScore(
+          //   from,
+          //   user.score,
+          //   user.questionsAnswered,
+          //   badge
+          // );
+          await this.message.newscorecard(from,user.score,user.questionsAnswered,badge)
 
-          return 'ok';
+          return localised.ok;
         }
         // Send the next quiz question
         await this.message.getQuestionBySet(
@@ -219,19 +214,19 @@ export class ChatbotService {
           user.questionsAnswered,
         );
 
-        return 'ok';
+        return localised.ok;
       }
 
       // Handle topic selection - find the main topic and save it to the user data
       const topic = this.topics.find((topic) => topic.topicName === buttonBody);
-      // console.log("topic", topic);
+
       if (topic) {
         const mainTopic = topic.topicName;
 
         user.selectedMainTopic = mainTopic;
 
         await this.userService.saveUser(user);
-        // console.log("Main topic:", mainTopic)
+        
 
         await this.message.sendSubTopics(from, mainTopic);
       } else {
@@ -242,21 +237,17 @@ export class ChatbotService {
         if (subtopic) {
           const subtopicName = subtopic.subtopicName;
           const description = subtopic.description[0];
-          if (!description) {
-            
-          }
+          
 
           user.selectedSubtopic = subtopicName;
 
           await this.userService.saveUser(user);
-          // console.log(subtopicName, description)
-          await this.message.sendExplanation(from, description, subtopicName);
-        } else {
           
-        }
+          await this.message.sendExplanation(from, description, subtopicName);
+        } 
       }
 
-      return 'ok';
+      return localised.ok;
     }
 
     // Handle text message input - reset user data and send a welcome message
@@ -268,15 +259,10 @@ export class ChatbotService {
           botID,
         );
         if (!userData) {
-          await this.userService.createUser(from, 'English', botID);
+          await this.userService.createUser(from, localised.english, botID);
         }
-  
-        user.selectedSet= null;   
-        user.selectedMainTopic=null;
-        user.selectedSubtopic=null;
-        user.score=0; 
-        user.questionsAnswered=0;
-        await this.userService.saveUser(user);   
+        // reset user data to start playing the game
+        await this.userService.resetUserData(user)
         console.log("user data -",userData)
         if(userData.name==null){
           await this.message.sendWelcomeMessage(from, user.language);
@@ -295,8 +281,15 @@ export class ChatbotService {
        
     }
 
-    return 'ok';
+    return localised.ok;
   }
+  private async resetQuizData(user: User): Promise<void> {
+    user.selectedSet = null;
+    user.questionsAnswered = 0;
+    user.score = 0;
+    await this.userService.saveUser(user);
+  }
+
   async handleViewChallenges(from: string, userData: any): Promise<void>{
     try { 
       console.log(userData)
@@ -310,8 +303,8 @@ export class ChatbotService {
   
         await this.swiftchatMessageService.sendMessage(this.baseUrl,{
           to: from,
-          type: 'text',
-          text: { body: 'No challenges have been completed yet.' },
+          type: localised.text,
+          text: { body: localised.noChallenge },
         }, this.apiKey);
         return;
       }
@@ -323,13 +316,13 @@ export class ChatbotService {
       
         let badge = '';
         if (totalScore === 10) {
-          badge = 'Gold 🥇';
+          badge = localised.gold;
         } else if (totalScore >= 7) {
-          badge = 'Silver 🥈';
+          badge = localised.silver;
         } else if (totalScore >= 5) {
-          badge = 'Bronze 🥉';
+          badge = localised.bronze;
         } else {
-          badge = 'No';
+          badge = localised.no;
         }
 
         message += `${index + 1}. ${studentName}\n`;
@@ -340,16 +333,16 @@ export class ChatbotService {
       // Send the message with the top students' names, scores, and badges
       await this.swiftchatMessageService.sendMessage(this.baseUrl,{
         to: from,
-        type: 'text',
+        type: localised.text,
         text: { body: message },
       }, this.apiKey);
     } catch (error) {
-      console.error('Error handling View Challenges:', error);
+      console.error(error);
       await this.swiftchatMessageService.sendMessage(this.baseUrl,{
         to: from,
-        type: 'text',
+        type: localised.text,
         text: {
-          body: 'An error occurred while fetching challenges. Please try again later.',
+          body:localised.error,
         },
       }, this.apiKey);
     }
