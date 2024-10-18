@@ -89,7 +89,12 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async newscorecard(from: string, score: number, totalQuestions: number, badge:string) {
-    //const messageData = createDifficultyButtons(from);
+   
+    const currentDate= new Date();
+    const date= currentDate.getDate();
+    const month= currentDate.getMonth()+1;
+    const year= currentDate.getFullYear()%100;
+
     const payload= {
       to: from,
       type: "scorecard",
@@ -97,11 +102,11 @@ export class SwiftchatMessageService extends MessageService {
           theme: "theme1",
           background: "orange",
           performance: "high",
-          share_message: "Hey! I got a badge in the Weekly Quiz. Click the link below to take the quiz.",
-          text1: "Weekly Quiz",
+          share_message: "Hey! I got a badge. Click the link below to take the quiz.",
+          text1: `Quiz- ${date}/${month}/${year}`,
           text2: "Wow! You did an awesome job.",
           text3: "Congratulations",
-          text4: `${badge} badge`,
+          text4: `${badge}`,
           score: `${score}/10`,
           animation: "confetti"
       }
