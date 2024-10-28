@@ -3,7 +3,7 @@ import * as dotenv from 'dotenv';
 import { LocalizationService } from 'src/localization/localization.service';
 import { MessageService } from 'src/message/message.service';
 import { localised } from 'src/i18n/en/localised-strings';
-import data from '../datasource/data.json';
+// import data from '../datasource/data.json';
 import axios from "axios";
 import {
   createMainTopicButtons,
@@ -167,10 +167,11 @@ export class SwiftchatMessageService extends MessageService {
     subtopicName: string,
   ) {
     let completeDescription = '';
-    description.forEach((desc, index) => {
+    description.slice(1).forEach((desc, index) => {
       // Add each element to the string, ensuring no commas are added
       completeDescription += desc;
     });
+    
     const messageData = createTestYourSelfButton(
       from,
       completeDescription,

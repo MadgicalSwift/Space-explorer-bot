@@ -74,7 +74,6 @@ export class ChatbotService {
       if (buttonBody === localised.mainMenu) {
         
         await this.resetQuizData(user);
-        await this.message.sendWelcomeMessage(from, user.language);
         await this.message.sendInitialTopics(from);
         return localised.ok;
       }
