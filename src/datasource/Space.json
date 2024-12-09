@@ -26,7 +26,7 @@
                 {
                   "question": "What is the process by which star get its energy?",
                   "options": ["Solar energy", "Combustion", "Nuclear fusion", "Chemical reactions"],
-                  "answer": "Nuclear fusion",
+                  "answer": "Nuclear fusion" ,
                   "explanation": "Stars are get energy by nuclear fusion, where hydrogen atoms combine to form helium and release energy."
                 },
                 {
