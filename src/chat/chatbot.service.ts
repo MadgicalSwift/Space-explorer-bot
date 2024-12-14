@@ -251,9 +251,7 @@ export class ChatbotService {
           const title = subtopic.title;
           const aboutVideo = subtopic.descrip
           let subTopic =subtopic.subtopicName
-          if(subTopic.length > 20){
-            subTopic = subTopic.slice(0, 17) + '...'
-          }
+          
           //console.log(subTopic)
           user.selectedSubtopic = subtopicName;
 
