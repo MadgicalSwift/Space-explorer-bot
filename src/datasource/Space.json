@@ -1314,9 +1314,9 @@
 {
   "subtopicName": "Planets 🪐",
   "description": [
-    "*What is a Planet?* 🪐\nPlanets are big, round objects in space that go around a star, like our Sun 🌞. They don’t make their own light but shine by reflecting the star's light. Our solar system has eight planets, and each one is special. For example:\n- Earth 🌍 has water and air where we can live.\n- Jupiter 🪐 is made mostly of gas and has a huge red storm!",
+    "*What is a Planet?* 🪐\nPlanets are big, round objects in space that go around a star, like our Sun 🌞. They don’t make their own light but shine by reflecting the star's light. Our solar system has eight planets, and each one is special. *For example:*\nEarth 🌍 has water and air where we can live.\nJupiter 🪐 is made mostly of gas and has a huge red storm!",
     
-    "*Types of Planets* 💫\nPlanets are of two main types:\n- **Terrestrial Planets** 🌑: These are small, rocky planets with solid surfaces. They are closer to the Sun and include:\n  - Mercury 🟠\n  - Venus ♀️\n  - Earth 🌍\n  - Mars 🔴\nSome have mountains and volcanoes, like Earth and Mars.\n\n- **Gas Giants** 🌌: These are big planets made of gases like hydrogen and helium. They are farther from the Sun and include:\n  - Jupiter 🪐\n  - Saturn 🪐 (with its famous rings!)\n  - Uranus 🌀\n  - Neptune 🌊",
+    "*Types of Planets* 💫\nPlanets are of two main types:\n*Terrestrial Planets* 🌑: These are small, rocky planets with solid surfaces. They are closer to the Sun and include:\nMercury 🟠\nVenus ♀️\nEarth 🌍\nMars 🔴\nSome have mountains and volcanoes, like Earth and Mars.\n\n*Gas Giants* 🌌: These are big planets made of gases like hydrogen and helium. They are farther from the Sun and include:\nJupiter 🪐\nSaturn 🪐 (with its famous rings!)\nUranus 🌀\nNeptune 🌊",
     
     "*What are Exoplanets?* 🚀\nExoplanets are planets outside our solar system. They go around stars other than our Sun. Some exoplanets are rocky like Earth 🌍, and some are giant gas planets like Jupiter 🪐. Scientists love to study exoplanets in the 'habitable zone,' where the temperature might allow water 🌊. Water is important for life 🌱, so these planets are very exciting!"
   ],
@@ -2564,11 +2564,11 @@
 {
   "subtopicName": "Black Holes 🌑",
  "description": [
-    "*What is a Black Hole?* 🌌\nA black hole is a place in space where gravity is so strong that nothing, not even light, can get out. This makes it look completely dark. 💥 Black holes are made when very big stars run out of energy and collapse under their own weight.\n*Types of Black Holes* 🌀\n- **Stellar Black Holes:** These are made when big stars collapse and are small but very heavy.\n- **Supermassive Black Holes:** These live at the center of galaxies and are millions or even billions of times heavier than the Sun.\n- **Mini Black Holes:** These are tiny black holes that scientists think might have formed in the early universe.",
+    "*What is a Black Hole?* 🌌\nA black hole is a place in space where gravity is so strong that nothing, not even light, can get out. This makes it look completely dark. 💥 Black holes are made when very big stars run out of energy and collapse under their own weight.\n*Types of Black Holes* 🌀\n**Stellar Black Holes :** These are made when big stars collapse and are small but very heavy.\n**Supermassive Black Holes :** These live at the center of galaxies and are millions or even billions of times heavier than the Sun.\n**Mini Black Holes:** These are tiny black holes that scientists think might have formed in the early universe.",
     
-    "*Parts of a Black Hole* 🔍\n- **Event Horizon:** This is the edge of the black hole. Once something crosses it, it cannot escape, not even light!\n- **Singularity:** The center of the black hole where all the star's mass is squeezed into a tiny point.",
+    "*Parts of a Black Hole* 🔍\n**Event Horizon:** This is the edge of the black hole. Once something crosses it, it cannot escape, not even light!\n**Singularity:** The center of the black hole where all the star's mass is squeezed into a tiny point.",
 
-    "*Fun Facts About Black Holes* 🌀\n- Scientists think supermassive black holes live at the center of galaxies, including our own Milky Way.\n- Some scientists wonder if black holes could be portals to other places in space or even other universes. How cool is that? 🌠"
+    "\n*Fun Facts About Black Holes* 🌀\nScientists think supermassive black holes live at the center of galaxies, including our own Milky Way.\nSome scientists wonder if black holes could be portals to other places in space or even other universes. How cool is that? 🌠"
   ],
   "video_link": "https://youtu.be/e-P5IFTqB98?si=GM-ifg17wsN4hX_6",
   "title": "Black Holes: Cosmic Enigmas",
@@ -3945,9 +3945,9 @@
   "description": [
     "*What is the Sun?* 🌞\nThe Sun is a big, hot ball of glowing gases at the center of our solar system. It gives us light and warmth, which are very important for life on Earth. It’s a medium-sized star and has been shining for about 4.6 billion years.\n*How Does the Sun Work?* ⚛️\nThe Sun produces energy in its center, called the core, through a process called nuclear fusion. This is when hydrogen gas turns into helium, creating lots of heat and light.",
 
-    "*Why is the Sun Important?* 🌟\n- The Sun’s gravity keeps all the planets, like Earth, in orbit around it.\n- It gives us light and warmth so plants can grow, and we can live on Earth.\n- The Sun also helps control Earth’s weather and seasons.",
+    "*Why is the Sun Important?* 🌟\nThe Sun’s gravity keeps all the planets, like Earth, in orbit around it.\nIt gives us light and warmth so plants can grow, and we can live on Earth.\nThe Sun also helps control Earth’s weather and seasons.",
 
-    "*Interesting Facts About the Sun* 🌈\n- The Sun is so big that 1 million Earths could fit inside it!\n- Light from the Sun takes about 8 minutes to reach Earth.\n- Without the Sun, our planet would be dark and frozen."
+    "*\nInteresting Facts About the Sun* 🌈\nThe Sun is so big that 1 million Earths could fit inside it!\nLight from the Sun takes about 8 minutes to reach Earth.\nWithout the Sun, our planet would be dark and frozen."
   ],
   "video_link":"https://youtu.be/VkW54j82e9U?si=dMl8Ai5IbnQLOv4B",
   "title":"The Sun: Heart of Our Solar System",
@@ -5186,11 +5186,11 @@
 },      {
   "subtopicName": "Milky Way 🌌",
     "description": [
-      "*What is the Milky Way?* 🌌\nThe Milky Way is the giant family where our solar system lives! It is a huge group of stars, planets, and other space objects held together by gravity. It’s called a galaxy, and it’s our home in space.\n*What is at the Center?* 🌠\nAt the center of the Milky Way, there is a supermassive black hole called Sagittarius A*. It’s super strong and pulls everything around it with its gravity.",
+      "*What is the Milky Way?* 🌌\nThe Milky Way is the giant family where our solar system lives! It is a huge group of stars, planets, and other space objects held together by gravity. It’s called a galaxy, and it’s our home in space.\n*What is at the Center?* 🌠\nAt the center of the Milky Way, there is a supermassive black hole called Sagittarius A. It’s super strong and pulls everything around it with its gravity.",
   
       "*How Big is the Milky Way?* 🌟\nThe Milky Way is so big that it would take light 100,000 years to travel from one side to the other. It is shaped like a big spiral with arms that spin around.",
   
-      "*Amazing Facts About the Milky Way* ✨\n- The Milky Way has more than 100 billion stars! Each star could have its own planets, just like the Sun has Earth.\n- Our solar system takes about 250 million years to go around the center of the Milky Way.\n- From Earth, we can see the Milky Way as a bright, cloudy band in the night sky."
+      "\n*Amazing Facts About the Milky Way* ✨\nThe Milky Way has more than 100 billion stars! Each star could have its own planets, just like the Sun has Earth.\nOur solar system takes about 250 million years to go around the center of the Milky Way.\nFrom Earth, we can see the Milky Way as a bright, cloudy band in the night sky."
     ],
     "video_link": "https://youtu.be/RubnGwhcT6E?si=IYNy-FRjsBtuitdX",
     "title": "Mikey Way: The Bass Behind the Beat",
@@ -6511,7 +6511,7 @@
 
           "*What Happens to Them?* 🔥\nMost shooting stars burn up completely before they reach the ground. But if a piece survives and lands on Earth, it’s called a meteorite.",
       
-          "*Fun Facts!* ✨\n- Shooting stars travel super fast, up to 72 kilometers per second!\n- The bright flash happens because of the heat from rubbing against the air as they fall.\n- Watching meteor showers is a great activity. You can see hundreds of shooting stars on special nights!"
+          "\n*Fun Facts!* ✨\nShooting stars travel super fast, up to 72 kilometers per second!\nThe bright flash happens because of the heat from rubbing against the air as they fall.\nWatching meteor showers is a great activity. You can see hundreds of shooting stars on special nights!"
         ],
         "video_link": "https://www.youtube.com/watch?v=-tqw_GoRFKY",
         "title": "Space Phenomena: Mysteries of the Cosmos",
@@ -7923,11 +7923,11 @@
             {
               "subtopicName": "Astromet ☄️",
               "description": [
-                        "*What are Comets?* ☄️\nComets are like icy snowballs in space that travel around the Sun. When they get close to the Sun, they heat up, and their ice turns into gas, creating a glowing tail that can stretch across the sky! 🌟\n*Types of Comets* 🌌\n- **Short-Period Comets:** These comets take less than 200 years to go around the Sun.\n- **Long-Period Comets:** These comets take more than 200 years to orbit the Sun.",
+                        "*What are Comets?* ☄️\nComets are like icy snowballs in space that travel around the Sun. When they get close to the Sun, they heat up, and their ice turns into gas, creating a glowing tail that can stretch across the sky! 🌟\n*Types of Comets* 🌌\n**Short-Period Comets:** These comets take less than 200 years to go around the Sun.\n*Long-Period Comets:** These comets take more than 200 years to orbit the Sun.",
 
                        "*What are Asteroids?* 🪨\nAsteroids are big rocks that also travel around the Sun. Most of them are found in a special area between the planets Mars and Jupiter called the asteroid belt. Unlike comets, asteroids don’t have tails.",
 
-                       "*Fun Facts!* ✨\n- Asteroids can be as small as a pebble or as big as a mountain!\n- Comets leave behind dust trails that can create meteor showers when Earth passes through them.\n- Scientists study asteroids and comets to learn about how our solar system was formed billions of years ago!"
+                       "\n*Fun Facts!* ✨\nAsteroids can be as small as a pebble or as big as a mountain!\nComets leave behind dust trails that can create meteor showers when Earth passes through them.\nScientists study asteroids and comets to learn about how our solar system was formed billions of years ago!"
                  ],
                  "video_link": "https://youtu.be/UHK-fbdbwF8?si=w2nqdloRtIInsBne",
                  "title": "Comets and Asteroids: Cosmic Travelers",
@@ -9283,11 +9283,11 @@
             {
               "subtopicName": "Satellites 🛰️",
              "description": [
-                     "*What are Manmade Satellites?* 🛰️\nManmade satellites are machines that humans send into space to go around Earth or other planets. They help us do many important things like watching the weather, talking on the phone, using the internet, and finding directions with GPS. 🌍 \n*Types of Satellites and Their Jobs* 🌌\n- **Communication Satellites:** Help us make phone calls, watch TV, and use the internet.\n- **Weather Satellites:** Watch clouds and storms to tell us what the weather will be like.\n- **Scientific Satellites:** Study Earth’s atmosphere, climate change, and even other planets and stars.",
+                     "*What are Manmade Satellites?* 🛰️\nManmade satellites are machines that humans send into space to go around Earth or other planets. They help us do many important things like watching the weather, talking on the phone, using the internet, and finding directions with GPS. 🌍 \n*Types of Satellites and Their Jobs* 🌌\n**Communication Satellites:** Help us make phone calls, watch TV, and use the internet.\n**Weather Satellites:** Watch clouds and storms to tell us what the weather will be like.\n**Scientific Satellites:** Study Earth’s atmosphere, climate change, and even other planets and stars.",
 
                     "*How Did It Start?* 🚀\nThe first satellite, **Sputnik 1**, was launched into space in 1957 by the Soviet Union. This was the start of the space age! Now, thousands of satellites help us every day. 📡",
 
-                    "*Fun Facts!* ✨\n- Some satellites are as small as a shoebox, while others are as big as a bus! 🚎\n- Without satellites, we wouldn’t have GPS to help us find our way! 🗺️\n- Satellites can also help scientists study faraway galaxies and look for life on other planets! 🌌"
+                    "\n*Fun Facts!* ✨\nSome satellites are as small as a shoebox, while others are as big as a bus! 🚎\nWithout satellites, we wouldn’t have GPS to help us find our way! 🗺️\nSatellites can also help scientists study faraway galaxies and look for life on other planets! 🌌"
                    ],
                    "video_link": "https://youtu.be/n70zjMvm8L0?si=rqFx0pw_C28Be2ps",
                    "title": "Satellites: Eyes in the Sky",
@@ -10598,11 +10598,11 @@
           {
             "subtopicName": "Spacecraft 🚀",
            "description": [
-                  "*What are Space Shuttles?* 🚀\nSpace shuttles were special spacecraft used by NASA to carry astronauts and things like satellites and tools into space. They could also come back to Earth and be used again! 🌍 These shuttles flew from **1981 to 2011**, helping us learn a lot about space.\n*Why Were Space Shuttles Special?* ✨\n- They could be used many times, saving money and helping scientists explore space more easily. 🔄\n- They carried tools to study space, astronauts to work, and even parts to build the ISS! 🛠️",
+                  "*What are Space Shuttles?* 🚀\nSpace shuttles were special spacecraft used by NASA to carry astronauts and things like satellites and tools into space. They could also come back to Earth and be used again! 🌍 These shuttles flew from **1981 to 2011**, helping us learn a lot about space.\n*Why Were Space Shuttles Special?* ✨\nThey could be used many times, saving money and helping scientists explore space more easily. 🔄\nThey carried tools to study space, astronauts to work, and even parts to build the ISS! 🛠️",
 
-                   "*Famous Space Shuttles* 🛰️\nThere were **five main shuttles**, and some famous ones were:\n- **Challenger**\n- **Columbia**\n- **Atlantis**\nThey went on many important missions, like building the **International Space Station (ISS)** and releasing satellites into space.",
+                   "*Famous Space Shuttles* 🛰️\nThere were **five main shuttles**, and some famous ones were:\n**Challenger**\n**Columbia**\n**Atlantis**\nThey went on many important missions, like building the **International Space Station (ISS)** and releasing satellites into space.",
 
-                   "*Fun Facts!* 🌌\n- Space shuttles flew **135 times** during their 30 years of service. 🚀\n- They helped fix and upgrade the **Hubble Space Telescope**, which takes amazing pictures of faraway galaxies! 🔭\n- Each shuttle had three parts: the **orbiter** (where astronauts sat), **fuel tank**, and **boosters** to help it blast into space! 🔥"
+                   "\n*Fun Facts!* 🌌\nSpace shuttles flew **135 times** during their 30 years of service. 🚀\nThey helped fix and upgrade the **Hubble Space Telescope**, which takes amazing pictures of faraway galaxies! 🔭\nEach shuttle had three parts: the **orbiter** (where astronauts sat), **fuel tank*, and *boosters** to help it blast into space! 🔥"
                   ],
                   "video_link": "https://youtu.be/cFBRawYov00?si=iI1lI8ehUL2N9cSF",
                   "title": "Space Shuttles",
@@ -12003,11 +12003,11 @@
           {
             "subtopicName": "Telescopes 🔭",
             "description": [
-              "*What are Space Telescopes?* 🔭\nSpace telescopes are special tools that float in space to help scientists see things far away in the universe. 🪐 They are better than Earth telescopes because they don’t have to look through clouds or air. 🌌 \n*Why Are Space Telescopes Important?* 🌟\n- They help us learn about how galaxies and stars are made. 🪐\n- They show us planets outside our solar system called **exoplanets**! 🌍\n- They also teach us about mysterious things like black holes. 🕳️",
+              "*What are Space Telescopes?* 🔭\nSpace telescopes are special tools that float in space to help scientists see things far away in the universe. 🪐 They are better than Earth telescopes because they don’t have to look through clouds or air. 🌌 \n*Why Are Space Telescopes Important?* 🌟\nThey help us learn about how galaxies and stars are made. 🪐\nThey show us planets outside our solar system called **exoplanets**! 🌍\nThey also teach us about mysterious things like black holes. 🕳️",
           
-              "*Famous Space Telescopes* ✨\nHere are some amazing space telescopes:\n- **Hubble Space Telescope:** Takes beautiful pictures of galaxies and stars. 🌠\n- **James Webb Space Telescope:** Looks at very faraway things and how the first stars were born. 🌟\n- **Chandra X-ray Observatory:** Studies black holes and things that give off X-rays in space. 🌀",
+              "*Famous Space Telescopes* ✨\nHere are some amazing space telescopes :\n**Hubble Space Telescope:** Takes beautiful pictures of galaxies and stars. 🌠\n**James Webb Space Telescope :** Looks at very faraway things and how the first stars were born. 🌟\n**Chandra X-ray Observatory :** Studies black holes and things that give off X-rays in space. 🌀",
       
-              "*Fun Facts!* 🛰️\n- The **Hubble Space Telescope** has been in space for more than 30 years and still takes amazing pictures! 🌠\n- The **James Webb Telescope** is so powerful it can see stars that are billions of years old! 🌌\n- Space telescopes don’t get blurry pictures because there’s no air in space to block their view. 🌈"
+              "\n*Fun Facts!* 🛰️\nThe **Hubble Space Telescope** has been in space for more than 30 years and still takes amazing pictures! 🌠\nThe **James Webb Telescope** is so powerful it can see stars that are billions of years old! 🌌\nSpace telescopes don’t get blurry pictures because there’s no air in space to block their view. 🌈"
             ],
             "video_link": "https://youtu.be/B_r3Y-jHs-E?si=N-G-xAHI8pDEHlf0",
             "title": "The Magic of Space Telescopes: Seeing the Unseen",
@@ -13303,13 +13303,13 @@
         "topicName": "India’s Space Missions 🌕",
         "subtopics": [
             {
-                "subtopicName": "Moon Mission 🌙",
+                "subtopicName": "Moon mission",
                 "description": [
-                        "*India's Amazing Moon Missions* 🌕\nIndia has sent several exciting missions to the Moon led by **ISRO** (Indian Space Research Organisation). 🚀 These missions show how India is exploring space and learning about the Moon.\n*Chandrayaan-1* 🚀\nIn 2008, India launched its first Moon mission called **Chandrayaan-1**. It found **water molecules** on the Moon’s surface, which was a big discovery! 💧\n*Chandrayaan-2* 🚀\nIn 2019, India sent **Chandrayaan-2** to try landing on the Moon’s south pole. 🌌 Even though the landing didn’t go as planned, the orbiter still studies the Moon today! 🔭\n*Chandrayaan-3* 🚀🌟\nIn 2023, India made history with **Chandrayaan-3** by being the **first country** to land on the Moon’s south pole. 🎉 This was a big achievement for India and space exploration. 🌕",
+                        "*India's Amazing Moon Missions* 🌕\nIndia has sent several exciting missions to the Moon led by **ISRO** (Indian Space Research Organisation). 🚀 These missions show how India is exploring space and learning about the Moon.\n*Chandrayaan-1* 🚀\nIn 2008, India launched its first Moon mission called **Chandrayaan-1*. It found *water molecules** on the Moon’s surface, which was a big discovery! 💧\n*Chandrayaan-2* 🚀\nIn 2019, India sent **Chandrayaan-2** to try landing on the Moon’s south pole. 🌌 Even though the landing didn’t go as planned, the orbiter still studies the Moon today! 🔭\n*Chandrayaan-3* 🚀🌟\nIn 2023, India made history with **Chandrayaan-3** by being the **first country** to land on the Moon’s south pole. 🎉 This was a big achievement for India and space exploration. 🌕",
 
-                        "*Why Are These Missions Important?* 🛰️\n- They help us learn more about the Moon’s rocks and resources. 🪨\n- They show how India is becoming great at space technology. 🌟\n- They inspire kids and adults to dream about space! 🌌",
+                        "*Why Are These Missions Important?* 🛰️\nThey help us learn more about the Moon’s rocks and resources. 🪨\nThey show how India is becoming great at space technology. 🌟\nThey inspire kids and adults to dream about space! 🌌",
 
-                        "*Fun Fact!* 🌟\nThe Moon’s south pole is special because it may have **ice**, which can be used for water, oxygen, and even rocket fuel! 🚀"
+                        "\n*Fun Fact!* 🌟\nThe Moon’s south pole is special because it may have **ice**, which can be used for water, oxygen, and even rocket fuel! 🚀"
                         ],
                         "video_link": "https://youtu.be/nbkE7Q42uZE?si=_Ip9Swdrjy6EAgVc",
                         "title": "ISRO's Journey: From Earth to the Universe",
@@ -14683,15 +14683,15 @@
                 ]
               },
               {
-                "subtopicName": "The Mars Missions 🔴",
+                "subtopicName": "Mars Mission",
                    "description": [
-                            "*India's Amazing Mars Mission* 🔴\nIndia has done something incredible in space exploration! 🇮🇳 In **2013**, India sent a spacecraft called **Mangalyaan** (Mars Orbiter Mission) to the planet Mars. This made India the **first Asian country** to reach Mars and the **fourth country in the world** to do so. 🚀\n*Why Is This Mission Special?* 🌟\n- India completed this mission on a **low budget**, showing how smart and efficient our scientists are. 💡\n- It brought India **global recognition** in space science. 🌍\n- Mangalyaan helped us learn more about the **Red Planet**, which could help future missions to Mars! 🚀",
+                            "*India's Amazing Mars Mission* 🔴\nIndia has done something incredible in space exploration! In **2013*, India sent a spacecraft called **Mangalyaan** (Mars Orbiter Mission) to the planet Mars. This made India the **first Asian country** to reach Mars and the **fourth country in the world** to do so. 🚀\n*Why Is This Mission Special?* 🌟\nIndia completed this mission on a **low budget**, showing how smart and efficient our scientists are. 💡\nIt brought India **global recognition** in space science. 🌍\nMangalyaan helped us learn more about the **Red Planet**, which could help future missions to Mars! 🚀",
 
-                            "*What Did Mangalyaan Do?* 🛰️\nMangalyaan studied:\n- The **surface** of Mars to see what it looks like. 🪨\n- The **atmosphere** of Mars to check for gases. 🌬️\n- The **minerals** on Mars to learn about its rocks and soil. 🔍",
+                            "*What Did Mangalyaan Do?* 🛰️\nMangalyaan studied:\nThe **surface** of Mars to see what it looks like. 🪨\nThe **atmosphere** of Mars to check for gases. 🌬️\n The **minerals** on Mars to learn about its rocks and soil. 🔍",
 
-                            "*Fun Fact!* 🛠️\nMangalyaan was called a **technological marvel** because it was designed and built in record time and worked perfectly in its first attempt. Most countries take many tries to succeed in such missions! 🌌"
+                            "\n*Fun Fact!* 🛠️\nMangalyaan was called a **technological marvel** because it was designed and built in record time and worked perfectly in its first attempt. Most countries take many tries to succeed in such missions! 🌌"
                           ],
-                          "video_link": "https://youtu.be/XMsM9gyWdBI?si=0Wp_k2SZCp3dYqmo",
+                          "video_link": "https://www.youtube.com/watch?v=ObCapVnaO6o",
                           "title": "Mission Mangalyaan: India's Historic Journey to Mars",
                           "descrip": "Description: Discover the story of Mangalyaan, India’s first mission to Mars! Learn how ISRO achieved this historic milestone on a budget, making India a global space leader.",
                 "questionSets": [
@@ -16055,11 +16055,11 @@
           {
             "subtopicName": "Astronaut",
            "description": [
-                    "*Who Are Astronauts?* 👨‍🚀👩‍🚀\nAstronauts are amazing people who travel to **space** to learn about the universe and do exciting experiments. 🌌 They work beyond **Earth's atmosphere**, far away from home, and help us discover new things about space! 🚀\n*What Do Astronauts Do?* 🛰️\nAstronauts have many important jobs:\n- They **fly spacecraft** to explore space. 🚀\n- They do **spacewalks**, which means stepping outside their spacecraft to fix things or do experiments. 🪐\n- They work on the **International Space Station (ISS)** with astronauts from other countries, learning about the Earth, humans, and space! 🌍\n*How Do You Become an Astronaut?* 🎓\nBecoming an astronaut is tough but exciting! They learn about **science**, **engineering**, and **space travel**. 🚀 Astronauts also stay super **fit** to handle challenges in space. 💪 Many astronauts were **pilots**, **scientists**, or **doctors** before going to space. 🌟",
+                    "*Who Are Astronauts?* 👨‍🚀👩‍🚀\nAstronauts are amazing people who travel to **space** to learn about the universe and do exciting experiments. 🌌 They work beyond **Earth's atmosphere**, far away from home, and help us discover new things about space! 🚀\n*What Do Astronauts Do?* 🛰️\nAstronauts have many important jobs:\nThey **fly spacecraft** to explore space. 🚀\nThey do **spacewalks**, which means stepping outside their spacecraft to fix things or do experiments. 🪐\nThey work on the **International Space Station (ISS)** with astronauts from other countries, learning about the Earth, humans, and space! 🌍\n*How Do You Become an Astronaut?* 🎓\nBecoming an astronaut is tough but exciting! They learn about **science*, **engineering**, and **space travel**. 🚀 Astronauts also stay super **fit** to handle challenges in space. 💪 Many astronauts were **pilots**, **scientists**, or *doctors** before going to space. 🌟",
 
-                    "*Why Are Astronauts Important?* 🌌\nAstronauts help us:\n- Discover new ways to **improve life on Earth**, like making better medicines and technology. 🩺\n- Understand space, which helps us learn how to live in faraway places someday! 🛸",
+                    "*Why Are Astronauts Important?* 🌌\nAstronauts help us:\nDiscover new ways to **improve life on Earth**, like making better medicines and technology. 🩺\nUnderstand space, which helps us learn how to live in faraway places someday! 🛸",
 
-                    "*Fun Fact!* 🌟\nAstronauts eat special food in space, and they sometimes float around because there’s no gravity! 🍎✨"
+                    "\n*Fun Fact!* 🌟\nAstronauts eat special food in space, and they sometimes float around because there’s no gravity! 🍎✨"
                   ],
                   "video_link": "https://youtu.be/P-95q_P6kFU?si=b1hDvuIxg2xV0teZ",
                   "title": "Humans in Space: Stories from the Final Frontier",
