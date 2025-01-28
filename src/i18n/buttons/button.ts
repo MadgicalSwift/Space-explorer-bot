@@ -6,6 +6,7 @@ export function createMainTopicButtons(from: string) {
   // Extract topic names from the data
   const topics = data.topics.map((topic) => topic.topicName);
 
+  
   // Create buttons for each topic
   const buttons = topics.map((topicName) => ({
     type: 'solid',
