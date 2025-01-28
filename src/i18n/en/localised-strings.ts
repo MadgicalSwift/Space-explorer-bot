@@ -1,4 +1,5 @@
 import { changeTopic } from "../buttons/button";
+import { UserService } from 'src/model/user.service';
 
 export const localised = {
   seeMoreMessage: 'See More Data',
@@ -15,6 +16,8 @@ export const localised = {
   chooseTopic:"What do you like to explore today? Please select a topic to get started!!",
   retakeQuiz:'Retake Quiz',
   startQuiz: 'Start Quiz',
+
+  sendInformationMessage : `🌟 Hello Sangeeta !\nFor every correct answer, you earn 1 mark. Don’t worry—no marks will be deducted for wrong answers. 😊\n\n🏅 Scoring Rewards:\n- Gold 🥇: Total score = 10\n- Silver 🥈: Total score ≥ 7\n- Bronze 🥉: Total score ≥ 5\n\n✨ Complete the quiz to discover your final score! Keep it up—you’ve got this! 💪`,
   Moreexplanation:'More Explanation',
   viewChallenge:"View Challenges",
   endMessage:"Whenever you're ready to continue, just type 'Hi' to start the bot again. Looking forward to helping you out! 😊",

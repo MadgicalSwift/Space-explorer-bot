@@ -57,6 +57,8 @@ export class ChatbotService {
   
     // Convert plain user data to a User class instance
     const user = plainToClass(User, userData);
+    console.log('button_response',button_response);
+    console.log('username',userData.name);
     
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
@@ -65,6 +67,8 @@ export class ChatbotService {
         return localised.ok;
       }
     }
+    
+    
     // Handle button response from the user
     else if (button_response) {
       const buttonBody = button_response.body;
@@ -127,8 +131,12 @@ export class ChatbotService {
         return localised.ok;
       }
       // Handle 'Test Yourself' button - show difficulty options to the user
-
+      
       if (buttonBody === localised.startQuiz) {
+
+        // await this.
+        
+        await this.message.sendInformationMessage(from);
         
         user.questionsAnswered=0;
         await this.userService.saveUser(user);
