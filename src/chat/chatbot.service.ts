@@ -57,8 +57,8 @@ export class ChatbotService {
   
     // Convert plain user data to a User class instance
     const user = plainToClass(User, userData);
-    console.log('button_response',button_response);
-    console.log('username',userData.name);
+    // console.log('button_response',button_response);
+    // console.log('username',userData.name);
     let username = userData.name
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
@@ -134,12 +134,8 @@ export class ChatbotService {
       
       if (buttonBody === localised.startQuiz) {
 
-        // await this.
-        
-        // let username = userData.name
-        
+        // sendInformationMessage function
         await this.message.sendInformationMessage(from, username);
-        
         
         user.questionsAnswered=0;
         await this.userService.saveUser(user);

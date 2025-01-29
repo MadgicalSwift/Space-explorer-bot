@@ -144,28 +144,127 @@ export function createTestYourSelfButton(
 }
 
 
-export function videoWithButton(from: string, videoUrl: string, videoTitle: string , subTopic: string, aboutVideo: string) {
-  console.log(videoUrl);
-  console.log(videoTitle);
+// export function videoWithButton(from: string, videoUrl: string, videoTitle: string , subTopic: string, aboutVideo: string) {
+//   // console.log(videoUrl);
+//   // console.log(videoTitle);
+//   console.log('enter the function', videoUrl);
+  
+//   return {
+//     to: from, // Recipient's mobile number
+//     type: "article", // Message type is article
+//     article: [
+//       {
+//         tags: [`${subTopic}`], // Subtopic name
+//         title: videoTitle, // Title of the video
+//         header: {
+//           type: "text",
+//           text: {
+//             body: videoUrl[0], // URL of the video
+//           },
+//         },
+//         description: aboutVideo
+//       }
+//     ],
+//   };
+// }
+
+
+// export function videoWithButton(from: string, videoUrl: string, videoTitle: string , subTopic: string, aboutVideo: string) {
+//   console.log('videoUrl  ==>',videoUrl);
+//   console.log('videoTitle==>',videoTitle);
+
+//   return {
+//     to: from, // Recipient's mobile number
+//     type: "article", // Message type is an article
+//     article: videoUrl.map((url) => ({
+//       tags: [subTopic], // Subtopic name
+//       title: videoTitle, // Video title
+//       header: {
+//         type: "video",
+//         media: url, // Each video URL
+//       },
+//       description: aboutVideo, // Video description
+//     })),
+//   };
+//   // return {
+//   //   to: from, // Recipient's mobile number
+//   //   type: "article", // Message type is article
+//   //   article: [
+//   //     {
+//   //       tags: [`${subTopic}`], // Subtopic name
+//   //       title: videoTitle, // Title of the video
+//   //       header: {
+//   //         type: "text",
+//   //         text: {
+//   //           body: videoUrl, // URL of the video
+//   //         },
+//   //       },
+//   //       description: aboutVideo
+//   //     },
+//   //   ],
+//   // };
+// }
+export function videoWithButton(
+  from: string, 
+  videoUrl: string[],  // Ensure this is an array
+  videoTitle: string, 
+  subTopic: string, 
+  aboutVideo: string
+) {
+  console.log('videoUrls ==>', videoUrl);
+  console.log('videoTitle ==>', videoTitle);
+
+  // Ensure videoUrls is an array before using .map()
+  if (!Array.isArray(videoUrl)) {
+    console.error("Error: videoUrls should be an array but received:", typeof videoUrl);
+    return;
+  }
 
   return {
     to: from, // Recipient's mobile number
-    type: "article", // Message type is article
-    article: [
-      {
-        tags: [`${subTopic}`], // Subtopic name
-        title: videoTitle, // Title of the video
-        header: {
-          type: "text",
-          text: {
-            body: videoUrl, // URL of the video
-          },
+    type: "article", // Message type is an article
+    article: videoUrl.map((url) => ({
+      tags: [`${subTopic}`], // Subtopic name
+      title: videoTitle, // Video title
+      header: {
+        type:  "text",
+        text: {
+          body: url, // URL of the video
         },
-        description: aboutVideo
       },
-    ],
+      description: aboutVideo, // Video description
+    })),
   };
 }
+
+
+
+// export function sendVideos(from: string, videos: Array<{ videoUrl: string, videoTitle: string, subTopic: string, aboutVideo: string }>) {
+//   console.log("Sending videos:", videos);
+
+//   // Generate the article array by mapping over the videos
+//   const articles = videos.map(video => ({
+//     tags: [`${video.subTopic}`], // Subtopic name
+//     title: video.videoTitle, // Title of the video
+//     header: {
+//       type: "text",
+//       text: {
+//         body: video.videoUrl, // URL of the video
+//       },
+//     },
+//     description: video.aboutVideo
+//   }));
+
+//   return {
+//     to: from, // Recipient's mobile number
+//     type: "article", // Message type is article
+//     article: articles, // Multiple articles for multiple videos
+//   };
+// }
+
+
+
+
 
 
 
