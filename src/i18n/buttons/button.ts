@@ -151,8 +151,8 @@ export function videoWithButton(
   subTopic: string, 
   aboutVideo: string
 ) {
-  console.log('videoUrls ==>', videoUrl);
-  console.log('videoTitle ==>', videoTitle);
+  // console.log('videoUrls ==>', videoUrl);
+  // console.log('videoTitle ==>', videoTitle);
 
   // Ensure videoUrls is an array before using .map()
   if (!Array.isArray(videoUrl)) {
@@ -332,7 +332,7 @@ export function optionButton(
     (subtopic) => subtopic.subtopicName === selectedSubtopic,
   );
   
-  
+
   // Find the question set based on difficulty and set number
   const questionSet = subtopic.questionSets.find(
     (set) =>

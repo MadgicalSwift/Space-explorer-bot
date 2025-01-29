@@ -138,7 +138,7 @@ export class SwiftchatMessageService extends MessageService {
     },
   });
     await this.sendScore(from,score,totalQuestions,badge);
-    console.log(response)
+    // console.log(response)
     return response;
   }
 
@@ -163,11 +163,15 @@ export class SwiftchatMessageService extends MessageService {
     return { response, randomSet };
   }
 
+  // start
+
   async sendExplanation(
     from: string,
     description: string,
     subtopicName: string,
   ) {
+    // console.log('description of topic ==>', description);
+    
     const messageData = createButtonWithExplanation(
       from,
       description,
@@ -186,6 +190,8 @@ export class SwiftchatMessageService extends MessageService {
     description: string[],
     subtopicName: string,
   ) {
+    // console.log('list of des ==>', description);
+    
     let completeDescription = '';
     description.slice(1).forEach((desc, index) => {
       // Add each element to the string, ensuring no commas are added
@@ -205,42 +211,16 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
 
+  // end
+
 
    // sendVideo function to prepare and send the video message
-  // original
-
-  //  async sendVideo(from: string, videoUrl: string, title:any, subTopic: string, aboutVideo: string ) {
-  //   if (!videoUrl) {
-  //     return;
-  //   }
-  //       console.log(videoUrl)
-  //       const videoData = videoWithButton(
-  //              from, // The recipient's phone number
-  //             videoUrl, // Video URL
-  //             title,
-  //             subTopic,
-  //             aboutVideo
-  //         );
-  //      console.log('videoDAta',videoData)
-  //   // Send the video message using the sendMessage function
-  //   try {
-
-  //     const response = await this.sendMessage(this.baseUrl, videoData, this.apiKey);
-  //     console.log('Message sent successfully:', response);
-  //     return response
-  //   } catch (error) {
-  //     console.error('Error sending video message:', error);
-  //   }
-  // }
-
-
-  // demo
-  // sendVideo function to prepare and send the video message
+  
   async sendVideo(from: string, videoUrl: any, title:any, subTopic: string, aboutVideo: string ) {
     if (!videoUrl) {
       return;
     }
-        console.log('videoUrl=>',videoUrl)
+        // console.log('videoUrl=>',videoUrl)
         const videoData = videoWithButton(
                from, // The recipient's phone number
               videoUrl, // Video URL
@@ -248,47 +228,17 @@ export class SwiftchatMessageService extends MessageService {
               subTopic,
               aboutVideo
           );
-       console.log('videoData => ',videoData)
+      //  console.log('videoData => ',videoData)
     // Send the video message using the sendMessage function
     try {
 
       const response = await this.sendMessage(this.baseUrl, videoData, this.apiKey);
-      console.log('Message sent successfully:', response);
+      // console.log('Message sent successfully:', response);
       return response
     } catch (error) {
       console.error('Error sending video message:', error);
     }
   }
-
-  // async sendVideos(from: string, videos: Array<{ videoUrl: string, title: any, subTopic: string, aboutVideo: string }>) {
-  //   if (!videos || videos.length === 0) {
-  //     return;
-  //   }
-  
-  //   console.log("Sending videos:", videos);
-  
-  //   // Loop through each video and send the message
-  //   for (let video of videos) {
-  //     const videoData = videoWithButton(
-  //       from, // The recipient's phone number
-  //       video.videoUrl, // Video URL
-  //       video.title, // Video title
-  //       video.subTopic, // Subtopic name
-  //       video.aboutVideo // About video description
-  //     );
-  
-  //     console.log(videoData);
-  
-  //     // Send the video message using the sendMessage function
-  //     try {
-  //       const response = await this.sendMessage(this.baseUrl, videoData, this.apiKey);
-  //       console.log('Message sent successfully:', response);
-  //     } catch (error) {
-  //       console.error('Error sending video message:', error);
-  //     }
-  //   }
-  // }
-  
 
 
   async checkAnswer(

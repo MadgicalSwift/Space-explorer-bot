@@ -43,7 +43,7 @@ export class ChatbotService {
   public async processMessage(body: any): Promise<any> {
     
     const { from, text, button_response,persistent_menu_response } = body;
-    console.log(persistent_menu_response)
+    // console.log(persistent_menu_response)
 
     // Retrieve botID from environment variables
     const botID = process.env.BOT_ID;
@@ -208,7 +208,7 @@ export class ChatbotService {
             userData.Botid,
             challengeData,
           );
-          console.log("Challenge Data:",challengeData)
+          // console.log("Challenge Data:",challengeData)
           
           // await this.message.sendScore(
           //   from,
@@ -252,7 +252,13 @@ export class ChatbotService {
           .find((subtopic) => subtopic.subtopicName === buttonBody);
         if (subtopic) {
           const subtopicName = subtopic.subtopicName;
-          const description = subtopic.description[0];
+          // console.log('list of descripition1',subtopic.description);
+          
+          const description = subtopic.description;
+          
+          console.log('list of explantion', description);
+          console.log('length of explantion' ,description.length);
+          
           
           const videoUrl =subtopic.video_link;
           const title = subtopic.title;
@@ -264,8 +270,12 @@ export class ChatbotService {
 
           await this.userService.saveUser(user);
           await this.message.sendVideo(from, videoUrl, title, subTopic, aboutVideo);
-
+          if (description.length==6){
+            await this.message.sendCompleteExplanation(from, description, topic);
+          }
+          
           await this.message.sendExplanation(from, description, subtopicName);
+          // descriptionIndex +=1 
 
         } 
       }
@@ -275,7 +285,7 @@ export class ChatbotService {
 
     // Handle text message input - reset user data and send a welcome message
     else{
-      console.log(text.body)
+      // console.log(text.body)
       if (localised.validText.includes(text.body)) {
         const userData = await this.userService.findUserByMobileNumber(
           from,
@@ -288,7 +298,7 @@ export class ChatbotService {
         }
         // reset user data to start playing the game
         await this.userService.resetUserData(user)
-        console.log("user data -",userData)
+        // console.log("user data -",userData)
         if(userData.name==null){
           await this.message.sendWelcomeMessage(from, user.language);
           await this.message.sendName(from);
@@ -317,7 +327,7 @@ export class ChatbotService {
 
   async handleViewChallenges(from: string, userData: any): Promise<void>{
     try { 
-      console.log(userData)
+      // console.log(userData)
       const topStudents = await this.userService.getTopStudents(
         userData.Botid,
         userData.selectedMainTopic,

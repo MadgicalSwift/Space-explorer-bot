@@ -4,6 +4,8 @@ export class User {
   @IsString()
   mobileNumber: string;
 
+  
+
   @IsString()
   language: string;
 
