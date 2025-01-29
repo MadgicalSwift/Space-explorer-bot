@@ -59,7 +59,7 @@ export class ChatbotService {
     const user = plainToClass(User, userData);
     console.log('button_response',button_response);
     console.log('username',userData.name);
-    
+    let username = userData.name
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
         await this.resetQuizData(user);
@@ -136,7 +136,10 @@ export class ChatbotService {
 
         // await this.
         
-        await this.message.sendInformationMessage(from);
+        // let username = userData.name
+        
+        await this.message.sendInformationMessage(from, username);
+        
         
         user.questionsAnswered=0;
         await this.userService.saveUser(user);

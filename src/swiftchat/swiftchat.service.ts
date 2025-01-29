@@ -60,19 +60,8 @@ export class SwiftchatMessageService extends MessageService {
   }
 
 
-  // sendInformationMessage function
-  async sendInformationMessage(from: string) {
-    
-    const message= localised.sendInformationMessage;
-    const requestData= this.prepareRequestData(from, message);
-    const response = await this.sendMessage(
-      this.baseUrl,
-      requestData,
-      this.apiKey,
-    );
-    return response;
-  }
 
+  
 
 
 
@@ -106,6 +95,32 @@ export class SwiftchatMessageService extends MessageService {
     );
     return response;
   }
+  // sendInformationMessage function
+  // async sendInformationMessage(from: string) {
+    
+  //   const message= localised.sendInformationMessage;
+  //   const requestData= this.prepareRequestData(from, message);
+  //   const response = await this.sendMessage(
+  //     this.baseUrl,
+  //     requestData,
+  //     this.apiKey,
+  //   );
+  //   return response;
+  // }
+
+  async sendInformationMessage(from: string, username: string) {
+    console.log('fun user name' ,username );
+    
+    const message = localised.InformationMessage(username); // Pass username dynamically
+    const requestData = this.prepareRequestData(from, message);
+    const response = await this.sendMessage(
+      this.baseUrl,
+      requestData,
+      this.apiKey
+    );
+    return response;
+  }
+
 
   async newscorecard(from: string, score: number, totalQuestions: number, badge:string) {
    

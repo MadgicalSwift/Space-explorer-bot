@@ -17,7 +17,9 @@ export const localised = {
   retakeQuiz:'Retake Quiz',
   startQuiz: 'Start Quiz',
 
-  sendInformationMessage : `🌟 Hello Sangeeta !\nFor every correct answer, you earn 1 mark. Don’t worry—no marks will be deducted for wrong answers. 😊\n\n🏅 Scoring Rewards:\n- Gold 🥇: Total score = 10\n- Silver 🥈: Total score ≥ 7\n- Bronze 🥉: Total score ≥ 5\n\n✨ Complete the quiz to discover your final score! Keep it up—you’ve got this! 💪`,
+  InformationMessage : (username :string) => `🌟 Hello ${username} !\nFor every correct answer, you earn 1 mark. Don’t worry—no marks will be deducted for wrong answers. 😊\n when you complete the quiz . You  will get the rewarded based on your scores.\n These are the 🏅 Scoring Rewards:\n- Gold 🥇: Total score = 10\n- Silver 🥈: Total score ≥ 7\n- Bronze 🥉: Total score ≥ 5\n\n✨ Complete the quiz to discover your final score! Keep it up—you’ve got this! 💪`,
+
+
   Moreexplanation:'More Explanation',
   viewChallenge:"View Challenges",
   endMessage:"Whenever you're ready to continue, just type 'Hi' to start the bot again. Looking forward to helping you out! 😊",
