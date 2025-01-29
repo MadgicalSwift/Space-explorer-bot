@@ -42,7 +42,7 @@ export abstract class MessageService {
   );
   abstract sendCompleteExplanation(
     from: string,
-    description: string[],
+    description: string,
     subtopicName: string,
   );
 

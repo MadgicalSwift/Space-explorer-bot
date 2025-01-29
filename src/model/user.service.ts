@@ -175,6 +175,7 @@ export class UserService {
         selectedSubtopic: user.selectedSubtopic,
         selectedSet: user.selectedSet,
         questionsAnswered: user.questionsAnswered,
+        descriptionIndex : user.descriptionIndex,
         score: user.score,
       },
     };
@@ -186,6 +187,7 @@ export class UserService {
     user.selectedSubtopic = null;
     user.score = 0;
     user.questionsAnswered = 0;
+    user.descriptionIndex =0 ;
 
     // Save the updated user object to DynamoDB
     await this.saveUser(user);

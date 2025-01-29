@@ -31,6 +31,9 @@ export class User {
   questionsAnswered: number = 0;
 
   @IsString()
+  descriptionIndex: number = 0;
+
+  @IsString()
   score: number = 0;
 
   challenges:Challenge[];

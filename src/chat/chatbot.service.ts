@@ -57,8 +57,8 @@ export class ChatbotService {
   
     // Convert plain user data to a User class instance
     const user = plainToClass(User, userData);
-    // console.log('button_response',button_response);
-    // console.log('username',userData.name);
+    // console.log('button_response-sangeeta',button_response);
+
     let username = userData.name
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
@@ -124,9 +124,22 @@ export class ChatbotService {
           .flatMap((topic) => topic.subtopics)
           .find((subtopic) => subtopic.subtopicName === topic);
         if (subtopic) {
-          const description = subtopic.description;
+          const descriptions = subtopic.description;
+         
+          
+          let description = descriptions[user.descriptionIndex]
+          const subtopicName = subtopic.subtopicName;
 
-          await this.message.sendCompleteExplanation(from, description, topic);
+          if ((descriptions.length-1) == user.descriptionIndex){
+            
+            await this.message.sendCompleteExplanation(from, description, topic);
+          }
+          else{
+            await this.message.sendExplanation(from, description, subtopicName);
+            user.descriptionIndex += 1; 
+            await this.userService.saveUser(user);
+
+          }
         } 
         return localised.ok;
       }
@@ -252,31 +265,22 @@ export class ChatbotService {
           .find((subtopic) => subtopic.subtopicName === buttonBody);
         if (subtopic) {
           const subtopicName = subtopic.subtopicName;
-          // console.log('list of descripition1',subtopic.description);
-          
-          const description = subtopic.description;
-          
-          console.log('list of explantion', description);
-          console.log('length of explantion' ,description.length);
-          
+
+          const descriptions = subtopic.description;
           
           const videoUrl =subtopic.video_link;
           const title = subtopic.title;
           const aboutVideo = subtopic.descrip
           let subTopic =subtopic.subtopicName
           
-          //console.log(subTopic)
           user.selectedSubtopic = subtopicName;
-
           await this.userService.saveUser(user);
-          await this.message.sendVideo(from, videoUrl, title, subTopic, aboutVideo);
-          if (description.length==6){
-            await this.message.sendCompleteExplanation(from, description, topic);
-          }
-          
-          await this.message.sendExplanation(from, description, subtopicName);
-          // descriptionIndex +=1 
 
+          await this.message.sendVideo(from, videoUrl, title, subTopic, aboutVideo);
+          let description = descriptions[user.descriptionIndex]
+          await this.message.sendExplanation(from, description, subtopicName);
+          user.descriptionIndex += 1; 
+          await this.userService.saveUser(user);
         } 
       }
 
@@ -322,6 +326,7 @@ export class ChatbotService {
     user.selectedSet = null;
     user.questionsAnswered = 0;
     user.score = 0;
+    user.descriptionIndex = 0;
     await this.userService.saveUser(user);
   }
 

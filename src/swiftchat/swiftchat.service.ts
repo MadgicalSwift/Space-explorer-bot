@@ -185,22 +185,19 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
 
+
+
+
   async sendCompleteExplanation(
     from: string,
-    description: string[],
+    description: string,
     subtopicName: string,
   ) {
-    // console.log('list of des ==>', description);
-    
-    let completeDescription = '';
-    description.slice(1).forEach((desc, index) => {
-      // Add each element to the string, ensuring no commas are added
-      completeDescription += desc;
-    });
+    // console.log('description of topic ==>', description);
     
     const messageData = createTestYourSelfButton(
       from,
-      completeDescription,
+      description,
       subtopicName,
     );
     const response = await this.sendMessage(
@@ -210,6 +207,31 @@ export class SwiftchatMessageService extends MessageService {
     );
     return response;
   }
+  // async sendCompleteExplanation(
+  //   from: string,
+  //   description: string[],
+  //   subtopicName: string,
+  // ) {
+  //   // console.log('list of des ==>', description);
+    
+  //   let completeDescription = '';
+  //   description.slice(1).forEach((desc, index) => {
+  //     // Add each element to the string, ensuring no commas are added
+  //     completeDescription += desc;
+  //   });
+    
+  //   const messageData = createTestYourSelfButton(
+  //     from,
+  //     completeDescription,
+  //     subtopicName,
+  //   );
+  //   const response = await this.sendMessage(
+  //     this.baseUrl,
+  //     messageData,
+  //     this.apiKey,
+  //   );
+  //   return response;
+  // }
 
   // end
 
