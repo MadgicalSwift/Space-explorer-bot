@@ -18299,1364 +18299,1318 @@
                 "setNumber": 1,
                 "questions": [
                   {
-                    "question": "Who was the first man to walk on the Moon?",
-                    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
-                    "answer": "Neil Armstrong",
-                    "explanation": "Neil Armstrong was the first person to walk on the Moon during the Apollo 11 mission in 1969."
+                    "question": "What is an astronaut?",
+                    "options": ["A person who explores the ocean", "A person who works in a laboratory", "A trained professional who works in space", "A person who works with computers"],
+                    "answer": "A trained professional who works in space",
+                    "explanation": "An astronaut is a trained professional who travels to and works in space, conducting scientific experiments and operating spacecraft."
                   },
                   {
-                    "question": "Which astronaut was the first woman in space?",
-                    "options": ["Sally Ride", "Valentina Tereshkova", "Mae Jemison", "Eileen Collins"],
-                    "answer": "Valentina Tereshkova",
-                    "explanation": "Valentina Tereshkova became the first woman to travel to space in 1963 aboard Vostok 6."
-                  },
-                  {
-                    "question": "What is the name of the first American astronaut in space?",
-                    "options": ["Alan Shepard", "John Glenn", "Gus Grissom", "Neil Armstrong"],
-                    "answer": "Alan Shepard",
-                    "explanation": "Alan Shepard was the first American astronaut to travel to space on May 5, 1961, during the Freedom 7 mission."
-                  },
-                  {
-                    "question": "Who was the first astronaut to spend an entire year in space?",
-                    "options": ["Scott Kelly", "Gennady Padalka", "Valentina Tereshkova", "Frank Rubio"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly spent 340 consecutive days aboard the International Space Station (ISS) from 2015 to 2016."
-                  },
-                  {
-                    "question": "Which astronaut flew the first mission of the Space Shuttle program?",
-                    "options": ["John Young", "Richard Truly", "Bob Crippen", "Fred Gregory"],
-                    "answer": "Bob Crippen",
-                    "explanation": "Bob Crippen was the commander of the first Space Shuttle mission, STS-1, which launched in April 1981."
-                  },
-                  {
-                    "question": "Who was the first astronaut to conduct a spacewalk?",
-                    "options": ["Alexey Leonov", "Ed White", "Jim Lovell", "Buzz Aldrin"],
-                    "answer": "Alexey Leonov",
-                    "explanation": "Alexey Leonov was the first person to conduct a spacewalk (extravehicular activity) on March 18, 1965."
-                  },
-                  {
-                    "question": "What is the name of the NASA program that landed humans on the Moon?",
-                    "options": ["Apollo", "Mercury", "Gemini", "Skylab"],
-                    "answer": "Apollo",
-                    "explanation": "The Apollo program was the NASA program that successfully landed humans on the Moon between 1969 and 1972."
-                  },
-                  {
-                    "question": "Which astronaut was the first to fly in space twice?",
-                    "options": ["John Glenn", "Gus Grissom", "Frank Borman", "Neil Armstrong"],
-                    "answer": "Gus Grissom",
-                    "explanation": "Gus Grissom was the first astronaut to fly in space twice, first on Liberty Bell 7 and then on Gemini 3."
-                  },
-                  {
-                    "question": "What is the main job of an astronaut aboard the International Space Station?",
-                    "options": ["Repairing satellites", "Conducting scientific research", "Space tourism", "Training for missions"],
-                    "answer": "Conducting scientific research",
-                    "explanation": "Astronauts aboard the ISS conduct scientific research in microgravity, studying everything from biology to physics."
-                  },
-                  {
-                    "question": "Who was the first person to fly in space?",
-                    "options": ["Neil Armstrong", "Yuri Gagarin", "Alan Shepard", "John Glenn"],
+                    "question": "Who was the first astronaut to travel into space?",
+                    "options": ["Yuri Gagarin", "Neil Armstrong", "John Glenn", "Sally Ride"],
                     "answer": "Yuri Gagarin",
-                    "explanation": "Yuri Gagarin was the first person to fly in space on April 12, 1961, aboard Vostok 1."
+                    "explanation": "Yuri Gagarin was the first astronaut to travel into space, marking a major achievement in 1961."
+                  },
+                  {
+                    "question": "Which American astronaut became the first to orbit Earth?",
+                    "options": ["Yuri Gagarin", "Neil Armstrong", "John Glenn", "Buzz Aldrin"],
+                    "answer": "John Glenn",
+                    "explanation": "John Glenn was the first American astronaut to orbit Earth, achieving this milestone in 1962."
+                  },
+                  {
+                    "question": "What is one of the key training facilities for astronauts?",
+                    "options": ["NASA’s Kennedy Space Center", "NASA’s Johnson Space Center", "SpaceX Headquarters", "The White House"],
+                    "answer": "NASA’s Johnson Space Center",
+                    "explanation": "NASA’s Johnson Space Center in Houston, Texas, is a major facility for astronaut training."
+                  },
+                  {
+                    "question": "What is a spacewalk?",
+                    "options": ["Walking on the Moon", "Repairing spacecraft from inside", "Leaving the spacecraft to work outside", "Exploring planets"],
+                    "answer": "Leaving the spacecraft to work outside",
+                    "explanation": "A spacewalk, also known as an EVA, is when astronauts leave the spacecraft to perform repairs or conduct experiments in space."
+                  },
+                  {
+                    "question": "What is the primary challenge of living in microgravity?",
+                    "options": ["Breathing oxygen", "Maintaining physical health", "Sleeping in weightlessness", "Using equipment"],
+                    "answer": "Sleeping in weightlessness",
+                    "explanation": "One of the challenges of living in microgravity is adapting to sleep in a weightless environment, as there is no up or down."
+                  },
+                  {
+                    "question": "What spacecraft allowed astronauts to travel to and from space between 1981 and 2011?",
+                    "options": ["Apollo spacecraft", "Space Shuttle", "SpaceX Dragon", "Voyager"],
+                    "answer": "Space Shuttle",
+                    "explanation": "The Space Shuttle was used for travel to and from space from 1981 to 2011, conducting many important missions."
+                  },
+                  {
+                    "question": "Who was the first woman to travel to space?",
+                    "options": ["Mae Jemison", "Sally Ride", "Valentina Tereshkova", "Krista McAuliffe"],
+                    "answer": "Valentina Tereshkova",
+                    "explanation": "Valentina Tereshkova was the first woman to travel into space, doing so in 1963."
+                  },
+                  {
+                    "question": "What did the Apollo missions achieve in the 1960s and 1970s?",
+                    "options": ["Orbited Mars", "Sent astronauts to the Moon", "Launched the first satellite", "Explored Jupiter"],
+                    "answer": "Sent astronauts to the Moon",
+                    "explanation": "The Apollo missions were the first to send astronauts to the Moon, with Neil Armstrong and Buzz Aldrin becoming the first humans to walk on the lunar surface."
+                  },
+                  {
+                    "question": "What is the future of astronaut missions likely to include?",
+                    "options": ["Space tourism", "Exploration of asteroids and Mars", "Sending robots to Earth", "Building a moon base on Earth"],
+                    "answer": "Exploration of asteroids and Mars",
+                    "explanation": "The future of astronauts includes exciting missions to explore Mars, the Moon, and asteroids, with companies like SpaceX leading the way."
                   }
                 ]
+
               },
               {
                 "setNumber": 2,
                 "questions": [
                   {
-                    "question": "Which astronaut was the first to circle the Earth?",
-                    "options": ["John Glenn", "Yuri Gagarin", "Neil Armstrong", "Alan Shepard"],
-                    "answer": "John Glenn",
-                    "explanation": "John Glenn was the first American to orbit the Earth, completing three orbits on February 20, 1962, aboard Friendship 7."
+                    "question": "What is the main job of an astronaut?",
+                    "options": ["To explore the ocean", "To travel in space", "To study animals", "To design rockets"],
+                    "answer": "To travel in space",
+                    "explanation": "Astronauts are trained professionals who travel to space to conduct scientific experiments and explore the universe."
                   },
                   {
-                    "question": "What is the term for an astronaut's training before going into space?",
-                    "options": ["Pre-flight training", "Space training", "Astronaut training", "Mission training"],
-                    "answer": "Astronaut training",
-                    "explanation": "Astronaut training involves rigorous physical and mental preparation for missions, including simulations and technical training."
+                    "question": "Who was the first human to orbit the Earth?",
+                    "options": ["Yuri Gagarin", "Valentina Tereshkova", "Neil Armstrong", "Buzz Aldrin"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin, a Soviet cosmonaut, was the first person to orbit Earth in 1961."
                   },
                   {
-                    "question": "Who was the first astronaut to command a Space Shuttle mission?",
-                    "options": ["John Young", "Bob Crippen", "Richard Truly", "Fred Gregory"],
-                    "answer": "John Young",
-                    "explanation": "John Young was the commander of the first Space Shuttle mission, STS-1, alongside pilot Bob Crippen in 1981."
+                    "question": "Which Apollo mission first landed humans on the Moon?",
+                    "options": ["Apollo 11", "Apollo 12", "Apollo 13", "Apollo 14"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the mission where Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon in 1969."
                   },
                   {
-                    "question": "Which astronaut became the first African American in space?",
-                    "options": ["Charles Bolden", "Mae Jemison", "Guion Bluford", "Jeanette Epps"],
-                    "answer": "Guion Bluford",
-                    "explanation": "Guion Bluford became the first African American in space on August 30, 1983, aboard the STS-8 mission."
+                    "question": "Which astronaut was the first to set foot on the Moon?",
+                    "options": ["Neil Armstrong", "Yuri Gagarin", "Sally Ride", "John Glenn"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong was the first person to set foot on the Moon during the Apollo 11 mission in 1969."
                   },
                   {
-                    "question": "What is the name of the program that sent astronauts to the Moon?",
-                    "options": ["Apollo", "Gemini", "Mercury", "Orion"],
-                    "answer": "Apollo",
-                    "explanation": "The Apollo program was a series of missions that landed humans on the Moon from 1969 to 1972."
+                    "question": "Which space program sent astronauts to the Moon?",
+                    "options": ["Mercury Program", "Gemini Program", "Apollo Program", "SpaceX Program"],
+                    "answer": "Apollo Program",
+                    "explanation": "The Apollo Program was responsible for sending astronauts to the Moon, with Apollo 11 being the first successful mission."
                   },
                   {
-                    "question": "Who was the first astronaut to live on the International Space Station?",
-                    "options": ["Sergei Krikalev", "Yuri Malyshev", "Chris Hadfield", "Scott Kelly"],
-                    "answer": "Sergei Krikalev",
-                    "explanation": "Sergei Krikalev was part of the first crew to inhabit the International Space Station in November 2000."
+                    "question": "What is the term for working outside the spacecraft?",
+                    "options": ["Spacewalk", "Mission", "Landing", "Orbit"],
+                    "answer": "Spacewalk",
+                    "explanation": "A spacewalk, also known as an EVA (extravehicular activity), is when an astronaut leaves the spacecraft to perform work in space."
+                  },
+                  {
+                    "question": "Which astronaut was the first to walk on the Moon?",
+                    "options": ["John Glenn", "Sally Ride", "Buzz Aldrin", "Neil Armstrong"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong was the first astronaut to walk on the Moon during the Apollo 11 mission."
                   },
                   {
                     "question": "What do astronauts wear during spacewalks?",
-                    "options": ["Space suits", "Flight suits", "Casual wear", "Pressure suits"],
-                    "answer": "Space suits",
-                    "explanation": "Astronauts wear specialized space suits during spacewalks to protect them from the harsh environment of space."
+                    "options": ["Space helmet", "Space suit", "Space boots", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "Astronauts wear a full space suit, including a helmet, to protect themselves from the harsh environment of space during spacewalks."
                   },
                   {
-                    "question": "Which astronaut was the first woman to command a Space Shuttle mission?",
-                    "options": ["Sally Ride", "Eileen Collins", "Mae Jemison", "Linda Godwin"],
-                    "answer": "Eileen Collins",
-                    "explanation": "Eileen Collins was the first woman to command a Space Shuttle mission, leading STS-93 in 1999."
+                    "question": "What was the main purpose of the Space Shuttle program?",
+                    "options": ["Exploring Mars", "Building a space station", "Transporting astronauts and cargo", "Studying asteroids"],
+                    "answer": "Transporting astronauts and cargo",
+                    "explanation": "The Space Shuttle program's primary purpose was to transport astronauts and cargo to space, particularly to help build the International Space Station (ISS)."
                   },
                   {
-                    "question": "How many astronauts walked on the Moon during the Apollo program?",
-                    "options": ["12", "10", "14", "8"],
-                    "answer": "12",
-                    "explanation": "A total of 12 astronauts walked on the Moon during the Apollo program between 1969 and 1972."
-                  },
-                  {
-                    "question": "Which astronaut is known for his 'Space Oddity' music video filmed in space?",
-                    "options": ["Chris Hadfield", "Buzz Aldrin", "Mark Kelly", "Scott Kelly"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "Chris Hadfield is known for his performance of 'Space Oddity' while aboard the International Space Station in 2013."
+                    "question": "What technology was first used by astronauts to communicate in space?",
+                    "options": ["Radio waves", "Television signals", "Bluetooth", "Satellite phones"],
+                    "answer": "Radio waves",
+                    "explanation": "Astronauts use radio waves to communicate with mission control and other crew members while in space."
                   }
                 ]
+
               },
               {
                 "setNumber": 3,
                 "questions": [
                   {
-                    "question": "Who was the first human to travel into space?",
-                    "options": ["Buzz Aldrin", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
-                    "answer": "Yuri Gagarin",
-                    "explanation": "Yuri Gagarin was the first human to journey into outer space on April 12, 1961, aboard Vostok 1."
+                    "question": "Which space agency is responsible for sending astronauts into space?",
+                    "options": ["NASA", "SpaceX", "ESA", "ISRO"],
+                    "answer": "NASA",
+                    "explanation": "NASA (National Aeronautics and Space Administration) is the primary space agency responsible for space exploration and sending astronauts to space."
                   },
                   {
-                    "question": "Which astronaut spent the longest continuous time in space?",
-                    "options": ["Scott Kelly", "Gennady Padalka", "Valeri Polyakov", "Peggy Whitson"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov holds the record for the longest continuous time spent in space, staying aboard the Mir space station for 437 days."
+                    "question": "What was the first human-made object to leave Earth's orbit?",
+                    "options": ["Voyager 1", "Hubble Telescope", "Sputnik 1", "Lunar Module"],
+                    "answer": "Voyager 1",
+                    "explanation": "Voyager 1, launched in 1977, was the first human-made object to leave Earth's orbit and is currently traveling through interstellar space."
                   },
                   {
-                    "question": "Who was the first African American woman to travel to space?",
-                    "options": ["Mae Jemison", "Jeanette Epps", "Stephanie Wilson", "Ellen Ochoa"],
-                    "answer": "Mae Jemison",
-                    "explanation": "Mae Jemison became the first African American woman to travel to space aboard the Space Shuttle Endeavour in 1992."
+                    "question": "Who was the first astronaut to perform a spacewalk?",
+                    "options": ["Alexei Leonov", "Neil Armstrong", "Yuri Gagarin", "Valentina Tereshkova"],
+                    "answer": "Alexei Leonov",
+                    "explanation": "Alexei Leonov, a Soviet cosmonaut, became the first human to perform a spacewalk in 1965."
                   },
                   {
-                    "question": "Which astronaut holds the record for the most spacewalks?",
-                    "options": ["Chris Hadfield", "Peggy Whitson", "Anatoly Solovyev", "Scott Kelly"],
-                    "answer": "Anatoly Solovyev",
-                    "explanation": "Anatoly Solovyev holds the record for the most spacewalks, having completed 16 spacewalks during his career."
+                    "question": "What is the name of the space station where astronauts live and work in space?",
+                    "options": ["International Space Station", "Hubble Space Station", "Space Shuttle", "Lunar Base"],
+                    "answer": "International Space Station",
+                    "explanation": "The International Space Station (ISS) is a space laboratory where astronauts live and conduct experiments in space."
                   },
                   {
-                    "question": "Who was the first American woman to fly in space?",
-                    "options": ["Eileen Collins", "Sally Ride", "Judith Resnik", "Peggy Whitson"],
-                    "answer": "Sally Ride",
-                    "explanation": "Sally Ride became the first American woman to fly in space on June 18, 1983, aboard the Space Shuttle Challenger."
+                    "question": "Which planet did the Mars rovers explore?",
+                    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+                    "answer": "Mars",
+                    "explanation": "The Mars rovers, such as Curiosity and Perseverance, have been exploring the surface of Mars to gather scientific data."
                   },
                   {
-                    "question": "Which astronaut was the first person to fly in space more than once?",
-                    "options": ["Gus Grissom", "John Glenn", "Yuri Gagarin", "Neil Armstrong"],
-                    "answer": "Gus Grissom",
-                    "explanation": "Gus Grissom was the first person to fly in space twice, first during the Mercury-Redstone 4 mission and then during the Gemini 3 mission."
+                    "question": "What is the term for the force that keeps astronauts grounded on Earth?",
+                    "options": ["Magnetism", "Inertia", "Gravity", "Friction"],
+                    "answer": "Gravity",
+                    "explanation": "Gravity is the force that pulls objects toward the center of Earth, keeping astronauts and everything else grounded."
                   },
                   {
-                    "question": "Who was the first astronaut to orbit Earth?",
-                    "options": ["Yuri Gagarin", "John Glenn", "Alan Shepard", "Neil Armstrong"],
-                    "answer": "Yuri Gagarin",
-                    "explanation": "Yuri Gagarin was the first astronaut to orbit Earth during his historic Vostok 1 flight in 1961."
+                    "question": "What was the purpose of the Space Shuttle program?",
+                    "options": ["To build satellites", "To launch rockets", "To send astronauts to the Moon", "To transport astronauts and cargo to space"],
+                    "answer": "To transport astronauts and cargo to space",
+                    "explanation": "The Space Shuttle program was designed to transport astronauts and cargo to space, particularly for missions involving the International Space Station."
                   },
                   {
-                    "question": "Who became the first American to orbit Earth?",
-                    "options": ["John Glenn", "Alan Shepard", "Scott Carpenter", "Gordon Cooper"],
-                    "answer": "John Glenn",
-                    "explanation": "John Glenn became the first American to orbit Earth on February 20, 1962, aboard Friendship 7."
+                    "question": "What does an astronaut wear to protect themselves in space?",
+                    "options": ["Space suit", "Regular clothes", "Raincoat", "Ski gear"],
+                    "answer": "Space suit",
+                    "explanation": "Astronauts wear a specially designed space suit to protect themselves from the harsh conditions in space, including extreme temperatures and lack of oxygen."
                   },
                   {
-                    "question": "Which astronaut was the commander of Apollo 11?",
-                    "options": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "John Young"],
-                    "answer": "Neil Armstrong",
-                    "explanation": "Neil Armstrong was the commander of Apollo 11, the mission that made the first successful landing on the Moon."
+                    "question": "Who was the first woman to travel into space?",
+                    "options": ["Mae Jemison", "Valentina Tereshkova", "Sally Ride", "Hilda L. White"],
+                    "answer": "Valentina Tereshkova",
+                    "explanation": "Valentina Tereshkova, a Soviet cosmonaut, was the first woman to travel into space in 1963."
                   },
                   {
-                    "question": "Who was the first woman to command a space shuttle mission?",
-                    "options": ["Sally Ride", "Eileen Collins", "Peggy Whitson", "Valentina Tereshkova"],
-                    "answer": "Eileen Collins",
-                    "explanation": "Eileen Collins was the first woman to command a space shuttle mission during the STS-93 mission aboard Columbia in 1999."
+                    "question": "What is the purpose of NASA's Artemis program?",
+                    "options": ["Exploring Mars", "Establishing a lunar base", "Studying asteroids", "Sending robots to Venus"],
+                    "answer": "Establishing a lunar base",
+                    "explanation": "The Artemis program aims to send astronauts to the Moon and establish a sustainable presence there, preparing for future missions to Mars."
                   }
                 ]
+
               },
               {
                 "setNumber": 4,
                 "questions": [
                   {
-                    "question": "Who is the first astronaut of Indian descent to fly in space?",
-                    "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Vikram Sarabhai"],
-                    "answer": "Kalpana Chawla",
-                    "explanation": "Kalpana Chawla was the first astronaut of Indian descent to fly in space, serving as a mission specialist on the Space Shuttle Columbia."
+                    "question": "What is the name of the first manned space mission to land on the Moon?",
+                    "options": ["Apollo 13", "Apollo 11", "Gemini 4", "Mercury 7"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the first manned space mission to land on the Moon, with Neil Armstrong and Buzz Aldrin making history in 1969."
                   },
                   {
-                    "question": "Which astronaut conducted the first untethered spacewalk?",
-                    "options": ["Bruce McCandless", "Ed White", "John Glenn", "Buzz Aldrin"],
-                    "answer": "Bruce McCandless",
-                    "explanation": "Bruce McCandless performed the first untethered spacewalk in 1984 using the Manned Maneuvering Unit (MMU)."
+                    "question": "What do astronauts use to communicate with mission control?",
+                    "options": ["Radio", "Satellite", "Cell phone", "Walkie-talkie"],
+                    "answer": "Radio",
+                    "explanation": "Astronauts use radios to communicate with mission control while in space, as radio waves are able to travel through space."
                   },
                   {
-                    "question": "Who was the first person to command two space shuttle missions?",
-                    "options": ["John Young", "Gus Grissom", "Alan Shepard", "Chris Hadfield"],
-                    "answer": "John Young",
-                    "explanation": "John Young was the first astronaut to command two space shuttle missions: STS-1 (the first shuttle flight) and STS-9."
+                    "question": "Which space agency is responsible for the Hubble Space Telescope?",
+                    "options": ["NASA", "ESA", "ISRO", "Roscosmos"],
+                    "answer": "NASA",
+                    "explanation": "NASA is responsible for the Hubble Space Telescope, which has been instrumental in observing distant galaxies and other cosmic phenomena."
                   },
                   {
-                    "question": "Who was the first person to fly in space for over a year in a single mission?",
-                    "options": ["Scott Kelly", "Valeri Polyakov", "Peggy Whitson", "Gennady Padalka"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov holds the record for the longest single spaceflight, spending 437 days aboard the Mir space station."
+                    "question": "How long do astronauts typically stay aboard the International Space Station?",
+                    "options": ["1-2 weeks", "1 month", "6 months", "1 year"],
+                    "answer": "6 months",
+                    "explanation": "Astronauts usually stay aboard the International Space Station for around six months to conduct experiments and carry out maintenance tasks."
                   },
                   {
-                    "question": "Which astronaut holds the record for the longest cumulative time spent in space?",
-                    "options": ["Gennady Padalka", "Peggy Whitson", "Sergei Krikalev", "Chris Hadfield"],
-                    "answer": "Gennady Padalka",
-                    "explanation": "Russian cosmonaut Gennady Padalka holds the record for the most cumulative time spent in space, with 878 days across five missions."
+                    "question": "What is the purpose of NASA’s Mars Perseverance rover?",
+                    "options": ["To map the surface of Mars", "To search for signs of ancient life", "To build a Mars habitat", "To create oxygen from the atmosphere"],
+                    "answer": "To search for signs of ancient life",
+                    "explanation": "The Perseverance rover’s main mission is to search for signs of ancient life on Mars and collect samples for future analysis."
                   },
                   {
-                    "question": "Who was the first private citizen to fly to space?",
-                    "options": ["Dennis Tito", "Yusaku Maezawa", "Elon Musk", "Jeff Bezos"],
-                    "answer": "Dennis Tito",
-                    "explanation": "In 2001, Dennis Tito became the first private citizen to fly to space as a space tourist aboard a Russian Soyuz spacecraft."
+                    "question": "What is a major challenge faced by astronauts in space?",
+                    "options": ["Lack of food", "Microgravity effects", "Spacecraft damage", "Lack of communication"],
+                    "answer": "Microgravity effects",
+                    "explanation": "Astronauts face the challenge of microgravity, which affects their bodies, including muscle loss and fluid redistribution."
                   },
                   {
-                    "question": "Who was the first woman to walk in space?",
-                    "options": ["Valentina Tereshkova", "Svetlana Savitskaya", "Sally Ride", "Peggy Whitson"],
-                    "answer": "Svetlana Savitskaya",
-                    "explanation": "Svetlana Savitskaya became the first woman to walk in space on July 25, 1984, during her second flight to the Salyut 7 space station."
+                    "question": "Which space agency developed the Mars Rover that landed on Mars in 2021?",
+                    "options": ["NASA", "ESA", "Roscosmos", "JAXA"],
+                    "answer": "NASA",
+                    "explanation": "NASA developed the Perseverance rover that landed on Mars in 2021, as part of its mission to search for signs of past life on the Red Planet."
                   },
                   {
-                    "question": "Which astronaut served as the backup commander for Apollo 11?",
-                    "options": ["Neil Armstrong", "Jim Lovell", "Buzz Aldrin", "John Young"],
-                    "answer": "Jim Lovell",
-                    "explanation": "Jim Lovell was the backup commander for the Apollo 11 mission and later commanded Apollo 13."
-                  },
-                  {
-                    "question": "Who was the first astronaut to fly aboard both the Space Shuttle and the Russian Soyuz spacecraft?",
-                    "options": ["John Young", "Chris Hadfield", "Sergei Krikalev", "Peggy Whitson"],
-                    "answer": "Sergei Krikalev",
-                    "explanation": "Sergei Krikalev was the first astronaut to fly aboard both the Space Shuttle and the Russian Soyuz spacecraft."
-                  },
-                  {
-                    "question": "Who was the first human to set foot on the Moon?",
-                    "options": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "John Glenn"],
+                    "question": "Which astronaut was the first to walk on the Moon?",
+                    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
                     "answer": "Neil Armstrong",
-                    "explanation": "Neil Armstrong became the first person to set foot on the Moon during the Apollo 11 mission on July 20, 1969."
+                    "explanation": "Neil Armstrong was the first human to walk on the Moon during the Apollo 11 mission in 1969."
+                  },
+                  {
+                    "question": "What is the name of the telescope that has revolutionized our understanding of the universe?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Kepler Space Telescope", "Chandra X-ray Observatory"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope has revolutionized our understanding of the universe by capturing detailed images of galaxies, stars, and other cosmic objects."
+                  },
+                  {
+                    "question": "What does NASA’s Artemis program aim to achieve?",
+                    "options": ["Send humans to Mars", "Send astronauts to the Moon and beyond", "Build a space colony on the Moon", "Launch a new space telescope"],
+                    "answer": "Send astronauts to the Moon and beyond",
+                    "explanation": "NASA’s Artemis program aims to return astronauts to the Moon and eventually send humans to Mars, aiming for sustainable lunar exploration."
                   }
                 ]
+
               },
               {
                 "setNumber": 5,
                 "questions": [
                   {
-                    "question": "Who was the first astronaut to fly aboard a commercial spacecraft?",
-                    "options": ["Chris Hadfield", "Doug Hurley", "Robert Behnken", "Neil Armstrong"],
-                    "answer": "Doug Hurley",
-                    "explanation": "Doug Hurley was one of the two astronauts on the first crewed flight of the SpaceX Crew Dragon in 2020, making him the first astronaut to fly aboard a commercial spacecraft."
+                    "question": "What was the name of the first spacecraft to land on the Moon?",
+                    "options": ["Luna 1", "Luna 2", "Apollo 11", "Viking 1"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the first mission to successfully land on the Moon, with Neil Armstrong and Buzz Aldrin making history in 1969."
                   },
                   {
-                    "question": "Who was the first human to spend a year in space consecutively on the International Space Station?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Gennady Padalka", "Chris Hadfield"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly spent a year aboard the International Space Station from 2015 to 2016 as part of NASA’s Year in Space mission."
+                    "question": "What do astronauts experience while orbiting the Earth?",
+                    "options": ["Weightlessness", "Increased gravity", "Strong winds", "High temperatures"],
+                    "answer": "Weightlessness",
+                    "explanation": "Astronauts experience weightlessness or microgravity while in orbit, as they are in a free-fall state while traveling around Earth."
                   },
                   {
-                    "question": "Which astronaut became the first person to pilot both the space shuttle and the Russian Soyuz?",
-                    "options": ["John Young", "Sergei Krikalev", "Peggy Whitson", "Chris Hadfield"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "Canadian astronaut Chris Hadfield was the first person to pilot both the Space Shuttle and the Russian Soyuz spacecraft."
+                    "question": "Which space station do astronauts live and work on for extended missions?",
+                    "options": ["SpaceX Dragon", "International Space Station (ISS)", "Hubble Space Telescope", "Mars Rover"],
+                    "answer": "International Space Station (ISS)",
+                    "explanation": "The International Space Station (ISS) is where astronauts live and work for extended periods, conducting scientific experiments and maintenance."
                   },
                   {
-                    "question": "Who was the first astronaut to fly in space from an ESA member state?",
-                    "options": ["Jean-Loup Chrétien", "Ulf Merbold", "Claude Nicollier", "Alexander Gerst"],
-                    "answer": "Ulf Merbold",
-                    "explanation": "Ulf Merbold was the first ESA astronaut to fly in space, participating in the Space Shuttle mission STS-9 in 1983."
+                    "question": "Which country was the first to send a human into space?",
+                    "options": ["United States", "Russia", "China", "India"],
+                    "answer": "Russia",
+                    "explanation": "Yuri Gagarin from the Soviet Union (now Russia) was the first human to travel into space on April 12, 1961."
                   },
                   {
-                    "question": "Who was the first person to tweet from space?",
-                    "options": ["Samantha Cristoforetti", "Scott Kelly", "Tim Peake", "Mike Massimino"],
-                    "answer": "Mike Massimino",
-                    "explanation": "Mike Massimino became the first astronaut to tweet from space during the STS-125 mission in 2009."
+                    "question": "What is the primary goal of the Artemis program?",
+                    "options": ["Launch a Mars mission", "Establish a moon base", "Return astronauts to the Moon", "Develop new space suits"],
+                    "answer": "Return astronauts to the Moon",
+                    "explanation": "NASA's Artemis program aims to return astronauts to the Moon, particularly to the lunar South Pole, by 2024, with the goal of sustainable exploration."
                   },
                   {
-                    "question": "Who was the first astronaut to complete a spacewalk while being blind?",
-                    "options": ["Chris Hadfield", "Jim Lovell", "Ed White", "Peggy Whitson"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "During a spacewalk in 2001, Chris Hadfield temporarily went blind when his helmet visor became contaminated, but he completed the spacewalk successfully."
+                    "question": "What kind of training do astronauts undergo before space missions?",
+                    "options": ["Combat training", "Zero gravity simulation", "Climbing training", "Underwater survival training"],
+                    "answer": "Zero gravity simulation",
+                    "explanation": "Astronauts undergo extensive training in zero gravity simulators to prepare for the conditions they will experience in space, where they are weightless."
                   },
                   {
-                    "question": "Who was the first woman of Indian origin to fly to space?",
-                    "options": ["Kalpana Chawla", "Sunita Williams", "Sally Ride", "Eileen Collins"],
-                    "answer": "Kalpana Chawla",
-                    "explanation": "Kalpana Chawla was the first woman of Indian origin to fly to space, serving on the Space Shuttle Columbia."
+                    "question": "What is the purpose of spacewalks or EVAs (Extravehicular Activities)?",
+                    "options": ["To travel to other planets", "To repair spacecraft and conduct experiments outside", "To explore the surface of the Moon", "To test new spacesuits"],
+                    "answer": "To repair spacecraft and conduct experiments outside",
+                    "explanation": "Spacewalks or EVAs are conducted to repair spacecraft, conduct experiments, and maintain the equipment outside the spacecraft in space."
                   },
                   {
-                    "question": "Which astronaut became the first commander of the International Space Station (ISS)?",
-                    "options": ["Bill Shepherd", "Gennady Padalka", "Scott Kelly", "Peggy Whitson"],
-                    "answer": "Bill Shepherd",
-                    "explanation": "Bill Shepherd was the first commander of the International Space Station, leading Expedition 1 in 2000."
+                    "question": "What does NASA stand for?",
+                    "options": ["National Aeronautics and Space Administration", "National Astronautical and Space Agency", "New Aeronautics and Space Association", "National Agency for Space Advancement"],
+                    "answer": "National Aeronautics and Space Administration",
+                    "explanation": "NASA stands for the National Aeronautics and Space Administration, the U.S. government agency responsible for space exploration."
                   },
                   {
-                    "question": "Who was the first astronaut to command three different spacecraft?",
-                    "options": ["John Young", "Gus Grissom", "Chris Hadfield", "Neil Armstrong"],
-                    "answer": "John Young",
-                    "explanation": "John Young became the first astronaut to command three different spacecraft: Gemini, Apollo, and the Space Shuttle."
+                    "question": "Which of the following is an example of a space probe?",
+                    "options": ["Hubble Space Telescope", "Voyager 1", "Space Shuttle", "International Space Station"],
+                    "answer": "Voyager 1",
+                    "explanation": "Voyager 1 is a space probe launched in 1977 to explore the outer solar system and is currently the farthest human-made object from Earth."
                   },
                   {
-                    "question": "Who was the first astronaut to fly in space after being selected as a NASA educator astronaut?",
-                    "options": ["Barbara Morgan", "Christa McAuliffe", "Joe Acaba", "Ricky Arnold"],
-                    "answer": "Barbara Morgan",
-                    "explanation": "Barbara Morgan, originally Christa McAuliffe’s backup for the Challenger mission, became the first educator astronaut to fly into space aboard Endeavour in 2007."
+                    "question": "What is the main source of energy for astronauts on the ISS?",
+                    "options": ["Solar panels", "Nuclear fuel", "Wind energy", "Battery packs"],
+                    "answer": "Solar panels",
+                    "explanation": "The International Space Station uses solar panels to generate power, harnessing sunlight to supply energy for the station's systems and equipment."
                   }
                 ]
+
               },
               {
                 "setNumber": 6,
                 "questions": [
                   {
-                    "question": "Who was the first Asian astronaut to fly in space?",
-                    "options": ["Rakesh Sharma", "Toyohiro Akiyama", "Yi So-yeon", "Koichi Wakata"],
-                    "answer": "Toyohiro Akiyama",
-                    "explanation": "Toyohiro Akiyama from Japan became the first Asian astronaut to fly in space aboard Soyuz TM-11 in 1990."
+                    "question": "What was the purpose of the Apollo 11 mission?",
+                    "options": ["To land on Mars", "To launch a space station", "To land astronauts on the Moon", "To explore Jupiter"],
+                    "answer": "To land astronauts on the Moon",
+                    "explanation": "Apollo 11 was the mission that successfully landed astronauts Neil Armstrong and Buzz Aldrin on the Moon for the first time in 1969."
                   },
                   {
-                    "question": "Which astronaut was the first to fly solo in space?",
-                    "options": ["John Glenn", "Yuri Gagarin", "Valentina Tereshkova", "Gus Grissom"],
-                    "answer": "Yuri Gagarin",
-                    "explanation": "Yuri Gagarin flew solo during the first human spaceflight on Vostok 1 in 1961."
+                    "question": "Which space agency is responsible for sending astronauts to the Moon?",
+                    "options": ["SpaceX", "NASA", "ESA", "Roscosmos"],
+                    "answer": "NASA",
+                    "explanation": "NASA (National Aeronautics and Space Administration) is the U.S. space agency that conducted the Apollo missions, including the famous Apollo 11 mission."
                   },
                   {
-                    "question": "Who was the first astronaut to complete 10 spacewalks?",
-                    "options": ["Chris Hadfield", "Anatoly Solovyev", "Michael Lopez-Alegria", "Peggy Whitson"],
-                    "answer": "Michael Lopez-Alegria",
-                    "explanation": "Michael Lopez-Alegria became the first astronaut to complete 10 spacewalks during his career."
+                    "question": "What is the name of the rover currently exploring Mars?",
+                    "options": ["Spirit", "Curiosity", "Perseverance", "Opportunity"],
+                    "answer": "Perseverance",
+                    "explanation": "Perseverance is the latest rover sent by NASA to explore the surface of Mars, studying the planet's geology and climate."
                   },
                   {
-                    "question": "Who was the first British astronaut to fly to space?",
-                    "options": ["Helen Sharman", "Tim Peake", "Piers Sellers", "Michael Foale"],
-                    "answer": "Helen Sharman",
-                    "explanation": "Helen Sharman was the first British astronaut, flying aboard Soyuz TM-12 to the Mir space station in 1991."
+                    "question": "Which astronaut was the first to walk on the Moon?",
+                    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong was the first human to set foot on the Moon during the Apollo 11 mission on July 20, 1969."
                   },
                   {
-                    "question": "Which astronaut served as the commander of the longest space mission aboard the ISS?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Sergei Krikalev", "Chris Hadfield"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson commanded the International Space Station and holds the record for the longest cumulative time spent in space by a woman."
+                    "question": "What kind of training do astronauts undergo before missions?",
+                    "options": ["Medical training", "Flight simulation", "Zero gravity training", "All of the above"],
+                    "answer": "All of the above",
+                    "explanation": "Astronauts undergo extensive training, including medical training, flight simulation, and zero gravity training to prepare for space missions."
                   },
                   {
-                    "question": "Who was the first astronaut to use the Manned Maneuvering Unit (MMU) during a spacewalk?",
-                    "options": ["Ed White", "Bruce McCandless", "John Young", "Buzz Aldrin"],
-                    "answer": "Bruce McCandless",
-                    "explanation": "Bruce McCandless was the first astronaut to use the MMU during a spacewalk in 1984."
+                    "question": "What is the name of the spacecraft that took astronauts to the Moon during Apollo missions?",
+                    "options": ["Lunar Module", "Space Shuttle", "Viking", "Columbia"],
+                    "answer": "Lunar Module",
+                    "explanation": "The Lunar Module was used to land astronauts on the Moon during the Apollo missions. It detached from the command module and descended to the lunar surface."
                   },
                   {
-                    "question": "Who was the first South Korean astronaut to travel to space?",
-                    "options": ["Koichi Wakata", "Rakesh Sharma", "Yi So-yeon", "Toyohiro Akiyama"],
-                    "answer": "Yi So-yeon",
-                    "explanation": "Yi So-yeon became the first South Korean astronaut to travel to space aboard Soyuz TMA-12 in 2008."
+                    "question": "What is the primary function of the International Space Station (ISS)?",
+                    "options": ["To serve as a space museum", "To provide space tourism", "To serve as a research laboratory in space", "To launch satellites into orbit"],
+                    "answer": "To serve as a research laboratory in space",
+                    "explanation": "The ISS is primarily a space laboratory where astronauts and scientists conduct research and experiments in microgravity."
                   },
                   {
-                    "question": "Which astronaut holds the record for the most spaceflights by a woman?",
-                    "options": ["Eileen Collins", "Sally Ride", "Peggy Whitson", "Sunita Williams"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson holds the record for the most spaceflights by a woman, having completed three long-duration space missions."
+                    "question": "What is the current space mission to explore the Moon in the future?",
+                    "options": ["Gemini", "Artemis", "Apollo", "Mars One"],
+                    "answer": "Artemis",
+                    "explanation": "The Artemis program is NASA's current mission aimed at returning astronauts to the Moon and preparing for human exploration of Mars."
                   },
                   {
-                    "question": "Who was the first person to command a space station for six months consecutively?",
-                    "options": ["Valeri Polyakov", "Gennady Padalka", "Peggy Whitson", "Scott Kelly"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov commanded the Mir space station for six months in the early 1990s, setting records for time spent in space."
+                    "question": "What does the term 'spacewalk' refer to?",
+                    "options": ["Walking on the Moon", "Exploring other planets", "Leaving the spacecraft to work outside", "Visiting space stations"],
+                    "answer": "Leaving the spacecraft to work outside",
+                    "explanation": "A spacewalk, or EVA (extravehicular activity), refers to astronauts leaving their spacecraft to work outside in space, performing repairs or experiments."
                   },
                   {
-                    "question": "Which astronaut was the first to vote in a U.S. presidential election from space?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Shannon Walker", "Kate Rubins"],
-                    "answer": "Kate Rubins",
-                    "explanation": "Kate Rubins became the first person to vote in a U.S. presidential election from space while aboard the ISS in 2016."
+                    "question": "Which space station is a joint project of NASA, Roscosmos, ESA, JAXA, and CSA?",
+                    "options": ["Mir", "Hubble Space Telescope", "International Space Station", "China Space Station"],
+                    "answer": "International Space Station",
+                    "explanation": "The International Space Station (ISS) is a collaborative project involving space agencies from the U.S., Russia, Europe, Japan, and Canada."
                   }
                 ]
-              },
-              {
-                "setNumber": 6,
-                "questions": [
-                  {
-                    "question": "Who was the first Asian astronaut to fly in space?",
-                    "options": ["Rakesh Sharma", "Toyohiro Akiyama", "Yi So-yeon", "Koichi Wakata"],
-                    "answer": "Toyohiro Akiyama",
-                    "explanation": "Toyohiro Akiyama from Japan became the first Asian astronaut to fly in space aboard Soyuz TM-11 in 1990."
-                  },
-                  {
-                    "question": "Which astronaut was the first to fly solo in space?",
-                    "options": ["John Glenn", "Yuri Gagarin", "Valentina Tereshkova", "Gus Grissom"],
-                    "answer": "Yuri Gagarin",
-                    "explanation": "Yuri Gagarin flew solo during the first human spaceflight on Vostok 1 in 1961."
-                  },
-                  {
-                    "question": "Who was the first astronaut to complete 10 spacewalks?",
-                    "options": ["Chris Hadfield", "Anatoly Solovyev", "Michael Lopez-Alegria", "Peggy Whitson"],
-                    "answer": "Michael Lopez-Alegria",
-                    "explanation": "Michael Lopez-Alegria became the first astronaut to complete 10 spacewalks during his career."
-                  },
-                  {
-                    "question": "Who was the first British astronaut to fly to space?",
-                    "options": ["Helen Sharman", "Tim Peake", "Piers Sellers", "Michael Foale"],
-                    "answer": "Helen Sharman",
-                    "explanation": "Helen Sharman was the first British astronaut, flying aboard Soyuz TM-12 to the Mir space station in 1991."
-                  },
-                  {
-                    "question": "Which astronaut served as the commander of the longest space mission aboard the ISS?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Sergei Krikalev", "Chris Hadfield"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson commanded the International Space Station and holds the record for the longest cumulative time spent in space by a woman."
-                  },
-                  {
-                    "question": "Who was the first astronaut to use the Manned Maneuvering Unit (MMU) during a spacewalk?",
-                    "options": ["Ed White", "Bruce McCandless", "John Young", "Buzz Aldrin"],
-                    "answer": "Bruce McCandless",
-                    "explanation": "Bruce McCandless was the first astronaut to use the MMU during a spacewalk in 1984."
-                  },
-                  {
-                    "question": "Who was the first South Korean astronaut to travel to space?",
-                    "options": ["Koichi Wakata", "Rakesh Sharma", "Yi So-yeon", "Toyohiro Akiyama"],
-                    "answer": "Yi So-yeon",
-                    "explanation": "Yi So-yeon became the first South Korean astronaut to travel to space aboard Soyuz TMA-12 in 2008."
-                  },
-                  {
-                    "question": "Which astronaut holds the record for the most spaceflights by a woman?",
-                    "options": ["Eileen Collins", "Sally Ride", "Peggy Whitson", "Sunita Williams"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson holds the record for the most spaceflights by a woman, having completed three long-duration space missions."
-                  },
-                  {
-                    "question": "Who was the first person to command a space station for six months consecutively?",
-                    "options": ["Valeri Polyakov", "Gennady Padalka", "Peggy Whitson", "Scott Kelly"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov commanded the Mir space station for six months in the early 1990s, setting records for time spent in space."
-                  },
-                  {
-                    "question": "Which astronaut was the first to vote in a U.S. presidential election from space?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Shannon Walker", "Kate Rubins"],
-                    "answer": "Kate Rubins",
-                    "explanation": "Kate Rubins became the first person to vote in a U.S. presidential election from space while aboard the ISS in 2016."
-                  }
-                ]
+
               },
               {
                 "setNumber": 7,
                 "questions": [
                   {
-                    "question": "Who was the first astronaut to conduct a spacewalk from the ISS?",
-                    "options": ["Jerry L. Ross", "Chris Hadfield", "John Glenn", "Michael Foale"],
-                    "answer": "Jerry L. Ross",
-                    "explanation": "Jerry L. Ross conducted the first spacewalk from the ISS during the assembly of the station in 1998."
+                    "question": "What is the main purpose of the Space Shuttle?",
+                    "options": ["To carry astronauts to the Moon", "To land on Mars", "To carry astronauts and cargo to low Earth orbit", "To explore other galaxies"],
+                    "answer": "To carry astronauts and cargo to low Earth orbit",
+                    "explanation": "The Space Shuttle was designed to transport astronauts and cargo to low Earth orbit and return them to Earth safely."
                   },
                   {
-                    "question": "Which astronaut set the record for the longest spaceflight by a U.S. astronaut in 2016?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Mark Kelly", "John Glenn"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly spent 340 consecutive days in space aboard the ISS, setting the U.S. record for the longest single spaceflight."
+                    "question": "Which of the following was the first space station?",
+                    "options": ["International Space Station", "Mir", "Skylab", "Almaz"],
+                    "answer": "Skylab",
+                    "explanation": "Skylab was the first American space station, launched in 1973, and served as a microgravity laboratory before re-entering Earth's atmosphere in 1979."
                   },
                   {
-                    "question": "Who was the first female astronaut to live aboard the ISS?",
-                    "options": ["Peggy Whitson", "Valentina Tereshkova", "Sally Ride", "Eileen Collins"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson became the first female astronaut to live aboard the ISS in 2002 during Expedition 5."
+                    "question": "Who was the first human to journey into space?",
+                    "options": ["John Glenn", "Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin, a Soviet cosmonaut, was the first human to travel into space on April 12, 1961, aboard Vostok 1."
                   },
                   {
-                    "question": "Which astronaut became the first to play a musical instrument in space?",
-                    "options": ["Chris Hadfield", "Yuri Gagarin", "John Young", "Alexei Leonov"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "Chris Hadfield played his guitar aboard the ISS, becoming the first astronaut to record music in space."
+                    "question": "What is the largest planet in our solar system?",
+                    "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+                    "answer": "Jupiter",
+                    "explanation": "Jupiter is the largest planet in our solar system, with a diameter of about 86,881 miles."
                   },
                   {
-                    "question": "Who was the first American woman to walk in space?",
-                    "options": ["Kathryn Sullivan", "Sally Ride", "Peggy Whitson", "Judith Resnik"],
-                    "answer": "Kathryn Sullivan",
-                    "explanation": "Kathryn Sullivan became the first American woman to walk in space during a shuttle mission in 1984."
+                    "question": "What is a satellite?",
+                    "options": ["A planet's moon", "A space station", "An object that orbits a planet or star", "A spacecraft that visits planets"],
+                    "answer": "An object that orbits a planet or star",
+                    "explanation": "A satellite is any object, natural or artificial, that orbits a planet, moon, or star. Examples include the Moon, artificial satellites, and space stations."
                   },
                   {
-                    "question": "Which astronaut holds the record for the most cumulative days in space by any human?",
-                    "options": ["Sergei Krikalev", "Peggy Whitson", "Valeri Polyakov", "Gennady Padalka"],
-                    "answer": "Gennady Padalka",
-                    "explanation": "Gennady Padalka holds the record for the most cumulative days spent in space by any human, with a total of 878 days."
+                    "question": "What do astronauts wear during space missions?",
+                    "options": ["Space suits", "Casual clothing", "Special armor", "Pilot uniforms"],
+                    "answer": "Space suits",
+                    "explanation": "Astronauts wear space suits, designed to protect them from the harsh environment of space, including temperature extremes and lack of oxygen."
                   },
                   {
-                    "question": "Who was the first Hispanic astronaut to fly in space?",
-                    "options": ["Ellen Ochoa", "Franklin Chang-Diaz", "Joe Acaba", "Carlos Noriega"],
-                    "answer": "Franklin Chang-Diaz",
-                    "explanation": "Franklin Chang-Diaz became the first Hispanic astronaut to fly in space in 1986 aboard the Space Shuttle Columbia."
+                    "question": "Which mission was the first to send humans to the Moon?",
+                    "options": ["Apollo 10", "Apollo 11", "Apollo 12", "Gemini 4"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the first mission to land humans on the Moon in 1969, with Neil Armstrong and Buzz Aldrin becoming the first humans to walk on the lunar surface."
                   },
                   {
-                    "question": "Who became the first astronaut to fly into space aboard a reusable spacecraft?",
-                    "options": ["John Young", "Buzz Aldrin", "Alan Shepard", "John Glenn"],
-                    "answer": "John Young",
-                    "explanation": "John Young was the first astronaut to fly aboard a reusable spacecraft, piloting the first Space Shuttle mission in 1981."
+                    "question": "What is the name of the NASA rover currently exploring Mars?",
+                    "options": ["Curiosity", "Spirit", "Opportunity", "Perseverance"],
+                    "answer": "Curiosity",
+                    "explanation": "Curiosity is a rover sent by NASA to Mars to explore its surface and analyze its climate and geology."
                   },
                   {
-                    "question": "Which astronaut flew on the first mission of the SpaceX Crew Dragon?",
-                    "options": ["Chris Cassidy", "Robert Behnken", "Scott Kelly", "Chris Hadfield"],
-                    "answer": "Robert Behnken",
-                    "explanation": "Robert Behnken was one of the astronauts who flew aboard the first crewed mission of the SpaceX Crew Dragon in 2020."
+                    "question": "Who was the first woman to fly in space?",
+                    "options": ["Valentina Tereshkova", "Mae Jemison", "Sally Ride", "Eileen Collins"],
+                    "answer": "Valentina Tereshkova",
+                    "explanation": "Valentina Tereshkova, a Soviet cosmonaut, was the first woman to fly in space in 1963 aboard Vostok 6."
                   },
                   {
-                    "question": "Who became the first non-U.S. astronaut to command the ISS?",
-                    "options": ["Chris Hadfield", "Koichi Wakata", "Tim Peake", "Gennady Padalka"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "Chris Hadfield from Canada became the first non-U.S. astronaut to command the ISS in 2013 during Expedition 35."
+                    "question": "What was the goal of the Hubble Space Telescope?",
+                    "options": ["To send humans to Mars", "To capture detailed images of distant galaxies", "To monitor the Earth’s weather", "To study Jupiter's moons"],
+                    "answer": "To capture detailed images of distant galaxies",
+                    "explanation": "The Hubble Space Telescope has been used to capture detailed images of distant galaxies, stars, and planets, providing insights into the universe."
                   }
                 ]
+
               },
               {
                 "setNumber": 8,
                 "questions": [
                   {
-                    "question": "Who was the first human to fly in space more than once?",
-                    "options": ["Gus Grissom", "John Young", "Yuri Gagarin", "Neil Armstrong"],
-                    "answer": "Gus Grissom",
-                    "explanation": "Gus Grissom became the first astronaut to fly in space twice, once during the Mercury-Redstone 4 mission and then during Gemini 3."
+                    "question": "What is the primary function of the Space Shuttle?",
+                    "options": ["To travel to the Moon", "To transport astronauts to space and back", "To explore distant planets", "To conduct spacewalks"],
+                    "answer": "To transport astronauts to space and back",
+                    "explanation": "The Space Shuttle was used to transport astronauts and cargo to low Earth orbit, making repeated flights to space and returning to Earth."
                   },
                   {
-                    "question": "Which astronaut was the first to fly on both the Space Shuttle and a Russian Soyuz spacecraft?",
-                    "options": ["Chris Hadfield", "John Glenn", "Sergei Krikalev", "Peggy Whitson"],
-                    "answer": "Sergei Krikalev",
-                    "explanation": "Sergei Krikalev was the first astronaut to fly aboard both the Space Shuttle and the Soyuz spacecraft, reflecting international collaboration."
+                    "question": "Which spacecraft was used for sending astronauts to the Moon during the Apollo missions?",
+                    "options": ["Vostok", "Gemini", "Apollo Command Module", "Space Shuttle"],
+                    "answer": "Apollo Command Module",
+                    "explanation": "The Apollo Command Module was used to carry astronauts to the Moon and back during NASA's Apollo missions."
                   },
                   {
-                    "question": "Who became the first human to fly to space as a paying tourist?",
-                    "options": ["Dennis Tito", "Richard Garriott", "Charles Simonyi", "Mark Shuttleworth"],
-                    "answer": "Dennis Tito",
-                    "explanation": "Dennis Tito became the first private space tourist, flying to the International Space Station aboard a Russian Soyuz in 2001."
+                    "question": "What is the International Space Station's primary purpose?",
+                    "options": ["To orbit the Moon", "To serve as a base for Mars exploration", "To conduct scientific research in space", "To explore asteroids"],
+                    "answer": "To conduct scientific research in space",
+                    "explanation": "The International Space Station is a platform for conducting scientific research in a microgravity environment, supporting space exploration and technology development."
                   },
                   {
-                    "question": "Which astronaut was the first to grow a flower in space?",
-                    "options": ["Scott Kelly", "Chris Hadfield", "Peggy Whitson", "Sunita Williams"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly was the first astronaut to grow a flower in space while aboard the ISS, cultivating a zinnia in 2016."
+                    "question": "Who was the first American to walk on the Moon?",
+                    "options": ["Neil Armstrong", "Buzz Aldrin", "Alan Shepard", "John Glenn"],
+                    "answer": "Buzz Aldrin",
+                    "explanation": "Buzz Aldrin was the second astronaut to set foot on the Moon, following Neil Armstrong during the Apollo 11 mission."
                   },
                   {
-                    "question": "Who was the first woman to complete a spacewalk outside the ISS?",
-                    "options": ["Sally Ride", "Peggy Whitson", "Kathryn Sullivan", "Christina Koch"],
-                    "answer": "Kathryn Sullivan",
-                    "explanation": "Kathryn Sullivan became the first woman to complete a spacewalk outside the ISS during a shuttle mission in 1984."
+                    "question": "What is one of the challenges astronauts face while living in space?",
+                    "options": ["High gravity", "Limited sunlight", "Microgravity", "Strong radiation"],
+                    "answer": "Microgravity",
+                    "explanation": "Astronauts in space experience microgravity, where they are weightless, which affects their muscles, bones, and daily activities."
                   },
                   {
-                    "question": "Which astronaut holds the record for the most time spent outside a spacecraft on spacewalks?",
-                    "options": ["Alexei Leonov", "Anatoly Solovyev", "Chris Hadfield", "Peggy Whitson"],
-                    "answer": "Anatoly Solovyev",
-                    "explanation": "Anatoly Solovyev holds the record for the most time spent outside a spacecraft, completing 16 spacewalks over his career."
+                    "question": "What was the first spacecraft to land on Mars?",
+                    "options": ["Viking 1", "Curiosity Rover", "Perseverance Rover", "Mariner 9"],
+                    "answer": "Viking 1",
+                    "explanation": "Viking 1 was the first spacecraft to successfully land on Mars in 1976, sending back the first pictures from the planet's surface."
                   },
                   {
-                    "question": "Who was the first African-American woman to travel to space?",
-                    "options": ["Mae Jemison", "Jeanette Epps", "Ellen Ochoa", "Sally Ride"],
-                    "answer": "Mae Jemison",
-                    "explanation": "Mae Jemison became the first African-American woman to travel to space aboard the Space Shuttle Endeavour in 1992."
+                    "question": "Which space mission is known for landing the first human on the Moon?",
+                    "options": ["Gemini 4", "Apollo 11", "Mercury 7", "Skylab"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 is the space mission that successfully landed Neil Armstrong and Buzz Aldrin on the Moon in 1969."
                   },
                   {
-                    "question": "Who was the first person to run a marathon in space?",
-                    "options": ["Tim Peake", "Scott Kelly", "Sunita Williams", "Chris Hadfield"],
-                    "answer": "Sunita Williams",
-                    "explanation": "Sunita Williams became the first person to run a marathon in space while aboard the ISS in 2007."
+                    "question": "What is a significant feature of the Hubble Space Telescope?",
+                    "options": ["It studies the Moon", "It is located on Mars", "It captures high-resolution images of distant galaxies", "It sends humans to space"],
+                    "answer": "It captures high-resolution images of distant galaxies",
+                    "explanation": "The Hubble Space Telescope is famous for its ability to capture high-resolution images of distant stars, galaxies, and other celestial objects."
                   },
                   {
-                    "question": "Which astronaut holds the record for the longest single spaceflight by a woman?",
-                    "options": ["Peggy Whitson", "Samantha Cristoforetti", "Christina Koch", "Sunita Williams"],
-                    "answer": "Christina Koch",
-                    "explanation": "Christina Koch holds the record for the longest single spaceflight by a woman, spending 328 days aboard the ISS in 2019-2020."
+                    "question": "Who was the first woman to command a space mission?",
+                    "options": ["Valentina Tereshkova", "Mae Jemison", "Sally Ride", "Eileen Collins"],
+                    "answer": "Eileen Collins",
+                    "explanation": "Eileen Collins became the first woman to command a space mission when she piloted the Space Shuttle Columbia on STS-93 in 1999."
                   },
                   {
-                    "question": "Who was the first Asian-American astronaut to travel to space?",
-                    "options": ["Ellison Onizuka", "Koichi Wakata", "Sunita Williams", "Kalpana Chawla"],
-                    "answer": "Ellison Onizuka",
-                    "explanation": "Ellison Onizuka became the first Asian-American astronaut, flying aboard the Space Shuttle Challenger in 1985."
+                    "question": "What is the purpose of spacewalks for astronauts?",
+                    "options": ["To perform space research", "To repair and maintain spacecraft", "To take photographs of the Earth", "To explore other planets"],
+                    "answer": "To repair and maintain spacecraft",
+                    "explanation": "Astronauts conduct spacewalks, also known as EVAs, to repair, maintain, or upgrade spacecraft and space stations while outside in the vacuum of space."
                   }
                 ]
+
               },
               {
                 "setNumber": 9,
                 "questions": [
                   {
-                    "question": "Who was the first astronaut to command a mission to repair the Hubble Space Telescope?",
-                    "options": ["John Young", "Scott Kelly", "Chris Hadfield", "Steven Smith"],
-                    "answer": "Steven Smith",
-                    "explanation": "Steven Smith commanded the first mission to repair the Hubble Space Telescope aboard the Space Shuttle Endeavour in 1993."
+                    "question": "What was the primary purpose of the Apollo program?",
+                    "options": ["To send astronauts to Mars", "To develop reusable spacecraft", "To send astronauts to the Moon", "To conduct spacewalks"],
+                    "answer": "To send astronauts to the Moon",
+                    "explanation": "The Apollo program was designed by NASA to land humans on the Moon and bring them safely back to Earth."
                   },
                   {
-                    "question": "Which astronaut holds the record for the most consecutive days spent in space by a U.S. astronaut?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Christina Koch", "Sunita Williams"],
-                    "answer": "Christina Koch",
-                    "explanation": "Christina Koch holds the record for the most consecutive days spent in space by a U.S. astronaut, with 328 days aboard the ISS."
+                    "question": "Which astronaut was the first to orbit the Earth?",
+                    "options": ["Yuri Gagarin", "John Glenn", "Neil Armstrong", "Sally Ride"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin was the first person to orbit the Earth, completing one full orbit aboard Vostok 1 on April 12, 1961."
                   },
                   {
-                    "question": "Who was the first astronaut to complete a spacewalk during the Apollo program?",
-                    "options": ["Buzz Aldrin", "Neil Armstrong", "Ed White", "John Young"],
-                    "answer": "Ed White",
-                    "explanation": "Ed White was the first astronaut to complete a spacewalk during the Apollo program, during the Gemini 4 mission in 1965."
+                    "question": "Which of these is a type of space mission focused on scientific research in space?",
+                    "options": ["Space Shuttle", "International Space Station", "Apollo Missions", "Mercury Missions"],
+                    "answer": "International Space Station",
+                    "explanation": "The International Space Station serves as a laboratory for conducting scientific research in microgravity, which supports a variety of space studies."
                   },
                   {
-                    "question": "Which astronaut was the first to fly aboard a commercial spacecraft to the ISS?",
-                    "options": ["Doug Hurley", "Chris Cassidy", "Scott Kelly", "Robert Behnken"],
-                    "answer": "Doug Hurley",
-                    "explanation": "Doug Hurley was one of the astronauts aboard the first crewed mission of the SpaceX Crew Dragon, which flew to the ISS in 2020."
+                    "question": "What spacecraft was used to study the outer planets like Jupiter and Saturn?",
+                    "options": ["Voyager", "Space Shuttle", "Apollo", "Gemini"],
+                    "answer": "Voyager",
+                    "explanation": "The Voyager spacecraft, launched by NASA in the 1970s, were designed to explore the outer planets like Jupiter, Saturn, Uranus, and Neptune."
                   },
                   {
-                    "question": "Who became the first astronaut to send a message from space using Morse code?",
-                    "options": ["Alexei Leonov", "Valentina Tereshkova", "Yuri Gagarin", "Alan Shepard"],
+                    "question": "Which space program first put a human on the Moon?",
+                    "options": ["Apollo", "Gemini", "Mercury", "Vostok"],
+                    "answer": "Apollo",
+                    "explanation": "The Apollo program successfully put the first humans on the Moon, with Neil Armstrong and Buzz Aldrin landing during the Apollo 11 mission in 1969."
+                  },
+                  {
+                    "question": "What is the name of the first woman astronaut in space?",
+                    "options": ["Valentina Tereshkova", "Mae Jemison", "Sally Ride", "Eileen Collins"],
                     "answer": "Valentina Tereshkova",
-                    "explanation": "Valentina Tereshkova was the first astronaut to send a message using Morse code during her historic Vostok 6 mission in 1963."
+                    "explanation": "Valentina Tereshkova was the first woman to travel into space, doing so in 1963 aboard the Vostok 6 spacecraft."
                   },
                   {
-                    "question": "Which astronaut flew aboard the first operational Space Shuttle flight?",
-                    "options": ["John Young", "Bob Crippen", "Gus Grissom", "Buzz Aldrin"],
-                    "answer": "John Young",
-                    "explanation": "John Young commanded the first operational Space Shuttle flight (STS-1) aboard Columbia in 1981."
+                    "question": "What was the purpose of the Gemini missions?",
+                    "options": ["To land on Mars", "To prepare for long-duration space missions", "To conduct spacewalks", "To develop rockets for the Moon landing"],
+                    "answer": "To prepare for long-duration space missions",
+                    "explanation": "The Gemini missions were a series of test flights that helped NASA prepare for the Apollo program, including spacewalks and rendezvous maneuvers in orbit."
                   },
                   {
-                    "question": "Who was the first woman to complete a spacewalk outside the International Space Station?",
-                    "options": ["Kathryn Sullivan", "Christina Koch", "Peggy Whitson", "Samantha Cristoforetti"],
-                    "answer": "Christina Koch",
-                    "explanation": "Christina Koch became the first woman to complete a spacewalk outside the ISS in 2019."
+                    "question": "Which spacecraft was used to explore the surface of Mars?",
+                    "options": ["Curiosity Rover", "Apollo 11", "Voyager", "Gemini 3"],
+                    "answer": "Curiosity Rover",
+                    "explanation": "The Curiosity Rover is a robotic spacecraft sent by NASA to explore the surface of Mars, conducting scientific research and sending data back to Earth."
                   },
                   {
-                    "question": "Who was the first person to spend over a year in space?",
-                    "options": ["Valeri Polyakov", "Sergei Krikalev", "Peggy Whitson", "Scott Kelly"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov holds the record for the longest continuous time spent in space, spending 437 days aboard the Mir space station."
+                    "question": "What major achievement did Neil Armstrong accomplish?",
+                    "options": ["He was the first human to orbit the Earth", "He was the first person to walk on the Moon", "He was the first astronaut to go to Mars", "He was the first person to conduct a spacewalk"],
+                    "answer": "He was the first person to walk on the Moon",
+                    "explanation": "Neil Armstrong made history by becoming the first human to walk on the Moon during the Apollo 11 mission in 1969."
                   },
                   {
-                    "question": "Which astronaut commanded the Apollo 13 mission that experienced an in-flight emergency?",
-                    "options": ["Jim Lovell", "John Young", "Buzz Aldrin", "Alan Shepard"],
-                    "answer": "Jim Lovell",
-                    "explanation": "Jim Lovell commanded the Apollo 13 mission, which famously experienced an oxygen tank explosion en route to the Moon."
-                  },
-                  {
-                    "question": "Who was the first astronaut to fly a spacecraft manually?",
-                    "options": ["Neil Armstrong", "Yuri Gagarin", "Alan Shepard", "John Glenn"],
-                    "answer": "John Glenn",
-                    "explanation": "John Glenn was the first astronaut to fly a spacecraft manually during his historic Friendship 7 mission in 1962."
+                    "question": "Which space agency is responsible for launching astronauts to space?",
+                    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+                    "answer": "NASA",
+                    "explanation": "NASA, the National Aeronautics and Space Administration, is responsible for conducting U.S. space missions and launching astronauts to space."
                   }
                 ]
+
               },
               {
                 "setNumber": 10,
                 "questions": [
                   {
-                    "question": "Who was the first person to visit space more than six times?",
-                    "options": ["John Young", "Jerry Ross", "Scott Kelly", "Peggy Whitson"],
-                    "answer": "Jerry Ross",
-                    "explanation": "Jerry Ross was the first astronaut to fly into space seven times, setting a record for the most spaceflights."
+                    "question": "Who was the first person to land on the Moon?",
+                    "options": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Buzz Aldrin"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong became the first person to set foot on the Moon during the Apollo 11 mission in 1969."
                   },
                   {
-                    "question": "Which astronaut was the first to use a space treadmill for exercise?",
-                    "options": ["Chris Hadfield", "Scott Kelly", "Yuri Gagarin", "John Young"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly was one of the first astronauts to use the space treadmill for exercise during his yearlong mission on the ISS."
+                    "question": "What does NASA stand for?",
+                    "options": ["National Aeronautics and Space Administration", "National Association of Space Academics", "North American Space Agency", "National Aeronautical Space Agency"],
+                    "answer": "National Aeronautics and Space Administration",
+                    "explanation": "NASA stands for National Aeronautics and Space Administration, the U.S. government agency responsible for space exploration and research."
                   },
                   {
-                    "question": "Who became the first African-American astronaut to fly to space?",
-                    "options": ["Guion Bluford", "Mae Jemison", "Ronald McNair", "Jeanette Epps"],
-                    "answer": "Guion Bluford",
-                    "explanation": "Guion Bluford became the first African-American astronaut to fly to space aboard the Space Shuttle Challenger in 1983."
+                    "question": "Which mission was the first to send humans to the Moon?",
+                    "options": ["Apollo 10", "Apollo 11", "Apollo 13", "Apollo 15"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the first mission to successfully land humans on the Moon, with Neil Armstrong and Buzz Aldrin walking on the lunar surface."
                   },
                   {
-                    "question": "Which astronaut became the first to spend over 500 days in space cumulatively?",
-                    "options": ["Peggy Whitson", "Valeri Polyakov", "Sergei Krikalev", "Gennady Padalka"],
-                    "answer": "Sergei Krikalev",
-                    "explanation": "Sergei Krikalev was the first astronaut to spend over 500 cumulative days in space during his six spaceflights."
+                    "question": "What was the goal of the Mercury space program?",
+                    "options": ["To send the first astronauts to Mars", "To send astronauts into space and orbit the Earth", "To establish a permanent space station", "To land on the Moon"],
+                    "answer": "To send astronauts into space and orbit the Earth",
+                    "explanation": "The Mercury program was the first U.S. human spaceflight program and aimed to put astronauts into space and complete orbital missions."
                   },
                   {
-                    "question": "Who became the first U.S. astronaut to serve as the commander of a Russian space station?",
-                    "options": ["Peggy Whitson", "Scott Kelly", "Jerry Ross", "Michael Foale"],
-                    "answer": "Michael Foale",
-                    "explanation": "Michael Foale became the first U.S. astronaut to command a Russian space station (Mir) in 1997."
+                    "question": "Which of the following was the first spacecraft to land on the Moon?",
+                    "options": ["Lunar Module", "Apollo 11", "Viking 1", "Luna 2"],
+                    "answer": "Luna 2",
+                    "explanation": "Luna 2 was the first spacecraft to land on the Moon, marking the Soviet Union's historic achievement in 1959."
                   },
                   {
-                    "question": "Which astronaut holds the record for the longest cumulative spacewalk time by a woman?",
-                    "options": ["Peggy Whitson", "Christina Koch", "Sunita Williams", "Kathryn Sullivan"],
-                    "answer": "Sunita Williams",
-                    "explanation": "Sunita Williams holds the record for the longest cumulative spacewalk time by a woman, with 50 hours and 40 minutes."
+                    "question": "What is a space probe?",
+                    "options": ["A satellite used to collect information", "A robotic spacecraft used to explore planets", "A type of space station", "An astronaut's space suit"],
+                    "answer": "A robotic spacecraft used to explore planets",
+                    "explanation": "A space probe is a robotic spacecraft designed to travel into space and collect data from other planets and celestial bodies."
                   },
                   {
-                    "question": "Who became the first Canadian astronaut to fly aboard a U.S. space shuttle?",
-                    "options": ["Chris Hadfield", "Julie Payette", "Marc Garneau", "Roberta Bondar"],
-                    "answer": "Marc Garneau",
-                    "explanation": "Marc Garneau was the first Canadian astronaut to fly aboard a U.S. space shuttle in 1984."
+                    "question": "Which space station orbits the Earth continuously?",
+                    "options": ["Mir Space Station", "International Space Station", "Hubble Space Telescope", "Space Shuttle"],
+                    "answer": "International Space Station",
+                    "explanation": "The International Space Station (ISS) is a space station that orbits the Earth and serves as a laboratory for scientific research in space."
                   },
                   {
-                    "question": "Which astronaut holds the record for the longest continuous spaceflight by any astronaut?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Christina Koch", "Valeri Polyakov"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov holds the record for the longest continuous spaceflight, spending 437 days aboard Mir in the mid-1990s."
+                    "question": "What is the primary purpose of a space shuttle?",
+                    "options": ["To explore Mars", "To launch satellites into orbit", "To carry astronauts to and from space", "To collect space debris"],
+                    "answer": "To carry astronauts to and from space",
+                    "explanation": "The space shuttle was designed to carry astronauts into space and bring them back safely, as well as to transport cargo into orbit."
                   },
                   {
-                    "question": "Who was the first person to command both a space shuttle and the ISS?",
-                    "options": ["John Young", "Scott Kelly", "Peggy Whitson", "Chris Hadfield"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson was the first astronaut to command both a space shuttle mission and the ISS."
+                    "question": "What is the main characteristic of a lunar mission?",
+                    "options": ["It involves orbiting Mars", "It involves landing on the Moon", "It involves building a space station", "It involves exploring Jupiter"],
+                    "answer": "It involves landing on the Moon",
+                    "explanation": "Lunar missions are specifically designed to land astronauts on the Moon and explore its surface, as seen in the Apollo program."
                   },
                   {
-                    "question": "Which astronaut holds the record for the most number of days spent in space by a U.S. astronaut?",
-                    "options": ["Peggy Whitson", "Scott Kelly", "John Young", "Christina Koch"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson holds the record for the most cumulative time spent in space by any U.S. astronaut, with 665 days."
+                    "question": "Which space agency is responsible for space exploration in Russia?",
+                    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+                    "answer": "Roscosmos",
+                    "explanation": "Roscosmos is the Russian space agency responsible for space exploration, satellite launches, and the development of space technologies."
                   }
                 ]
+
               },
               {
                 "setNumber": 11,
                 "questions": [
                   {
-                    "question": "Who was the first American astronaut to orbit the Earth?",
-                    "options": ["John Glenn", "Alan Shepard", "Neil Armstrong", "Buzz Aldrin"],
-                    "answer": "John Glenn",
-                    "explanation": "John Glenn became the first American to orbit the Earth on February 20, 1962, aboard Friendship 7."
-                  },
-                  {
-                    "question": "Which astronaut famously said, 'That's one small step for man, one giant leap for mankind'?",
-                    "options": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "Yuri Gagarin"],
-                    "answer": "Neil Armstrong",
-                    "explanation": "Neil Armstrong spoke these iconic words as he stepped onto the Moon's surface during the Apollo 11 mission in 1969."
-                  },
-                  {
-                    "question": "What was the first space shuttle to be launched into space?",
-                    "options": ["Columbia", "Challenger", "Discovery", "Enterprise"],
-                    "answer": "Columbia",
-                    "explanation": "Space Shuttle Columbia was the first shuttle to fly into space on April 12, 1981, during mission STS-1."
-                  },
-                  {
-                    "question": "Who was the first human to travel into space?",
-                    "options": ["Alan Shepard", "Neil Armstrong", "John Glenn", "Yuri Gagarin"],
+                    "question": "What is the name of the first human to travel to space?",
+                    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
                     "answer": "Yuri Gagarin",
-                    "explanation": "Yuri Gagarin, a Soviet astronaut, became the first human to journey into space on April 12, 1961."
+                    "explanation": "Yuri Gagarin, a Soviet cosmonaut, was the first human to travel into space aboard Vostok 1 in 1961."
                   },
                   {
-                    "question": "Who was the first woman to walk in space?",
-                    "options": ["Valentina Tereshkova", "Mae Jemison", "Svetlana Savitskaya", "Peggy Whitson"],
-                    "answer": "Svetlana Savitskaya",
-                    "explanation": "Svetlana Savitskaya became the first woman to perform a spacewalk on July 25, 1984."
+                    "question": "What is the primary mission of the Apollo space program?",
+                    "options": ["To explore the Moon", "To develop the first space station", "To send humans to Mars", "To launch the first satellite into space"],
+                    "answer": "To explore the Moon",
+                    "explanation": "The Apollo space program's primary goal was to land humans on the Moon and bring them back safely, with Apollo 11 achieving this milestone in 1969."
                   },
                   {
-                    "question": "Which astronaut spent the longest continuous time in space?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Gennady Padalka", "Valeri Polyakov"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov holds the record for the longest continuous spaceflight, spending 437 days aboard Mir."
+                    "question": "Which spacecraft was used to land on the Moon during the Apollo missions?",
+                    "options": ["Lunar Module", "Space Shuttle", "Vostok", "Explorer"],
+                    "answer": "Lunar Module",
+                    "explanation": "The Lunar Module was a spacecraft used in the Apollo missions to land on the Moon, separating from the main command module to descend and land."
                   },
                   {
-                    "question": "Who was the first astronaut to fly into space multiple times?",
-                    "options": ["Gus Grissom", "Alan Shepard", "John Young", "Yuri Gagarin"],
-                    "answer": "Gus Grissom",
-                    "explanation": "Gus Grissom became the first astronaut to fly into space twice: on Mercury-Redstone 4 and Gemini 3."
+                    "question": "Which country was the first to launch a satellite into space?",
+                    "options": ["USA", "Russia", "China", "India"],
+                    "answer": "Russia",
+                    "explanation": "Russia was the first country to launch a satellite, Sputnik 1, into space on October 4, 1957, marking the beginning of the space age."
                   },
                   {
-                    "question": "Who holds the record for the most spacewalks?",
-                    "options": ["Chris Hadfield", "Peggy Whitson", "Anatoli Solovyev", "Michael Lopez-Alegria"],
-                    "answer": "Anatoli Solovyev",
-                    "explanation": "Anatoli Solovyev, a Russian astronaut, holds the record with 16 spacewalks totaling over 82 hours."
+                    "question": "What is the name of the first space station ever launched?",
+                    "options": ["International Space Station", "Mir", "Hubble", "Skylab"],
+                    "answer": "Mir",
+                    "explanation": "Mir was the first space station launched by the Soviet Union in 1986, and it operated in low Earth orbit for 15 years."
                   },
                   {
-                    "question": "Which American astronaut was the first to complete a spacewalk?",
-                    "options": ["Ed White", "Buzz Aldrin", "Neil Armstrong", "John Glenn"],
-                    "answer": "Ed White",
-                    "explanation": "Ed White conducted America's first spacewalk during the Gemini 4 mission on June 3, 1965."
+                    "question": "What is the primary purpose of a space telescope?",
+                    "options": ["To explore the Moon", "To observe distant stars and galaxies", "To track satellites", "To conduct spacewalks"],
+                    "answer": "To observe distant stars and galaxies",
+                    "explanation": "Space telescopes, like the Hubble Space Telescope, are used to observe stars, galaxies, and other celestial bodies far beyond our solar system."
                   },
                   {
-                    "question": "Who was the commander of the Apollo 13 mission?",
-                    "options": ["Neil Armstrong", "Jim Lovell", "John Young", "Fred Haise"],
-                    "answer": "Jim Lovell",
-                    "explanation": "Jim Lovell commanded the Apollo 13 mission, which suffered an in-flight emergency that prevented a lunar landing."
+                    "question": "What does NASA primarily focus on?",
+                    "options": ["Researching climate change", "Exploring space and conducting space missions", "Building robots", "Creating satellites for Earth observation"],
+                    "answer": "Exploring space and conducting space missions",
+                    "explanation": "NASA focuses on space exploration, conducting space missions, studying space science, and developing technologies for exploring outer space."
+                  },
+                  {
+                    "question": "What was the main goal of the Space Shuttle program?",
+                    "options": ["To send astronauts to Mars", "To transport astronauts to the Moon", "To deploy satellites and carry astronauts to and from space", "To explore Jupiter"],
+                    "answer": "To deploy satellites and carry astronauts to and from space",
+                    "explanation": "The Space Shuttle program's main goal was to provide reusable spacecraft for deploying satellites, repairing spacecraft, and transporting astronauts to space."
+                  },
+                  {
+                    "question": "Which of these astronauts was the first to walk on the Moon?",
+                    "options": ["Yuri Gagarin", "Buzz Aldrin", "Neil Armstrong", "Sally Ride"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong was the first human to set foot on the Moon on July 20, 1969, during the Apollo 11 mission."
+                  },
+                  {
+                    "question": "What is the name of the organization responsible for the development of rockets and spacecraft in India?",
+                    "options": ["ISRO", "NASA", "ESA", "JAXA"],
+                    "answer": "ISRO",
+                    "explanation": "ISRO (Indian Space Research Organisation) is India's space agency responsible for developing rockets, satellites, and conducting space missions."
                   }
                 ]
+
               },
               {
                 "setNumber": 12,
                 "questions": [
                   {
-                    "question": "Which astronaut was the first African American woman in space?",
-                    "options": ["Sally Ride", "Mae Jemison", "Yvonne Cagle", "Stephanie Wilson"],
-                    "answer": "Mae Jemison",
-                    "explanation": "Mae Jemison became the first African American woman in space on September 12, 1992, aboard the Space Shuttle Endeavour."
+                    "question": "What does the term 'microgravity' refer to?",
+                    "options": ["Complete absence of gravity", "A state of reduced gravity experienced in space", "High gravity experienced on Earth", "A type of magnetic field"],
+                    "answer": "A state of reduced gravity experienced in space",
+                    "explanation": "Microgravity refers to a state where objects experience very weak gravitational forces, which is commonly experienced by astronauts in space."
                   },
                   {
-                    "question": "Which astronaut set a record for the longest cumulative time in space by an American?",
-                    "options": ["Scott Kelly", "John Glenn", "Peggy Whitson", "Michael Lopez-Alegria"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson set the U.S. record for cumulative time in space with 665 days over her career."
+                    "question": "What major achievement is associated with Yuri Gagarin?",
+                    "options": ["First man to walk on the Moon", "First human to orbit the Earth", "First human to land on Mars", "First spacewalk by a human"],
+                    "answer": "First human to orbit the Earth",
+                    "explanation": "Yuri Gagarin was the first human to orbit the Earth on April 12, 1961, aboard the Vostok 1 spacecraft."
                   },
                   {
-                    "question": "Who was the first American woman to fly into space?",
-                    "options": ["Sally Ride", "Mae Jemison", "Eileen Collins", "Peggy Whitson"],
-                    "answer": "Sally Ride",
-                    "explanation": "Sally Ride became the first American woman in space on June 18, 1983, aboard Space Shuttle Challenger."
+                    "question": "Which spacecraft was used to travel to the Moon during the Apollo missions?",
+                    "options": ["Lunar Module", "Space Shuttle", "Apollo Command Module", "Sputnik"],
+                    "answer": "Apollo Command Module",
+                    "explanation": "The Apollo Command Module was used during the Apollo missions to transport astronauts to and from the Moon."
                   },
                   {
-                    "question": "Who was the first Japanese astronaut to go to space?",
-                    "options": ["Koichi Wakata", "Mamoru Mohri", "Soichi Noguchi", "Chiaki Mukai"],
-                    "answer": "Mamoru Mohri",
-                    "explanation": "Mamoru Mohri was the first Japanese astronaut, flying on STS-47 in 1992."
+                    "question": "Which of the following was the first spacecraft to land on Mars?",
+                    "options": ["Viking 1", "Curiosity Rover", "Mars Odyssey", "Spirit Rover"],
+                    "answer": "Viking 1",
+                    "explanation": "Viking 1 was the first spacecraft to land on Mars, achieving this milestone in 1976 as part of NASA's Viking program."
                   },
                   {
-                    "question": "What was the name of the first space station?",
-                    "options": ["Salyut 1", "Skylab", "Mir", "ISS"],
-                    "answer": "Salyut 1",
-                    "explanation": "Salyut 1, launched by the Soviet Union in 1971, was the world’s first space station."
-                  },
-                  {
-                    "question": "Who was the first person to eat and drink in space?",
-                    "options": ["John Glenn", "Yuri Gagarin", "Alan Shepard", "Valentina Tereshkova"],
-                    "answer": "John Glenn",
-                    "explanation": "John Glenn became the first astronaut to eat in space during his 1962 mission on Friendship 7."
-                  },
-                  {
-                    "question": "Which astronaut was the first American to perform a spacewalk?",
-                    "options": ["John Glenn", "Buzz Aldrin", "Ed White", "Neil Armstrong"],
+                    "question": "Which astronaut was the first to perform a spacewalk?",
+                    "options": ["Buzz Aldrin", "Ed White", "John Glenn", "Sally Ride"],
                     "answer": "Ed White",
-                    "explanation": "Ed White conducted the first American spacewalk on June 3, 1965, during the Gemini 4 mission."
+                    "explanation": "Ed White was the first American astronaut to perform a spacewalk on June 3, 1965, during the Gemini 4 mission."
                   },
                   {
-                    "question": "Which astronaut spent almost a year aboard the ISS from 2015-2016?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Chris Hadfield", "Jeff Williams"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly spent 340 days aboard the ISS in the 'One-Year Mission' to study long-term space effects."
+                    "question": "What is the purpose of the International Space Station (ISS)?",
+                    "options": ["To explore the Moon", "To study Earth from space", "To conduct experiments in microgravity", "To house astronauts on Mars"],
+                    "answer": "To conduct experiments in microgravity",
+                    "explanation": "The ISS is a research laboratory that orbits the Earth, providing astronauts with a platform to conduct experiments in microgravity."
                   },
                   {
-                    "question": "Which Soviet cosmonaut holds the record for the most spacewalks by a non-American?",
-                    "options": ["Alexei Leonov", "Valery Bykovsky", "Anatoly Solovyev", "Gennady Padalka"],
-                    "answer": "Anatoly Solovyev",
-                    "explanation": "Anatoly Solovyev conducted 16 spacewalks, the most by a cosmonaut, with over 82 hours outside the spacecraft."
+                    "question": "What was the first space mission to land humans on the Moon?",
+                    "options": ["Apollo 13", "Apollo 11", "Gemini 4", "Vostok 1"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the first space mission to land humans on the Moon, with Neil Armstrong and Buzz Aldrin stepping onto the lunar surface in 1969."
                   },
                   {
-                    "question": "Which astronaut famously brought a golf club to the Moon?",
-                    "options": ["Buzz Aldrin", "Neil Armstrong", "Alan Shepard", "Jim Lovell"],
-                    "answer": "Alan Shepard",
-                    "explanation": "Alan Shepard took a makeshift golf club and hit two balls on the Moon's surface during Apollo 14."
+                    "question": "Which of the following is NOT a space agency?",
+                    "options": ["NASA", "ISRO", "JAXA", "UNESCO"],
+                    "answer": "UNESCO",
+                    "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization) is not a space agency; NASA, ISRO, and JAXA are space agencies."
+                  },
+                  {
+                    "question": "What does a space shuttle do?",
+                    "options": ["Launches satellites", "Transports astronauts to the Moon", "Acts as a reusable spacecraft for traveling to space", "Explores deep space"],
+                    "answer": "Acts as a reusable spacecraft for traveling to space",
+                    "explanation": "Space shuttles were reusable spacecraft used for missions such as transporting astronauts, deploying satellites, and conducting research in space."
+                  },
+                  {
+                    "question": "Which event marked the beginning of the space race between the USA and the Soviet Union?",
+                    "options": ["The launch of Sputnik 1", "The first manned Moon landing", "The first spacewalk", "The first space station launch"],
+                    "answer": "The launch of Sputnik 1",
+                    "explanation": "The launch of Sputnik 1 by the Soviet Union in 1957 marked the beginning of the space race between the USA and the Soviet Union."
                   }
                 ]
+
               },
               {
                 "setNumber": 13,
                 "questions": [
                   {
-                    "question": "Who was the first astronaut to command a Space Shuttle mission?",
-                    "options": ["John Young", "Alan Shepard", "Buzz Aldrin", "Jim Lovell"],
-                    "answer": "John Young",
-                    "explanation": "John Young commanded the first Space Shuttle mission, STS-1, aboard the Space Shuttle Columbia in 1981."
+                    "question": "What is a major challenge for astronauts when returning to Earth after long space missions?",
+                    "options": ["Gravity-related health issues", "Low oxygen levels", "Unstable weather conditions", "Difficulty communicating with Earth"],
+                    "answer": "Gravity-related health issues",
+                    "explanation": "Astronauts returning from space often experience health issues related to gravity, such as muscle atrophy and bone loss, due to the lack of gravity in space."
                   },
                   {
-                    "question": "What was the first reusable spacecraft to reach orbit?",
-                    "options": ["Apollo 11", "Space Shuttle", "Soyuz", "Skylab"],
-                    "answer": "Space Shuttle",
-                    "explanation": "The Space Shuttle was the first reusable spacecraft, with its first mission launched in 1981."
+                    "question": "Which spacecraft was the first to be used to send humans to the Moon?",
+                    "options": ["Vostok 1", "Luna 9", "Apollo 11", "Soyuz 11"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the first spacecraft to land humans on the Moon, with Neil Armstrong and Buzz Aldrin becoming the first humans to walk on the lunar surface in 1969."
                   },
                   {
-                    "question": "Who was the first astronaut to complete a spacewalk during an Apollo mission?",
-                    "options": ["Buzz Aldrin", "Ed White", "Michael Collins", "John Young"],
-                    "answer": "Buzz Aldrin",
-                    "explanation": "Buzz Aldrin performed the first spacewalk of the Apollo program on the Gemini 12 mission in 1966."
+                    "question": "Which astronaut is famous for the 'small step for man' phrase?",
+                    "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Valentina Tereshkova"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong is famous for the phrase 'That's one small step for man, one giant leap for mankind,' which he said as he became the first person to walk on the Moon."
                   },
                   {
-                    "question": "Which astronaut was part of both the Gemini and Apollo programs and later commanded Apollo 14?",
-                    "options": ["John Young", "Alan Shepard", "Jim Lovell", "Neil Armstrong"],
-                    "answer": "Alan Shepard",
-                    "explanation": "Alan Shepard was the only Mercury astronaut to command an Apollo mission, leading Apollo 14 in 1971."
+                    "question": "What does NASA stand for?",
+                    "options": ["National Aerospace and Space Agency", "National Aeronautics and Space Administration", "National Association for Space Affairs", "New Astronomy and Space Administration"],
+                    "answer": "National Aeronautics and Space Administration",
+                    "explanation": "NASA stands for the National Aeronautics and Space Administration, which is the United States government agency responsible for the nation's civilian space program."
                   },
                   {
-                    "question": "Who was the first astronaut to spend a full year in space on the ISS?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Chris Hadfield", "Valery Polyakov"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly spent 340 days aboard the ISS from 2015 to 2016 to study the effects of long-term spaceflight."
+                    "question": "Who was the first woman to travel into space?",
+                    "options": ["Mae Jemison", "Sally Ride", "Valentina Tereshkova", "Krista McAuliffe"],
+                    "answer": "Valentina Tereshkova",
+                    "explanation": "Valentina Tereshkova was the first woman to travel into space, making history in 1963 as part of the Soviet Union's Vostok 6 mission."
                   },
                   {
-                    "question": "Which astronaut played a key role in the Apollo 13 mission, guiding the crew safely back to Earth?",
-                    "options": ["Buzz Aldrin", "Jim Lovell", "Jack Swigert", "Fred Haise"],
-                    "answer": "Jim Lovell",
-                    "explanation": "Jim Lovell, as commander of Apollo 13, led efforts to safely return the crew after an oxygen tank explosion."
+                    "question": "What is the primary function of the Hubble Space Telescope?",
+                    "options": ["Exploring Mars", "Observing the Moon", "Observing distant stars and galaxies", "Monitoring Earth's weather patterns"],
+                    "answer": "Observing distant stars and galaxies",
+                    "explanation": "The Hubble Space Telescope is used to observe distant stars, galaxies, and other celestial bodies, providing valuable data for scientists about the universe."
                   },
                   {
-                    "question": "Who was the first Canadian astronaut to command the International Space Station?",
-                    "options": ["Roberta Bondar", "Chris Hadfield", "David Saint-Jacques", "Julie Payette"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "Chris Hadfield became the first Canadian to command the ISS in 2013, during Expedition 35."
+                    "question": "What was the first human-made object to reach the Moon?",
+                    "options": ["Luna 1", "Apollo 11", "Sputnik 1", "Viking 1"],
+                    "answer": "Luna 1",
+                    "explanation": "Luna 1, a Soviet spacecraft, was the first human-made object to reach the Moon, though it did not land but passed within 5,995 kilometers of the Moon in 1959."
                   },
                   {
-                    "question": "Who was the first astronaut to walk in space untethered?",
-                    "options": ["Bruce McCandless", "Ed White", "Buzz Aldrin", "Alexei Leonov"],
-                    "answer": "Bruce McCandless",
-                    "explanation": "Bruce McCandless used the Manned Maneuvering Unit to perform the first untethered spacewalk in 1984."
+                    "question": "Which planet did the Mars rovers primarily explore?",
+                    "options": ["Mars", "Venus", "Earth", "Jupiter"],
+                    "answer": "Mars",
+                    "explanation": "The Mars rovers have been sent to Mars to explore its surface, study its geology, and search for signs of past life."
                   },
                   {
-                    "question": "What was the name of the lunar module that carried the first men to the Moon?",
-                    "options": ["Eagle", "Falcon", "Columbia", "Intrepid"],
-                    "answer": "Eagle",
-                    "explanation": "The Apollo 11 lunar module, named Eagle, carried Neil Armstrong and Buzz Aldrin to the Moon's surface."
+                    "question": "What is the name of the spacecraft that recently took the first close-up pictures of Pluto?",
+                    "options": ["Voyager 1", "New Horizons", "Curiosity", "Parker Solar Probe"],
+                    "answer": "New Horizons",
+                    "explanation": "The New Horizons spacecraft made history by sending the first close-up images of Pluto in 2015, providing valuable data about the dwarf planet."
                   },
                   {
-                    "question": "Who was the first astronaut to orbit the Moon alone while his crewmates landed?",
-                    "options": ["Michael Collins", "John Young", "Pete Conrad", "Alan Shepard"],
-                    "answer": "Michael Collins",
-                    "explanation": "Michael Collins orbited the Moon alone in the command module during Apollo 11 as Armstrong and Aldrin landed."
+                    "question": "What was the main goal of the Apollo 13 mission?",
+                    "options": ["To land on the Moon", "To gather samples from the Moon", "To conduct the first spacewalk", "To return astronauts safely after an emergency"],
+                    "answer": "To return astronauts safely after an emergency",
+                    "explanation": "The Apollo 13 mission's main goal was to return astronauts safely after an oxygen tank exploded, preventing their planned Moon landing."
                   }
                 ]
+
               },
               {
                 "setNumber": 14,
                 "questions": [
                   {
-                    "question": "Which astronaut's voice is heard in the famous phrase 'Houston, we've had a problem'?",
-                    "options": ["Jim Lovell", "Fred Haise", "Jack Swigert", "Gene Kranz"],
-                    "answer": "Jack Swigert",
-                    "explanation": "Jack Swigert first reported the Apollo 13 issue, later repeated by commander Jim Lovell as 'Houston, we've had a problem.'"
+                    "question": "What is the primary objective of the International Space Station (ISS)?",
+                    "options": ["To explore distant galaxies", "To serve as a space laboratory for research", "To study the Earth’s atmosphere", "To establish a moon base"],
+                    "answer": "To serve as a space laboratory for research",
+                    "explanation": "The ISS serves as a laboratory in space where astronauts conduct scientific experiments in microgravity and study various aspects of space living."
                   },
                   {
-                    "question": "Who was the first European astronaut to go into space?",
-                    "options": ["Jean-Loup Chrétien", "Alexander Gerst", "Tim Peake", "Ulf Merbold"],
-                    "answer": "Ulf Merbold",
-                    "explanation": "Ulf Merbold from Germany was the first ESA astronaut to fly in space, on STS-9 in 1983."
+                    "question": "Which spacecraft successfully landed a rover on Mars in 2021?",
+                    "options": ["Viking 1", "Curiosity", "Perseverance", "Opportunity"],
+                    "answer": "Perseverance",
+                    "explanation": "The Perseverance rover successfully landed on Mars in February 2021 as part of NASA's Mars mission, designed to search for signs of ancient life."
                   },
                   {
-                    "question": "Which astronaut spent the most cumulative time in space among all astronauts worldwide?",
-                    "options": ["Peggy Whitson", "Valeri Polyakov", "Gennady Padalka", "Scott Kelly"],
-                    "answer": "Gennady Padalka",
-                    "explanation": "Gennady Padalka holds the record for the most cumulative time in space, with over 878 days across multiple missions."
+                    "question": "What is the name of the first space probe to leave the solar system?",
+                    "options": ["Voyager 1", "New Horizons", "Parker Solar Probe", "Cassini"],
+                    "answer": "Voyager 1",
+                    "explanation": "Voyager 1, launched in 1977, became the first human-made object to leave the solar system, continuing to send data back to Earth from interstellar space."
                   },
                   {
-                    "question": "Which astronaut commanded the first U.S. space station, Skylab?",
-                    "options": ["Pete Conrad", "Alan Bean", "John Glenn", "Gus Grissom"],
-                    "answer": "Pete Conrad",
-                    "explanation": "Pete Conrad commanded Skylab's first crew in 1973, leading efforts to repair damage sustained during launch."
+                    "question": "Who was the first African-American astronaut in space?",
+                    "options": ["Mae Jemison", "Guion Bluford", "Shannon Lucid", "Sally Ride"],
+                    "answer": "Guion Bluford",
+                    "explanation": "Guion Bluford became the first African-American astronaut in space, making his first flight aboard the Space Shuttle Challenger in 1983."
                   },
                   {
-                    "question": "Which Apollo mission conducted the first lunar landing?",
-                    "options": ["Apollo 10", "Apollo 11", "Apollo 12", "Apollo 13"],
-                    "answer": "Apollo 11",
-                    "explanation": "Apollo 11 completed the first Moon landing in 1969, with Neil Armstrong and Buzz Aldrin on the surface."
+                    "question": "What does a space suit provide astronauts?",
+                    "options": ["Oxygen and communication devices", "A place to sleep", "A source of food", "A means to explore the Moon"],
+                    "answer": "Oxygen and communication devices",
+                    "explanation": "Space suits provide astronauts with oxygen, a stable environment to survive in the vacuum of space, and communication devices to stay in contact with mission control."
                   },
                   {
-                    "question": "Who was the first astronaut to tweet from space?",
-                    "options": ["Mike Massimino", "Scott Kelly", "Chris Hadfield", "Peggy Whitson"],
-                    "answer": "Mike Massimino",
-                    "explanation": "Mike Massimino sent the first tweet from space in 2009, aboard the Space Shuttle Atlantis."
+                    "question": "Which space agency is responsible for launching the Hubble Space Telescope?",
+                    "options": ["European Space Agency", "NASA", "Roscosmos", "China National Space Administration"],
+                    "answer": "NASA",
+                    "explanation": "NASA was responsible for launching the Hubble Space Telescope, which has provided some of the most detailed images of distant galaxies and nebulae since its launch in 1990."
                   },
                   {
-                    "question": "Who was the second person to walk on the Moon?",
-                    "options": ["Buzz Aldrin", "Neil Armstrong", "Pete Conrad", "Alan Shepard"],
-                    "answer": "Buzz Aldrin",
-                    "explanation": "Buzz Aldrin was the second person to set foot on the Moon, following Neil Armstrong during Apollo 11."
+                    "question": "What is the purpose of the James Webb Space Telescope (JWST)?",
+                    "options": ["To study the Moon", "To explore Mars", "To observe distant galaxies and exoplanets", "To monitor weather patterns on Earth"],
+                    "answer": "To observe distant galaxies and exoplanets",
+                    "explanation": "The James Webb Space Telescope is designed to observe distant galaxies, exoplanets, and other celestial bodies to help understand the origins of the universe."
                   },
                   {
-                    "question": "Who was the first astronaut to fly in both the Gemini and Apollo programs?",
-                    "options": ["Neil Armstrong", "Gus Grissom", "John Young", "Jim Lovell"],
-                    "answer": "Gus Grissom",
-                    "explanation": "Gus Grissom flew in both the Gemini and Apollo programs, the only astronaut to do so before his death in 1967."
+                    "question": "Which country was the first to launch a satellite into space?",
+                    "options": ["USA", "Soviet Union", "China", "India"],
+                    "answer": "Soviet Union",
+                    "explanation": "The Soviet Union launched Sputnik 1 in 1957, the first artificial satellite, marking the beginning of the space age."
                   },
                   {
-                    "question": "Which spacecraft was the first to carry humans into space?",
-                    "options": ["Apollo", "Vostok", "Mercury", "Gemini"],
-                    "answer": "Vostok",
-                    "explanation": "Vostok 1 carried Yuri Gagarin into space in 1961, marking humanity's first crewed spaceflight."
+                    "question": "What was the main goal of the Apollo 11 mission?",
+                    "options": ["To launch a satellite", "To land on Mars", "To send the first humans to the Moon", "To gather data on space dust"],
+                    "answer": "To send the first humans to the Moon",
+                    "explanation": "Apollo 11's primary goal was to land astronauts Neil Armstrong and Buzz Aldrin on the Moon, making them the first humans to walk on the lunar surface."
                   },
                   {
-                    "question": "Who was the first astronaut to stay aboard the ISS for an entire mission in command?",
-                    "options": ["Peggy Whitson", "Scott Kelly", "Chris Hadfield", "Gennady Padalka"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson became the first female commander of the ISS and held the role for an entire mission."
+                    "question": "What is the name of the first artificial satellite launched into space?",
+                    "options": ["Vostok 1", "Sputnik 1", "Explorer 1", "Apollo 11"],
+                    "answer": "Sputnik 1",
+                    "explanation": "Sputnik 1, launched by the Soviet Union in 1957, was the first artificial satellite to orbit the Earth, marking the beginning of the space race."
                   }
                 ]
+
               },
               {
                 "setNumber": 15,
                 "questions": [
                   {
-                    "question": "Who was the first astronaut to test the lunar rover on the Moon?",
-                    "options": ["John Young", "Jim Irwin", "Alan Shepard", "Gene Cernan"],
-                    "answer": "John Young",
-                    "explanation": "John Young tested the lunar rover on the Moon during the Apollo 16 mission in 1972."
+                    "question": "What is the purpose of the Space Launch System (SLS)?",
+                    "options": ["To explore Mars", "To launch astronauts to the Moon and beyond", "To land humans on Venus", "To study the Sun"],
+                    "answer": "To launch astronauts to the Moon and beyond",
+                    "explanation": "The Space Launch System (SLS) is designed to send astronauts and cargo to the Moon, Mars, and beyond, as part of NASA's Artemis program."
                   },
                   {
-                    "question": "Who was the first Chinese astronaut to reach space?",
-                    "options": ["Yang Liwei", "Liu Boming", "Zhai Zhigang", "Wang Yaping"],
-                    "answer": "Yang Liwei",
-                    "explanation": "Yang Liwei was China's first astronaut in space, flying aboard Shenzhou 5 in 2003."
+                    "question": "Which mission was the first to land a rover on Mars in 1997?",
+                    "options": ["Viking 1", "Sojourner", "Curiosity", "Perseverance"],
+                    "answer": "Sojourner",
+                    "explanation": "The Sojourner rover, part of NASA's Mars Pathfinder mission, was the first to successfully land on Mars in 1997 and explore the surface."
                   },
                   {
-                    "question": "Which astronaut holds the record for most days spent in space by a female astronaut?",
-                    "options": ["Peggy Whitson", "Valentina Tereshkova", "Mae Jemison", "Christina Koch"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson set a record for the most days in space by a woman, with a cumulative total of 665 days."
+                    "question": "Which planet is known as the 'Red Planet'?",
+                    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+                    "answer": "Mars",
+                    "explanation": "Mars is often called the 'Red Planet' because of its reddish appearance, caused by iron oxide or rust on its surface."
                   },
                   {
-                    "question": "What was the purpose of the Apollo-Soyuz mission?",
-                    "options": ["Lunar landing", "Docking between U.S. and Soviet spacecraft", "Space station construction", "Spacewalk practice"],
-                    "answer": "Docking between U.S. and Soviet spacecraft",
-                    "explanation": "The Apollo-Soyuz mission was the first international crewed space mission, docking U.S. and Soviet spacecraft in 1975."
-                  },
-                  {
-                    "question": "Which astronaut orbited Earth in the first U.S. spaceflight?",
-                    "options": ["Alan Shepard", "John Glenn", "Gus Grissom", "Scott Carpenter"],
-                    "answer": "John Glenn",
-                    "explanation": "John Glenn was the first American to orbit Earth on February 20, 1962, during Friendship 7."
-                  },
-                  {
-                    "question": "Who was the last astronaut to walk on the Moon?",
-                    "options": ["Eugene Cernan", "Harrison Schmitt", "Alan Shepard", "John Young"],
-                    "answer": "Eugene Cernan",
-                    "explanation": "Eugene Cernan was the last person to walk on the Moon during the Apollo 17 mission in 1972."
-                  },
-                  {
-                    "question": "Which country launched the first space station?",
-                    "options": ["United States", "Soviet Union", "China", "Japan"],
-                    "answer": "Soviet Union",
-                    "explanation": "The Soviet Union launched the first space station, Salyut 1, in 1971."
-                  },
-                  {
-                    "question": "Who was the first astronaut to die during a space mission?",
-                    "options": ["Vladimir Komarov", "Yuri Gagarin", "Gus Grissom", "Ed White"],
-                    "answer": "Vladimir Komarov",
-                    "explanation": "Vladimir Komarov was the first astronaut to die in space, during the Soyuz 1 mission in 1967."
-                  },
-                  {
-                    "question": "Who was the first astronaut to bring back moon rocks?",
-                    "options": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "John Young"],
+                    "question": "Who was the first astronaut to walk on the Moon?",
+                    "options": ["Buzz Aldrin", "Michael Collins", "Neil Armstrong", "Yuri Gagarin"],
                     "answer": "Neil Armstrong",
-                    "explanation": "Neil Armstrong collected the first moon rocks as souvenirs from the Apollo 11 mission in 1969."
+                    "explanation": "Neil Armstrong became the first astronaut to walk on the Moon during the Apollo 11 mission in 1969."
                   },
                   {
-                    "question": "Which astronaut became the first woman to command a Space Shuttle mission?",
-                    "options": ["Eileen Collins", "Sally Ride", "Peggy Whitson", "Mae Jemison"],
-                    "answer": "Eileen Collins",
-                    "explanation": "Eileen Collins became the first female commander of a Space Shuttle mission with STS-93 in 1999."
+                    "question": "What is the name of the spacecraft that recently visited Pluto?",
+                    "options": ["Voyager 1", "Parker Solar Probe", "New Horizons", "Hubble Space Telescope"],
+                    "answer": "New Horizons",
+                    "explanation": "NASA's New Horizons spacecraft was the first to visit Pluto, conducting a flyby in 2015 and sending back detailed images and data."
+                  },
+                  {
+                    "question": "Which astronaut spent the most time in space?",
+                    "options": ["Yuri Gagarin", "Valentina Tereshkova", "Scott Kelly", "Chris Hadfield"],
+                    "answer": "Scott Kelly",
+                    "explanation": "Scott Kelly holds the record for the longest single spaceflight by an American astronaut, spending nearly 340 days aboard the International Space Station."
+                  },
+                  {
+                    "question": "Which space mission was the first to land humans on the Moon?",
+                    "options": ["Apollo 11", "Apollo 13", "Gemini 4", "Mercury-Redstone 3"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the mission that first landed humans, Neil Armstrong and Buzz Aldrin, on the Moon on July 20, 1969."
+                  },
+                  {
+                    "question": "What is the largest planet in our solar system?",
+                    "options": ["Earth", "Saturn", "Jupiter", "Uranus"],
+                    "answer": "Jupiter",
+                    "explanation": "Jupiter is the largest planet in our solar system, known for its Great Red Spot and massive size."
+                  },
+                  {
+                    "question": "What type of telescope was used to take detailed pictures of distant galaxies?",
+                    "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory"],
+                    "answer": "Hubble Space Telescope",
+                    "explanation": "The Hubble Space Telescope has provided some of the most detailed images of distant galaxies, nebulae, and other astronomical phenomena since its launch in 1990."
+                  },
+                  {
+                    "question": "Which space agency developed the Mars rovers Perseverance and Curiosity?",
+                    "options": ["ESA", "Roscosmos", "NASA", "ISRO"],
+                    "answer": "NASA",
+                    "explanation": "NASA developed the Mars rovers Perseverance and Curiosity, which have been exploring the surface of Mars and sending back important scientific data."
                   }
                 ]
+
               },
               {
                 "setNumber": 16,
                 "questions": [
                   {
-                    "question": "Which astronaut was the first American to complete an orbit of Earth?",
-                    "options": ["John Glenn", "Alan Shepard", "Gus Grissom", "Scott Carpenter"],
-                    "answer": "John Glenn",
-                    "explanation": "John Glenn was the first American to orbit Earth on February 20, 1962, aboard Friendship 7."
+                    "question": "Which space agency is responsible for the Artemis mission?",
+                    "options": ["NASA", "ESA", "ISRO", "Roscosmos"],
+                    "answer": "NASA",
+                    "explanation": "NASA is leading the Artemis mission, which aims to return humans to the Moon and explore beyond, including Mars."
                   },
                   {
-                    "question": "Who was the first woman to travel to space as an astronaut?",
-                    "options": ["Valentina Tereshkova", "Sally Ride", "Christina Koch", "Peggy Whitson"],
+                    "question": "What is the name of the first woman astronaut who went to space?",
+                    "options": ["Valentina Tereshkova", "Sally Ride", "Mae Jemison", "Eileen Collins"],
                     "answer": "Valentina Tereshkova",
-                    "explanation": "Valentina Tereshkova was the first woman in space, flying aboard Vostok 6 in 1963."
+                    "explanation": "Valentina Tereshkova was the first woman to travel into space, achieving this milestone in 1963 aboard the Vostok 6 spacecraft."
                   },
                   {
-                    "question": "Which astronaut famously said, 'That's one small step for man, one giant leap for mankind'?",
-                    "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Michael Collins"],
-                    "answer": "Neil Armstrong",
-                    "explanation": "Neil Armstrong said this historic phrase as he stepped onto the lunar surface during Apollo 11."
+                    "question": "What is the primary goal of the James Webb Space Telescope?",
+                    "options": ["Study the Sun", "Look for life on Mars", "Observe distant galaxies", "Monitor space weather"],
+                    "answer": "Observe distant galaxies",
+                    "explanation": "The James Webb Space Telescope is designed to observe distant galaxies, stars, and other celestial bodies, providing new insights into the early universe."
                   },
                   {
-                    "question": "Who was the first astronaut to fly into space twice?",
-                    "options": ["Gus Grissom", "John Young", "Alan Shepard", "Jim Lovell"],
-                    "answer": "Gus Grissom",
-                    "explanation": "Gus Grissom was the first astronaut to fly twice, once with Mercury-Redstone 4 and again with Gemini 3."
+                    "question": "Which planet is famous for having the Great Red Spot?",
+                    "options": ["Mars", "Earth", "Jupiter", "Venus"],
+                    "answer": "Jupiter",
+                    "explanation": "Jupiter is known for its Great Red Spot, a giant storm that has been raging for at least 400 years."
                   },
                   {
-                    "question": "What was the primary goal of the Gemini program?",
-                    "options": ["To test lunar landing techniques", "To dock two spacecraft", "To study long-term spaceflight effects", "All of the above"],
-                    "answer": "All of the above",
-                    "explanation": "Gemini missions were designed to prepare for Apollo by testing docking, spacewalking, and duration capabilities."
+                    "question": "Who was the first human to travel into space?",
+                    "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin was the first human to journey into outer space, achieving this feat aboard Vostok 1 on April 12, 1961."
                   },
                   {
-                    "question": "Who was the first African American astronaut in space?",
-                    "options": ["Guion Bluford", "Mae Jemison", "Ronald McNair", "Michael Anderson"],
-                    "answer": "Guion Bluford",
-                    "explanation": "Guion Bluford became the first African American in space, flying on STS-8 in 1983."
+                    "question": "Which NASA spacecraft successfully landed on Mars in 2012?",
+                    "options": ["Spirit", "Curiosity", "Opportunity", "Perseverance"],
+                    "answer": "Curiosity",
+                    "explanation": "The Curiosity rover successfully landed on Mars in 2012 as part of NASA's Mars Science Laboratory mission, studying the planet's climate and geology."
                   },
                   {
-                    "question": "Who was the first person to complete a spacewalk?",
-                    "options": ["Alexei Leonov", "Ed White", "Buzz Aldrin", "Yuri Gagarin"],
-                    "answer": "Alexei Leonov",
-                    "explanation": "Alexei Leonov performed the first spacewalk in 1965 on the Voskhod 2 mission."
+                    "question": "What type of rock is the Moon mostly made of?",
+                    "options": ["Igneous", "Sedimentary", "Metamorphic", "Limestone"],
+                    "answer": "Igneous",
+                    "explanation": "The Moon's surface is mostly made of igneous rock, which formed from volcanic activity and solidified lava flows."
                   },
                   {
-                    "question": "Which astronaut holds the record for the longest single spaceflight by a female astronaut?",
-                    "options": ["Christina Koch", "Peggy Whitson", "Samantha Cristoforetti", "Valentina Tereshkova"],
-                    "answer": "Christina Koch",
-                    "explanation": "Christina Koch spent 328 days in space on a single mission, the longest for a female astronaut."
+                    "question": "Which space agency sent astronauts to the Moon during the Apollo missions?",
+                    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+                    "answer": "NASA",
+                    "explanation": "NASA was responsible for sending astronauts to the Moon during the Apollo missions, including the historic Apollo 11 landing in 1969."
                   },
                   {
-                    "question": "Who was the first astronaut to fly in space after a serious medical issue?",
-                    "options": ["Alan Shepard", "Scott Kelly", "John Young", "Jim Lovell"],
-                    "answer": "Alan Shepard",
-                    "explanation": "Alan Shepard returned to flight on Apollo 14 after recovering from an inner ear disorder."
+                    "question": "What is the name of the spacecraft that will carry astronauts to Mars in future missions?",
+                    "options": ["Starship", "Space Shuttle", "Dragon", "Orion"],
+                    "answer": "Starship",
+                    "explanation": "SpaceX's Starship is designed to carry astronauts to Mars in the future, as part of the goal to make human life multiplanetary."
                   },
                   {
-                    "question": "Who was the first Japanese astronaut to fly in space?",
-                    "options": ["Mamoru Mohri", "Koichi Wakata", "Toyohiro Akiyama", "Soichi Noguchi"],
-                    "answer": "Toyohiro Akiyama",
-                    "explanation": "Toyohiro Akiyama was the first Japanese astronaut in space, launched aboard Soyuz TM-11 in 1990."
+                    "question": "What phenomenon occurs when a planet or moon passes in front of a star, blocking its light?",
+                    "options": ["Solar eclipse", "Lunar eclipse", "Transit", "Comet tail"],
+                    "answer": "Transit",
+                    "explanation": "A transit occurs when a planet or moon passes in front of a star, blocking its light and allowing scientists to study the planet's atmosphere."
                   }
                 ]
+
               },
               {
                 "setNumber": 17,
                 "questions": [
                   {
-                    "question": "Who was the first astronaut to go to space from outside the USA or USSR?",
-                    "options": ["Rodolf Neri Vela", "Arnaldo Tamayo Méndez", "Franz Viehböck", "Helen Sharman"],
-                    "answer": "Arnaldo Tamayo Méndez",
-                    "explanation": "Cuban astronaut Arnaldo Tamayo Méndez became the first non-U.S./USSR astronaut in space in 1980."
+                    "question": "What is the name of the space agency that operates the Hubble Space Telescope?",
+                    "options": ["NASA", "ESA", "Roscosmos", "ISRO"],
+                    "answer": "NASA",
+                    "explanation": "NASA operates the Hubble Space Telescope, which has been one of the most important tools for observing distant galaxies and stars."
                   },
                   {
-                    "question": "Who was the first American female astronaut to fly in space?",
-                    "options": ["Sally Ride", "Eileen Collins", "Peggy Whitson", "Valentina Tereshkova"],
-                    "answer": "Sally Ride",
-                    "explanation": "Sally Ride became the first American woman in space on the STS-7 mission in 1983."
+                    "question": "Which astronaut was the first to walk on the Moon?",
+                    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+                    "answer": "Neil Armstrong",
+                    "explanation": "Neil Armstrong became the first human to set foot on the Moon during the Apollo 11 mission on July 20, 1969."
                   },
                   {
-                    "question": "Which astronaut set the record for longest cumulative time in space by an American astronaut?",
-                    "options": ["Peggy Whitson", "Scott Kelly", "Christina Koch", "Michael Lopez-Alegria"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson holds the record for the longest cumulative time in space for an American, with 665 days."
+                    "question": "Which planet is known for having a ring system?",
+                    "options": ["Mars", "Saturn", "Jupiter", "Venus"],
+                    "answer": "Saturn",
+                    "explanation": "Saturn is famous for its large and prominent ring system, made up of ice, dust, and rock particles."
                   },
                   {
-                    "question": "Which mission brought back the first lunar soil samples?",
-                    "options": ["Apollo 11", "Apollo 12", "Apollo 14", "Apollo 17"],
-                    "answer": "Apollo 11",
-                    "explanation": "Apollo 11 collected the first samples from the lunar surface in 1969."
+                    "question": "What was the first successful manned space mission?",
+                    "options": ["Apollo 11", "Vostok 1", "Gemini 3", "Mercury-Redstone 3"],
+                    "answer": "Vostok 1",
+                    "explanation": "Vostok 1, launched by the Soviet Union in 1961, was the first successful manned space mission, carrying Yuri Gagarin into space."
                   },
                   {
-                    "question": "Who was the first Muslim astronaut to fly in space?",
-                    "options": ["Prince Sultan bin Salman", "Anousheh Ansari", "Hazza Al Mansouri", "Muhammed Faris"],
-                    "answer": "Prince Sultan bin Salman",
-                    "explanation": "Prince Sultan bin Salman of Saudi Arabia was the first Muslim astronaut, flying on STS-51-G in 1985."
+                    "question": "Which of the following is a type of space exploration mission?",
+                    "options": ["Geostationary orbit", "Lunar mission", "Artificial satellite", "Space debris"],
+                    "answer": "Lunar mission",
+                    "explanation": "A lunar mission involves sending spacecraft to the Moon to explore its surface and study its composition."
                   },
                   {
-                    "question": "Which astronaut performed the longest U.S. spacewalk on record?",
-                    "options": ["Scott Kelly", "Jim Voss", "Susan Helms", "Sunita Williams"],
-                    "answer": "Sunita Williams",
-                    "explanation": "Sunita Williams completed the longest U.S. spacewalk, lasting over 8 hours."
+                    "question": "What is the name of the space probe that traveled to the outermost reaches of the solar system?",
+                    "options": ["Voyager 1", "Hubble", "Curiosity", "Apollo 11"],
+                    "answer": "Voyager 1",
+                    "explanation": "Voyager 1 is the farthest spacecraft from Earth, having traveled beyond the solar system and into interstellar space."
                   },
                   {
-                    "question": "Who was the first private astronaut to reach the ISS?",
-                    "options": ["Dennis Tito", "Charles Simonyi", "Anousheh Ansari", "Richard Garriott"],
-                    "answer": "Dennis Tito",
-                    "explanation": "Dennis Tito became the first private astronaut to reach the ISS in 2001."
+                    "question": "Which spacecraft was used for the first successful Mars landing?",
+                    "options": ["Spirit", "Opportunity", "Viking 1", "Perseverance"],
+                    "answer": "Viking 1",
+                    "explanation": "Viking 1 was the first successful spacecraft to land on Mars, sending back the first clear images of the Martian surface in 1976."
                   },
                   {
-                    "question": "Which mission faced an in-flight emergency due to a faulty oxygen tank?",
-                    "options": ["Apollo 12", "Apollo 13", "Apollo 14", "Gemini 6"],
-                    "answer": "Apollo 13",
-                    "explanation": "Apollo 13 encountered an oxygen tank explosion, requiring the crew to return to Earth without landing on the Moon."
+                    "question": "Which mission successfully landed the first rover on Mars in 1997?",
+                    "options": ["Spirit", "Opportunity", "Perseverance", "Sojourner"],
+                    "answer": "Sojourner",
+                    "explanation": "The Sojourner rover, part of NASA's Mars Pathfinder mission, successfully landed on Mars in 1997 and explored the surface."
                   },
                   {
-                    "question": "Who was the first astronaut to conduct a spacewalk without being connected to the spacecraft?",
-                    "options": ["Bruce McCandless", "Alexei Leonov", "Ed White", "Buzz Aldrin"],
-                    "answer": "Bruce McCandless",
-                    "explanation": "Bruce McCandless conducted the first untethered spacewalk in 1984 using the Manned Maneuvering Unit."
+                    "question": "What is the primary function of the International Space Station?",
+                    "options": ["Study the Moon", "Observe asteroids", "Conduct science experiments in space", "Monitor space weather"],
+                    "answer": "Conduct science experiments in space",
+                    "explanation": "The primary function of the International Space Station is to provide a platform for conducting scientific experiments in a microgravity environment."
                   },
                   {
-                    "question": "Who was the first astronaut to record music in space?",
-                    "options": ["Chris Hadfield", "Scott Kelly", "Eileen Collins", "Peggy Whitson"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "Chris Hadfield recorded a cover of David Bowie's 'Space Oddity' aboard the ISS in 2013."
+                    "question": "Which planet is known for its extreme temperatures and a thick atmosphere?",
+                    "options": ["Mercury", "Venus", "Earth", "Mars"],
+                    "answer": "Venus",
+                    "explanation": "Venus has a thick atmosphere made mostly of carbon dioxide, creating an extreme greenhouse effect that raises its surface temperature."
                   }
                 ]
+
               },
               {
                 "setNumber": 18,
                 "questions": [
                   {
-                    "question": "Who was the first astronaut from India to reach space?",
-                    "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Anousheh Ansari"],
-                    "answer": "Rakesh Sharma",
-                    "explanation": "Rakesh Sharma was the first Indian astronaut in space, flying aboard Soyuz T-11 in 1984."
+                    "question": "Which of the following is a type of telescope used to observe distant galaxies?",
+                    "options": ["Radio telescope", "Space telescope", "Microscope", "Binoculars"],
+                    "answer": "Space telescope",
+                    "explanation": "A space telescope, such as the Hubble Space Telescope, is used to observe distant galaxies and stars from space, avoiding Earth's atmosphere."
                   },
                   {
-                    "question": "Who was the first female astronaut from NASA to serve as commander of the ISS?",
-                    "options": ["Peggy Whitson", "Sunita Williams", "Sally Ride", "Eileen Collins"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson served as the first female commander of the ISS in 2008."
+                    "question": "Who was the first astronaut to travel into space and orbit Earth?",
+                    "options": ["Yuri Gagarin", "John Glenn", "Neil Armstrong", "Buzz Aldrin"],
+                    "answer": "Yuri Gagarin",
+                    "explanation": "Yuri Gagarin was the first person to travel into space and orbit Earth on April 12, 1961, aboard the Vostok 1 spacecraft."
                   },
                   {
-                    "question": "Who was the first astronaut to experience space tourism on a private spacecraft?",
-                    "options": ["Charles Simonyi", "Richard Garriott", "Dennis Tito", "Elon Musk"],
-                    "answer": "Dennis Tito",
-                    "explanation": "Dennis Tito was the first private space tourist, flying aboard Soyuz TM-32 to the ISS in 2001."
+                    "question": "What is the primary purpose of the International Space Station (ISS)?",
+                    "options": ["To provide space for commercial satellites", "To study space weather", "To conduct scientific experiments", "To monitor Earth's weather patterns"],
+                    "answer": "To conduct scientific experiments",
+                    "explanation": "The primary purpose of the ISS is to provide a platform for astronauts to conduct scientific experiments in space."
                   },
                   {
-                    "question": "Which astronaut holds the record for the longest single space mission by an American?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Christina Koch", "Michael Collins"],
-                    "answer": "Scott Kelly",
-                    "explanation": "Scott Kelly set the record for the longest single mission by an American with 340 days on the ISS."
+                    "question": "Which space agency operates the Mars rovers that explore the Martian surface?",
+                    "options": ["ESA", "NASA", "Roscosmos", "ISRO"],
+                    "answer": "NASA",
+                    "explanation": "NASA is the space agency responsible for sending rovers to explore Mars, including the Spirit, Opportunity, and Perseverance missions."
                   },
                   {
-                    "question": "Who was the first astronaut to command both a Space Shuttle and the ISS?",
-                    "options": ["Scott Kelly", "Peggy Whitson", "Chris Hadfield", "Sunita Williams"],
-                    "answer": "Sunita Williams",
-                    "explanation": "Sunita Williams commanded both the Space Shuttle and the ISS, showing her leadership versatility."
+                    "question": "Which planet is known for its red appearance due to iron oxide on its surface?",
+                    "options": ["Venus", "Earth", "Mars", "Jupiter"],
+                    "answer": "Mars",
+                    "explanation": "Mars is known as the Red Planet because its surface contains iron oxide (rust), giving it a reddish appearance."
                   },
                   {
-                    "question": "Who was the first astronaut to live continuously on a space station for over a year?",
-                    "options": ["Sergei Krikalev", "Valeri Polyakov", "Scott Kelly", "Peggy Whitson"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov spent 437 consecutive days on the Mir space station, setting a record for long-term stay."
+                    "question": "What is the name of the first space mission to successfully land on the Moon?",
+                    "options": ["Apollo 11", "Luna 2", "Viking 1", "Gemini 3"],
+                    "answer": "Apollo 11",
+                    "explanation": "Apollo 11 was the first space mission to successfully land astronauts on the Moon, with Neil Armstrong and Buzz Aldrin taking the first steps on the lunar surface."
                   },
                   {
-                    "question": "Which astronaut was the first to vote in a U.S. election from space?",
-                    "options": ["Scott Kelly", "Kate Rubins", "Peggy Whitson", "Chris Hadfield"],
-                    "answer": "Kate Rubins",
-                    "explanation": "Kate Rubins cast the first vote from space in 2016 while aboard the ISS."
+                    "question": "Which spacecraft is the most recent to reach interstellar space?",
+                    "options": ["Voyager 1", "Hubble Space Telescope", "Perseverance", "New Horizons"],
+                    "answer": "Voyager 1",
+                    "explanation": "Voyager 1, launched by NASA in 1977, is the first human-made object to enter interstellar space, beyond the influence of our Sun."
                   },
                   {
-                    "question": "Who was the first Asian astronaut in space?",
-                    "options": ["Rakesh Sharma", "Toyohiro Akiyama", "Liu Yang", "Soichi Noguchi"],
-                    "answer": "Rakesh Sharma",
-                    "explanation": "Rakesh Sharma was the first Asian astronaut in space, launching aboard Soyuz T-11 in 1984."
+                    "question": "What is the main goal of the Artemis missions planned by NASA?",
+                    "options": ["To explore Mars", "To establish a base on the Moon", "To study the Sun", "To send astronauts to Jupiter"],
+                    "answer": "To establish a base on the Moon",
+                    "explanation": "The Artemis missions aim to return astronauts to the Moon and eventually establish a permanent human presence there."
                   },
                   {
-                    "question": "Which astronaut has the most cumulative spacewalking time?",
-                    "options": ["Peggy Whitson", "Scott Kelly", "Anatoly Solovyev", "Sunita Williams"],
-                    "answer": "Anatoly Solovyev",
-                    "explanation": "Anatoly Solovyev holds the record for the most cumulative time spent on spacewalks."
+                    "question": "What is a major challenge faced by astronauts living on the International Space Station?",
+                    "options": ["High radiation levels", "Gravity", "Space debris", "Lack of food"],
+                    "answer": "High radiation levels",
+                    "explanation": "Astronauts on the ISS face the challenge of increased radiation exposure because the Earth's atmosphere, which protects us from space radiation, is not present in orbit."
                   },
                   {
-                    "question": "Who was the first European astronaut to fly aboard a NASA Space Shuttle?",
-                    "options": ["Ulf Merbold", "Jean-Loup Chrétien", "Claude Nicollier", "Samantha Cristoforetti"],
-                    "answer": "Ulf Merbold",
-                    "explanation": "Ulf Merbold was the first ESA astronaut to fly aboard a NASA Space Shuttle in 1983 on STS-9."
+                    "question": "Which of these is the first private company to send humans into space?",
+                    "options": ["SpaceX", "Blue Origin", "Virgin Galactic", "Lockheed Martin"],
+                    "answer": "SpaceX",
+                    "explanation": "SpaceX made history by being the first private company to send astronauts into space, with the Crew Dragon spacecraft launching in May 2020."
                   }
                 ]
+
               },
               {
                 "setNumber": 19,
                 "questions": [
                   {
-                    "question": "Which astronaut was the first to command a joint U.S.-Soviet space mission?",
-                    "options": ["Tom Stafford", "Deke Slayton", "John Young", "Buzz Aldrin"],
-                    "answer": "Tom Stafford",
-                    "explanation": "Tom Stafford commanded the Apollo half of the Apollo-Soyuz Test Project, a historic joint mission in 1975."
+                    "question": "What is the name of the first woman to travel to space?",
+                    "options": ["Mae Jemison", "Valentina Tereshkova", "Sally Ride", "Eileen Collins"],
+                    "answer": "Valentina Tereshkova",
+                    "explanation": "Valentina Tereshkova was the first woman to travel to space, making history in 1963 when she flew aboard the Vostok 6 mission."
                   },
                   {
-                    "question": "Who was the first astronaut to reach space on a suborbital flight?",
-                    "options": ["Alan Shepard", "John Glenn", "Yuri Gagarin", "Gus Grissom"],
-                    "answer": "Alan Shepard",
-                    "explanation": "Alan Shepard became the first American in space in 1961, making a suborbital flight on Freedom 7."
+                    "question": "Which spacecraft was used for the first crewed mission to the Moon?",
+                    "options": ["Space Shuttle", "Apollo Command Module", "Lunar Module", "Mercury Capsule"],
+                    "answer": "Apollo Command Module",
+                    "explanation": "The Apollo Command Module was part of the Apollo spacecraft used for the first crewed mission to the Moon, with astronauts landing on the lunar surface in 1969."
                   },
                   {
-                    "question": "Which astronaut spent the longest cumulative time aboard the ISS?",
-                    "options": ["Peggy Whitson", "Scott Kelly", "Valeri Polyakov", "Oleg Artemyev"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson spent over 665 days aboard the ISS across her missions, setting a record for Americans."
+                    "question": "What is the main purpose of the Hubble Space Telescope?",
+                    "options": ["To monitor solar activity", "To study distant galaxies and stars", "To collect space weather data", "To study the Moon"],
+                    "answer": "To study distant galaxies and stars",
+                    "explanation": "The Hubble Space Telescope is primarily used to observe distant galaxies, stars, and other astronomical objects far beyond Earth's atmosphere."
                   },
                   {
-                    "question": "Who was the first astronaut to record a video blog (vlog) from space?",
-                    "options": ["Scott Kelly", "Chris Hadfield", "Peggy Whitson", "Sunita Williams"],
-                    "answer": "Chris Hadfield",
-                    "explanation": "Chris Hadfield became popular for sharing his space experiences through vlogs and social media."
+                    "question": "Which planet is known for its rings?",
+                    "options": ["Mars", "Venus", "Saturn", "Jupiter"],
+                    "answer": "Saturn",
+                    "explanation": "Saturn is famous for its beautiful rings, which are made of ice and rock particles that orbit the planet."
                   },
                   {
-                    "question": "Who was the first civilian astronaut to fly aboard the Space Shuttle?",
-                    "options": ["Christa McAuliffe", "Sally Ride", "Mae Jemison", "Eileen Collins"],
-                    "answer": "Christa McAuliffe",
-                    "explanation": "Christa McAuliffe was selected as the first civilian, a teacher, to fly on the Challenger mission in 1986."
+                    "question": "What is the name of the largest moon of Jupiter?",
+                    "options": ["Ganymede", "Titan", "Io", "Europa"],
+                    "answer": "Ganymede",
+                    "explanation": "Ganymede is the largest moon of Jupiter and is the biggest moon in our solar system, even larger than the planet Mercury."
                   },
                   {
-                    "question": "Which astronaut served as a backup crew member for multiple Apollo missions?",
-                    "options": ["Jim Lovell", "Ken Mattingly", "Fred Haise", "John Young"],
-                    "answer": "Ken Mattingly",
-                    "explanation": "Ken Mattingly served as a backup for several missions, including Apollo 13, from which he was reassigned last minute."
+                    "question": "Which mission successfully landed the first rovers on Mars?",
+                    "options": ["Viking 1", "Perseverance", "Curiosity", "Spirit and Opportunity"],
+                    "answer": "Viking 1",
+                    "explanation": "Viking 1, launched by NASA in 1975, was the first successful mission to land a rover on Mars and conduct scientific experiments on the Martian surface."
                   },
                   {
-                    "question": "Who was the first astronaut from South Korea to go to space?",
-                    "options": ["Yi So-yeon", "Ko San", "Soichi Noguchi", "Toyohiro Akiyama"],
-                    "answer": "Yi So-yeon",
-                    "explanation": "Yi So-yeon became South Korea's first astronaut in 2008 aboard a Soyuz spacecraft."
+                    "question": "What is the primary role of a space shuttle?",
+                    "options": ["Transport cargo to space", "Transport astronauts to the Moon", "Carry out scientific experiments", "Send probes to other planets"],
+                    "answer": "Transport cargo to space",
+                    "explanation": "The primary role of the Space Shuttle was to transport astronauts and cargo, such as satellites and research equipment, to and from space."
                   },
                   {
-                    "question": "Who was the first astronaut to complete three spaceflights with three different space vehicles?",
-                    "options": ["Wally Schirra", "John Young", "Scott Kelly", "Chris Hadfield"],
-                    "answer": "Wally Schirra",
-                    "explanation": "Wally Schirra flew aboard Mercury, Gemini, and Apollo, making him the only astronaut to do so."
+                    "question": "What is the name of NASA's next mission to the Moon?",
+                    "options": ["Artemis", "Apollo", "Explorer", "Luna"],
+                    "answer": "Artemis",
+                    "explanation": "NASA's Artemis program is the next mission aimed at returning astronauts to the Moon and establishing a sustainable human presence there."
                   },
                   {
-                    "question": "Which astronaut was the first to celebrate Christmas in space?",
-                    "options": ["Frank Borman", "Jim Lovell", "William Anders", "All of the above"],
-                    "answer": "All of the above",
-                    "explanation": "Frank Borman, Jim Lovell, and William Anders celebrated Christmas aboard Apollo 8 as they orbited the Moon."
+                    "question": "What is the major goal of the Mars 2020 mission?",
+                    "options": ["To send astronauts to Mars", "To search for signs of past life", "To establish a colony on Mars", "To create oxygen on Mars"],
+                    "answer": "To search for signs of past life",
+                    "explanation": "The Mars 2020 mission, with the Perseverance rover, is focused on searching for signs of ancient life on Mars and studying its climate and geology."
                   },
                   {
-                    "question": "Who was the first astronaut to pilot a spacecraft through a full orbit of the Moon?",
-                    "options": ["Michael Collins", "James Lovell", "Buzz Aldrin", "John Young"],
-                    "answer": "Michael Collins",
-                    "explanation": "Michael Collins orbited the Moon solo in the command module while Armstrong and Aldrin walked on the lunar surface."
+                    "question": "Which planet is closest to the Sun?",
+                    "options": ["Earth", "Mercury", "Venus", "Mars"],
+                    "answer": "Mercury",
+                    "explanation": "Mercury is the planet closest to the Sun, and its proximity to the Sun causes extreme temperature variations on its surface."
                   }
                 ]
+
               },
               {
                 "setNumber": 20,
                 "questions": [
                   {
-                    "question": "Which astronaut has spent the most time in space among all astronauts?",
-                    "options": ["Gennady Padalka", "Peggy Whitson", "Scott Kelly", "Sergei Krikalev"],
-                    "answer": "Gennady Padalka",
-                    "explanation": "Gennady Padalka holds the world record for the most cumulative days in space, with 878 days over five missions."
-                  },
-                  {
-                    "question": "Which astronaut was the first to broadcast a live stream from the Moon?",
-                    "options": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "Alan Shepard"],
+                    "question": "Which astronaut was the first to set foot on the Moon?",
+                    "options": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "John Glenn"],
                     "answer": "Neil Armstrong",
-                    "explanation": "Neil Armstrong and Buzz Aldrin broadcasted the first live video stream from the Moon during Apollo 11."
+                    "explanation": "Neil Armstrong was the first astronaut to set foot on the Moon during the Apollo 11 mission in 1969."
                   },
                   {
-                    "question": "Who was the first astronaut to pilot a Space Shuttle and later command the ISS?",
-                    "options": ["Peggy Whitson", "Eileen Collins", "Scott Kelly", "Sunita Williams"],
-                    "answer": "Peggy Whitson",
-                    "explanation": "Peggy Whitson was the first woman to command both a Space Shuttle mission and the ISS."
+                    "question": "Which space program was responsible for sending astronauts to the Moon?",
+                    "options": ["Gemini", "Apollo", "Mercury", "Skylab"],
+                    "answer": "Apollo",
+                    "explanation": "The Apollo program was responsible for sending astronauts to the Moon, with Apollo 11 being the first successful mission in 1969."
                   },
                   {
-                    "question": "Who was the first astronaut to be promoted to the rank of general while in space?",
-                    "options": ["Thomas Stafford", "John Glenn", "Frank Borman", "Eileen Collins"],
-                    "answer": "Thomas Stafford",
-                    "explanation": "Thomas Stafford was promoted to brigadier general during his Apollo 10 mission."
+                    "question": "What is the name of the space station where astronauts live and work?",
+                    "options": ["ISS", "SpaceX", "Hubble", "Galileo"],
+                    "answer": "ISS",
+                    "explanation": "The International Space Station (ISS) is a space laboratory where astronauts live, work, and conduct experiments in microgravity."
                   },
                   {
-                    "question": "Which astronaut was part of the first all-female spacewalk?",
-                    "options": ["Christina Koch", "Jessica Meir", "Peggy Whitson", "Both Koch and Meir"],
-                    "answer": "Both Koch and Meir",
-                    "explanation": "Christina Koch and Jessica Meir performed the first all-female spacewalk in October 2019."
+                    "question": "What celestial body is often called Earth's twin because of its similar size and composition?",
+                    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+                    "answer": "Venus",
+                    "explanation": "Venus is often referred to as Earth's twin due to its similar size and composition, though its surface conditions are vastly different."
                   },
                   {
-                    "question": "Who was the first astronaut to perform a spacewalk with a self-contained maneuvering unit?",
-                    "options": ["Bruce McCandless", "Scott Kelly", "Alexei Leonov", "Jim Lovell"],
-                    "answer": "Bruce McCandless",
-                    "explanation": "Bruce McCandless used the Manned Maneuvering Unit during the first untethered spacewalk in 1984."
+                    "question": "What is the name of the first space probe to reach Pluto?",
+                    "options": ["Voyager 1", "New Horizons", "Parker Solar Probe", "Cassini"],
+                    "answer": "New Horizons",
+                    "explanation": "NASA's New Horizons spacecraft was the first to reach Pluto, providing the first close-up images of the dwarf planet in 2015."
                   },
                   {
-                    "question": "Which astronaut made a historic emergency landing in the Siberian forest?",
-                    "options": ["Yuri Gagarin", "Alexei Leonov", "Valentina Tereshkova", "Sergei Krikalev"],
-                    "answer": "Alexei Leonov",
-                    "explanation": "Alexei Leonov and his crewmate crash-landed in the Siberian wilderness after a space mission due to a malfunction."
+                    "question": "Which planet has the most moons in our solar system?",
+                    "options": ["Jupiter", "Saturn", "Mars", "Uranus"],
+                    "answer": "Jupiter",
+                    "explanation": "Jupiter has the most moons in our solar system, with over 70 known moons orbiting the gas giant."
                   },
                   {
-                    "question": "Who was the first astronaut to represent Canada in space?",
-                    "options": ["Marc Garneau", "Roberta Bondar", "Chris Hadfield", "Julie Payette"],
-                    "answer": "Marc Garneau",
-                    "explanation": "Marc Garneau was the first Canadian astronaut in space, flying on a Space Shuttle mission in 1984."
+                    "question": "Which is the largest planet in our solar system?",
+                    "options": ["Earth", "Saturn", "Uranus", "Jupiter"],
+                    "answer": "Jupiter",
+                    "explanation": "Jupiter is the largest planet in our solar system, with a diameter of about 142,984 kilometers."
                   },
                   {
-                    "question": "Who was the first astronaut to live aboard a space station for an entire year?",
-                    "options": ["Scott Kelly", "Sergei Krikalev", "Valeri Polyakov", "Gennady Padalka"],
-                    "answer": "Valeri Polyakov",
-                    "explanation": "Valeri Polyakov spent over a year on the Mir space station, setting a record for the longest continuous spaceflight."
+                    "question": "What was the name of the first artificial satellite launched into space?",
+                    "options": ["Sputnik 1", "Explorer 1", "Hubble", "Gemini 4"],
+                    "answer": "Sputnik 1",
+                    "explanation": "Sputnik 1 was the first artificial satellite launched into space by the Soviet Union on October 4, 1957."
                   },
                   {
-                    "question": "Which astronaut inspired the Space Foundation's annual 'Teacher in Space' award?",
-                    "options": ["Christa McAuliffe", "Sally Ride", "Mae Jemison", "Barbara Morgan"],
-                    "answer": "Christa McAuliffe",
-                    "explanation": "The 'Teacher in Space' award was established to honor Christa McAuliffe's legacy after her Challenger mission."
+                    "question": "Which of the following is the primary fuel used in rockets?",
+                    "options": ["Hydrogen", "Oxygen", "Propane", "Methane"],
+                    "answer": "Hydrogen",
+                    "explanation": "Hydrogen is often used as rocket fuel due to its high energy density when combined with oxygen."
+                  },
+                  {
+                    "question": "What is the phenomenon called when a spacecraft re-enters Earth's atmosphere and burns up?",
+                    "options": ["Space Dust", "Heat Shielding", "Entry Burn", "Re-entry Heating"],
+                    "answer": "Re-entry Heating",
+                    "explanation": "Re-entry heating occurs when a spacecraft enters Earth's atmosphere at high speed, causing the friction with the atmosphere to generate extreme heat."
                   }
                 ]
               } 
