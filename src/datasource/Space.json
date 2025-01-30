@@ -34,7 +34,7 @@
               "setNumber": 1,
                "questions": [
                 {
-                  "question": "How are stars formed?",
+                  "question": "How are star's formed?",
                   "options": ["From gas and dust clouds", "From dark matter", "From comets", "From asteroids"],
                   "answer": "From gas and dust clouds",
                   "explanation": "Stars are born from clouds of gas and dust known as nebulae, where gravity causes the matter to condense and form a star."
