@@ -32,68 +32,68 @@
             "questionSets": [
             {
               "setNumber": 1,
-              "questions": [
-                  {
-                    "question": "What causes stars to shine?",
-                    "options": ["Solar energy", "Nuclear fusion", "Chemical reactions", "Gravitational pull"],
-                    "answer": "Nuclear fusion",
-                    "explanation": "Stars shine due to nuclear fusion, where hydrogen atoms fuse to form helium, releasing immense energy."
-                  },
-                  {
-                    "question": "Which type of star is small and cool, burning fuel slowly?",
-                    "options": ["Supergiant", "White dwarf", "Red dwarf", "Neutron star"],
-                    "answer": "Red dwarf",
-                    "explanation": "Red dwarfs are small, cool stars that burn fuel slowly and last billions of years."
-                  },
-                  {
-                    "question": "What happens when a supergiant star reaches the end of its life?",
-                    "options": ["It becomes a red dwarf", "It explodes as a supernova", "It turns into a nebula", "It remains unchanged"],
-                    "answer": "It explodes as a supernova",
-                    "explanation": "Supergiants live fast and die young, often ending in a powerful explosion called a supernova."
-                  },
-                  {
-                    "question": "Where are stars born?",
-                    "options": ["In black holes", "In supernovae", "In nebulae", "In galaxies"],
-                    "answer": "In nebulae",
-                    "explanation": "Stars are born from giant clouds of gas and dust called nebulae."
-                  },
-                  {
-                    "question": "What is the longest phase in a star's life?",
-                    "options": ["Giant phase", "Main sequence", "Supernova stage", "White dwarf stage"],
-                    "answer": "Main sequence",
-                    "explanation": "The main sequence is the longest phase in a star's life, where it burns hydrogen and shines brightly."
-                  },
-                  {
-                    "question": "What is left after a star exhausts its fuel?",
-                    "options": ["Red giant", "White dwarf", "Blue supergiant", "Nebula"],
-                    "answer": "White dwarf",
-                    "explanation": "When a star exhausts its fuel, it often collapses into a white dwarf."
-                  },
-                  {
-                    "question": "What determines a star's brightness and temperature?",
-                    "options": ["Its shape", "Its size and color", "Its age", "Its position in space"],
-                    "answer": "Its size and color",
-                    "explanation": "A star's brightness and temperature depend on its size and color."
-                  },
-                  {
-                    "question": "What is a fun fact about the light from stars?",
-                    "options": ["It disappears after a few seconds", "It reaches us instantly", "It takes millions of years to reach Earth", "It is always blue"],
-                    "answer": "It takes millions of years to reach Earth",
-                    "explanation": "The light from some stars takes millions of years to reach us, meaning we see the past when we look at the night sky."
-                  },
-                  {
-                    "question": "What happens when a star runs out of hydrogen fuel?",
-                    "options": ["It stays the same", "It expands into a giant", "It forms a nebula", "It turns into a planet"],
-                    "answer": "It expands into a giant",
-                    "explanation": "When a star runs out of hydrogen, it expands into a giant before eventually dying."
-                  },
-                  {
-                    "question": "Which of these is an example of a star?",
-                    "options": ["The Moon", "The Sun", "Jupiter", "Saturn"],
-                    "answer": "The Sun",
-                    "explanation": "The Sun is a star that provides light and warmth to Earth."
-                  }
-                ]
+               "questions": [
+                {
+                  "question": "How are stars formed?",
+                  "options": ["From gas and dust clouds", "From dark matter", "From comets", "From asteroids"],
+                  "answer": "From gas and dust clouds",
+                  "explanation": "Stars are born from clouds of gas and dust known as nebulae, where gravity causes the matter to condense and form a star."
+                },
+                {
+                  "question": "What happens when a small star runs out of gas?",
+                  "options": ["It becomes a black hole", "It becomes a neutron star", "It becomes a white dwarf", "It explodes as a supernova"],
+                  "answer": "It becomes a white dwarf",
+                  "explanation": "Small stars, when they run out of fuel, become white dwarfs, a dense, non-luminous remnant of the star."
+                },
+                {
+                  "question": "Why are stars important to life on Earth?",
+                  "options": ["They provide light and heat", "They create black holes", "They produce gravity", "They block cosmic rays"],
+                  "answer": "They provide light and heat",
+                  "explanation": "Stars, like the Sun, provide the essential light and heat necessary for life on Earth, driving weather patterns, ecosystems, and supporting life."
+                },
+                {
+                  "question": "What are star clusters?",
+                  "options": ["Groups of stars", "Stars that are close to the Earth", "Stars that form in the same galaxy", "Individual stars in a galaxy"],
+                  "answer": "Groups of stars",
+                  "explanation": "Star clusters are groups of stars that are bound by gravity, with open clusters being loosely bound and globular clusters being tightly bound."
+                },
+                {
+                  "question": "What is the name of the brightest star in the night sky?",
+                  "options": ["Alpha Centauri", "Sirius", "Polaris", "Betelgeuse"],
+                  "answer": "Sirius",
+                  "explanation": "Sirius is the brightest star in the night sky and has been known to humans for thousands of years."
+                },
+                {
+                  "question": "What is an exoplanet?",
+                  "options": ["A planet in our solar system", "A planet that orbits a star outside our solar system", "A moon of a distant star", "A star in a different galaxy"],
+                  "answer": "A planet that orbits a star outside our solar system",
+                  "explanation": "Exoplanets are planets that exist outside our solar system, orbiting other stars. Some of these planets may be in the habitable zone where life could exist."
+                },
+                {
+                  "question": "What is the relationship between the Sun and Earth?",
+                  "options": ["The Sun is Earth's moon", "The Sun orbits Earth", "The Sun provides warmth and light to Earth", "The Sun is a black hole near Earth"],
+                  "answer": "The Sun provides warmth and light to Earth",
+                  "explanation": "The Sun is the closest star to Earth, and it provides the necessary warmth and light to sustain life on our planet."
+                },
+                {
+                  "question": "What will happen to the Sun when it reaches the end of its life?",
+                  "options": ["It will become a black hole", "It will become a red giant and then a white dwarf", "It will explode as a supernova", "It will fade away into a black dwarf"],
+                  "answer": "It will become a red giant and then a white dwarf",
+                  "explanation": "As the Sun ages, it will expand into a red giant and eventually shed its outer layers, leaving behind a dense white dwarf."
+                },
+                {
+                  "question": "What is a binary star system?",
+                  "options": ["A system with one star", "A system with two stars orbiting each other", "A system with three or more stars", "A system of stars and planets"],
+                  "answer": "A system with two stars orbiting each other",
+                  "explanation": "A binary star system consists of two stars that orbit each other, bound by gravity, and they can influence each other's evolution."
+                },
+                {
+                  "question": "What is the fate of large stars when they die?",
+                  "options": ["They become white dwarfs", "They become black holes", "They form supernovae", "They simply fade away"],
+                  "answer": "They become black holes",
+                  "explanation": "When large stars die, they often explode as supernovae and leave behind a black hole, a point in space with gravity so strong that not even light can escape."
+                }
+              ]
 
             },
             {
