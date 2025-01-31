@@ -75,12 +75,8 @@ export abstract class MessageService {
   abstract sendInformationMessage(from: string,username:string);
   abstract sendLanguageChangedMessage(from: string, language: string);
   abstract newscorecard(from: string, score: number, totalQuestions: number, badge: string);
-  // abstract sendVideo(from: string, videoUrl: string[], title: string, subTopic: string, aboutVideo: string);
   
-  abstract sendVideo(from: string,  videoUrl: string, title:string, subTopic: string, aboutVideo: string);
-  // abstract sendVideo(
-  //   from: string, 
-  //   videos: Array<{ videoUrl: string, title: string, subTopic: string, aboutVideo: string }>
-  // );
+  // abstract sendVideo(from: string,  videoUrl: string, title:string, subTopic: string, aboutVideo: string);
+    abstract sendVideo(from: string,  videoUrl: any,subTopic: string);
   
 }

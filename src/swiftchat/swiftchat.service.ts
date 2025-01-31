@@ -238,7 +238,8 @@ export class SwiftchatMessageService extends MessageService {
 
    // sendVideo function to prepare and send the video message
   
-  async sendVideo(from: string, videoUrl: any, title:any, subTopic: any, aboutVideo: string ) {
+  
+  async sendVideo(from: string, videoUrl: any, subTopic: any ) {
     if (!videoUrl) {
       return;
     }
@@ -246,12 +247,8 @@ export class SwiftchatMessageService extends MessageService {
         const videoData = videoWithButton(
                from, // The recipient's phone number
               videoUrl, // Video URL
-              title,
               subTopic,
-              aboutVideo
           );
-      //  console.log('videoData => ',videoData)
-    // Send the video message using the sendMessage function
     try {
 
       const response = await this.sendMessage(this.baseUrl, videoData, this.apiKey);

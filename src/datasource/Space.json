@@ -25,9 +25,29 @@
 
                     "\n*Interesting Facts About Stars* 🤩\nStars like the Sun are much larger than Earth, and some stars even have planets called exoplanets orbiting them. Neutron stars are incredibly dense, and black holes form when very big stars die."
                 ],
-                "video_link": ["https://youtu.be/PeNuj2GH8xg?si=Gpo4qOwcInZY4XIf", "https://youtu.be/pg4PbqKbwiw?si=uSUbBBLYt-X7_0z7","https://youtu.be/PeNuj2GH8xg?si=YTTeNP0wLFSWY8Qm", "https://youtu.be/geKtpOldgyQ?si=YHXWhdD26XnV0zEQ"],
-                "title":["All About Stars for Kids: Astronomy and Space for Children","sangeeta","vishal"],
-                "descrip": "**Description**: Join us on a fascinating journey through the life cycle of stars.!",
+                "video_link": [
+                {
+                  "video-url": "https://youtu.be/PeNuj2GH8xg?si=Gpo4qOwcInZY4XIf",
+                  "title": "All About Stars for Kids: Astronomy and Space for Children",
+                  "describe": "**Description**: Join us on a fascinating journey through the life cycle of stars!"
+                },
+                {
+                  "video-url": "https://youtu.be/pg4PbqKbwiw?si=uSUbBBLYt-X7_0z7",
+                  "title": "sangeeta",
+                  "describe": "**Description**: Learn about the world of stars and the universe through engaging visual storytelling."
+                },
+                {
+                  "video-url": "https://youtu.be/PeNuj2GH8xg?si=YTTeNP0wLFSWY8Qm",
+                  "title": "vishal",
+                  "describe": "**Description**: An exciting and informative video exploring the wonders of space!"
+                },
+                {
+                  "video-url": "https://youtu.be/geKtpOldgyQ?si=YHXWhdD26XnV0zEQ",
+                  "title": "vishal",
+                  "describe": "**Description**: Explore the mysteries of the cosmos and the science behind the stars."
+                }
+              ],
+
               "questionSets": [
               {
                 "setNumber": 1,

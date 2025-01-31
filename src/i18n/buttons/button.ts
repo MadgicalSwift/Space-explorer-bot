@@ -147,32 +147,28 @@ export function createTestYourSelfButton(
 export function videoWithButton(
   from: string, 
   videoUrl: string[],  // Ensure this is an array
-  videoTitle: string[], 
-  subTopic: string, 
-  aboutVideo: string
+  subTopic: string,
 ) {
-  // console.log('videoUrls ==>', videoUrl);
-  // console.log('videoTitle ==>', videoTitle);
-
-  // Ensure videoUrls is an array before using .map()
   if (!Array.isArray(videoUrl)) {
     console.error("Error: videoUrls should be an array but received:", typeof videoUrl);
     return;
   }
-
+  
+  
   return {
     to: from, // Recipient's mobile number
     type: "article", // Message type is an article
-    article: videoUrl.map((url) => ({
+    article: videoUrl.map((video) => ({
+      
       tags: [`${subTopic}`], // Subtopic name
-      title: videoTitle, // Video title
+      title: video['title'], // Video title
       header: {
         type:  "text",
         text: {
-          body: url, // URL of the video
+          body: video['video-url'], // URL of the video
         },
       },
-      description: aboutVideo, // Video description
+      description: video['describe'], // Video description
     })),
   };
 }

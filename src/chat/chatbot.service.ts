@@ -270,6 +270,8 @@ export class ChatbotService {
 
           const descriptions = subtopic.description;
           
+          console.log('video-details', subtopic.video_link);
+          
           const videoUrl =subtopic.video_link;
           console.log('videoUrl', videoUrl);
           
@@ -284,7 +286,9 @@ export class ChatbotService {
           user.selectedSubtopic = subtopicName;
           await this.userService.saveUser(user);
 
-          await this.message.sendVideo(from, videoUrl, title, subTopic, aboutVideo);
+
+          // await this.message.sendVideo(from, videoUrl, title, subTopic, aboutVideo);
+          await this.message.sendVideo(from, videoUrl,subTopic);
           let description = descriptions[user.descriptionIndex]
           await this.message.sendExplanation(from, description, subtopicName);
           user.descriptionIndex += 1; 
