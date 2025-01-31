@@ -26,27 +26,22 @@
                     "\n*Interesting Facts About Stars* 🤩\nStars like the Sun are much larger than Earth, and some stars even have planets called exoplanets orbiting them. Neutron stars are incredibly dense, and black holes form when very big stars die."
                 ],
                 "video_link": [
-                {
-                  "video-url": "https://youtu.be/PeNuj2GH8xg?si=Gpo4qOwcInZY4XIf",
-                  "title": "All About Stars for Kids: Astronomy and Space for Children",
-                  "describe": "**Description**: Join us on a fascinating journey through the life cycle of stars!"
-                },
-                {
-                  "video-url": "https://youtu.be/pg4PbqKbwiw?si=uSUbBBLYt-X7_0z7",
-                  "title": "sangeeta",
-                  "describe": "**Description**: Learn about the world of stars and the universe through engaging visual storytelling."
-                },
-                {
-                  "video-url": "https://youtu.be/PeNuj2GH8xg?si=YTTeNP0wLFSWY8Qm",
-                  "title": "vishal",
-                  "describe": "**Description**: An exciting and informative video exploring the wonders of space!"
-                },
-                {
-                  "video-url": "https://youtu.be/geKtpOldgyQ?si=YHXWhdD26XnV0zEQ",
-                  "title": "vishal",
-                  "describe": "**Description**: Explore the mysteries of the cosmos and the science behind the stars."
-                }
-              ],
+                  {
+                    "video-url": "https://www.youtube.com/watch?v=PeNuj2GH8xg",
+                    "title": "All About Stars for Kids",
+                    "describe": "**Description**: On a dark clear night, you can see a sky full of stars. But what is a star? A star is a giant ball of hot, glowing gas."
+                  },
+                  {
+                    "video-url": "https://www.youtube.com/watch?v=lSuAPFMXcYM",
+                    "title": "STARS | The Dr. Binocs Show",
+                    "describe": "**Description**: Tune-in as Dr.Binocs talks about the types of stars. And yes, don't miss the Trivia at the end of the video."
+                  },
+                  {
+                    "video-url": "https://www.youtube.com/watch?v=qm-hqMls9Jk",
+                    "title": "Constellations | Science for Kids",
+                    "describe": "**Description**: Hey kids! In today's video, we will be learning about Constellations."
+                  }
+                ],
 
               "questionSets": [
               {
@@ -1377,9 +1372,18 @@
 
 
             ],
-            "video_link": ["https://youtu.be/jpMyjPJ9HFg?si=lRs55_Ef28vGzqUb"],
-            "title": "Planets of Our Solar System | Science Grade 3 ",
-            "descrip":"**Planets**: Wonders of the Cosmos - Planets are diverse celestial bodies orbiting stars, each with unique features, from fiery deserts to icy rings, offering endless mysteries and inspiring exploration of the cosmos.",
+            "video_link": [
+                {
+                  "video-url": "https://www.youtube.com/watch?v=RJ2bQWH6GCM",
+                  "title": "Planets of the Solar System",
+                  "describe": "**Description**: Our topic for today is Planets of the Solar System. The eight planets in their increasing order of distance from the Sun are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=KQyJOG9MMX8",
+                  "title": "Why isn't Pluto a Planet Anymore?",
+                  "describe": "**Description**: Pluto was considered a planet for more than 75 years, but in 2006 it was demoted to dwarf planet."
+                }
+              ],
               "questionSets": [
               {
                 "setNumber": 1,
@@ -2645,9 +2649,18 @@
 
                 "\n*Conclusion* 🌌\nBlack holes are one of the most fascinating and mysterious objects in space. They are born from massive stars, have extreme gravity, and play a big role in the universe."
               ],
-            "video_link": "https://youtu.be/e-P5IFTqB98?si=GM-ifg17wsN4hX_6",
-            "title": "Black Holes Explained – From Birth to Death",
-            "descrip": "**Black Holes**: Gateways to the Unknown - Black holes are regions of spacetime with gravity so strong that nothing, not even light, can escape, making them mysterious and fascinating cosmic phenomena.",
+            "video_link": [
+              {
+                "video-url": "https://www.youtube.com/watch?v=X4fcI4PMvwg",
+                "title": "BLACK HOLE | The Dr. Binocs Show",
+                "describe": "**Description**: Haven't You Wondered, What's Black Hole? Well, Dr. Binocs knows it all."
+              },
+              {
+                "video-url": "https://www.youtube.com/watch?v=_BCCTrD5rao",
+                "title": "There Was a Black Hole that Swallowed the Universe",
+                "describe": "**Description**: Kids Books: There Was a Black Hole that Swallowed the Universe read aloud for children is a fantastic STEM and space story for kids."
+              }
+            ],
             "questionSets": [
               {
                 "setNumber": 1,
@@ -4041,9 +4054,23 @@
 
                 "*Conclusion* 🌞\n- The Sun is the most important star for Earth. It provides light, heat, and energy, controls our climate, and makes life possible. Scientists are still studying it to learn more about space and our universe."
               ],
-            "video_link":"https://youtu.be/VkW54j82e9U?si=dMl8Ai5IbnQLOv4B",
-            "title":"All About the Sun for Kids: Astronomy and Space for Children",
-            "descrip":"**The Sun**: The Star That Sustains Life - The Sun is a massive, glowing star at the center of our solar system, providing light, heat, and energy essential for life on Earth",
+            "video_link": [
+                {
+                  "video-url": "https://www.youtube.com/watch?v=vQSECrMIygg",
+                  "title": "The Sun for Kids",
+                  "describe": "**Description**: Learn all about the Sun in this video for kids! You will learn about this special star in the center of our solar system, what it does for our planet and more!"
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=VSKSyZh3FOU",
+                  "title": "How The Sun Was Formed?",
+                  "describe": "**Description**: Hey kids, in this video, Dr Binocs will explain How The Sun Was Formed?"
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=eXiVGEEPQ6c",
+                  "title": "Structure Of The Earth | The Dr. Binocs Show",
+                  "describe": "**Description**: Hey kids! Did you know that our planet Earth is made up of three distinct layers? And that each of these layers has their own distinct properties?"
+                }
+              ],
             "questionSets": [
               {
                 "setNumber": 1,
@@ -5303,9 +5330,18 @@
               
               "*Conclusion* 🌌\n- The Milky Way is our home galaxy, filled with wonders and mysteries.\n- Scientists continue exploring it to unlock its secrets and understand its past and future."
               ] ,
-              "video_link": "https://youtu.be/RubnGwhcT6E?si=IYNy-FRjsBtuitdX",
-              "title": "The Milky Way for Children, Galaxies and Space: Astronomy for Kids",
-              "descrip": "**Mikey Way**: The Heart of the Rhythm Section - Mikey Way is the bassist of the iconic rock band My Chemical Romance, known for his energetic stage presence and contributing to the band's unique sound and success.",
+              "video_link": [
+              {
+                "video-url": "https://www.youtube.com/watch?v=QIhO9IaLAg8",
+                "title": "What Is The Milky Way? The Dr. Binocs Show",
+                "describe": "**Description**: Hi KIDZ! Welcome to a BRAND NEW SEASON of the DR. Binocs show. Watch this video by Dr. Binocs and learn what exactly is a Milky Way."
+              },
+              {
+                "video-url": "https://www.youtube.com/watch?v=4HLIIiqy2_k",
+                "title": "Which Is The Largest Star In Our Galaxy?",
+                "describe": "**Description**: Hey kids, in this video, Dr Binocs will explain the Largest Star In The Milky Way Galaxy."
+              }
+            ],
             "questionSets": [
               {
                 "setNumber": 1,
@@ -6635,9 +6671,23 @@
 
               "*Conclusion* 🌌\n- Shooting stars are not stars but burning space rocks that light up the night sky.\n- They are beautiful to watch and have fascinated humans for centuries."
           ],
-          "video_link": "https://www.youtube.com/watch?v=-tqw_GoRFKY",
-          "title": "What is a Shooting Star? | Star Gazers",
-          "descrip": "**Experience the Magic of Shooting Stars**! Watch as stunning shooting stars light up the night sky in this breathtaking video. Feel the wonder of the universe as meteors streak across the darkness, creating a magical and unforgettable scene.",
+          "video_link": [
+            {
+              "video-url": "https://www.youtube.com/watch?v=v-DmkH7udc4",
+              "title": "What are Shooting Stars?",
+              "describe": "**Description**: Look up at the night sky. Once in a while, you will see a streak of light in the sky. These streaks are called ‘shooting stars.’"
+            },
+            {
+              "video-url": "https://www.youtube.com/watch?v=F4xavj2hqSU",
+              "title": "What's a Meteor Shower?",
+              "describe": "**Description**: Have you ever looked up at night and seen a streak of light flash across the sky? Some people call that a 'shooting star.'"
+            },
+            {
+              "video-url": "https://www.youtube.com/watch?v=HBFfBz0n_SE",
+              "title": "Meteors for Kids",
+              "describe": "**Description**: In this video, we will learn about the real name for shooting stars: meteors."
+            }
+          ],
           
         "questionSets": [
           {
@@ -8067,9 +8117,23 @@
 
                     "*Conclusion* 🌌\n- Asteroids are fascinating space rocks that tell us about the early Solar System.\n- Scientists study them to learn about space and protect Earth from future asteroid impacts."
                   ],
-                  "video_link": "https://youtu.be/gWvVvdwAH8g?si=NU0FDkOm-OBDpVwM",
-                  "title": "What Are Asteroids And Where Do They Come From?",
-                  "descrip": "Asteroids are small, rocky objects that orbit the sun, just like the rest of the planets and celestial bodies in our solar system. Although asteroids are present throughout the solar system, most of them live in the asteroid belt—a region located between the orbits of Mars and Jupiter. The size of objects within the asteroid belt have a wide range, from being no bigger than a dust particle to almost a thousand kilometers wide. Our solar system came into existence about 4.6 billion years ago when a large cloud of gas and dust collapsed. ",
+                  "video_link": [
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=amhE6rN4OpU",
+                      "title": "What Is an Asteroid?",
+                      "describe": "**Description**: What is the difference between a comet, a meteor, and an asteroid? In this video, you and your kids will learn specifically about asteroids."
+                    },
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=dvd47rMYia0",
+                      "title": "Less Than Five - What's the Difference Between Comets, Asteroids, Meteoroids, Meteors & Meteorites?",
+                      "describe": "**Description**: What is the difference between comets, asteroids, meteoroids, meteors, and meteorites? Most of us don't actually know!"
+                    },
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=Wx2lv2unJ30",
+                      "title": "What If An Asteroid Hit The Earth?",
+                      "describe": "**Description**: Hey kids, in this video, Dr Binocs will explain What If An Asteroid Hit The Earth?"
+                    }
+                  ],
                 "questionSets": [
                   {
                     "setNumber": 1,
@@ -9388,9 +9452,23 @@
 
                 "*Conclusion* 🌌\n- Comets are icy travelers in space that light up the night sky when they pass near the Sun.\n- Studying them helps us understand the history of our Solar System and the origins of water on Earth."
                 ],
-                "video_link":"https://youtu.be/mQErMYDfw0Y?si=PfIpfltXNz-Etnpu",
-                "title": "All About Comets for Kids: Astronomy and Space for Children",
-                "descrip":"Comets are visitors from the outer reaches of the solar system, and sometimes give a spectacular show to stargazers on earth. In deep space, a comet may look like an asteroid - just a lump of space rock - but as it heads towards the inner solar system and is heated by the sun, ice on the nucleus begin to sublimate and dust and gas are released to reveal a tail. Learn about the origin of the word 'comet,' famous comets in history, and more in this educational video!",
+                "video_link": [
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=-_6nYgel4JI",
+                      "title": "Comets | The Dr. Binocs Show",
+                      "describe": "**Description**: Hey kids, have you ever wondered what are Comets? How do they appear? How are comets formed?"
+                    },
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=MeYEpJtUdtA",
+                      "title": "What’s the difference between asteroids and comets?",
+                      "describe": "**Description**: What are you waiting for? The universe has asteroids, and comets. Do you know what they are? Can you differentiate them?"
+                    },
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=ia-otZPnTd0",
+                      "title": "Why do comets have tails?",
+                      "describe": "**Description**: Why do comets have tails? Maybe because, like monkeys, they can hang themselves on trees."
+                    }
+                  ],
                 "questionSets":[
                   {
                     "setNumber": 1,
@@ -11482,9 +11560,23 @@
 
                       "*Future of Satellites* 🔭\n- Upcoming advancements in satellite technology include:\n   *Gaganyaan Mission*: India’s first human spaceflight.\n   *Deep space exploration*: Studying asteroids and other planets.\n   *Better satellite internet*: Faster global connectivity.\n   *AI-powered satellites*: Smarter satellites that can analyze data automatically.\n- Satellites are becoming:\n   *Smaller* (nano-satellites are easier to launch).\n   *More powerful* (better cameras, sensors, and computing power).\n   *More efficient* (using less fuel and working longer in space)."
                   ],
-                   "video_link": ["https://youtu.be/n70zjMvm8L0?si=rqFx0pw_C28Be2ps"],
-                   "title": "How Satellite Works?.",
-                   "descrip": "*Satellites orbit planets*, aiding in communication, navigation, weather monitoring, and scientific research.",
+                   "video_link": [
+                {
+                  "video-url": "https://www.youtube.com/watch?v=03pZdYVacaM",
+                  "title": "What is a Satellite?",
+                  "describe": "**Description**: You might not know it, but there are thousands of human-made satellites orbiting the Earth! They help us do everything from studying the climate to making phone calls, and there are even some satellites that people can live on!"
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=40IBfcdMFGk",
+                  "title": "Natural vs. Artificial Satellites",
+                  "describe": "**Description**: Think of satellites, and one immediately visualizes large metallic devices that circle the Earth, taking photos, analyzing, and processing data. These devices are called ‘satellites’."
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=n70zjMvm8L0",
+                  "title": "How Do Satellites Work?",
+                  "describe": "**Description**: A satellite is any object that revolves in a curved path around a planet. There are two major categories when it comes to satellites: one is a natural satellite, and the other is an artificial satellite."
+                }
+              ],
               "questionSets": [
                 {
                   "setNumber": 1,              
@@ -12826,9 +12918,23 @@
               "*Fun Facts About Spacecraft* 🌌\n- The first human in space was Yuri Gagarin (Russia) in 1961.\n- The first person to walk on the Moon was Neil Armstrong in 1969.\n- India is the first country to reach Mars in its first attempt!\n- Spacecraft move at an average speed of 28,000 km per hour in space."
 
               ],
-                  "video_link": "https://youtu.be/cFBRawYov00?si=iI1lI8ehUL2N9cSF",
-                  "title": "How did the Orbiter Vehicle work? (Space Shuttle)",
-                  "descrip": "*Spacecrafts* Take a journey beyond Earth and discover the incredible technology that makes space travel possible. From breathtaking launches to in-depth tours of spacecraft interiors, this video gives you a front-row seat to the world of space exploration.",
+                 "video_link": [
+                {
+                  "video-url": "https://www.youtube.com/watch?v=XP9C2HWbTP0",
+                  "title": "What is a Spacecraft?",
+                  "describe": "**Description**: In this video, I explore the different types of spacecraft used for exploring and studying outer space."
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=qWIWxo5dIMQ",
+                  "title": "Types of Spacecraft",
+                  "describe": "**Description**: In this video, Unveiled takes a closer look at the different types of SPACECRAFT you should know about!"
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=8lgz528HvnQ",
+                  "title": "Famous Space Missions",
+                  "describe": "**Description**: For eons, humanity has dreamt of exploring the cosmos. Sixty-five years ago, we finally achieved that dream. Some space missions have revealed how far the human race can go."
+                }
+              ],
 
             "questionSets": [
               {
@@ -14160,9 +14266,18 @@
             
               "*What Can You See with a Telescope?* 🔭\n- With a telescope, you can see objects millions of light-years away!\n  *Things you can observe:*\n   - The Moon’s surface, including craters and mountains.\n   - Planets like Jupiter, Saturn (with its rings), and Mars.\n   - Stars, nebulas, and distant galaxies."
             ],
-            "video_link": "https://youtu.be/B_r3Y-jHs-E?si=N-G-xAHI8pDEHlf0",
-            "title": "The Hubble Space Telescope for Children: Astronomy and Space for Kids",
-            "descrip": "*Discover how space telescopes unveil the secrets of the universe*! From capturing distant galaxies to exploring alien worlds, learn about their technology and groundbreaking discoveries. ",
+            "video_link": [
+              {
+                "video-url": "https://www.youtube.com/watch?v=jAFrlzOtz-Y",
+                "title": "What is a Telescope?",
+                "describe": "**Description**: How does a telescope work? In this educational cartoon for children, we explain what parts a simple telescope consists of, why it has two lenses (one for objective and another for the eyepiece)."
+              },
+              {
+                "video-url": "https://www.youtube.com/watch?v=suEyWeRY0uw",
+                "title": "Types of Telescopes",
+                "describe": "**Description**: The Basic Telescope Types Explained/Comparison. When you, as a beginner, start searching for telescopes to buy, you come across many different types of telescopes."
+              }
+            ],
             "questionSets": [
               {
                 "setNumber": 1,
@@ -15470,9 +15585,23 @@
                       
                           "*Future of Moon Exploration* 🌠\n- *Artemis missions* plan to establish a Moon base.\n- *ISRO* is planning more advanced Moon missions.\n- *Private companies* like *SpaceX* aim to send humans to the Moon for tourism.\n- Someday, you might visit the Moon too! 🌕✨"
                         ],
-                        "video_link": "https://youtu.be/nbkE7Q42uZE?si=_Ip9Swdrjy6EAgVc",
-                        "title": "Journey to the Moon: Inside India's Chandrayaan-3 Mission | How will ISRO reach Moon",
-                        "descrip": "*Explore India's incredible space journey, from Chandrayaan to Gaganyaan*! Learn how ISRO is making history with groundbreaking missions and inspiring the world. ",
+                        "video_link": [
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=C1eLG7m6WdI",
+                      "title": "CHANDRAYAAN 1",
+                      "describe": "**Description**: Chandrayaan-1 was the first Indian lunar probe under the Chandrayaan program. It was launched by the Indian Space Research Organisation (ISRO) in October 2008 and operated until August 2009."
+                    },
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=c5ZA1GLVVbE",
+                      "title": "CHANDRAYAAN 2",
+                      "describe": "**Description**: One year completion of Chandrayaan-2 Lunar orbit insertion. ISRO data provides insights into one year of Chandrayaan-2 (2019-2020)."
+                    },
+                    {
+                      "video-url": "https://www.youtube.com/watch?v=nbkE7Q42uZE",
+                      "title": "Chandrayaan 3",
+                      "describe": "**Description**: In this video, we'll learn everything about India's lunar mission Chandrayaan-3, including when it will reach the moon."
+                    }
+                  ],
                 "questionSets": [
                   {
                     "setNumber": 1,
@@ -16862,9 +16991,18 @@
 
                   "*Conclusion* 🌌\n- Mars missions help us understand the planet’s mysteries and explore the possibility of life beyond Earth.\n- Each mission brings us closer to the potential of human life on Mars."
                 ],
-                          "video_link": "https://www.youtube.com/watch?v=ObCapVnaO6o",
-                          "title": "Mangalyaan - 3D Documentary ",
-                          "descrip": "*Discover the story of Mangalyaan, India’s first mission to Mars*! Learn how ISRO achieved this historic milestone on a budget, making India a global space leader.",
+                "video_link": [
+                  {
+                    "video-url": "https://www.youtube.com/watch?v=FVRwP3FmUeI",
+                    "title": "How Will We Get To Mars? | Let's Explore Mars!",
+                    "describe": "**Description**: Mars has a ton of amazing features waiting to be explored, but we have to get there first. This video explores the challenges and possibilities of reaching the Red Planet."
+                  },
+                  {
+                    "video-url": "https://www.youtube.com/watch?v=F4Ji1AB1LIw",
+                    "title": "Mangalyaan: A Journey to Mars",
+                    "describe": "**Description**: In today's read-aloud, hop aboard the spaceship called Mangalyaan as we journey to Mars. Learn about India's Mars mission and its significance in space exploration."
+                  }
+                ],
                 "questionSets": [
                   {
                     "setNumber": 1,
@@ -18244,12 +18382,24 @@
                 "*Challenges Astronauts Face in Space* ⚠️\n- Space travel comes with risks:\n  *Radiation:*\n  - High cosmic radiation requires protective shielding.\n  *Isolation:*\n  - Being away from family for long periods can be tough.\n  *Space Junk:*\n  - Debris in space can be dangerous for spacecraft and astronauts.",
                 
                 "*The Future of Astronauts* 🌠\n- Space exploration is evolving:\n  *Moon Bases:* Plans to establish permanent bases on the Moon.\n  *Mars Missions:* Future missions to send astronauts to Mars.\n  *Space Tourism:* Companies are working on making space travel accessible to civilians."
-              ]
-         
-            ,
-                  "video_link": "https://youtu.be/P-95q_P6kFU?si=b1hDvuIxg2xV0teZ",
-                  "title": "Top 10 Famous Astronauts and Their Achievements",
-                  "descrip": "Explore life in space and discover what astronauts experience beyond Earth!",
+              ],
+                  "video_link": [
+                {
+                  "video-url": "https://www.youtube.com/watch?v=kKUWti24B8M",
+                  "title": "Who is an Astronaut? | What do astronauts do?",
+                  "describe": "**Description**: An astronaut is a special kind of scientist that takes a spaceship to outer space to study things like asteroids, the Earth's atmosphere, and the Moon."
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=xb1pkqrhd2E",
+                  "title": "The Story of the First Indian to Go to Space | Rakesh Sharma",
+                  "describe": "**Description**: Rakesh Sharma spent seven days in space! Now, he leads a modest life in Tamil Nadu."
+                },
+                {
+                  "video-url": "https://www.youtube.com/watch?v=ixgAX31s4RM",
+                  "title": "Kalpana Chawla - The First Woman of Indian Origin in Space",
+                  "describe": "**Description**: Kalpana Chawla (March 17, 1962 – February 1, 2003) was an American astronaut and the first woman of Indian origin in space."
+                }
+              ],
             "questionSets": [
               {
                 "setNumber": 1,
