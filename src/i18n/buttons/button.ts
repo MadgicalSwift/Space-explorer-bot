@@ -147,7 +147,7 @@ export function createTestYourSelfButton(
 export function videoWithButton(
   from: string, 
   videoUrl: string[],  // Ensure this is an array
-  videoTitle: string, 
+  videoTitle: string[], 
   subTopic: string, 
   aboutVideo: string
 ) {

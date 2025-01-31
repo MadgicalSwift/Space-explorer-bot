@@ -129,8 +129,9 @@ export class ChatbotService {
           
           let description = descriptions[user.descriptionIndex]
           const subtopicName = subtopic.subtopicName;
-
+          // console.log('sangeeta')
           if ((descriptions.length-1) == user.descriptionIndex){
+            
             
             await this.message.sendCompleteExplanation(from, description, topic);
           }
@@ -264,13 +265,20 @@ export class ChatbotService {
           .flatMap((topic) => topic.subtopics)
           .find((subtopic) => subtopic.subtopicName === buttonBody);
         if (subtopic) {
+          
           const subtopicName = subtopic.subtopicName;
 
           const descriptions = subtopic.description;
           
           const videoUrl =subtopic.video_link;
+          console.log('videoUrl', videoUrl);
+          
           const title = subtopic.title;
+          console.log('video-title', title);
+          
           const aboutVideo = subtopic.descrip
+          console.log('aboutVideo', aboutVideo);
+          
           let subTopic =subtopic.subtopicName
           
           user.selectedSubtopic = subtopicName;

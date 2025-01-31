@@ -238,7 +238,7 @@ export class SwiftchatMessageService extends MessageService {
 
    // sendVideo function to prepare and send the video message
   
-  async sendVideo(from: string, videoUrl: any, title:any, subTopic: string, aboutVideo: string ) {
+  async sendVideo(from: string, videoUrl: any, title:any, subTopic: any, aboutVideo: string ) {
     if (!videoUrl) {
       return;
     }
