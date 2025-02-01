@@ -6642,6 +6642,8 @@
             }
           ]
         },
+
+
         {
           "subtopicName": "The Sun 🌞",
           "description": [
@@ -6680,114 +6682,114 @@
               "setNumber": 1,
               "questions": [
                 {
-                  "question": "What type of star is the Sun?",
+                  "question": "What is the Sun made mostly of?",
                   "options": [
-                    "Red giant",
-                    "White dwarf",
-                    "Supernova",
-                    "G-type main-sequence star"
+                    "Oxygen and Nitrogen",
+                    "Hydrogen and Helium",
+                    "Carbon and Nitrogen",
+                    "Hydrogen and Oxygen"
                   ],
-                  "answer": "G-type main-sequence star",
-                  "explanation": "The Sun is a G-type main-sequence star, also called a yellow dwarf."
+                  "answer": "Hydrogen and Helium",
+                  "explanation": "The Sun is primarily made of hydrogen (about 75%) and helium (about 24%), with trace amounts of other elements."
                 },
                 {
-                  "question": "How old is the Sun?",
+                  "question": "How far is the Sun from Earth?",
                   "options": [
-                    "2.5 billion years",
-                    "3.8 billion years",
-                    "4.6 billion years",
-                    "6 billion years"
+                    "100 million km",
+                    "150 million km",
+                    "200 million km",
+                    "50 million km"
                   ],
-                  "answer": "4.6 billion years",
-                  "explanation": "The Sun is about 4.6 billion years old, formed from a large gas cloud."
+                  "answer": "150 million km",
+                  "explanation": "The average distance from the Sun to Earth is approximately 150 million kilometers, which is also called an astronomical unit (AU)."
                 },
                 {
-                  "question": "What process powers the Sun?",
+                  "question": "How long does it take for sunlight to reach Earth?",
                   "options": [
-                    "Combustion",
-                    "Nuclear fission",
-                    "Nuclear fusion",
-                    "Photosynthesis"
-                  ],
-                  "answer": "Nuclear fusion",
-                  "explanation": "The Sun generates energy through nuclear fusion, turning hydrogen into helium."
-                },
-                {
-                  "question": "What is the outermost layer of the Sun called?",
-                  "options": [
-                    "Corona",
-                    "Core",
-                    "Radiative zone",
-                    "Photosphere"
-                  ],
-                  "answer": "Corona",
-                  "explanation": "The corona is the Sun's outermost layer, visible during solar eclipses."
-                },
-                {
-                  "question": "What is the visible surface of the Sun called?",
-                  "options": [
-                    "Core",
-                    "Corona",
-                    "Photosphere",
-                    "Chromosphere"
-                  ],
-                  "answer": "Photosphere",
-                  "explanation": "The photosphere is the Sun's visible surface, where light is emitted."
-                },
-                {
-                  "question": "What are the dark spots on the Sun's surface called?",
-                  "options": [
-                    "Solar flares",
-                    "Prominences",
-                    "Sunspots",
-                    "Plasma waves"
-                  ],
-                  "answer": "Sunspots",
-                  "explanation": "Sunspots are dark, cooler areas caused by magnetic activity on the Sun."
-                },
-                {
-                  "question": "What is a large eruption of radiation and particles from the Sun called?",
-                  "options": [
-                    "Solar wind",
-                    "Coronal mass ejection",
-                    "Sunspot",
-                    "Solar eclipse"
-                  ],
-                  "answer": "Coronal mass ejection",
-                  "explanation": "A coronal mass ejection is a huge burst of solar particles and energy."
-                },
-                {
-                  "question": "What element makes up most of the Sun's mass?",
-                  "options": [
-                    "Oxygen",
-                    "Carbon",
-                    "Hydrogen",
-                    "Helium"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen makes up 75% of the Sun's mass and powers its fusion."
-                },
-                {
-                  "question": "What is the Sun's core primarily responsible for?",
-                  "options": [
-                    "Producing heat",
-                    "Producing solar flares",
-                    "Generating solar wind",
-                    "Energy production through nuclear fusion"
-                  ],
-                  "answer": "Energy production through nuclear fusion",
-                  "explanation": "The Sun's core is where nuclear fusion produces its energy."
-                },
-                {
-                  "question": "How long does it take for light from the Sun to reach Earth?",
-                  "options": [
-                    "1 minute",
+                    "5 minutes",
                     "8 minutes",
                     "12 minutes",
-                    "24 minutes"
+                    "10 minutes"
                   ],
                   "answer": "8 minutes",
-                  "explanation": "Sunlight takes about 8 minutes to travel to Earth."
+                  "explanation": "It takes about 8 minutes and 20 seconds for sunlight to travel from the Sun to Earth."
+                },
+                {
+                  "question": "What is the diameter of the Sun?",
+                  "options": [
+                    "1 million km",
+                    "1.4 million km",
+                    "1.5 million km",
+                    "2 million km"
+                  ],
+                  "answer": "1.4 million km",
+                  "explanation": "The diameter of the Sun is about 1.4 million kilometers, making it about 109 times larger than Earth."
+                },
+                {
+                  "question": "How much larger is the Sun than Earth?",
+                  "options": [
+                    "50 times",
+                    "75 times",
+                    "100 times",
+                    "109 times"
+                  ],
+                  "answer": "109 times",
+                  "explanation": "The Sun's diameter is about 109 times larger than Earth's diameter."
+                },
+                {
+                  "question": "What is the temperature of the Sun's surface?",
+                  "options": [
+                    "100°C",
+                    "2,500°C",
+                    "5,500°C",
+                    "10,000°C"
+                  ],
+                  "answer": "5,500°C",
+                  "explanation": "The temperature of the Sun's surface (photosphere) is approximately 5,500°C."
+                },
+                {
+                  "question": "What is the temperature at the Sun’s core?",
+                  "options": [
+                    "1 million°C",
+                    "15 million°C",
+                    "2 million°C",
+                    "10 million°C"
+                  ],
+                  "answer": "15 million°C",
+                  "explanation": "The temperature at the Sun's core is around 15 million°C, where nuclear fusion occurs."
+                },
+                {
+                  "question": "What happens at the core of the Sun?",
+                  "options": [
+                    "Photosynthesis occurs",
+                    "Nuclear fusion occurs",
+                    "Carbon dioxide is produced",
+                    "Water evaporates"
+                  ],
+                  "answer": "Nuclear fusion occurs",
+                  "explanation": "At the Sun's core, nuclear fusion occurs, where hydrogen atoms fuse to form helium, releasing a tremendous amount of energy."
+                },
+                {
+                  "question": "How long does it take for energy to move from the core to the radiative zone?",
+                  "options": [
+                    "Hours",
+                    "Days",
+                    "Years",
+                    "Thousands of years"
+                  ],
+                  "answer": "Thousands of years",
+                  "explanation": "It takes thousands of years for the energy produced in the Sun's core to travel through the radiative zone before reaching the outer layers."
+                },
+                {
+                  "question": "What happens in the Convective Zone of the Sun?",
+                  "options": [
+                    "Heat rises and cooler gases sink",
+                    "Hydrogen combines with oxygen",
+                    "Solar flares occur",
+                    "Light is emitted"
+                  ],
+                  "answer": "Heat rises and cooler gases sink",
+                  "explanation": "In the Convective Zone of the Sun, heat rises from the lower layers, and cooler gases sink, creating convection currents that transfer energy to the outer layers."
                 }
               ]
             },
@@ -6795,114 +6797,114 @@
               "setNumber": 2,
               "questions": [
                 {
-                  "question": "What percentage of the solar system's mass is contained in the Sun?",
+                  "question": "What do we see from Earth as the visible surface of the Sun?",
                   "options": [
-                    "50%",
-                    "75%",
-                    "99.8%",
-                    "90%"
-                  ],
-                  "answer": "99.8%",
-                  "explanation": "The Sun holds about 99.8% of the solar system's mass."
-                },
-                {
-                  "question": "Which layer of the Sun is directly above the core?",
-                  "options": [
-                    "Radiative zone",
-                    "Convective zone",
+                    "Corona",
+                    "Chromosphere",
                     "Photosphere",
-                    "Chromosphere"
+                    "Convective Zone"
                   ],
-                  "answer": "Radiative zone",
-                  "explanation": "The radiative zone is where energy moves outward from the core."
+                  "answer": "Photosphere",
+                  "explanation": "The photosphere is the visible surface of the Sun that emits the light we see from Earth."
                 },
                 {
-                  "question": "What is the flow of charged particles from the Sun called?",
+                  "question": "Which layer of the Sun is seen during a solar eclipse?",
                   "options": [
-                    "Solar flare",
-                    "Solar wind",
-                    "Sunspot activity",
-                    "Coronal mass ejection"
+                    "Core",
+                    "Radiative Zone",
+                    "Chromosphere",
+                    "Convective Zone"
                   ],
-                  "answer": "Solar wind",
-                  "explanation": "Solar wind is a stream of particles flowing from the Sun."
+                  "answer": "Chromosphere",
+                  "explanation": "During a solar eclipse, the chromosphere is visible as a reddish ring around the Sun."
                 },
                 {
-                  "question": "What happens during a solar eclipse?",
-                  "options": [
-                    "The Sun is blocked by the Moon",
-                    "The Sun stops emitting light",
-                    "The Earth blocks the Sun's light",
-                    "The Sun changes color"
-                  ],
-                  "answer": "The Sun is blocked by the Moon",
-                  "explanation": "A solar eclipse happens when the Moon blocks the Sun's light."
-                },
-                {
-                  "question": "What layer of the Sun can only be seen during a total solar eclipse?",
+                  "question": "Which layer of the Sun is the hottest?",
                   "options": [
                     "Photosphere",
                     "Core",
-                    "Corona",
-                    "Convective zone"
+                    "Radiative Zone",
+                    "Corona"
                   ],
                   "answer": "Corona",
-                  "explanation": "The corona, the Sun's outermost layer, is visible during a total eclipse."
+                  "explanation": "The corona is the outermost layer of the Sun and is much hotter than the Sun's surface, with temperatures reaching millions of degrees Celsius."
                 },
                 {
-                  "question": "What is the Sun primarily made of?",
+                  "question": "Why does the Sun shine?",
                   "options": [
-                    "Hydrogen and oxygen",
-                    "Helium and carbon",
-                    "Hydrogen and helium",
-                    "Nitrogen and carbon"
+                    "Because of the Sunspots",
+                    "Because of nuclear fusion",
+                    "Because of solar storms",
+                    "Because of gravitational forces"
                   ],
-                  "answer": "Hydrogen and helium",
-                  "explanation": "The Sun is mainly hydrogen and helium, fueling its energy."
+                  "answer": "Because of nuclear fusion",
+                  "explanation": "The Sun shines because of nuclear fusion, a process in which hydrogen atoms combine to form helium, releasing energy in the form of light and heat."
                 },
                 {
-                  "question": "What drives the solar cycle, including sunspot formation?",
+                  "question": "What is the process of nuclear fusion?",
                   "options": [
-                    "Solar wind",
-                    "Magnetic fields",
-                    "Gravitational pull",
-                    "Nuclear fusion"
+                    "Helium combines to form hydrogen",
+                    "Hydrogen combines to form helium",
+                    "Oxygen and carbon combine",
+                    "Water evaporates"
                   ],
-                  "answer": "Magnetic fields",
-                  "explanation": "The Sun's magnetic fields drive sunspot cycles and solar activity."
+                  "answer": "Hydrogen combines to form helium",
+                  "explanation": "In nuclear fusion, hydrogen atoms combine to form helium, releasing a large amount of energy, which is the source of the Sun's light and heat."
                 },
                 {
-                  "question": "How many Earths could fit inside the Sun?",
+                  "question": "What is the main importance of the Sun for life on Earth?",
                   "options": [
-                    "About 10",
-                    "About 100",
-                    "About 1,000",
-                    "About 1.3 million"
+                    "It controls tides",
+                    "It provides light, heat, and energy",
+                    "It creates oxygen",
+                    "It creates carbon dioxide"
                   ],
-                  "answer": "About 1.3 million",
-                  "explanation": "Around 1.3 million Earths could fit inside the Sun!"
+                  "answer": "It provides light, heat, and energy",
+                  "explanation": "The Sun is crucial for life on Earth as it provides the light, heat, and energy needed for life processes and weather systems."
                 },
                 {
-                  "question": "What happens in the convective zone of the Sun?",
+                  "question": "What does the Sun help in generating?",
                   "options": [
-                    "Energy is radiated out",
-                    "Energy is generated",
-                    "Hot plasma rises and cool plasma sinks",
-                    "Nuclear fusion occurs"
+                    "Wind",
+                    "Solar energy",
+                    "Soil",
+                    "Food"
                   ],
-                  "answer": "Hot plasma rises and cool plasma sinks",
-                  "explanation": "The convective zone circulates plasma, carrying energy outward."
+                  "answer": "Solar energy",
+                  "explanation": "The Sun is the primary source of solar energy, which is harnessed for electricity, heating, and various other uses."
                 },
                 {
-                  "question": "What is the expected lifespan of the Sun?",
+                  "question": "Which Hindu Sun God is worshipped in India?",
                   "options": [
-                    "5 billion years",
-                    "10 billion years",
-                    "15 billion years",
-                    "20 billion years"
+                    "Vishnu",
+                    "Shiva",
+                    "Surya",
+                    "Brahma"
                   ],
-                  "answer": "10 billion years",
-                  "explanation": "The Sun's total lifespan is about 10 billion years."
+                  "answer": "Surya",
+                  "explanation": "In Hinduism, Surya is the Sun God, worshipped for his life-giving energy and power."
+                },
+                {
+                  "question": "Which Indian temple is built in honor of the Sun?",
+                  "options": [
+                    "Taj Mahal",
+                    "Konark Sun Temple",
+                    "Somnath Temple",
+                    "Golden Temple"
+                  ],
+                  "answer": "Konark Sun Temple",
+                  "explanation": "The Konark Sun Temple, located in Odisha, India, is dedicated to the Sun God and is a UNESCO World Heritage site."
+                },
+                {
+                  "question": "What is the practice of Surya Namaskar associated with?",
+                  "options": [
+                    "Breathing exercises",
+                    "Worship of Surya",
+                    "Meditation",
+                    "Dancing"
+                  ],
+                  "answer": "Worship of Surya",
+                  "explanation": "Surya Namaskar, also known as Sun Salutation, is a series of yoga poses performed as a form of worship to the Sun God, Surya."
                 }
               ]
             },
@@ -6910,114 +6912,114 @@
               "setNumber": 3,
               "questions": [
                 {
-                  "question": "What type of star is the Sun?",
+                  "question": "What is the primary element found in the Sun's composition?",
                   "options": [
-                    "Red giant",
-                    "White dwarf",
-                    "Yellow dwarf (Correct)",
-                    "Blue supergiant"
-                  ],
-                  "answer": "Yellow dwarf",
-                  "explanation": "The Sun is a small star called a Yellow Dwarf. It's not as big as the other types of stars."
-                },
-                {
-                  "question": "How long does it take sunlight to reach Earth?",
-                  "options": [
-                    "1 minute",
-                    "8 minutes (Correct)",
-                    "24 minutes",
-                    "1 hour"
-                  ],
-                  "answer": "8 minutes",
-                  "explanation": "Light from the Sun takes about 8 minutes to reach us on Earth!"
-                },
-                {
-                  "question": "What is the outermost layer of the Sun called?",
-                  "options": [
-                    "Photosphere",
-                    "Corona (Correct)",
-                    "Chromosphere",
-                    "Core"
-                  ],
-                  "answer": "Corona",
-                  "explanation": "The corona is the outermost glowing part of the Sun that looks like a crown."
-                },
-                {
-                  "question": "Which element makes up most of the Sun's mass?",
-                  "options": [
-                    "Helium",
                     "Oxygen",
-                    "Hydrogen (Correct)",
-                    "Carbon"
+                    "Hydrogen",
+                    "Carbon",
+                    "Nitrogen"
                   ],
                   "answer": "Hydrogen",
-                  "explanation": "The Sun is mostly made of hydrogen, which it uses as fuel to shine brightly."
+                  "explanation": "Hydrogen makes up about 75% of the Sun's composition and is the primary fuel for the nuclear fusion process in its core."
                 },
                 {
-                  "question": "What process makes the Sun shine?",
+                  "question": "What does the Sun provide to Earth?",
                   "options": [
-                    "Nuclear fusion (Correct)",
-                    "Combustion",
-                    "Fission",
-                    "Magnetic convection"
+                    "Only light",
+                    "Only heat",
+                    "Light, heat, and energy",
+                    "Only energy"
                   ],
-                  "answer": "Nuclear fusion",
-                  "explanation": "The Sun makes energy by combining hydrogen to make helium. This process is called nuclear fusion."
+                  "answer": "Light, heat, and energy",
+                  "explanation": "The Sun provides essential light, heat, and energy, which support life on Earth and influence weather patterns."
                 },
                 {
-                  "question": "What is the visible surface of the Sun called?",
+                  "question": "How long does sunlight take to reach Earth from the Sun?",
                   "options": [
-                    "Photosphere (Correct)",
-                    "Corona",
-                    "Chromosphere",
-                    "Solar wind"
+                    "4 minutes",
+                    "8 minutes",
+                    "15 minutes",
+                    "30 minutes"
+                  ],
+                  "answer": "8 minutes",
+                  "explanation": "Sunlight travels from the Sun to Earth in about 8 minutes, covering the distance of approximately 150 million kilometers."
+                },
+                {
+                  "question": "What is the temperature at the Sun's core?",
+                  "options": [
+                    "1,500°C",
+                    "5,500°C",
+                    "15 million°C",
+                    "50 million°C"
+                  ],
+                  "answer": "15 million°C",
+                  "explanation": "The temperature at the Sun's core reaches approximately 15 million degrees Celsius, where nuclear fusion occurs."
+                },
+                {
+                  "question": "What is the Sun's surface layer called?",
+                  "options": [
+                    "Radiative Zone",
+                    "Photosphere",
+                    "Convective Zone",
+                    "Chromosphere"
                   ],
                   "answer": "Photosphere",
-                  "explanation": "The photosphere is the part of the Sun we can see with our eyes."
+                  "explanation": "The photosphere is the Sun's visible surface, from which light is emitted, making it the part of the Sun we can see."
                 },
                 {
-                  "question": "How old is the Sun?",
+                  "question": "Which layer of the Sun is seen during a solar eclipse?",
                   "options": [
-                    "2 billion years",
-                    "4.6 billion years (Correct)",
-                    "10 billion years",
-                    "1 billion years"
+                    "Core",
+                    "Radiative Zone",
+                    "Chromosphere",
+                    "Convective Zone"
+                  ],
+                  "answer": "Chromosphere",
+                  "explanation": "The chromosphere is the Sun's second layer, which appears as a reddish ring around the Sun during a solar eclipse."
+                },
+                {
+                  "question": "How many years has the Sun been shining?",
+                  "options": [
+                    "4.6 million years",
+                    "4.6 billion years",
+                    "6.5 billion years",
+                    "10 billion years"
                   ],
                   "answer": "4.6 billion years",
-                  "explanation": "The Sun is 4.6 billion years old. That's a very long time!"
+                  "explanation": "The Sun has been shining for about 4.6 billion years, having formed along with the solar system."
+                },
+                {
+                  "question": "What will the Sun become after expanding into a red giant?",
+                  "options": [
+                    "A black hole",
+                    "A white dwarf",
+                    "A blue giant",
+                    "A neutron star"
+                  ],
+                  "answer": "A white dwarf",
+                  "explanation": "In the future, after exhausting its fuel, the Sun will expand into a red giant and then shrink to become a white dwarf."
+                },
+                {
+                  "question": "What are sunspots?",
+                  "options": [
+                    "Bright spots on the Sun",
+                    "Dark, cooler spots on the Sun's surface",
+                    "Solar flares",
+                    "A type of solar storm"
+                  ],
+                  "answer": "Dark, cooler spots on the Sun's surface",
+                  "explanation": "Sunspots are dark, cooler regions on the Sun's surface caused by intense magnetic activity."
                 },
                 {
                   "question": "What is a solar flare?",
                   "options": [
-                    "A storm on Earth",
-                    "A sudden burst of energy from the Sun (Correct)",
+                    "A cold spot on the Sun",
+                    "A burst of light and energy",
                     "A type of sunspot",
-                    "A reflection of sunlight"
+                    "A dark region on the Sun"
                   ],
-                  "answer": "A sudden burst of energy from the Sun",
-                  "explanation": "A solar flare is a big burst of energy that comes out from the Sun suddenly."
-                },
-                {
-                  "question": "What creates the beautiful auroras in the sky?",
-                  "options": [
-                    "Solar eclipse",
-                    "Aurora (Correct)",
-                    "Sunspots",
-                    "Solar flares"
-                  ],
-                  "answer": "Aurora",
-                  "explanation": "Auroras are created when particles from the Sun hit Earth's magnetic field."
-                },
-                {
-                  "question": "What will happen to the Sun when it uses up all its fuel?",
-                  "options": [
-                    "It will explode",
-                    "It will become a black hole",
-                    "It will become a red giant (Correct)",
-                    "It will remain unchanged"
-                  ],
-                  "answer": "It will become a red giant",
-                  "explanation": "The Sun will grow very big and become a red giant when it runs out of fuel."
+                  "answer": "A burst of light and energy",
+                  "explanation": "A solar flare is a sudden burst of energy and light from the Sun's surface, releasing large amounts of radiation into space."
                 }
               ]
             },
@@ -7025,103 +7027,114 @@
               "setNumber": 4,
               "questions": [
                 {
-                  "question": "What percentage of the solar system's mass is in the Sun?",
+                  "question": "What is the outermost layer of the Sun called?",
                   "options": [
-                    "50%",
-                    "75%",
-                    "99.8% (Correct)",
-                    "25%"
-                  ],
-                  "answer": "99.8%",
-                  "explanation": "The Sun holds 99.8% of all the mass in the solar system. It’s super huge!"
-                },
-                {
-                  "question": "What are the dark spots on the Sun called?",
-                  "options": [
-                    "Solar flares",
-                    "Coronal holes",
-                    "Sunspots (Correct)",
-                    "Solar winds"
-                  ],
-                  "answer": "Sunspots",
-                  "explanation": "Sunspots are cooler, dark spots on the Sun's surface caused by magnetic activity."
-                },
-                {
-                  "question": "How hot is the Sun’s core?",
-                  "options": [
-                    "5,000°C",
-                    "10,000°C",
-                    "1 million°C",
-                    "15 million°C (Correct)"
-                  ],
-                  "answer": "15 million°C",
-                  "explanation": "The Sun's core is 15 million degrees Celsius. That's incredibly hot!"
-                },
-                {
-                  "question": "What happens to communication on Earth during solar storms?",
-                  "options": [
-                    "No effect",
-                    "It strengthens signals",
-                    "It disrupts signals (Correct)",
-                    "It reflects signals"
-                  ],
-                  "answer": "It disrupts signals",
-                  "explanation": "Solar storms can mess up signals for communication and GPS systems."
-                },
-                {
-                  "question": "What is the solar wind?",
-                  "options": [
-                    "Winds on Earth",
-                    "A stream of particles from the Sun (Correct)",
-                    "Storms on the Sun",
-                    "Hot air"
-                  ],
-                  "answer": "A stream of particles from the Sun",
-                  "explanation": "The solar wind is a flow of charged particles coming from the Sun."
-                },
-                {
-                  "question": "What layer is between the Sun's core and surface?",
-                  "options": [
-                    "Chromosphere",
-                    "Convective zone",
-                    "Radiative zone (Correct)",
-                    "Corona"
-                  ],
-                  "answer": "Radiative zone",
-                  "explanation": "The radiative zone is the layer where energy moves outward slowly from the core."
-                },
-                {
-                  "question": "How big is the Sun?",
-                  "options": [
-                    "100,000 km",
-                    "1.4 million km (Correct)",
-                    "500,000 km",
-                    "10 million km"
-                  ],
-                  "answer": "1.4 million km",
-                  "explanation": "The Sun is about 1.4 million kilometers wide. That's huge!"
-                },
-                {
-                  "question": "What layer of the Sun can we see during an eclipse?",
-                  "options": [
-                    "Chromosphere",
-                    "Corona (Correct)",
-                    "Core",
-                    "Photosphere"
+                    "Photosphere",
+                    "Corona",
+                    "Radiative Zone",
+                    "Convective Zone"
                   ],
                   "answer": "Corona",
-                  "explanation": "During a solar eclipse, we can see the Sun's corona shining around the Moon."
+                  "explanation": "The corona is the Sun's outermost layer, a hot, thin, and extended atmosphere that is visible during a solar eclipse."
                 },
                 {
-                  "question": "What makes the Sun's magnetic field?",
+                  "question": "How much of the Solar System's mass does the Sun account for?",
                   "options": [
-                    "Gravitational forces",
-                    "Solar flares",
-                    "Differential rotation (Correct)",
-                    "Absorbing energy"
+                    "70%",
+                    "80%",
+                    "90%",
+                    "99.8%"
                   ],
-                  "answer": "Differential rotation",
-                  "explanation": "The Sun’s magnetic field is made by its different parts spinning at different speeds."
+                  "answer": "99.8%",
+                  "explanation": "The Sun makes up about 99.8% of the mass of the entire Solar System, containing almost all of its mass."
+                },
+                {
+                  "question": "What is the Sun's role in the creation of weather on Earth?",
+                  "options": [
+                    "It causes earthquakes",
+                    "It controls air pressure",
+                    "It moves air and water, causing winds, clouds, and rain",
+                    "It causes volcanic eruptions"
+                  ],
+                  "answer": "It moves air and water, causing winds, clouds, and rain",
+                  "explanation": "The Sun's heat drives the Earth's weather by moving air and water, which in turn causes winds, clouds, and rain."
+                },
+                {
+                  "question": "What is the Sun's primary source of energy?",
+                  "options": [
+                    "Fusion of helium",
+                    "Nuclear fusion of hydrogen",
+                    "Chemical reactions",
+                    "Gravitational energy"
+                  ],
+                  "answer": "Nuclear fusion of hydrogen",
+                  "explanation": "The Sun's primary source of energy is the nuclear fusion of hydrogen atoms into helium, releasing vast amounts of energy."
+                },
+                {
+                  "question": "What is the Sun's gravity compared to Earth's?",
+                  "options": [
+                    "2 times stronger",
+                    "5 times stronger",
+                    "10 times stronger",
+                    "28 times stronger"
+                  ],
+                  "answer": "28 times stronger",
+                  "explanation": "The Sun's gravity is 28 times stronger than Earth's, which is why it holds all the planets in orbit."
+                },
+                {
+                  "question": "What do solar storms release into space?",
+                  "options": [
+                    "Light and heat",
+                    "Charged particles",
+                    "Solar flares",
+                    "Solar wind"
+                  ],
+                  "answer": "Charged particles",
+                  "explanation": "Solar storms release charged particles into space, which can interfere with satellites and communication systems on Earth."
+                },
+                {
+                  "question": "How do scientists study the Sun?",
+                  "options": [
+                    "Using only telescopes",
+                    "Using satellites and telescopes",
+                    "Only with ground-based observatories",
+                    "Only by sending astronauts"
+                  ],
+                  "answer": "Using satellites and telescopes",
+                  "explanation": "Scientists use both satellites and telescopes to observe the Sun, as its distance and brightness make it difficult to study with ground-based instruments alone."
+                },
+                {
+                  "question": "Which mission is India’s first solar mission?",
+                  "options": [
+                    "SOHO",
+                    "Parker Solar Probe",
+                    "Aditya-L1",
+                    "Hubble Space Telescope"
+                  ],
+                  "answer": "Aditya-L1",
+                  "explanation": "Aditya-L1 is India's first solar mission, designed to study the Sun and its influence on space weather."
+                },
+                {
+                  "question": "What happens during a total solar eclipse?",
+                  "options": [
+                    "Only part of the Sun is covered",
+                    "The Sun is completely covered by the Moon",
+                    "The Moon blocks sunlight, but the Sun is still visible",
+                    "The Sun's corona is visible"
+                  ],
+                  "answer": "The Sun is completely covered by the Moon",
+                  "explanation": "During a total solar eclipse, the Moon completely covers the Sun, allowing the Sun's corona to become visible."
+                },
+                {
+                  "question": "What will happen to the Sun in 5 billion years?",
+                  "options": [
+                    "It will explode into a supernova",
+                    "It will shrink into a white dwarf",
+                    "It will expand into a red giant",
+                    "It will turn into a neutron star"
+                  ],
+                  "answer": "It will expand into a red giant",
+                  "explanation": "In about 5 billion years, the Sun will exhaust its hydrogen fuel and expand into a red giant, before eventually shrinking into a white dwarf."
                 }
               ]
             },
@@ -7129,114 +7142,114 @@
               "setNumber": 5,
               "questions": [
                 {
-                  "question": "What is the Sun mostly made of?",
+                  "question": "What is the purpose of the Surya Namaskar in Indian culture?",
                   "options": [
-                    "Oxygen and nitrogen",
-                    "Carbon and helium",
-                    "Hydrogen and helium",
-                    "Iron and nickel"
+                    "To worship the Moon",
+                    "To show gratitude to the Sun",
+                    "To perform yoga for health",
+                    "To pray for a good harvest"
                   ],
-                  "answer": "Hydrogen and helium",
-                  "explanation": "The Sun is made up of about 75% hydrogen and 24% helium, with small amounts of other elements."
+                  "answer": "To show gratitude to the Sun",
+                  "explanation": "The Surya Namaskar, or Sun Salutation, is a yoga practice in Indian culture to show gratitude to the Sun, symbolizing the importance of the Sun in life."
                 },
                 {
-                  "question": "What is the solar cycle?",
+                  "question": "Which Indian temple is built in honor of the Sun?",
                   "options": [
-                    "A daily spin of the Sun",
-                    "Seasonal Sun changes",
-                    "11-year sunspot cycle",
-                    "A process of nuclear fusion"
+                    "Golden Temple",
+                    "Konark Sun Temple",
+                    "Jagannath Temple",
+                    "Sanchi Stupa"
                   ],
-                  "answer": "11-year sunspot cycle",
-                  "explanation": "The solar cycle lasts about 11 years and is marked by changes in the number of sunspots on the Sun's surface."
+                  "answer": "Konark Sun Temple",
+                  "explanation": "The Konark Sun Temple, located in Odisha, India, is dedicated to the Sun God and is a famous historical monument."
                 },
                 {
-                  "question": "What happens when the Moon comes between Earth and the Sun?",
+                  "question": "What causes the Sun’s different layers to rotate at different speeds?",
                   "options": [
-                    "Lunar eclipse",
-                    "Solar eclipse",
-                    "Aurora",
-                    "Sunspot"
+                    "Its gravitational pull",
+                    "Its uneven temperature",
+                    "The Sun’s core",
+                    "The Sun’s magnetic field"
                   ],
-                  "answer": "Solar eclipse",
-                  "explanation": "A solar eclipse happens when the Moon blocks sunlight from reaching Earth."
+                  "answer": "Its uneven temperature",
+                  "explanation": "The Sun's rotation is affected by its uneven temperature, causing different layers to rotate at different speeds."
                 },
                 {
-                  "question": "How long will the Sun shine before it becomes a red giant?",
+                  "question": "What is the Sun's surface temperature?",
                   "options": [
-                    "1 billion years",
-                    "5 billion years",
-                    "10 billion years",
-                    "50 million years"
+                    "5,500°C",
+                    "15 million°C",
+                    "50,000°C",
+                    "10,000°C"
                   ],
-                  "answer": "5 billion years",
-                  "explanation": "The Sun will shine for about 5 billion more years before it transforms into a red giant."
+                  "answer": "5,500°C",
+                  "explanation": "The Sun's surface, or photosphere, has an average temperature of about 5,500°C."
                 },
                 {
-                  "question": "How does the Sun transfer energy in its outer layer?",
+                  "question": "What is a feature of an annular solar eclipse?",
                   "options": [
-                    "Radiation",
-                    "Convection",
-                    "Conduction",
-                    "Fission"
+                    "The Sun is completely covered",
+                    "The Moon is too far to completely cover the Sun, leaving a bright ring",
+                    "The Sun is only partially blocked",
+                    "The Sun appears as a dark disk"
                   ],
-                  "answer": "Convection",
-                  "explanation": "In the Sun’s outer layer, energy is moved by convection, which is the flow of hot and cool plasma."
+                  "answer": "The Moon is too far to completely cover the Sun, leaving a bright ring",
+                  "explanation": "During an annular solar eclipse, the Moon is too far from Earth to completely cover the Sun, leaving a bright ring of sunlight visible."
                 },
                 {
-                  "question": "What do sunspots show about the Sun?",
+                  "question": "What is the primary reason the Sun is essential for life on Earth?",
                   "options": [
-                    "Cause eclipses",
-                    "Increase energy",
-                    "Magnetic activity",
-                    "Sun’s rotation"
+                    "It provides energy and heat",
+                    "It controls the Earth's gravity",
+                    "It causes rain and thunderstorms",
+                    "It helps form clouds"
                   ],
-                  "answer": "Magnetic activity",
-                  "explanation": "Sunspots are regions of intense magnetic activity on the Sun."
+                  "answer": "It provides energy and heat",
+                  "explanation": "The Sun provides the essential energy and heat needed to sustain life on Earth by driving weather patterns and photosynthesis."
                 },
                 {
-                  "question": "What happens to the Sun’s magnetic field at solar maximum?",
+                  "question": "Which process powers the Sun?",
                   "options": [
-                    "Weakens",
-                    "Strengthens and flips",
-                    "Stays the same",
-                    "Disappears"
+                    "Fusion of hydrogen into helium",
+                    "Combustion of oxygen and carbon",
+                    "Photosynthesis",
+                    "Gravitational collapse"
                   ],
-                  "answer": "Strengthens and flips",
-                  "explanation": "At solar maximum, the Sun’s magnetic field becomes very strong and reverses direction."
+                  "answer": "Fusion of hydrogen into helium",
+                  "explanation": "The Sun’s energy is generated by nuclear fusion, where hydrogen atoms fuse to form helium, releasing vast amounts of energy."
                 },
                 {
-                  "question": "How long does the Sun take to rotate at its equator?",
+                  "question": "What is the temperature of the Sun’s core?",
                   "options": [
-                    "24 hours",
-                    "11 days",
-                    "27 days",
-                    "365 days"
+                    "1,000,000°C",
+                    "15 million°C",
+                    "5,500°C",
+                    "1 billion°C"
                   ],
-                  "answer": "27 days",
-                  "explanation": "The Sun’s equator rotates once every 27 days, while its poles rotate more slowly."
+                  "answer": "15 million°C",
+                  "explanation": "The temperature at the Sun’s core is about 15 million°C, where nuclear fusion takes place."
                 },
                 {
-                  "question": "What is made when hydrogen atoms fuse in the Sun?",
+                  "question": "How many planets orbit around the Sun?",
                   "options": [
-                    "Oxygen",
-                    "Carbon",
-                    "Helium",
-                    "Iron"
+                    "6",
+                    "7",
+                    "8",
+                    "9"
                   ],
-                  "answer": "Helium",
-                  "explanation": "The Sun fuses hydrogen atoms to produce helium, releasing energy."
+                  "answer": "8",
+                  "explanation": "There are 8 planets that orbit around the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
                 },
                 {
-                  "question": "How far is the Sun from Earth?",
+                  "question": "What is a sunspot?",
                   "options": [
-                    "1 million km",
-                    "10 million km",
-                    "150 million km",
-                    "93 million km"
+                    "A bright region on the Sun",
+                    "A dark, cooler area on the Sun's surface",
+                    "A type of solar storm",
+                    "A region of high solar energy"
                   ],
-                  "answer": "150 million km",
-                  "explanation": "The Sun is about 150 million kilometers (93 million miles) away from Earth."
+                  "answer": "A dark, cooler area on the Sun's surface",
+                  "explanation": "Sunspots are dark, cooler areas on the Sun's surface caused by magnetic activity that affect solar radiation."
                 }
               ]
             },
@@ -7244,114 +7257,114 @@
               "setNumber": 6,
               "questions": [
                 {
-                  "question": "Which part of the Sun gives off light we can see?",
+                  "question": "What is the Sun made of?",
+                  "options": [
+                    "Carbon and helium",
+                    "Hydrogen and oxygen",
+                    "Hydrogen and helium",
+                    "Nitrogen and oxygen"
+                  ],
+                  "answer": "Hydrogen and helium",
+                  "explanation": "The Sun is primarily made of hydrogen (about 75%) and helium (about 24%), with small amounts of other elements like oxygen and carbon."
+                },
+                {
+                  "question": "How long does sunlight take to reach Earth?",
+                  "options": [
+                    "5 minutes",
+                    "8 minutes",
+                    "10 minutes",
+                    "15 minutes"
+                  ],
+                  "answer": "8 minutes",
+                  "explanation": "Sunlight takes approximately 8 minutes and 20 seconds to travel from the Sun to Earth, covering a distance of about 93 million miles."
+                },
+                {
+                  "question": "Which part of the Sun is the hottest?",
                   "options": [
                     "Core",
-                    "Chromosphere",
                     "Photosphere",
+                    "Chromosphere",
+                    "Convective Zone"
+                  ],
+                  "answer": "Core",
+                  "explanation": "The core of the Sun is the hottest part, with temperatures around 15 million°C, where nuclear fusion occurs."
+                },
+                {
+                  "question": "What is the Sun's temperature at its core?",
+                  "options": [
+                    "5,500°C",
+                    "10,000°C",
+                    "15 million°C",
+                    "1 million°C"
+                  ],
+                  "answer": "15 million°C",
+                  "explanation": "The Sun’s core reaches temperatures of around 15 million°C, which is hot enough for nuclear fusion to take place."
+                },
+                {
+                  "question": "What layer of the Sun is visible from Earth?",
+                  "options": [
+                    "Radiative Zone",
+                    "Photosphere",
+                    "Convective Zone",
                     "Corona"
                   ],
                   "answer": "Photosphere",
-                  "explanation": "The Sun's photosphere is the layer that emits the light we see."
+                  "explanation": "The photosphere is the visible surface of the Sun, where sunlight is emitted. It has a temperature of about 5,500°C."
                 },
                 {
-                  "question": "What is the Sun’s energy output called?",
+                  "question": "What process makes the Sun shine?",
                   "options": [
-                    "Solar wind",
-                    "Solar constant",
-                    "Luminosity",
-                    "Solar flux"
+                    "Nuclear fusion",
+                    "Evaporation",
+                    "Combustion",
+                    "Photosynthesis"
                   ],
-                  "answer": "Luminosity",
-                  "explanation": "The Sun's total energy output, or luminosity, is about 3.8 x 10^26 watts."
+                  "answer": "Nuclear fusion",
+                  "explanation": "The Sun shines because of nuclear fusion occurring in its core, where hydrogen atoms fuse to form helium, releasing vast amounts of energy."
                 },
                 {
-                  "question": "What are coronal mass ejections (CMEs)?",
+                  "question": "What role does the Sun play in creating seasons on Earth?",
                   "options": [
-                    "Core gas eruptions",
-                    "High-energy corona bursts",
-                    "Sunspot eruptions",
-                    "Solar wind shifts"
+                    "Causes changes in ocean currents",
+                    "Moves planets into new orbits",
+                    "Affects air and water to create weather patterns",
+                    "It does not affect the seasons"
                   ],
-                  "answer": "High-energy corona bursts",
-                  "explanation": "CMEs are large bursts of charged particles and magnetic fields from the Sun’s corona."
+                  "answer": "Affects air and water to create weather patterns",
+                  "explanation": "The Sun’s energy is the primary driver of weather patterns on Earth, which leads to the changing seasons as the Earth tilts and orbits the Sun."
                 },
                 {
-                  "question": "Is the Sun large compared to other stars?",
+                  "question": "How is the Sun important for plant growth?",
                   "options": [
-                    "Giant star",
-                    "Average-sized star",
-                    "Small star",
-                    "Largest star"
+                    "It cools the Earth",
+                    "It provides energy for photosynthesis",
+                    "It makes soil fertile",
+                    "It protects plants from diseases"
                   ],
-                  "answer": "Average-sized star",
-                  "explanation": "The Sun is an average-sized star compared to others in the galaxy."
+                  "answer": "It provides energy for photosynthesis",
+                  "explanation": "The Sun provides the energy necessary for photosynthesis, the process by which plants convert light into food."
                 },
                 {
-                  "question": "What is solar granulation?",
+                  "question": "What is the Sun God in Hindu culture?",
                   "options": [
-                    "Magnetic activity",
-                    "Surface convection",
-                    "Core explosions",
-                    "Solar flare"
+                    "Vishnu",
+                    "Shiva",
+                    "Surya",
+                    "Ganesha"
                   ],
-                  "answer": "Surface convection",
-                  "explanation": "Granulation refers to the visible convection currents on the Sun's surface."
+                  "answer": "Surya",
+                  "explanation": "In Hindu culture, Surya is the Sun God, often depicted as riding a chariot drawn by seven horses, representing the Sun’s rays."
                 },
                 {
-                  "question": "How does the Sun send energy to Earth?",
+                  "question": "Where is the famous Konark Sun Temple located?",
                   "options": [
-                    "Convection",
-                    "Conduction",
-                    "Radiation",
-                    "Fusion"
+                    "Gujarat",
+                    "Rajasthan",
+                    "Odisha",
+                    "Tamil Nadu"
                   ],
-                  "answer": "Radiation",
-                  "explanation": "The Sun sends energy to Earth as light and heat through radiation."
-                },
-                {
-                  "question": "Is the corona hotter than the Sun's surface?",
-                  "options": [
-                    "Cooler",
-                    "About the same",
-                    "Much hotter",
-                    "Slightly hotter"
-                  ],
-                  "answer": "Much hotter",
-                  "explanation": "The corona can reach 1-3 million degrees Celsius, much hotter than the Sun’s surface."
-                },
-                {
-                  "question": "What happens during solar minimum?",
-                  "options": [
-                    "Core cools",
-                    "Fewer sunspots",
-                    "Energy drops",
-                    "Corona disappears"
-                  ],
-                  "answer": "Fewer sunspots",
-                  "explanation": "During solar minimum, sunspot activity is at its lowest."
-                },
-                {
-                  "question": "What will the Sun make during the red giant phase?",
-                  "options": [
-                    "Oxygen",
-                    "Helium",
-                    "Carbon",
-                    "Iron"
-                  ],
-                  "answer": "Carbon",
-                  "explanation": "The Sun will fuse helium into carbon during its red giant phase."
-                },
-                {
-                  "question": "How does the Sun stop itself from collapsing?",
-                  "options": [
-                    "Magnetic fields",
-                    "Gravity",
-                    "Fusion pressure",
-                    "Solar wind"
-                  ],
-                  "answer": "Fusion pressure",
-                  "explanation": "The pressure from nuclear fusion balances gravity to keep the Sun stable."
+                  "answer": "Odisha",
+                  "explanation": "The Konark Sun Temple is located in Odisha, India, and is dedicated to the Sun God, Surya. It is a UNESCO World Heritage site."
                 }
               ]
             },
@@ -7359,114 +7372,114 @@
               "setNumber": 7,
               "questions": [
                 {
-                  "question": "What causes the Sun’s magnetic field?",
+                  "question": "What happens during a total solar eclipse?",
                   "options": [
-                    "Moving hot gases",
-                    "Different speeds of spinning parts",
-                    "Explosions in the Sun",
-                    "Solar wind"
+                    "The Moon blocks only a part of the Sun",
+                    "The Sun is completely covered by the Moon",
+                    "The Sun becomes brighter",
+                    "The Sun disappears for a few seconds"
                   ],
-                  "answer": "Different speeds of spinning parts",
-                  "explanation": "The Sun's magnetic field is created because different parts of the Sun spin at different speeds."
+                  "answer": "The Sun is completely covered by the Moon",
+                  "explanation": "During a total solar eclipse, the Moon completely covers the Sun, blocking its light and causing darkness in the area where the eclipse is visible."
                 },
                 {
-                  "question": "What is the heliosphere?",
+                  "question": "What is the best way to view a solar eclipse?",
                   "options": [
-                    "The Sun’s outer layer",
-                    "The area with solar wind",
-                    "The Sun's magnetic field",
-                    "A hot part of the Sun"
+                    "With naked eyes",
+                    "Through sunglasses",
+                    "With special eclipse glasses",
+                    "Through a regular telescope"
                   ],
-                  "answer": "The area with solar wind",
-                  "explanation": "The heliosphere is the big bubble around the Sun filled with solar wind and magnetic fields."
+                  "answer": "With special eclipse glasses",
+                  "explanation": "Special eclipse glasses are necessary to view a solar eclipse safely. Regular sunglasses do not protect the eyes from harmful solar rays."
                 },
                 {
-                  "question": "How long does the Sun take to spin at its poles?",
+                  "question": "What are Sunspots?",
                   "options": [
-                    "27 days",
-                    "30 days",
-                    "35 days",
-                    "40 days"
+                    "Bright spots on the Sun’s surface",
+                    "Cool, dark spots on the Sun’s surface",
+                    "Explosions on the Sun’s surface",
+                    "Rings around the Sun"
                   ],
-                  "answer": "35 days",
-                  "explanation": "The Sun spins slower at its poles, taking about 35 days to complete one turn."
+                  "answer": "Cool, dark spots on the Sun’s surface",
+                  "explanation": "Sunspots are cooler areas on the Sun’s surface that appear dark. They are caused by magnetic activity and are often linked to solar flares."
                 },
                 {
-                  "question": "What is the most common element in the Sun?",
+                  "question": "What could solar storms affect on Earth?",
                   "options": [
-                    "Helium",
-                    "Hydrogen",
-                    "Carbon",
-                    "Oxygen"
+                    "Ocean currents",
+                    "Weather patterns",
+                    "Satellites and power grids",
+                    "The Earth’s gravity"
                   ],
-                  "answer": "Hydrogen",
-                  "explanation": "The Sun is mostly made of hydrogen, which turns into helium through fusion."
+                  "answer": "Satellites and power grids",
+                  "explanation": "Solar storms, caused by disturbances on the Sun, can affect satellites, power grids, and communication systems on Earth due to their strong magnetic fields."
                 },
                 {
-                  "question": "What is the solar neutrino problem?",
+                  "question": "What will happen to the Sun in 5 billion years?",
                   "options": [
-                    "Too many neutrinos found",
-                    "Too few neutrinos found",
-                    "Wind affects neutrinos",
-                    "Neutrinos stopped being made"
+                    "It will become a supernova",
+                    "It will shrink into a white dwarf",
+                    "It will explode into a black hole",
+                    "It will turn into a red giant"
                   ],
-                  "answer": "Too few neutrinos found",
-                  "explanation": "Scientists found fewer solar neutrinos than expected, leading to the solar neutrino problem."
+                  "answer": "It will turn into a red giant",
+                  "explanation": "In about 5 billion years, the Sun will run out of hydrogen and expand into a red giant before eventually shedding its outer layers."
                 },
                 {
-                  "question": "What is a solar prominence?",
+                  "question": "How many times stronger is the Sun’s gravity compared to Earth’s?",
                   "options": [
-                    "A dark spot",
-                    "A bright gas loop",
-                    "A burst of wind",
-                    "A magnetic field"
+                    "5 times",
+                    "10 times",
+                    "20 times",
+                    "28 times"
                   ],
-                  "answer": "A bright gas loop",
-                  "explanation": "A solar prominence is a huge, bright loop of gas that comes out of the Sun."
+                  "answer": "28 times",
+                  "explanation": "The Sun's gravity is 28 times stronger than Earth's, due to its much greater mass."
                 },
                 {
-                  "question": "How does sunlight affect Earth’s climate?",
+                  "question": "Which space mission was launched by ISRO to study the Sun?",
                   "options": [
-                    "It doesn’t",
-                    "It changes all weather",
-                    "It affects long-term weather",
-                    "Only affects the poles"
+                    "Mars Orbiter Mission",
+                    "Chandrayaan-2",
+                    "Aditya-L1",
+                    "Voyager 1"
                   ],
-                  "answer": "It affects long-term weather",
-                  "explanation": "Sunlight plays a key role in shaping Earth’s climate over time."
+                  "answer": "Aditya-L1",
+                  "explanation": "ISRO’s Aditya-L1 mission is designed to study the Sun and its effect on space weather and Earth's climate."
                 },
                 {
-                  "question": "What is the chromosphere?",
+                  "question": "How do scientists study the Sun?",
                   "options": [
-                    "The Sun’s core",
-                    "Between the surface and outer layer",
-                    "Solar wind",
-                    "A spot of darkness"
+                    "By using microscopes",
+                    "Through ground-based telescopes only",
+                    "Using satellites and space telescopes",
+                    "By sending humans to the Sun"
                   ],
-                  "answer": "Between the surface and outer layer",
-                  "explanation": "The chromosphere is the layer of the Sun’s atmosphere just above the surface."
+                  "answer": "Using satellites and space telescopes",
+                  "explanation": "Scientists study the Sun using advanced space-based instruments such as satellites and space telescopes because they can observe the Sun from a safe distance."
                 },
                 {
-                  "question": "Why do the Sun’s magnetic poles flip?",
+                  "question": "What is the distance from Earth to the Sun?",
                   "options": [
-                    "Causes flares",
-                    "Makes energy stronger",
-                    "Happens during activity peaks",
-                    "Creates sunspots"
+                    "1 million km",
+                    "100 million km",
+                    "150 million km",
+                    "200 million km"
                   ],
-                  "answer": "Happens during activity peaks",
-                  "explanation": "The poles flip when the Sun’s activity is at its highest, called solar maximum."
+                  "answer": "150 million km",
+                  "explanation": "The average distance from Earth to the Sun is approximately 150 million kilometers, also known as 1 Astronomical Unit (AU)."
                 },
                 {
-                  "question": "What happens to sunlight when it reaches Earth?",
+                  "question": "How much of the Solar System’s mass does the Sun make up?",
                   "options": [
-                    "All absorbed",
-                    "All reflected",
-                    "Some absorbed, some reflected",
-                    "Heats the Earth’s core"
+                    "50%",
+                    "75%",
+                    "99.8%",
+                    "90%"
                   ],
-                  "answer": "Some absorbed, some reflected",
-                  "explanation": "Some sunlight warms the Earth, and some bounces back into space."
+                  "answer": "99.8%",
+                  "explanation": "The Sun makes up about 99.8% of the total mass of the Solar System, with most of the remaining mass found in the planets and other celestial objects."
                 }
               ]
             },
@@ -7474,114 +7487,114 @@
               "setNumber": 8,
               "questions": [
                 {
-                  "question": "How does the Sun make energy?",
+                  "question": "What is the age of the Sun?",
                   "options": [
-                    "Burning gas",
-                    "Combining hydrogen atoms",
-                    "Splitting atoms",
-                    "Wind energy"
+                    "4.6 million years",
+                    "4.6 billion years",
+                    "5.6 billion years",
+                    "3.6 billion years"
                   ],
-                  "answer": "Combining hydrogen atoms",
-                  "explanation": "The Sun makes energy by fusing hydrogen into helium in its core."
+                  "answer": "4.6 billion years",
+                  "explanation": "The Sun is approximately 4.6 billion years old, which is based on the age of the solar system."
                 },
                 {
-                  "question": "What is the Sun’s outermost layer?",
+                  "question": "What is the Sun's diameter compared to Earth?",
                   "options": [
-                    "The surface",
-                    "The corona",
-                    "The middle layer",
-                    "The gas zone"
+                    "50 times wider",
+                    "109 times wider",
+                    "150 times wider",
+                    "200 times wider"
                   ],
-                  "answer": "The corona",
-                  "explanation": "The corona is the hot, outer layer of the Sun’s atmosphere."
+                  "answer": "109 times wider",
+                  "explanation": "The Sun's diameter is about 109 times that of Earth, making it much larger than Earth."
                 },
                 {
-                  "question": "What controls the Sun’s 11-year activity cycle?",
+                  "question": "Which zone of the Sun is responsible for nuclear fusion?",
                   "options": [
-                    "Magnetic field",
-                    "Surface spins",
-                    "Core energy",
-                    "Solar wind"
+                    "Radiative Zone",
+                    "Convective Zone",
+                    "Photosphere",
+                    "Core"
                   ],
-                  "answer": "Magnetic field",
-                  "explanation": "The Sun’s magnetic field changes during its 11-year cycle, causing more or fewer sunspots."
+                  "answer": "Core",
+                  "explanation": "Nuclear fusion occurs in the Sun’s core, where hydrogen atoms fuse to form helium, releasing energy."
                 },
                 {
-                  "question": "What are solar flares?",
+                  "question": "In which zone does energy move slowly from the core?",
                   "options": [
-                    "Dark spots",
-                    "Energy bursts",
-                    "Wind events",
-                    "Star formations"
+                    "Convective Zone",
+                    "Chromosphere",
+                    "Radiative Zone",
+                    "Photosphere"
                   ],
-                  "answer": "Energy bursts",
-                  "explanation": "Solar flares are big bursts of energy and light from the Sun."
+                  "answer": "Radiative Zone",
+                  "explanation": "Energy produced in the core moves outward through the Radiative Zone, where it takes thousands of years to reach the outer layers."
                 },
                 {
-                  "question": "Where does energy move by radiation in the Sun?",
+                  "question": "What is the temperature of the Sun's surface?",
                   "options": [
-                    "The surface",
-                    "The radiation zone",
-                    "The gas flow zone",
-                    "The corona"
+                    "10,000°C",
+                    "15,000°C",
+                    "5,500°C",
+                    "7,000°C"
                   ],
-                  "answer": "The radiation zone",
-                  "explanation": "Energy travels through the Sun’s radiation zone by light waves."
+                  "answer": "5,500°C",
+                  "explanation": "The surface of the Sun, known as the photosphere, has a temperature of approximately 5,500°C."
                 },
                 {
-                  "question": "What causes auroras on Earth?",
+                  "question": "Which layer of the Sun is responsible for the Sun's visible light?",
                   "options": [
-                    "Solar wind meets Earth’s magnetic field",
-                    "Heat from the Sun",
-                    "Energy from neutrinos",
-                    "Sunspot light"
+                    "Radiative Zone",
+                    "Convective Zone",
+                    "Photosphere",
+                    "Corona"
                   ],
-                  "answer": "Solar wind meets Earth’s magnetic field",
-                  "explanation": "Auroras happen when solar wind particles hit Earth’s magnetic field."
+                  "answer": "Photosphere",
+                  "explanation": "The Photosphere is the Sun's visible surface, from which the sunlight we see is emitted."
                 },
                 {
-                  "question": "What will happen to the Sun after it becomes a red giant?",
+                  "question": "What is the temperature of the Sun's corona?",
                   "options": [
-                    "Become a black hole",
-                    "Explode as a supernova",
-                    "Shrink to a white dwarf",
-                    "Combine with another star"
+                    "5,500°C",
+                    "10,000°C",
+                    "15 million°C",
+                    "More than 1 million°C"
                   ],
-                  "answer": "Shrink to a white dwarf",
-                  "explanation": "The Sun will lose its outer layers and shrink into a dense white dwarf."
+                  "answer": "More than 1 million°C",
+                  "explanation": "The Sun's corona, which is the outermost layer, has a temperature of more than 1 million°C, much hotter than the surface."
                 },
                 {
-                  "question": "What is the solar constant?",
+                  "question": "What is the Sun’s gravity compared to Earth’s?",
                   "options": [
-                    "The Sun’s size",
-                    "Energy Earth gets from the Sun",
-                    "The length of the cycle",
-                    "Distance to Earth"
+                    "18 times stronger",
+                    "28 times stronger",
+                    "35 times stronger",
+                    "40 times stronger"
                   ],
-                  "answer": "Energy Earth gets from the Sun",
-                  "explanation": "The solar constant is the amount of sunlight reaching Earth."
+                  "answer": "28 times stronger",
+                  "explanation": "The Sun's gravity is 28 times stronger than Earth's due to its much greater mass."
                 },
                 {
-                  "question": "What causes sunspots?",
+                  "question": "What does nuclear fusion in the Sun produce?",
                   "options": [
-                    "Cooler gas areas",
-                    "Magnetic field problems",
-                    "Wind patterns",
-                    "Heat waves"
+                    "Carbon and oxygen",
+                    "Light and heat",
+                    "Hydrogen and helium",
+                    "Water and energy"
                   ],
-                  "answer": "Magnetic field problems",
-                  "explanation": "Sunspots are cooler areas caused by changes in the Sun’s magnetic field."
+                  "answer": "Light and heat",
+                  "explanation": "The process of nuclear fusion in the Sun produces light and heat, which we feel as sunlight."
                 },
                 {
-                  "question": "What type of light does the Sun emit most?",
+                  "question": "What is the process that occurs in the Sun’s core?",
                   "options": [
-                    "Infrared",
-                    "Visible light",
-                    "Ultraviolet",
-                    "X-rays"
+                    "Combustion",
+                    "Photosynthesis",
+                    "Nuclear fusion",
+                    "Evaporation"
                   ],
-                  "answer": "Visible light",
-                  "explanation": "The Sun gives off the most light in the visible range, which we see as sunlight."
+                  "answer": "Nuclear fusion",
+                  "explanation": "Nuclear fusion is the process in the Sun’s core where hydrogen atoms fuse to form helium, releasing enormous amounts of energy in the form of light and heat."
                 }
               ]
             },
@@ -7589,114 +7602,114 @@
               "setNumber": 9,
               "questions": [
                 {
-                  "question": "What is the temperature of the Sun's core?",
+                  "question": "What does the Sun support on Earth?",
                   "options": [
-                    "1 million °C",
-                    "5,000 °C",
-                    "15 million °C",
-                    "10,000 °C"
+                    "Air quality",
+                    "Life through light and heat",
+                    "Water cycle",
+                    "Ocean currents"
                   ],
-                  "answer": "15 million °C",
-                  "explanation": "The Sun's core is super hot, reaching about 15 million °C, where energy is made by nuclear fusion."
+                  "answer": "Life through light and heat",
+                  "explanation": "The Sun is essential for supporting life on Earth by providing light and heat, which are necessary for various life processes."
                 },
                 {
-                  "question": "How long does sunlight take to reach Earth?",
+                  "question": "How do plants benefit from the Sun?",
                   "options": [
-                    "1 second",
-                    "8 minutes",
-                    "1 hour",
-                    "24 hours"
+                    "They get energy for photosynthesis",
+                    "They grow faster",
+                    "They need the heat to survive",
+                    "They use sunlight for water absorption"
                   ],
-                  "answer": "8 minutes",
-                  "explanation": "It takes about 8 minutes for sunlight to travel 150 million kilometers to Earth!"
+                  "answer": "They get energy for photosynthesis",
+                  "explanation": "Plants use sunlight to produce their food through photosynthesis, a process that requires light energy."
                 },
                 {
-                  "question": "What is solar wind?",
+                  "question": "What festival celebrates the Sun in India?",
                   "options": [
-                    "Wind from Earth's atmosphere",
-                    "Charged particles from the Sun",
-                    "A type of radiation",
-                    "The Sun's heat"
+                    "Diwali",
+                    "Holi",
+                    "Makar Sankranti",
+                    "Raksha Bandhan"
                   ],
-                  "answer": "Charged particles from the Sun",
-                  "explanation": "Solar wind is a stream of tiny charged particles that flow out from the Sun into space."
-                },
-                {
-                  "question": "What are prominences on the Sun?",
-                  "options": [
-                    "Bright plasma loops",
-                    "Dark spots on the Sun",
-                    "Sudden energy bursts",
-                    "Regions of magnetic activity"
-                  ],
-                  "answer": "Bright plasma loops",
-                  "explanation": "Prominences are glowing loops of gas on the Sun caused by its magnetic energy."
-                },
-                {
-                  "question": "What effect do solar storms have on Earth?",
-                  "options": [
-                    "Hotter temperatures",
-                    "Communication disruptions",
-                    "Change in weather",
-                    "Earthquakes"
-                  ],
-                  "answer": "Communication disruptions",
-                  "explanation": "Solar storms can mess with satellites and power grids, causing communication problems on Earth."
-                },
-                {
-                  "question": "Which solar event releases lots of plasma and magnetic energy?",
-                  "options": [
-                    "Solar flare",
-                    "Coronal mass ejection (CME)",
-                    "Sunspot",
-                    "Prominence"
-                  ],
-                  "answer": "Coronal mass ejection (CME)",
-                  "explanation": "A CME is when the Sun throws out huge amounts of plasma and magnetic energy into space."
-                },
-                {
-                  "question": "What is the temperature of the Sun's surface (photosphere)?",
-                  "options": [
-                    "5,500 °C",
-                    "10,000 °C",
-                    "15 million °C",
-                    "1,000 °C"
-                  ],
-                  "answer": "5,500 °C",
-                  "explanation": "The Sun’s surface, called the photosphere, is about 5,500 °C."
-                },
-                {
-                  "question": "Which element is most common in the Sun's core?",
-                  "options": [
-                    "Helium",
-                    "Oxygen",
-                    "Hydrogen",
-                    "Carbon"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "The Sun's core is mostly hydrogen, which turns into helium to release energy."
+                  "answer": "Makar Sankranti",
+                  "explanation": "Makar Sankranti is a popular festival in India that celebrates the Sun’s journey towards the northern hemisphere."
                 },
                 {
                   "question": "What happens during a solar eclipse?",
                   "options": [
-                    "Moon blocks the Sun",
-                    "Earth blocks sunlight from the Moon",
-                    "Sun's magnetic poles flip",
-                    "Sun gets dim"
+                    "The Sun is blocked by Earth",
+                    "The Earth blocks the Moon",
+                    "The Moon comes between the Sun and Earth",
+                    "The Sun and Moon are at their closest point"
                   ],
-                  "answer": "Moon blocks the Sun",
-                  "explanation": "In a solar eclipse, the Moon moves in front of the Sun, blocking its light from reaching Earth."
+                  "answer": "The Moon comes between the Sun and Earth",
+                  "explanation": "A solar eclipse occurs when the Moon moves between the Earth and the Sun, casting a shadow on the Earth."
                 },
                 {
-                  "question": "What is the name of the Sun's energetic particle stream?",
+                  "question": "How long does it take for sunlight to reach Earth?",
                   "options": [
-                    "Solar flare",
-                    "Solar wind",
-                    "Sunspot",
-                    "CME"
+                    "10 seconds",
+                    "3 minutes",
+                    "8 minutes",
+                    "1 hour"
                   ],
-                  "answer": "Solar wind",
-                  "explanation": "The solar wind is a flow of charged particles that the Sun sends out into space."
+                  "answer": "8 minutes",
+                  "explanation": "Sunlight takes approximately 8 minutes and 20 seconds to travel from the Sun to Earth."
+                },
+                {
+                  "question": "What is an annular solar eclipse?",
+                  "options": [
+                    "When the Moon covers the Sun completely",
+                    "When the Sun's light is blocked for a few seconds",
+                    "When the Moon is too far from the Earth to cover the Sun completely",
+                    "A solar flare event"
+                  ],
+                  "answer": "When the Moon is too far from the Earth to cover the Sun completely",
+                  "explanation": "An annular solar eclipse occurs when the Moon is farther from the Earth and appears smaller, leaving a ring of the Sun visible."
+                },
+                {
+                  "question": "What can solar storms affect?",
+                  "options": [
+                    "Earth’s temperature",
+                    "Air pressure",
+                    "Satellites and power grids",
+                    "Ocean currents"
+                  ],
+                  "answer": "Satellites and power grids",
+                  "explanation": "Solar storms can interfere with satellite communications, GPS systems, and power grids by disrupting electromagnetic fields."
+                },
+                {
+                  "question": "How many Earths can fit inside the Sun?",
+                  "options": [
+                    "100,000",
+                    "500,000",
+                    "1 million",
+                    "10 million"
+                  ],
+                  "answer": "1 million",
+                  "explanation": "The Sun’s volume is so large that approximately 1 million Earths could fit inside it."
+                },
+                {
+                  "question": "What is the Sun’s role in weather?",
+                  "options": [
+                    "It causes droughts",
+                    "It keeps the atmosphere cold",
+                    "It creates wind, clouds, and rain",
+                    "It has no effect on weather"
+                  ],
+                  "answer": "It creates wind, clouds, and rain",
+                  "explanation": "The Sun's heat drives weather patterns, creating winds, forming clouds, and enabling the water cycle."
+                },
+                {
+                  "question": "What is the Sun’s role in keeping planets in orbit?",
+                  "options": [
+                    "Through its heat",
+                    "Through its magnetic field",
+                    "Through its gravity",
+                    "Through solar winds"
+                  ],
+                  "answer": "Through its gravity",
+                  "explanation": "The Sun's gravity is responsible for keeping the planets in orbit around it, influencing the motion of the entire solar system."
                 }
               ]
             },
@@ -7704,1149 +7717,114 @@
               "setNumber": 10,
               "questions": [
                 {
-                  "question": "How old is the Sun?",
+                  "question": "What will the Sun become in 5 billion years?",
                   "options": [
-                    "4.6 billion years",
-                    "10 billion years",
-                    "1 billion years",
-                    "100 million years"
+                    "A supernova",
+                    "A black hole",
+                    "A red giant",
+                    "A white dwarf"
                   ],
-                  "answer": "4.6 billion years",
-                  "explanation": "The Sun has been shining for about 4.6 billion years!"
+                  "answer": "A red giant",
+                  "explanation": "In about 5 billion years, the Sun will expand into a red giant as it runs out of hydrogen fuel, eventually shedding its outer layers."
                 },
                 {
-                  "question": "What type of star is the Sun?",
+                  "question": "What layer of the Sun is seen during a solar eclipse?",
                   "options": [
-                    "Red giant",
-                    "White dwarf",
-                    "Yellow dwarf",
-                    "Blue giant"
+                    "Radiative Zone",
+                    "Convective Zone",
+                    "Photosphere",
+                    "Corona"
                   ],
-                  "answer": "Yellow dwarf",
-                  "explanation": "The Sun is a yellow dwarf, a medium-sized star that gives us light and warmth."
+                  "answer": "Corona",
+                  "explanation": "During a solar eclipse, the Sun's corona, the outermost layer, is visible as a glowing halo around the darkened Sun."
                 },
                 {
-                  "question": "What is a sunspot?",
+                  "question": "What will happen to the Sun after it becomes a red giant?",
                   "options": [
-                    "Cool, dark area on the Sun",
-                    "A solar flare",
-                    "A planet orbiting the Sun",
-                    "A small star near the Sun"
+                    "It will collapse into a white dwarf",
+                    "It will explode",
+                    "It will turn into a supernova",
+                    "It will remain the same"
                   ],
-                  "answer": "Cool, dark area on the Sun",
-                  "explanation": "Sunspots are cooler, darker spots on the Sun caused by its magnetic energy."
+                  "answer": "It will collapse into a white dwarf",
+                  "explanation": "After the Sun becomes a red giant, it will shed its outer layers and eventually collapse into a white dwarf."
                 },
                 {
-                  "question": "What happens to the Sun when it runs out of fuel?",
+                  "question": "What is the distance between Earth and the Sun?",
                   "options": [
-                    "It explodes",
-                    "It shrinks into a white dwarf",
-                    "It becomes a black hole",
-                    "It merges with other stars"
+                    "50 million km",
+                    "150 million km",
+                    "250 million km",
+                    "300 million km"
                   ],
-                  "answer": "It shrinks into a white dwarf",
-                  "explanation": "When the Sun uses up its fuel, it will become a red giant and then shrink into a white dwarf."
+                  "answer": "150 million km",
+                  "explanation": "The average distance between Earth and the Sun is approximately 150 million kilometers."
                 },
                 {
-                  "question": "What percentage of the solar system’s mass does the Sun have?",
+                  "question": "What is the Sun’s mass in comparison to the Solar System?",
                   "options": [
                     "50%",
                     "75%",
                     "99.8%",
-                    "10%"
+                    "100%"
                   ],
                   "answer": "99.8%",
-                  "explanation": "The Sun holds 99.8% of all the mass in the solar system. It's super heavy!"
+                  "explanation": "The Sun contains 99.8% of the total mass of the Solar System, making it the dominant gravitational force in the system."
                 },
                 {
-                  "question": "What is the solar cycle?",
+                  "question": "How do scientists study solar storms?",
                   "options": [
-                    "Time for the Sun to rotate",
-                    "11-year activity cycle",
-                    "The Sun's orbit in the galaxy",
-                    "Fusion process in the core"
+                    "By using microscopes",
+                    "By sending humans to the Sun",
+                    "By using telescopes and satellites",
+                    "By observing from the Earth"
                   ],
-                  "answer": "11-year activity cycle",
-                  "explanation": "The solar cycle is an 11-year period when the Sun’s activity increases and decreases."
+                  "answer": "By using telescopes and satellites",
+                  "explanation": "Scientists use specialized telescopes and satellites to observe and study solar storms, which help monitor solar activity."
                 },
                 {
-                  "question": "What is the Sun's main role for Earth?",
+                  "question": "What temperature is found in the Sun's core?",
                   "options": [
-                    "Creating planets",
-                    "Providing heat and light",
-                    "Generating black holes",
-                    "Producing stars"
+                    "10,000°C",
+                    "100,000°C",
+                    "15 million°C",
+                    "100 million°C"
                   ],
-                  "answer": "Providing heat and light",
-                  "explanation": "The Sun gives us heat and light, which makes life on Earth possible."
+                  "answer": "15 million°C",
+                  "explanation": "The Sun’s core has a temperature of about 15 million°C, where nuclear fusion takes place."
                 },
                 {
-                  "question": "What happens during a coronal mass ejection?",
+                  "question": "What is the Sun's temperature at its surface?",
                   "options": [
-                    "Solar flares release energy",
-                    "Sun expels plasma",
-                    "Sun's core cools",
-                    "Sun's surface heats up"
+                    "10,000°C",
+                    "7,000°C",
+                    "5,500°C",
+                    "8,000°C"
                   ],
-                  "answer": "Sun expels plasma",
-                  "explanation": "In a CME, the Sun throws out large amounts of plasma and magnetic energy."
+                  "answer": "5,500°C",
+                  "explanation": "The Sun’s surface temperature, at the photosphere, is approximately 5,500°C."
                 },
                 {
-                  "question": "Which layer of the Sun do we see from Earth?",
-                  "options": [
-                    "Photosphere",
-                    "Corona",
-                    "Core",
-                    "Chromosphere"
-                  ],
-                  "answer": "Photosphere",
-                  "explanation": "The photosphere is the visible layer of the Sun we see from Earth."
-                },
-                {
-                  "question": "What does the Sun give us that supports life on Earth?",
-                  "options": [
-                    "Gravity",
-                    "Water",
-                    "Heat and light",
-                    "Magnetic fields"
-                  ],
-                  "answer": "Heat and light",
-                  "explanation": "The Sun’s heat and light are essential for life on Earth and for growing plants."
-                }
-              ]
-            },
-            {
-              "setNumber": 11,
-              "questions": [
-                {
-                  "question": "What type of star is the Sun?",
-                  "options": [
-                    "Red giant",
-                    "Yellow star (G-type)",
-                    "White dwarf",
-                    "Neutron star"
-                  ],
-                  "answer": "Yellow star (G-type)",
-                  "explanation": "The Sun is a G-type main-sequence star, also called a yellow dwarf."
-                },
-                {
-                  "question": "How old is the Sun?",
-                  "options": [
-                    "1 billion years",
-                    "4.6 billion years",
-                    "10 billion years",
-                    "13.8 billion years"
-                  ],
-                  "answer": "4.6 billion years",
-                  "explanation": "The Sun is about 4.6 billion years old."
-                },
-                {
-                  "question": "How does the Sun produce energy?",
-                  "options": [
-                    "Fission",
-                    "Fusion",
-                    "Radiation",
-                    "Conduction"
-                  ],
-                  "answer": "Fusion",
-                  "explanation": "The Sun's energy comes from nuclear fusion, where hydrogen turns into helium in its core."
-                },
-                {
-                  "question": "What is the Sun mostly made of?",
-                  "options": [
-                    "Helium",
-                    "Oxygen",
-                    "Carbon",
-                    "Hydrogen"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "The Sun is mostly made of hydrogen, which fuels its energy."
-                },
-                {
-                  "question": "What keeps planets moving around the Sun?",
-                  "options": [
-                    "Its light",
-                    "Heat",
-                    "Gravity",
-                    "Its size"
-                  ],
-                  "answer": "Gravity",
-                  "explanation": "The Sun's gravity keeps all planets in orbit."
-                },
-                {
-                  "question": "What part of the Sun can we see?",
+                  "question": "What layer of the Sun creates the Sun’s heat?",
                   "options": [
                     "Core",
-                    "Radiative zone",
-                    "Photosphere",
-                    "Convective zone"
-                  ],
-                  "answer": "Photosphere",
-                  "explanation": "The photosphere is the Sun's visible layer that emits light."
-                },
-                {
-                  "question": "What happens during a solar flare?",
-                  "options": [
-                    "Eclipse",
-                    "Solar wind",
-                    "Coronal mass ejection",
-                    "Aurora"
-                  ],
-                  "answer": "Coronal mass ejection",
-                  "explanation": "A solar flare can release plasma and magnetic fields into space."
-                },
-                {
-                  "question": "How does the Sun affect Earth's weather?",
-                  "options": [
-                    "None",
-                    "Provides warmth",
-                    "Controls humidity",
-                    "Creates wind"
-                  ],
-                  "answer": "Provides warmth",
-                  "explanation": "The Sun provides heat and light, influencing Earth's weather."
-                },
-                {
-                  "question": "What are sunspots?",
-                  "options": [
-                    "Hot areas",
-                    "Cooler areas",
-                    "Solar flares",
-                    "Dark spots on the Moon"
-                  ],
-                  "answer": "Cooler areas",
-                  "explanation": "Sunspots are cooler regions on the Sun's surface, appearing dark."
-                },
-                {
-                  "question": "How does the Sun influence Earth's climate?",
-                  "options": [
-                    "By spinning",
-                    "With solar wind",
-                    "By giving light and heat",
-                    "By creating gravity"
-                  ],
-                  "answer": "By giving light and heat",
-                  "explanation": "The Sun provides the light and heat that support Earth's climate and life."
-                }
-              ]
-            },
-            {
-              "setNumber": 12,
-              "questions": [
-                {
-                  "question": "What is the Sun's core mostly made of?",
-                  "options": [
-                    "Helium",
-                    "Hydrogen",
-                    "Carbon",
-                    "Iron"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "The Sun's core is mostly hydrogen, which fuels its energy."
-                },
-                {
-                  "question": "What layer is above the Sun's photosphere?",
-                  "options": [
                     "Chromosphere",
-                    "Core",
-                    "Radiative zone",
-                    "Convective zone"
-                  ],
-                  "answer": "Chromosphere",
-                  "explanation": "The chromosphere, seen as a red glow during eclipses, lies above the photosphere."
-                },
-                {
-                  "question": "What is the Sun's core temperature?",
-                  "options": [
-                    "15 million °C",
-                    "5,500 °C",
-                    "1 million °C",
-                    "100,000 °C"
-                  ],
-                  "answer": "15 million °C",
-                  "explanation": "The Sun's core reaches about 15 million degrees Celsius, where nuclear fusion occurs."
-                },
-                {
-                  "question": "What kind of radiation does the Sun emit?",
-                  "options": [
-                    "X-rays",
-                    "Visible light",
-                    "Ultraviolet",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "The Sun emits X-rays, ultraviolet, and visible light."
-                },
-                {
-                  "question": "What is the solar wind?",
-                  "options": [
-                    "Winds on the Sun",
-                    "Charged particles from the Sun",
-                    "Solar flares",
-                    "Energy from the core"
-                  ],
-                  "answer": "Charged particles from the Sun",
-                  "explanation": "The solar wind is a stream of charged particles flowing from the Sun into space."
-                },
-                {
-                  "question": "What can solar flares cause?",
-                  "options": [
-                    "Eclipses",
-                    "Wind",
-                    "Communication problems",
-                    "Cooling"
-                  ],
-                  "answer": "Communication problems",
-                  "explanation": "Solar flares can disrupt satellites and communication systems on Earth."
-                },
-                {
-                  "question": "What is the Sun's surface temperature?",
-                  "options": [
-                    "15 million °C",
-                    "5,500 °C",
-                    "1,000 °C",
-                    "100 °C"
-                  ],
-                  "answer": "5,500 °C",
-                  "explanation": "The Sun's surface temperature is about 5,500 degrees Celsius."
-                },
-                {
-                  "question": "What is the Sun's outermost layer?",
-                  "options": [
-                    "Core",
-                    "Photosphere",
-                    "Corona",
-                    "Chromosphere"
-                  ],
-                  "answer": "Corona",
-                  "explanation": "The corona is the outermost layer of the Sun, seen during a solar eclipse."
-                },
-                {
-                  "question": "What is a solar prominence?",
-                  "options": [
-                    "A solar flare",
-                    "A large bright loop",
-                    "A sunspot",
-                    "A solar wind particle"
-                  ],
-                  "answer": "A large bright loop",
-                  "explanation": "A solar prominence is a bright, loop-shaped feature extending from the Sun."
-                },
-                {
-                  "question": "How does the Sun help plants?",
-                  "options": [
-                    "Gives heat",
-                    "Makes water",
-                    "Provides light",
-                    "Creates air"
-                  ],
-                  "answer": "Provides light",
-                  "explanation": "The Sun provides the light energy plants need for photosynthesis."
-                }
-              ]
-            },
-            {
-              "setNumber": 13,
-              "questions": [
-                {
-                  "question": "What does the Sun's gravity do to Earth?",
-                  "options": [
-                    "Keeps Earth in orbit",
-                    "Causes seasons",
-                    "Creates tides",
-                    "Has no effect"
-                  ],
-                  "answer": "Keeps Earth in orbit",
-                  "explanation": "The Sun's gravity keeps Earth and other planets moving in their orbits."
-                },
-                {
-                  "question": "What creates the Sun's energy?",
-                  "options": [
-                    "Chemical reactions",
-                    "Nuclear fusion",
-                    "Fossil fuels",
-                    "Wind"
-                  ],
-                  "answer": "Nuclear fusion",
-                  "explanation": "The Sun's energy comes from nuclear fusion in its core, where hydrogen turns into helium."
-                },
-                {
-                  "question": "What will happen to the Sun in about 5 billion years?",
-                  "options": [
-                    "It will explode",
-                    "It will become a red giant",
-                    "It will turn into a black hole",
-                    "It will stay the same"
-                  ],
-                  "answer": "It will become a red giant",
-                  "explanation": "The Sun will grow into a red giant as it uses up its hydrogen fuel."
-                },
-                {
-                  "question": "What is solar irradiance?",
-                  "options": [
-                    "Solar energy Earth gets",
-                    "Energy in the Sun's core",
-                    "The Sun's temperature",
-                    "Solar wind speed"
-                  ],
-                  "answer": "Solar energy Earth gets",
-                  "explanation": "Solar irradiance is the amount of solar energy that reaches Earth's surface."
-                },
-                {
-                  "question": "What is a solar eclipse?",
-                  "options": [
-                    "Sun disappears",
-                    "Moon blocks the Sun",
-                    "Earth blocks the Sun",
-                    "Sun gets dim"
-                  ],
-                  "answer": "Moon blocks the Sun",
-                  "explanation": "A solar eclipse happens when the Moon blocks sunlight from reaching Earth."
-                },
-                {
-                  "question": "What are solar cycles?",
-                  "options": [
-                    "Show solar flares",
-                    "Affect Earth's climate",
-                    "Predict sunspots",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "Solar cycles show sunspots, solar flares, and affect Earth's climate."
-                },
-                {
-                  "question": "What is the solar constant?",
-                  "options": [
-                    "Energy the Sun emits",
-                    "Distance to the Sun",
-                    "Solar wind speed",
-                    "Energy Earth gets"
-                  ],
-                  "answer": "Energy Earth gets",
-                  "explanation": "The solar constant measures the average solar energy Earth receives at its atmosphere."
-                },
-                {
-                  "question": "How do sunspots affect the Sun's energy?",
-                  "options": [
-                    "Increase it",
-                    "Decrease it",
-                    "No effect",
-                    "Stop it"
-                  ],
-                  "answer": "Decrease it",
-                  "explanation": "Sunspots are cooler areas on the Sun's surface, lowering its energy output slightly."
-                },
-                {
-                  "question": "What do solar panels do?",
-                  "options": [
-                    "Collect sunlight",
-                    "Absorb heat",
-                    "Create electricity",
-                    "Protect nature"
-                  ],
-                  "answer": "Create electricity",
-                  "explanation": "Solar panels turn sunlight into electricity using special cells."
-                },
-                {
-                  "question": "How does the Sun help the water cycle?",
-                  "options": [
-                    "Creates water",
-                    "Heats for evaporation",
-                    "Controls rain",
-                    "Makes rivers"
-                  ],
-                  "answer": "Heats for evaporation",
-                  "explanation": "The Sun's heat causes water to evaporate, starting the water cycle."
-                }
-              ]
-            },
-            {
-              "setNumber": 14,
-              "questions": [
-                {
-                  "question": "What does the Sun provide for photosynthesis?",
-                  "options": [
-                    "Oxygen",
-                    "Carbon dioxide",
-                    "Light energy",
-                    "Nutrients"
-                  ],
-                  "answer": "Light energy",
-                  "explanation": "The Sun gives plants the light energy they need for photosynthesis."
-                },
-                {
-                  "question": "What is a coronal hole?",
-                  "options": [
-                    "Hole in the Sun",
-                    "Low activity area",
-                    "Sunspot",
-                    "Solar flare"
-                  ],
-                  "answer": "Low activity area",
-                  "explanation": "Coronal holes are places in the Sun's outer layer where magnetic fields open up."
-                },
-                {
-                  "question": "What is the Sun's outer layer called?",
-                  "options": [
-                    "Photosphere",
-                    "Chromosphere",
-                    "Corona",
-                    "Core"
-                  ],
-                  "answer": "Corona",
-                  "explanation": "The corona is the Sun's outermost layer, visible during solar eclipses."
-                },
-                {
-                  "question": "What do scientists use to study the Sun?",
-                  "options": [
-                    "Telescopes",
-                    "Satellites",
-                    "Space probes",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Scientists use tools like telescopes, satellites, and space probes to study the Sun."
-                },
-                {
-                  "question": "How long does sunlight take to reach Earth?",
-                  "options": [
-                    "8 minutes",
-                    "10 minutes",
-                    "15 minutes",
-                    "20 minutes"
-                  ],
-                  "answer": "8 minutes",
-                  "explanation": "Sunlight takes about 8 minutes to travel 150 million kilometers to Earth."
-                },
-                {
-                  "question": "What is solar radiation?",
-                  "options": [
-                    "Energy from solar panels",
-                    "Energy from the Sun",
-                    "Earth's energy",
-                    "Reactor energy"
-                  ],
-                  "answer": "Energy from the Sun",
-                  "explanation": "Solar radiation is energy from the Sun, including light and heat."
-                },
-                {
-                  "question": "What can solar energy do?",
-                  "options": [
-                    "Heat things",
-                    "Generate electricity",
-                    "Power transport",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Solar energy is used for heating, electricity, and even transportation."
-                },
-                {
-                  "question": "What are solar flares?",
-                  "options": [
-                    "Big energy bursts",
-                    "Small sunspots",
-                    "Mass ejections",
-                    "Wind bursts"
-                  ],
-                  "answer": "Big energy bursts",
-                  "explanation": "Solar flares are big bursts of energy released from the Sun."
-                },
-                {
-                  "question": "How does the Sun affect climate change?",
-                  "options": [
-                    "No effect",
-                    "Contributes to it",
-                    "Cools Earth",
-                    "Always constant"
-                  ],
-                  "answer": "Contributes to it",
-                  "explanation": "Changes in the Sun's energy can influence Earth's climate and weather."
-                },
-                {
-                  "question": "What do solar observatories study?",
-                  "options": [
-                    "Stars",
-                    "Planets",
-                    "The Sun",
-                    "Galaxies"
-                  ],
-                  "answer": "The Sun",
-                  "explanation": "Solar observatories are special tools to study the Sun and its activity."
-                }
-              ]
-            },
-            {
-              "setNumber": 15,
-              "questions": [
-                {
-                  "question": "Why does the Sun shine?",
-                  "options": [
-                    "Nuclear fusion",
-                    "Chemical reactions",
-                    "Electrical reactions",
-                    "Fossil fuels"
-                  ],
-                  "answer": "Nuclear fusion",
-                  "explanation": "The Sun shines because of nuclear fusion, where hydrogen atoms turn into helium and release a lot of energy."
-                },
-                {
-                  "question": "What is the main gas the Sun uses to make energy?",
-                  "options": [
-                    "Hydrogen",
-                    "Helium",
-                    "Carbon",
-                    "Oxygen"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "The Sun uses hydrogen as the main fuel in its core to produce energy."
-                },
-                {
-                  "question": "How does the Sun affect the weather on Earth?",
-                  "options": [
-                    "No effect",
-                    "Stabilizes weather",
-                    "Changes weather patterns",
-                    "Stops weather events"
-                  ],
-                  "answer": "Changes weather patterns",
-                  "explanation": "The Sun affects the weather by heating the air and water, which causes changes in wind and rain."
-                },
-                {
-                  "question": "What is the Sun's role in the solar system?",
-                  "options": [
-                    "Provides light",
-                    "Gives warmth",
-                    "Controls orbits",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "The Sun gives light, warmth, and keeps the planets in their orbits with its gravity."
-                },
-                {
-                  "question": "What happens during a total solar eclipse?",
-                  "options": [
-                    "Moon blocks the Sun",
-                    "Sun disappears",
-                    "Earth blocks the Sun",
-                    "Sun shines brighter"
-                  ],
-                  "answer": "Moon blocks the Sun",
-                  "explanation": "A total solar eclipse happens when the Moon completely covers the Sun."
-                },
-                {
-                  "question": "What is the process of turning sunlight into electricity called?",
-                  "options": [
-                    "Photosynthesis",
-                    "Solar harvesting",
-                    "Photovoltaics",
-                    "Energy absorption"
-                  ],
-                  "answer": "Photovoltaics",
-                  "explanation": "Photovoltaics is the process where solar panels turn sunlight into electricity."
-                },
-                {
-                  "question": "What is a solar minimum?",
-                  "options": [
-                    "Lots of solar activity",
-                    "Low solar activity",
-                    "A solar flare",
-                    "A sunspot"
-                  ],
-                  "answer": "Low solar activity",
-                  "explanation": "A solar minimum is a time when the Sun is less active, with fewer sunspots and flares."
-                },
-                {
-                  "question": "What does the Sun's magnetic field create?",
-                  "options": [
-                    "Sunspots",
-                    "Solar flares",
-                    "Auroras",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "The Sun's magnetic field causes sunspots, solar flares, and even auroras on Earth."
-                },
-                {
-                  "question": "Why does the Sun look yellow from Earth?",
-                  "options": [
-                    "Air scatters colors",
-                    "The Sun is yellow",
-                    "It emits yellow light",
-                    "Earth's position"
-                  ],
-                  "answer": "Air scatters colors",
-                  "explanation": "The Sun looks yellow because Earth's atmosphere scatters other colors, especially blue light."
-                },
-                {
-                  "question": "What is a solar nebula?",
-                  "options": [
-                    "A type of star",
-                    "The Sun's atmosphere",
-                    "A gas cloud where the Sun formed",
-                    "A sunspot"
-                  ],
-                  "answer": "A gas cloud where the Sun formed",
-                  "explanation": "A solar nebula is the big cloud of gas and dust that formed the Sun and the solar system."
-                }
-              ]
-            },
-            {
-              "setNumber": 16,
-              "questions": [
-                {
-                  "question": "How does the Sun affect ocean currents?",
-                  "options": [
-                    "No effect",
-                    "Changes temperature and wind",
-                    "Stops currents",
-                    "Creates tides"
-                  ],
-                  "answer": "Changes temperature and wind",
-                  "explanation": "The Sun affects ocean currents by heating water and changing wind patterns, which move the water."
-                },
-                {
-                  "question": "What happens when sunlight passes through raindrops?",
-                  "options": [
-                    "Rainbow",
-                    "Aurora",
-                    "Solar flare",
-                    "Solar eclipse"
-                  ],
-                  "answer": "Rainbow",
-                  "explanation": "When sunlight passes through raindrops, it bends and makes a rainbow of colors."
-                },
-                {
-                  "question": "Why is the Sun important for life on Earth?",
-                  "options": [
-                    "Light",
-                    "Heat",
-                    "Photosynthesis",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "The Sun gives light, heat, and helps plants make food through photosynthesis."
-                },
-                {
-                  "question": "What are solar panels made of?",
-                  "options": [
-                    "Glass",
-                    "Silicon",
-                    "Plastic",
-                    "Copper"
-                  ],
-                  "answer": "Silicon",
-                  "explanation": "Solar panels use silicon in their cells to capture sunlight and make electricity."
-                },
-                {
-                  "question": "What is the term for the Sun's activity cycle?",
-                  "options": [
-                    "Solar cycle",
-                    "Solar flare",
-                    "Solar minimum",
-                    "Solar maximum"
-                  ],
-                  "answer": "Solar cycle",
-                  "explanation": "The solar cycle is the pattern of the Sun's activity, which increases and decreases every 11 years."
-                },
-                {
-                  "question": "How does the Sun's energy reach Earth?",
-                  "options": [
-                    "As heat",
-                    "As light",
-                    "As sound",
-                    "As electromagnetic radiation"
-                  ],
-                  "answer": "As electromagnetic radiation",
-                  "explanation": "The Sun's energy travels to Earth as electromagnetic waves, like light and heat."
-                },
-                {
-                  "question": "What is it called when plants turn sunlight into food?",
-                  "options": [
-                    "Photosynthesis",
-                    "Respiration",
-                    "Transpiration",
-                    "Metabolism"
-                  ],
-                  "answer": "Photosynthesis",
-                  "explanation": "Photosynthesis is how plants use sunlight to make food and oxygen."
-                },
-                {
-                  "question": "What happens to sunlight when it hits Earth?",
-                  "options": [
-                    "All absorbed",
-                    "Some reflected, some absorbed",
-                    "Causes weather changes",
-                    "Creates light"
-                  ],
-                  "answer": "Some reflected, some absorbed",
-                  "explanation": "Some sunlight reflects off Earth's surface, while the rest is absorbed to heat the planet."
-                },
-                {
-                  "question": "What are solar thermal systems used for?",
-                  "options": [
-                    "Electricity",
-                    "Heating",
-                    "Storing solar energy",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Solar thermal systems make electricity, provide heating, and store energy for later use."
-                },
-                {
-                  "question": "What do scientists study to learn about the Sun's activity?",
-                  "options": [
-                    "Planets",
-                    "Stars",
-                    "Sunspots and solar flares",
-                    "Galaxies"
-                  ],
-                  "answer": "Sunspots and solar flares",
-                  "explanation": "Scientists study sunspots and solar flares to understand the Sun's activity and its effects on Earth."
-                }
-              ]
-            },
-            {
-              "setNumber": 17,
-              "questions": [
-                {
-                  "question": "How do solar panels produce electricity?",
-                  "options": [
-                    "Heating water",
-                    "Turning sunlight into electricity",
-                    "Using batteries",
-                    "Creating solar wind"
-                  ],
-                  "answer": "Turning sunlight into electricity",
-                  "explanation": "Solar panels produce electricity by converting sunlight into electricity using special cells called photovoltaic cells."
-                },
-                {
-                  "question": "Which is hotter: the Sun's surface or its core?",
-                  "options": [
-                    "Surface",
-                    "Core",
-                    "Same temperature",
-                    "Surface is colder"
+                    "Radiative Zone",
+                    "Convective Zone"
                   ],
                   "answer": "Core",
-                  "explanation": "The Sun's core is much hotter than its surface, with temperatures around 15 million degrees Celsius!"
+                  "explanation": "The Sun’s heat and energy are produced through nuclear fusion in its core."
                 },
                 {
-                  "question": "What type of energy is solar energy?",
+                  "question": "What is the name of India’s first solar mission?",
                   "options": [
-                    "Renewable energy",
-                    "Nonrenewable energy",
-                    "Fossil fuel",
-                    "Nuclear energy"
+                    "Chandrayaan-2",
+                    "Mars Orbiter Mission",
+                    "Aditya-L1",
+                    "SOHO"
                   ],
-                  "answer": "Renewable energy",
-                  "explanation": "Solar energy is a renewable energy because it comes from the Sun, which will shine for billions of years!"
-                },
-                {
-                  "question": "What can be done with the Sun's energy when it reaches Earth?",
-                  "options": [
-                    "Used immediately",
-                    "Stored",
-                    "Lost",
-                    "Turned into food"
-                  ],
-                  "answer": "Stored",
-                  "explanation": "We can store the Sun's energy in batteries to use it later, even when the Sun isn't shining."
-                },
-                {
-                  "question": "How does solar energy help the environment?",
-                  "options": [
-                    "It reduces pollution",
-                    "It increases pollution",
-                    "It has no effect",
-                    "It creates waste"
-                  ],
-                  "answer": "It reduces pollution",
-                  "explanation": "Solar energy helps reduce pollution by providing clean energy without harmful emissions."
-                },
-                {
-                  "question": "What is the greenhouse effect?",
-                  "options": [
-                    "Capturing solar energy",
-                    "Warming Earth with trapped gases",
-                    "Cooling Earth",
-                    "Helping plants grow"
-                  ],
-                  "answer": "Warming Earth with trapped gases",
-                  "explanation": "The greenhouse effect warms Earth by trapping heat in the atmosphere with gases like carbon dioxide."
-                },
-                {
-                  "question": "What is one challenge of using solar energy?",
-                  "options": [
-                    "Too expensive",
-                    "Not renewable",
-                    "Not efficient",
-                    "Weather-dependent"
-                  ],
-                  "answer": "Weather-dependent",
-                  "explanation": "Solar energy depends on sunlight, so cloudy or rainy weather can affect its production."
-                },
-                {
-                  "question": "How does solar energy affect the environment?",
-                  "options": [
-                    "Friendly",
-                    "Causes pollution",
-                    "Uses fossil fuels",
-                    "No impact"
-                  ],
-                  "answer": "Friendly",
-                  "explanation": "Solar energy is friendly to the environment because it doesn't create harmful emissions or waste."
-                },
-                {
-                  "question": "What is used to capture solar energy for heating?",
-                  "options": [
-                    "Photovoltaic cells",
-                    "Solar thermal collectors",
-                    "Wind turbines",
-                    "Hydroelectric dams"
-                  ],
-                  "answer": "Solar thermal collectors",
-                  "explanation": "Solar thermal collectors capture solar energy to heat water or air for homes and businesses."
-                },
-                {
-                  "question": "What is the future of solar energy?",
-                  "options": [
-                    "Decrease",
-                    "Stay the same",
-                    "Increase",
-                    "Disappear"
-                  ],
-                  "answer": "Increase",
-                  "explanation": "The use of solar energy will grow as technology improves and we need more clean energy."
-                }
-              ]
-            },
-            {
-              "setNumber": 18,
-              "questions": [
-                {
-                  "question": "What is one big advantage of solar energy?",
-                  "options": [
-                    "Nonrenewable",
-                    "Reduces electricity bills",
-                    "Only works in summer",
-                    "Needs fossil fuels"
-                  ],
-                  "answer": "Reduces electricity bills",
-                  "explanation": "Solar energy can lower electricity bills because it provides free energy from the Sun."
-                },
-                {
-                  "question": "What is one downside of solar energy?",
-                  "options": [
-                    "Abundant",
-                    "Expensive to install",
-                    "Needs maintenance",
-                    "Clean energy"
-                  ],
-                  "answer": "Expensive to install",
-                  "explanation": "Installing solar panels can be costly at first, but it saves money in the long run."
-                },
-                {
-                  "question": "What is net metering?",
-                  "options": [
-                    "Measuring solar energy",
-                    "Getting credit for extra solar energy",
-                    "Energy storage",
-                    "A type of solar panel"
-                  ],
-                  "answer": "Getting credit for extra solar energy",
-                  "explanation": "Net metering gives credits to people for the extra solar energy they add to the electricity grid."
-                },
-                {
-                  "question": "What role does the Sun play in the water cycle?",
-                  "options": [
-                    "No role",
-                    "Evaporates water",
-                    "Creates rain",
-                    "Cleans water"
-                  ],
-                  "answer": "Evaporates water",
-                  "explanation": "The Sun provides heat that causes water to evaporate, starting the water cycle."
-                },
-                {
-                  "question": "What are the environmental benefits of solar energy?",
-                  "options": [
-                    "Reduces greenhouse gases",
-                    "Increases pollution",
-                    "Uses natural resources",
-                    "No benefits"
-                  ],
-                  "answer": "Reduces greenhouse gases",
-                  "explanation": "Solar energy is clean and reduces harmful greenhouse gas emissions, helping the environment."
-                },
-                {
-                  "question": "What will happen to solar technology in the future?",
-                  "options": [
-                    "Decline",
-                    "Stay the same",
-                    "Advance",
-                    "Disappear"
-                  ],
-                  "answer": "Advance",
-                  "explanation": "Solar technology will continue to improve, making it more efficient and affordable."
-                },
-                {
-                  "question": "What is a solar power plant?",
-                  "options": [
-                    "Generates solar energy",
-                    "Solar panel garden",
-                    "Battery",
-                    "Factory for solar cells"
-                  ],
-                  "answer": "Generates solar energy",
-                  "explanation": "A solar power plant is a large facility that produces electricity from solar energy."
-                },
-                {
-                  "question": "What can solar energy be used for?",
-                  "options": [
-                    "Heating",
-                    "Electricity",
-                    "Cooking",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "Solar energy can be used for heating, generating electricity, cooking, and much more."
-                },
-                {
-                  "question": "How do solar panels affect property value?",
-                  "options": [
-                    "Decrease",
-                    "No effect",
-                    "Increase",
-                    "Makes homes less appealing"
-                  ],
-                  "answer": "Increase",
-                  "explanation": "Homes with solar panels are often worth more because they save energy and are environmentally friendly."
-                },
-                {
-                  "question": "What is the biggest challenge for using solar energy?",
-                  "options": [
-                    "Lack of sunlight",
-                    "High installation costs",
-                    "Inefficiency",
-                    "Too much energy"
-                  ],
-                  "answer": "High installation costs",
-                  "explanation": "The biggest challenge is the high cost of installing solar panels, although prices are coming down."
-                }
-              ]
-            },
-            {
-              "setNumber": 18,
-              "questions": [
-                {
-                  "question": "What is one big advantage of solar energy?",
-                  "options": [
-                    "Nonrenewable",
-                    "Reduces electricity bills",
-                    "Only works in summer",
-                    "Needs fossil fuels"
-                  ],
-                  "answer": "Reduces electricity bills",
-                  "explanation": "Solar energy can lower electricity bills because it provides free energy from the Sun."
-                },
-                {
-                  "question": "What is one downside of solar energy?",
-                  "options": [
-                    "Abundant",
-                    "Expensive to install",
-                    "Needs maintenance",
-                    "Clean energy"
-                  ],
-                  "answer": "Expensive to install",
-                  "explanation": "Installing solar panels can be costly at first, but it saves money in the long run."
-                },
-                {
-                  "question": "What is net metering?",
-                  "options": [
-                    "Measuring solar energy",
-                    "Getting credit for extra solar energy",
-                    "Energy storage",
-                    "A type of solar panel"
-                  ],
-                  "answer": "Getting credit for extra solar energy",
-                  "explanation": "Net metering gives credits to people for the extra solar energy they add to the electricity grid."
-                },
-                {
-                  "question": "What role does the Sun play in the water cycle?",
-                  "options": [
-                    "No role",
-                    "Evaporates water",
-                    "Creates rain",
-                    "Cleans water"
-                  ],
-                  "answer": "Evaporates water",
-                  "explanation": "The Sun provides heat that causes water to evaporate, starting the water cycle."
-                },
-                {
-                  "question": "What are the environmental benefits of solar energy?",
-                  "options": [
-                    "Reduces greenhouse gases",
-                    "Increases pollution",
-                    "Uses natural resources",
-                    "No benefits"
-                  ],
-                  "answer": "Reduces greenhouse gases",
-                  "explanation": "Solar energy is clean and reduces harmful greenhouse gas emissions, helping the environment."
-                },
-                {
-                  "question": "What will happen to solar technology in the future?",
-                  "options": [
-                    "Decline",
-                    "Stay the same",
-                    "Advance",
-                    "Disappear"
-                  ],
-                  "answer": "Advance",
-                  "explanation": "Solar technology will continue to improve, making it more efficient and affordable."
-                },
-                {
-                  "question": "What is a solar power plant?",
-                  "options": [
-                    "Generates solar energy",
-                    "Solar panel garden",
-                    "Battery",
-                    "Factory for solar cells"
-                  ],
-                  "answer": "Generates solar energy",
-                  "explanation": "A solar power plant is a large facility that produces electricity from solar energy."
-                },
-                {
-                  "question": "What can solar energy be used for?",
-                  "options": [
-                    "Heating",
-                    "Electricity",
-                    "Cooking",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "Solar energy can be used for heating, generating electricity, cooking, and much more."
-                },
-                {
-                  "question": "How do solar panels affect property value?",
-                  "options": [
-                    "Decrease",
-                    "No effect",
-                    "Increase",
-                    "Makes homes less appealing"
-                  ],
-                  "answer": "Increase",
-                  "explanation": "Homes with solar panels are often worth more because they save energy and are environmentally friendly."
-                },
-                {
-                  "question": "What is the biggest challenge for using solar energy?",
-                  "options": [
-                    "Lack of sunlight",
-                    "High installation costs",
-                    "Inefficiency",
-                    "Too much energy"
-                  ],
-                  "answer": "High installation costs",
-                  "explanation": "The biggest challenge is the high cost of installing solar panels, although prices are coming down."
+                  "answer": "Aditya-L1",
+                  "explanation": "India’s first solar mission, Aditya-L1, aims to study the Sun’s outermost layer, the corona, and its impact on space weather."
                 }
               ]
             }
