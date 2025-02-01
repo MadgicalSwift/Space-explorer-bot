@@ -8885,114 +8885,114 @@
               "setNumber": 1,
               "questions": [
                 {
-                  "question": "What type of galaxy is the Milky Way?",
+                  "question": "What is the Milky Way?",
                   "options": [
-                    "Elliptical",
-                    "Irregular",
-                    "Spiral",
-                    "Barred spiral"
-                  ],
-                  "answer": "Barred spiral",
-                  "explanation": "The Milky Way is a barred spiral galaxy, which means it has a bar-shaped structure in the center with spiral arms."
-                },
-                {
-                  "question": "What is at the center of the Milky Way?",
-                  "options": [
-                    "A star cluster",
-                    "A supermassive black hole",
                     "A planet",
+                    "A galaxy",
+                    "A star",
                     "A nebula"
                   ],
-                  "answer": "A supermassive black hole",
-                  "explanation": "At the center of the Milky Way is a supermassive black hole named Sagittarius A*."
+                  "answer": "A galaxy",
+                  "explanation": "The Milky Way is a galaxy, a vast collection of stars, planets, gas, dust, and dark matter held together by gravity."
                 },
                 {
-                  "question": "How long does it take the solar system to orbit the center of the Milky Way?",
+                  "question": "How many stars are estimated to be in the Milky Way?",
                   "options": [
-                    "100 million years",
-                    "250 million years",
-                    "1 billion years",
-                    "500 million years"
+                    "1 billion",
+                    "100 billion to 400 billion",
+                    "500 billion",
+                    "1 trillion"
                   ],
-                  "answer": "250 million years",
-                  "explanation": "The solar system takes about 250 million years to complete one orbit around the Milky Way's center."
-                },
-                {
-                  "question": "Which galaxy is closest to the Milky Way?",
-                  "options": [
-                    "Andromeda",
-                    "Triangulum",
-                    "Messier 87",
-                    "Whirlpool Galaxy"
-                  ],
-                  "answer": "Andromeda",
-                  "explanation": "The Andromeda Galaxy, located about 2.5 million light-years away, is the closest major galaxy to us."
+                  "answer": "100 billion to 400 billion",
+                  "explanation": "The Milky Way contains approximately 100 billion to 400 billion stars."
                 },
                 {
                   "question": "What shape is the Milky Way?",
                   "options": [
                     "Elliptical",
-                    "Ring",
                     "Spiral",
-                    "Barred spiral"
+                    "Irregular",
+                    "Barred"
                   ],
-                  "answer": "Barred spiral",
-                  "explanation": "The Milky Way is a barred spiral galaxy, featuring a central bar and spiral arms."
+                  "answer": "Spiral",
+                  "explanation": "The Milky Way is a spiral-shaped galaxy with four main arms."
                 },
                 {
-                  "question": "What is the main component of the Milky Way's disk?",
+                  "question": "Where is our Solar System located within the Milky Way?",
                   "options": [
-                    "Nebulae",
-                    "Stars",
-                    "Black holes",
-                    "Dark matter"
+                    "Galactic Core",
+                    "Orion Arm",
+                    "Galactic Halo",
+                    "Spiral Arms"
                   ],
-                  "answer": "Stars",
-                  "explanation": "The Milky Way's disk is mostly made up of stars, along with gas and dust."
+                  "answer": "Orion Arm",
+                  "explanation": "Our Solar System is located in the Orion Arm of the Milky Way."
                 },
                 {
-                  "question": "What do we call the group of galaxies the Milky Way belongs to?",
+                  "question": "What is the approximate diameter of the Milky Way?",
                   "options": [
-                    "The Virgo Cluster",
-                    "The Local Group",
-                    "The Coma Cluster",
-                    "The Fornax Cluster"
-                  ],
-                  "answer": "The Local Group",
-                  "explanation": "The Milky Way is part of the Local Group, a collection of about 54 galaxies."
-                },
-                {
-                  "question": "What is the Milky Way's central region called?",
-                  "options": [
-                    "The Halo",
-                    "The Spiral Arms",
-                    "The Bulge",
-                    "Sagittarius A*"
-                  ],
-                  "answer": "The Bulge",
-                  "explanation": "The Bulge is the Milky Way's central area, containing older stars around a black hole."
-                },
-                {
-                  "question": "What is the diameter of the Milky Way?",
-                  "options": [
-                    "50,000 light-years",
+                    "1,000 light-years",
                     "100,000 light-years",
-                    "200,000 light-years",
-                    "1 million light-years"
+                    "500,000 light-years",
+                    "10,000 light-years"
                   ],
                   "answer": "100,000 light-years",
-                  "explanation": "The Milky Way is about 100,000 light-years across."
+                  "explanation": "The Milky Way has a diameter of approximately 100,000 light-years."
                 },
                 {
-                  "question": "What causes the spiral shape of the Milky Way?",
+                  "question": "How far is our Solar System from the center of the Milky Way?",
                   "options": [
-                    "Dark matter",
-                    "Stellar winds",
-                    "Gravitational forces",
-                    "Magnetic fields"
+                    "5,000 light-years",
+                    "27,000 light-years",
+                    "100,000 light-years",
+                    "1,000 light-years"
                   ],
-                  "answer": "Gravitational forces",
-                  "explanation": "Gravitational forces help create and maintain the spiral shape of the Milky Way."
+                  "answer": "27,000 light-years",
+                  "explanation": "Our Solar System is located about 27,000 light-years from the center of the Milky Way."
+                },
+                {
+                  "question": "What is the speed at which the Milky Way moves through space?",
+                  "options": [
+                    "100 km per second",
+                    "300 km per second",
+                    "600 km per second",
+                    "1,000 km per second"
+                  ],
+                  "answer": "600 km per second",
+                  "explanation": "The Milky Way moves through space at a speed of 600 km per second."
+                },
+                {
+                  "question": "How old is the Milky Way?",
+                  "options": [
+                    "6 billion years old",
+                    "13.6 billion years old",
+                    "4.5 billion years old",
+                    "1 billion years old"
+                  ],
+                  "answer": "13.6 billion years old",
+                  "explanation": "The Milky Way is more than 13.6 billion years old."
+                },
+                {
+                  "question": "What is located at the center of the Milky Way?",
+                  "options": [
+                    "A supernova",
+                    "A supermassive black hole",
+                    "A star cluster",
+                    "A nebula"
+                  ],
+                  "answer": "A supermassive black hole",
+                  "explanation": "The center of the Milky Way contains a supermassive black hole."
+                },
+                {
+                  "question": "What are the four main parts of the Milky Way?",
+                  "options": [
+                    "Galactic Disk, Galactic Halo, Galactic Core, Nebulae",
+                    "Galactic Core, Spiral Arms, Galactic Disk, Galactic Halo",
+                    "Supernova, Galactic Core, Nebulae, Stars",
+                    "Solar System, Spiral Arms, Nebulae, Planets"
+                  ],
+                  "answer": "Galactic Core, Spiral Arms, Galactic Disk, Galactic Halo",
+                  "explanation": "The four main parts of the Milky Way are the Galactic Core, Spiral Arms, Galactic Disk, and Galactic Halo."
                 }
               ]
             },
@@ -9000,845 +9000,7 @@
               "setNumber": 2,
               "questions": [
                 {
-                  "question": "Which arm of the Milky Way is our solar system in?",
-                  "options": [
-                    "The Sagittarius Arm",
-                    "The Orion Arm",
-                    "The Perseus Arm",
-                    "The Cygnus Arm"
-                  ],
-                  "answer": "The Orion Arm",
-                  "explanation": "Our solar system is in the Orion Arm, a smaller arm of the Milky Way."
-                },
-                {
-                  "question": "What is believed to surround the Milky Way's disk?",
-                  "options": [
-                    "A cluster of stars",
-                    "A dark matter halo",
-                    "A gas cloud",
-                    "A black hole"
-                  ],
-                  "answer": "A dark matter halo",
-                  "explanation": "A halo of dark matter surrounds the Milky Way, extending beyond its visible disk."
-                },
-                {
-                  "question": "How many stars are in the Milky Way?",
-                  "options": [
-                    "100 million",
-                    "500 million",
-                    "100 billion",
-                    "1 trillion"
-                  ],
-                  "answer": "100 billion",
-                  "explanation": "The Milky Way is home to approximately 100 billion stars."
-                },
-                {
-                  "question": "Where are the oldest stars in the Milky Way?",
-                  "options": [
-                    "The Disk",
-                    "The Spiral Arms",
-                    "The Halo",
-                    "The Bulge"
-                  ],
-                  "answer": "The Halo",
-                  "explanation": "The oldest stars in the Milky Way are found in its halo."
-                },
-                {
-                  "question": "Which galaxy will collide with the Milky Way?",
-                  "options": [
-                    "Triangulum",
-                    "Andromeda",
-                    "Whirlpool Galaxy",
-                    "Sombrero Galaxy"
-                  ],
-                  "answer": "Andromeda",
-                  "explanation": "The Andromeda Galaxy is on a collision course with the Milky Way, expected to merge in 4.5 billion years."
-                },
-                {
-                  "question": "What is the Milky Way's estimated mass?",
-                  "options": [
-                    "1 billion solar masses",
-                    "100 billion solar masses",
-                    "1 trillion solar masses",
-                    "50 billion solar masses"
-                  ],
-                  "answer": "1 trillion solar masses",
-                  "explanation": "The Milky Way's total mass, including dark matter, is about 1 trillion solar masses."
-                },
-                {
-                  "question": "What structure helps stabilize the Milky Way's arms?",
-                  "options": [
-                    "The Halo",
-                    "The Central Bulge",
-                    "The Bar",
-                    "Dark Matter"
-                  ],
-                  "answer": "The Bar",
-                  "explanation": "The Milky Way's central bar structure stabilizes its spiral arms."
-                },
-                {
-                  "question": "How do scientists study the Milky Way's structure?",
-                  "options": [
-                    "Using infrared telescopes",
-                    "By sending probes",
-                    "By mapping nearby galaxies",
-                    "Using satellites"
-                  ],
-                  "answer": "Using infrared telescopes",
-                  "explanation": "Scientists use infrared telescopes to see through dust and study the Milky Way."
-                },
-                {
-                  "question": "What is the most common type of star in the Milky Way?",
-                  "options": [
-                    "Red dwarf stars",
-                    "Blue giants",
-                    "White dwarfs",
-                    "Yellow dwarfs"
-                  ],
-                  "answer": "Red dwarf stars",
-                  "explanation": "Red dwarf stars are the most common stars in the Milky Way."
-                },
-                {
-                  "question": "What marks the Milky Way's boundary?",
-                  "options": [
-                    "The Halo",
-                    "The Oort Cloud",
-                    "The Edge of the Universe",
-                    "The Galactic Plane"
-                  ],
-                  "answer": "The Galactic Plane",
-                  "explanation": "The galactic plane marks the boundary of the Milky Way's disk."
-                }
-              ]
-            },
-            {
-              "setNumber": 3,
-              "questions": [
-                {
-                  "question": "What shape is the Milky Way galaxy?",
-                  "options": [
-                    "Elliptical",
-                    "Barred spiral",
-                    "Irregular",
-                    "Ring-shaped"
-                  ],
-                  "answer": "Barred spiral",
-                  "explanation": "The Milky Way has a central bar and spiral arms, so it is called a barred spiral galaxy."
-                },
-                {
-                  "question": "How big is the Milky Way?",
-                  "options": [
-                    "10,000 light-years",
-                    "50,000 light-years",
-                    "100,000 light-years",
-                    "1 million light-years"
-                  ],
-                  "answer": "100,000 light-years",
-                  "explanation": "The Milky Way is about 100,000 light-years across."
-                },
-                {
-                  "question": "Which part of the Milky Way is our solar system in?",
-                  "options": [
-                    "Orion Arm",
-                    "Perseus Arm",
-                    "Sagittarius Arm",
-                    "Centaurus Arm"
-                  ],
-                  "answer": "Orion Arm",
-                  "explanation": "Our solar system is in a small spiral arm called the Orion Arm."
-                },
-                {
-                  "question": "What makes up most of the Milky Way's mass?",
-                  "options": [
-                    "Stars",
-                    "Dark matter",
-                    "Gas",
-                    "Asteroids"
-                  ],
-                  "answer": "Dark matter",
-                  "explanation": "Dark matter makes up about 90% of the Milky Way's mass."
-                },
-                {
-                  "question": "How many major spiral arms does the Milky Way have?",
-                  "options": [
-                    "2",
-                    "3",
-                    "4",
-                    "5"
-                  ],
-                  "answer": "4",
-                  "explanation": "The Milky Way has four big spiral arms."
-                },
-                {
-                  "question": "Which nearby galaxy is closest to the Milky Way?",
-                  "options": [
-                    "Andromeda",
-                    "Triangulum",
-                    "Large Magellanic Cloud",
-                    "Small Magellanic Cloud"
-                  ],
-                  "answer": "Large Magellanic Cloud",
-                  "explanation": "The Large Magellanic Cloud is the closest galaxy to the Milky Way."
-                },
-                {
-                  "question": "How many stars are in the Milky Way?",
-                  "options": [
-                    "10 million",
-                    "100 million",
-                    "100 billion",
-                    "1 trillion"
-                  ],
-                  "answer": "100 billion",
-                  "explanation": "The Milky Way has about 100 billion stars."
-                },
-                {
-                  "question": "Where are new stars born in the Milky Way?",
-                  "options": [
-                    "Stellar nurseries",
-                    "Quasars",
-                    "Galactic core",
-                    "Hubble Zone"
-                  ],
-                  "answer": "Stellar nurseries",
-                  "explanation": "New stars are formed in special areas called stellar nurseries."
-                },
-                {
-                  "question": "What kind of stars are in the Milky Way's thick disk?",
-                  "options": [
-                    "Old stars",
-                    "New stars",
-                    "Gas clouds",
-                    "Planets"
-                  ],
-                  "answer": "Old stars",
-                  "explanation": "The thick disk of the Milky Way has mostly old stars."
-                },
-                {
-                  "question": "What surrounds the Milky Way and holds it together?",
-                  "options": [
-                    "Galactic core",
-                    "Dark matter halo",
-                    "Gravitational boundary",
-                    "Photon shell"
-                  ],
-                  "answer": "Dark matter halo",
-                  "explanation": "A dark matter halo surrounds the Milky Way and holds it together with its gravity."
-                }
-              ]
-            },
-            {
-              "setNumber": 4,
-              "questions": [
-                {
-                  "question": "How fast is the Milky Way moving through space?",
-                  "options": [
-                    "50 km/s",
-                    "250 km/s",
-                    "550 km/s",
-                    "750 km/s"
-                  ],
-                  "answer": "550 km/s",
-                  "explanation": "The Milky Way zooms through space at 550 kilometers per second!"
-                },
-                {
-                  "question": "What is most of the Milky Way's halo made of?",
-                  "options": [
-                    "Stars",
-                    "Dark matter",
-                    "Gas",
-                    "Asteroids"
-                  ],
-                  "answer": "Dark matter",
-                  "explanation": "The halo around the Milky Way is mostly made of dark matter."
-                },
-                {
-                  "question": "How old is the Milky Way?",
-                  "options": [
-                    "5 billion years",
-                    "10 billion years",
-                    "13.6 billion years",
-                    "15 billion years"
-                  ],
-                  "answer": "13.6 billion years",
-                  "explanation": "The Milky Way is about 13.6 billion years old."
-                },
-                {
-                  "question": "What is the name of the huge black hole at the Milky Way's center?",
-                  "options": [
-                    "Andromeda A",
-                    "Sagittarius A*",
-                    "Centaurus B",
-                    "Perseus A"
-                  ],
-                  "answer": "Sagittarius A*",
-                  "explanation": "Sagittarius A* is the supermassive black hole at the Milky Way's center."
-                },
-                {
-                  "question": "How thick is the Milky Way's disk?",
-                  "options": [
-                    "1,000 light-years",
-                    "10,000 light-years",
-                    "100,000 light-years",
-                    "1 million light-years"
-                  ],
-                  "answer": "1,000 light-years",
-                  "explanation": "The disk of the Milky Way is about 1,000 light-years thick."
-                },
-                {
-                  "question": "How many star clusters does the Milky Way have?",
-                  "options": [
-                    "50",
-                    "100",
-                    "150",
-                    "200"
-                  ],
-                  "answer": "150",
-                  "explanation": "The Milky Way has around 150 globular star clusters."
-                },
-                {
-                  "question": "What are the largest stars in the Milky Way called?",
-                  "options": [
-                    "Red dwarfs",
-                    "Supergiants",
-                    "Brown dwarfs",
-                    "White dwarfs"
-                  ],
-                  "answer": "Supergiants",
-                  "explanation": "Supergiants are the biggest stars in the galaxy!"
-                },
-                {
-                  "question": "What percentage of the Milky Way is made of stars?",
-                  "options": [
-                    "5%",
-                    "10%",
-                    "25%",
-                    "50%"
-                  ],
-                  "answer": "5%",
-                  "explanation": "Stars make up just 5% of the Milky Way. The rest is mostly dark matter and gas."
-                },
-                {
-                  "question": "Which galaxy is moving toward the Milky Way?",
-                  "options": [
-                    "Triangulum",
-                    "Andromeda",
-                    "Large Magellanic Cloud",
-                    "Centaurus"
-                  ],
-                  "answer": "Andromeda",
-                  "explanation": "The Andromeda Galaxy is coming closer and will merge with the Milky Way in billions of years."
-                },
-                {
-                  "question": "What is the bright streak across the night sky called?",
-                  "options": [
-                    "Star stream",
-                    "Milky Way band",
-                    "Stellar path",
-                    "Galactic line"
-                  ],
-                  "answer": "Milky Way band",
-                  "explanation": "The bright streak is the Milky Way's disk, seen as the Milky Way band in the sky."
-                }
-              ]
-            },
-            {
-              "setNumber": 5,
-              "questions": [
-                {
-                  "question": "Which element is most abundant in the Milky Way?",
-                  "options": [
-                    "Oxygen",
-                    "Hydrogen",
-                    "Carbon",
-                    "Iron"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the most abundant element in the Milky Way, making up most of the galaxy's gas."
-                },
-                {
-                  "question": "What is the name of the nearest major galaxy to the Milky Way?",
-                  "options": [
-                    "Triangulum",
-                    "Large Magellanic Cloud",
-                    "Andromeda",
-                    "Centaurus"
-                  ],
-                  "answer": "Andromeda",
-                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way and is on a collision course with it."
-                },
-                {
-                  "question": "How fast does the Milky Way rotate at its outer edge?",
-                  "options": [
-                    "50 km/s",
-                    "100 km/s",
-                    "200 km/s",
-                    "250 km/s"
-                  ],
-                  "answer": "250 km/s",
-                  "explanation": "The Milky Way rotates at a speed of about 250 kilometers per second at its outer edges."
-                },
-                {
-                  "question": "How many stars are formed in the Milky Way per year?",
-                  "options": [
-                    "1-2 stars",
-                    "5-10 stars",
-                    "10-15 stars",
-                    "20-25 stars"
-                  ],
-                  "answer": "1-2 stars",
-                  "explanation": "On average, about 1 to 2 stars are formed in the Milky Way each year."
-                },
-                {
-                  "question": "Which structure in the Milky Way is filled with interstellar dust and gas?",
-                  "options": [
-                    "Galactic core",
-                    "Spiral arms",
-                    "Halo",
-                    "Globular clusters"
-                  ],
-                  "answer": "Spiral arms",
-                  "explanation": "The spiral arms of the Milky Way contain large amounts of interstellar dust and gas, where star formation occurs."
-                },
-                {
-                  "question": "What is the approximate age of the oldest stars in the Milky Way?",
-                  "options": [
-                    "5 billion years",
-                    "10 billion years",
-                    "13 billion years",
-                    "15 billion years"
-                  ],
-                  "answer": "13 billion years",
-                  "explanation": "Some of the oldest stars in the Milky Way are around 13 billion years old, nearly as old as the universe itself."
-                },
-                {
-                  "question": "What is the term used to describe the movement of stars in the Milky Way?",
-                  "options": [
-                    "Galactic rotation",
-                    "Galactic drift",
-                    "Star spin",
-                    "Stellar wobble"
-                  ],
-                  "answer": "Galactic rotation",
-                  "explanation": "Stars in the Milky Way are in constant motion due to the galaxy's rotation, a phenomenon known as galactic rotation."
-                },
-                {
-                  "question": "Which part of the Milky Way contains mostly old stars?",
-                  "options": [
-                    "Halo",
-                    "Galactic core",
-                    "Spiral arms",
-                    "Thick disk"
-                  ],
-                  "answer": "Halo",
-                  "explanation": "The halo of the Milky Way is populated mainly by old stars, some of which are nearly as old as the galaxy itself."
-                },
-                {
-                  "question": "What can happen when galaxies collide, like the Milky Way and Andromeda?",
-                  "options": [
-                    "Supernova bursts",
-                    "Star formation increase",
-                    "Black hole mergers",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "When galaxies collide, they can trigger supernovae, increased star formation, and black hole mergers."
-                },
-                {
-                  "question": "What is the approximate mass of the Milky Way galaxy?",
-                  "options": [
-                    "100 billion solar masses",
-                    "500 billion solar masses",
-                    "1 trillion solar masses",
-                    "1.5 trillion solar masses"
-                  ],
-                  "answer": "1.5 trillion solar masses",
-                  "explanation": "The Milky Way is estimated to have a mass of about 1.5 trillion times that of the Sun."
-                }
-              ]
-            },
-            {
-              "setNumber": 6,
-              "questions": [
-                {
-                  "question": "Which spiral arm of the Milky Way is the largest?",
-                  "options": [
-                    "Orion Arm",
-                    "Perseus Arm",
-                    "Scutum-Centaurus Arm",
-                    "Norma Arm"
-                  ],
-                  "answer": "Scutum-Centaurus Arm",
-                  "explanation": "The Scutum-Centaurus Arm is the largest and most prominent spiral arm of the Milky Way."
-                },
-                {
-                  "question": "Which component of the Milky Way contains older, red stars?",
-                  "options": [
-                    "Halo",
-                    "Bulge",
-                    "Disk",
-                    "Spiral Arms"
-                  ],
-                  "answer": "Bulge",
-                  "explanation": "The bulge of the Milky Way contains a high concentration of older, red stars near the galactic center."
-                },
-                {
-                  "question": "How is the mass of the Milky Way mainly measured?",
-                  "options": [
-                    "By counting stars",
-                    "By measuring the rotation curve",
-                    "By observing dark matter",
-                    "By studying star formation rates"
-                  ],
-                  "answer": "By measuring the rotation curve",
-                  "explanation": "The mass of the Milky Way is determined by measuring its rotation curve, which reflects dark matter's influence."
-                },
-                {
-                  "question": "What is the outermost boundary of the Milky Way called?",
-                  "options": [
-                    "Galactic disk",
-                    "Galactic corona",
-                    "Galactic halo",
-                    "Galactic fringe"
-                  ],
-                  "answer": "Galactic halo",
-                  "explanation": "The galactic halo extends beyond the disk and contains old stars, globular clusters, and dark matter."
-                },
-                {
-                  "question": "Which element is commonly formed in stars in the Milky Way?",
-                  "options": [
-                    "Oxygen",
-                    "Helium",
-                    "Carbon",
-                    "Iron"
-                  ],
-                  "answer": "Helium",
-                  "explanation": "Helium is primarily formed in stars through nuclear fusion and is the second most abundant element in the universe."
-                },
-                {
-                  "question": "How fast is the Milky Way moving toward Andromeda?",
-                  "options": [
-                    "50 km/s",
-                    "100 km/s",
-                    "110 km/s",
-                    "300 km/s"
-                  ],
-                  "answer": "110 km/s",
-                  "explanation": "The Milky Way is moving toward the Andromeda galaxy at a velocity of about 110 kilometers per second."
-                },
-                {
-                  "question": "Where are star-forming regions mostly found in the Milky Way?",
-                  "options": [
-                    "Galactic bulge",
-                    "Spiral arms",
-                    "Galactic halo",
-                    "Galactic center"
-                  ],
-                  "answer": "Spiral arms",
-                  "explanation": "Most star-forming regions in the Milky Way are in the spiral arms, where gas and dust are concentrated."
-                },
-                {
-                  "question": "What is the thick disk of the Milky Way mostly made of?",
-                  "options": [
-                    "Young stars",
-                    "Old stars",
-                    "Gas clouds",
-                    "Dark matter"
-                  ],
-                  "answer": "Old stars",
-                  "explanation": "The thick disk of the Milky Way contains mostly old stars orbiting at a higher altitude than those in the thin disk."
-                },
-                {
-                  "question": "What will happen when the Milky Way and Andromeda collide?",
-                  "options": [
-                    "They will merge into a larger galaxy",
-                    "They will pass by each other",
-                    "They will destroy each other",
-                    "No significant event will occur"
-                  ],
-                  "answer": "They will merge into a larger galaxy",
-                  "explanation": "The Milky Way and Andromeda are predicted to merge into a larger elliptical galaxy in about 4.5 billion years."
-                },
-                {
-                  "question": "How many spiral arms does the Milky Way have?",
-                  "options": [
-                    "2",
-                    "3",
-                    "4",
-                    "6"
-                  ],
-                  "answer": "4",
-                  "explanation": "The Milky Way has four primary spiral arms: Perseus, Scutum-Centaurus, Norma, and Carina-Sagittarius."
-                }
-              ]
-            },
-            {
-              "setNumber": 7,
-              "questions": [
-                {
-                  "question": "What does dark matter do in the Milky Way?",
-                  "options": [
-                    "Absorbs light",
-                    "Slows down stars",
-                    "Stops galaxies from growing",
-                    "Gives extra pull to keep things together"
-                  ],
-                  "answer": "Gives extra pull to keep things together",
-                  "explanation": "Dark matter gives extra gravity that helps hold the Milky Way together."
-                },
-                {
-                  "question": "How do scientists figure out the age of stars?",
-                  "options": [
-                    "By their color",
-                    "By their weight",
-                    "By their brightness",
-                    "By what they are made of"
-                  ],
-                  "answer": "By what they are made of",
-                  "explanation": "Scientists look at the chemicals in a star. Older stars have fewer heavy elements."
-                },
-                {
-                  "question": "Where is most of the Milky Way's gas and dust?",
-                  "options": [
-                    "Halo",
-                    "Bulge",
-                    "Spiral arms",
-                    "Core"
-                  ],
-                  "answer": "Spiral arms",
-                  "explanation": "The spiral arms have most of the gas and dust where new stars form."
-                },
-                {
-                  "question": "What happens when massive stars in the Milky Way die?",
-                  "options": [
-                    "Neutron stars form",
-                    "Supernova explosions",
-                    "Black holes appear",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Big stars can cause supernovas, form neutron stars, or even turn into black holes."
-                },
-                {
-                  "question": "What part of the Milky Way is closest to Earth?",
-                  "options": [
-                    "Spiral arms",
-                    "Galactic core",
-                    "Halo",
-                    "Bulge"
-                  ],
-                  "answer": "Spiral arms",
-                  "explanation": "Earth is in the Orion Arm, which is one of the Milky Way's spiral arms."
-                },
-                {
-                  "question": "What is special about the Milky Way’s central bar?",
-                  "options": [
-                    "Dense stars",
-                    "Big gas clouds",
-                    "Lots of new stars forming",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "The central bar has dense stars, gas clouds, and lots of star-making activity."
-                },
-                {
-                  "question": "How big is the black hole at the Milky Way's center?",
-                  "options": [
-                    "1 million times the Sun",
-                    "4 million times the Sun",
-                    "10 million times the Sun",
-                    "100 million times the Sun"
-                  ],
-                  "answer": "4 million times the Sun",
-                  "explanation": "Sagittarius A*, the Milky Way's black hole, is about 4 million times heavier than the Sun."
-                },
-                {
-                  "question": "Where are the oldest stars in the Milky Way?",
-                  "options": [
-                    "Galactic core",
-                    "Bulge",
-                    "Halo",
-                    "Spiral arms"
-                  ],
-                  "answer": "Halo",
-                  "explanation": "The halo has the oldest stars in the Milky Way."
-                },
-                {
-                  "question": "What do scientists use to map the Milky Way?",
-                  "options": [
-                    "Radio telescopes",
-                    "Optical telescopes",
-                    "X-ray telescopes",
-                    "Infrared telescopes"
-                  ],
-                  "answer": "Radio telescopes",
-                  "explanation": "Radio telescopes find hydrogen gas and help map the galaxy."
-                },
-                {
-                  "question": "What makes the Milky Way spin?",
-                  "options": [
-                    "Gravity",
-                    "Dark energy",
-                    "Solar wind",
-                    "Magnetic fields"
-                  ],
-                  "answer": "Gravity",
-                  "explanation": "Gravity, from stars and dark matter, keeps the Milky Way spinning."
-                }
-              ]
-            },
-            {
-              "setNumber": 8,
-              "questions": [
-                {
-                  "question": "What are the spiral arms made of?",
-                  "options": [
-                    "Dark matter",
-                    "Dust and gas",
-                    "Black holes",
-                    "Neutron stars"
-                  ],
-                  "answer": "Dust and gas",
-                  "explanation": "The spiral arms are filled with dust, gas, and young stars."
-                },
-                {
-                  "question": "Where are the oldest stars in the Milky Way?",
-                  "options": [
-                    "Galactic halo",
-                    "Spiral arms",
-                    "Galactic disk",
-                    "Central bulge"
-                  ],
-                  "answer": "Galactic halo",
-                  "explanation": "The galactic halo has the oldest stars, often in globular clusters."
-                },
-                {
-                  "question": "How fast does the solar system orbit the Milky Way's center?",
-                  "options": [
-                    "100 km/s",
-                    "220 km/s",
-                    "500 km/s",
-                    "1,000 km/s"
-                  ],
-                  "answer": "220 km/s",
-                  "explanation": "Our solar system travels around the Milky Way's center at 220 km/s."
-                },
-                {
-                  "question": "What is the big round area around the Milky Way's disk called?",
-                  "options": [
-                    "Galactic halo",
-                    "Galactic bulge",
-                    "Galactic corona",
-                    "Galactic center"
-                  ],
-                  "answer": "Galactic halo",
-                  "explanation": "The galactic halo is a large round area with old stars and dark matter."
-                },
-                {
-                  "question": "In which constellation is the Milky Way’s center located?",
-                  "options": [
-                    "Orion",
-                    "Sagittarius",
-                    "Scorpius",
-                    "Andromeda"
-                  ],
-                  "answer": "Sagittarius",
-                  "explanation": "The Milky Way's center is in the direction of the Sagittarius constellation."
-                },
-                {
-                  "question": "What is the most common element in the Milky Way?",
-                  "options": [
-                    "Oxygen",
-                    "Hydrogen",
-                    "Carbon",
-                    "Iron"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the most common element in the Milky Way."
-                },
-                {
-                  "question": "What is the Milky Way’s galactic plane?",
-                  "options": [
-                    "Central bulge",
-                    "Thin disk with stars and gas",
-                    "Area near the black hole",
-                    "Dark matter region"
-                  ],
-                  "answer": "Thin disk with stars and gas",
-                  "explanation": "The galactic plane is the thin, flat area where most stars and gas are."
-                },
-                {
-                  "question": "What is a galactic year?",
-                  "options": [
-                    "Time for Milky Way to spin once",
-                    "Time for light to cross the galaxy",
-                    "Time for solar system to orbit Milky Way's center",
-                    "Time for a black hole to form"
-                  ],
-                  "answer": "Time for solar system to orbit Milky Way's center",
-                  "explanation": "A galactic year is about 250 million years, the time for our solar system to orbit the Milky Way."
-                },
-                {
-                  "question": "What powers the Milky Way’s stars?",
-                  "options": [
-                    "Nuclear fission",
-                    "Nuclear fusion",
-                    "Magnetism",
-                    "Gravitational collapse"
-                  ],
-                  "answer": "Nuclear fusion",
-                  "explanation": "Stars shine because of nuclear fusion, where hydrogen turns into helium."
-                },
-                {
-                  "question": "Where are most stars packed tightly together in the Milky Way?",
-                  "options": [
-                    "Galactic center",
-                    "Outer halo",
-                    "Spiral arms",
-                    "Intergalactic space"
-                  ],
-                  "answer": "Galactic center",
-                  "explanation": "The galactic center has the highest concentration of stars and a black hole."
-                }
-              ]
-            },
-            {
-              "setNumber": 9,
-              "questions": [
-                {
-                  "question": "What is the shape of the Milky Way’s central bulge?",
-                  "options": [
-                    "Spherical",
-                    "Elliptical",
-                    "Peanut-shaped",
-                    "Cylindrical"
-                  ],
-                  "answer": "Peanut-shaped",
-                  "explanation": "The Milky Way's central bulge is peanut-shaped, which is common in galaxies like ours."
-                },
-                {
-                  "question": "Which star-forming region in the Milky Way is closest to Earth?",
-                  "options": [
-                    "Orion Nebula",
-                    "Tarantula Nebula",
-                    "Eagle Nebula",
-                    "Horsehead Nebula"
-                  ],
-                  "answer": "Orion Nebula",
-                  "explanation": "The Orion Nebula, about 1,300 light-years away, is the closest large star-forming region."
-                },
-                {
-                  "question": "What force holds the Milky Way together?",
-                  "options": [
-                    "Electromagnetic force",
-                    "Strong nuclear force",
-                    "Dark energy",
-                    "Gravity"
-                  ],
-                  "answer": "Gravity",
-                  "explanation": "Gravity is the force that keeps all the stars and planets in the Milky Way together."
-                },
-                {
-                  "question": "How many spiral arms does the Milky Way have?",
+                  "question": "How many arms does the Milky Way have?",
                   "options": [
                     "Two",
                     "Four",
@@ -9846,73 +9008,911 @@
                     "Eight"
                   ],
                   "answer": "Four",
-                  "explanation": "The Milky Way has four main spiral arms where stars, gas, and dust are concentrated."
+                  "explanation": "The Milky Way has four main spiral arms."
                 },
                 {
-                  "question": "What causes the Milky Way’s spiral shape?",
+                  "question": "What is the Milky Way's 'Galactic Disk'?",
                   "options": [
-                    "Supernova explosions",
-                    "Density waves",
-                    "Gravitational collapse",
-                    "Dark matter interactions"
+                    "The center of the galaxy",
+                    "The flat region containing most of the stars",
+                    "The surrounding cloud of dust and gas",
+                    "The area where supermassive black holes form"
                   ],
-                  "answer": "Density waves",
-                  "explanation": "Density waves in the galaxy compress gas and dust, creating the beautiful spiral arms."
+                  "answer": "The flat region containing most of the stars",
+                  "explanation": "The Galactic Disk is the flat region where most of the stars in the Milky Way are located."
                 },
                 {
-                  "question": "Which galaxy will collide with the Milky Way in the future?",
+                  "question": "What is the 'Galactic Halo' in the Milky Way?",
                   "options": [
+                    "The dense center of the galaxy",
+                    "An invisible cloud surrounding the galaxy",
+                    "The region where stars are formed",
+                    "The area where black holes reside"
+                  ],
+                  "answer": "An invisible cloud surrounding the galaxy",
+                  "explanation": "The Galactic Halo is an invisible cloud surrounding the Milky Way."
+                },
+                {
+                  "question": "What was the Milky Way formed from?",
+                  "options": [
+                    "A cloud of gas and dust",
+                    "A collision of other galaxies",
+                    "A massive supernova explosion",
+                    "The accumulation of dark matter"
+                  ],
+                  "answer": "A cloud of gas and dust",
+                  "explanation": "The Milky Way formed over 13.6 billion years ago from a cloud of gas and dust that was pulled together by gravity."
+                },
+                {
+                  "question": "How long would it take to travel across the Milky Way at light speed?",
+                  "options": [
+                    "1,000 years",
+                    "100,000 years",
+                    "1 million years",
+                    "10,000 years"
+                  ],
+                  "answer": "100,000 years",
+                  "explanation": "It would take 100,000 years to travel across the Milky Way at light speed."
+                },
+                {
+                  "question": "Why is the Milky Way called the 'Milky Way'?",
+                  "options": [
+                    "Because it is shaped like a milk bottle",
+                    "Because of its white color in the sky",
+                    "Because it resembles spilled milk",
+                    "Because it was named after a famous scientist"
+                  ],
+                  "answer": "Because it resembles spilled milk",
+                  "explanation": "The name 'Milky Way' comes from ancient mythology, where it resembled spilled milk."
+                },
+                {
+                  "question": "What is the Indian name for the Milky Way?",
+                  "options": [
+                    "Akash Ganga",
+                    "Ganges",
+                    "Saraswati",
+                    "Mandakini"
+                  ],
+                  "answer": "Akash Ganga",
+                  "explanation": "In India, the Milky Way is called 'Akash Ganga,' meaning celestial river Ganga."
+                },
+                {
+                  "question": "How long does the Solar System take to orbit the Milky Way?",
+                  "options": [
+                    "100 million years",
+                    "225-250 million years",
+                    "13.6 billion years",
+                    "4.5 billion years"
+                  ],
+                  "answer": "225-250 million years",
+                  "explanation": "The Solar System takes 225-250 million years to orbit the center of the Milky Way."
+                },
+                {
+                  "question": "Which galaxy is closest to the Milky Way?",
+                  "options": [
+                    "Triangulum Galaxy",
                     "Andromeda Galaxy",
                     "Large Magellanic Cloud",
-                    "Triangulum Galaxy",
                     "Small Magellanic Cloud"
                   ],
                   "answer": "Andromeda Galaxy",
-                  "explanation": "In about 4 billion years, the Milky Way will merge with the Andromeda Galaxy."
+                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way."
                 },
                 {
-                  "question": "How do scientists measure the Milky Way's mass?",
+                  "question": "What will happen in about 4.5 billion years regarding the Milky Way?",
                   "options": [
-                    "Counting stars",
-                    "Observing gravitational effects",
-                    "Measuring star brightness",
-                    "Detecting cosmic rays"
+                    "It will form a new star",
+                    "It will collide with the Andromeda Galaxy",
+                    "It will become a black hole",
+                    "It will disappear"
                   ],
-                  "answer": "Observing gravitational effects",
-                  "explanation": "Astronomers calculate the Milky Way's mass by studying how gravity affects stars and nearby objects."
+                  "answer": "It will collide with the Andromeda Galaxy",
+                  "explanation": "In about 4.5 billion years, the Milky Way will collide with the Andromeda Galaxy, forming a new galaxy called 'Milkomeda.'"
+                }
+              ]
+            },
+            {
+              "setNumber": 3,
+              "questions": [
+                {
+                  "question": "What is the name of the new galaxy that will form from the collision of the Milky Way and Andromeda?",
+                  "options": [
+                    "Milkomeda",
+                    "Galaxy X",
+                    "Andromeda II",
+                    "New Milky Way"
+                  ],
+                  "answer": "Milkomeda",
+                  "explanation": "The new galaxy formed from the collision of the Milky Way and Andromeda will be called 'Milkomeda.'"
                 },
                 {
-                  "question": "What is the name of the region around the Milky Way that has stars, gas, and dark matter?",
+                  "question": "What type of galaxy is the Milky Way?",
                   "options": [
-                    "Galactic disk",
-                    "Galactic halo",
-                    "Galactic bulge",
-                    "Supermassive black hole"
+                    "Elliptical",
+                    "Spiral",
+                    "Irregular",
+                    "Lenticular"
                   ],
-                  "answer": "Galactic halo",
-                  "explanation": "The Galactic halo surrounds the Milky Way and contains stars, gas, and dark matter."
+                  "answer": "Spiral",
+                  "explanation": "The Milky Way is a spiral-shaped galaxy."
                 },
                 {
-                  "question": "Where are most star-forming regions in the Milky Way?",
+                  "question": "How many arms does the Milky Way have?",
                   "options": [
-                    "Galactic halo",
-                    "Spiral arms",
-                    "Galactic bulge",
-                    "Galactic center"
+                    "Two",
+                    "Four",
+                    "Six",
+                    "Eight"
                   ],
-                  "answer": "Spiral arms",
-                  "explanation": "The spiral arms are rich in gas and dust, which are needed for star formation."
+                  "answer": "Four",
+                  "explanation": "The Milky Way has four main spiral arms."
                 },
                 {
-                  "question": "Which type of stars are most common in the Milky Way?",
+                  "question": "Where is our Solar System located in the Milky Way?",
                   "options": [
-                    "Red dwarfs",
-                    "Blue giants",
-                    "White dwarfs",
-                    "Neutron stars"
+                    "Galactic Core",
+                    "Galactic Halo",
+                    "Orion Arm",
+                    "Spiral Arms"
                   ],
-                  "answer": "Red dwarfs",
-                  "explanation": "Red dwarfs are the most common stars in the Milky Way because they live for billions of years."
+                  "answer": "Orion Arm",
+                  "explanation": "Our Solar System is located in the Orion Arm of the Milky Way."
+                },
+                {
+                  "question": "How do scientists study the Milky Way?",
+                  "options": [
+                    "Using telescopes and supercomputers",
+                    "By sending human missions",
+                    "By observing the Earth’s magnetic field",
+                    "By collecting samples from space"
+                  ],
+                  "answer": "Using telescopes and supercomputers",
+                  "explanation": "Scientists use telescopes (radio, optical, infrared), space missions, and supercomputers to study the Milky Way."
+                },
+                {
+                  "question": "What is the speed of the Milky Way’s rotation?",
+                  "options": [
+                    "100,000 km per hour",
+                    "500,000 km per hour",
+                    "828,000 km per hour",
+                    "1,000,000 km per hour"
+                  ],
+                  "answer": "828,000 km per hour",
+                  "explanation": "The Milky Way spins at a speed of 828,000 km per hour."
+                },
+                {
+                  "question": "What is the mass of the supermassive black hole at the center of the Milky Way?",
+                  "options": [
+                    "10 times the mass of the Sun",
+                    "1 million times the mass of the Sun",
+                    "4 million times the mass of the Sun",
+                    "100 million times the mass of the Sun"
+                  ],
+                  "answer": "4 million times the mass of the Sun",
+                  "explanation": "The supermassive black hole at the center of the Milky Way has a mass 4 million times that of the Sun."
+                },
+                {
+                  "question": "How does the Milky Way compare to other galaxies in terms of the number of stars?",
+                  "options": [
+                    "It has fewer stars",
+                    "It has more stars than any other galaxy",
+                    "It has about the same number of stars as most galaxies",
+                    "It has more stars than grains of sand on Earth"
+                  ],
+                  "answer": "It has more stars than grains of sand on Earth",
+                  "explanation": "There are more stars in the Milky Way than grains of sand on Earth."
+                },
+                {
+                  "question": "Which of the following is not a feature of the Milky Way?",
+                  "options": [
+                    "It has a supermassive black hole",
+                    "It is the only galaxy in the universe",
+                    "It has spiral arms filled with stars",
+                    "It moves through space at 600 km per second"
+                  ],
+                  "answer": "It is the only galaxy in the universe",
+                  "explanation": "The Milky Way is not the only galaxy; it is one of billions of galaxies in the universe."
+                },
+                {
+                  "question": "What role does gravity play in the Milky Way?",
+                  "options": [
+                    "It creates stars",
+                    "It holds the galaxy together",
+                    "It forms black holes",
+                    "It makes stars move away from each other"
+                  ],
+                  "answer": "It holds the galaxy together",
+                  "explanation": "Gravity is responsible for holding the Milky Way together and keeping stars, planets, and other objects in orbit."
+                }
+              ]
+            },
+            {
+              "setNumber": 4,
+              "questions": [
+                {
+                  "question": "What is the diameter of the Milky Way?",
+                  "options": [
+                    "10,000 light-years",
+                    "100,000 light-years",
+                    "1,000,000 light-years",
+                    "500,000 light-years"
+                  ],
+                  "answer": "100,000 light-years",
+                  "explanation": "The Milky Way has a diameter of 100,000 light-years."
+                },
+                {
+                  "question": "What is the speed of the Milky Way moving through space?",
+                  "options": [
+                    "100 km per second",
+                    "500 km per second",
+                    "600 km per second",
+                    "1000 km per second"
+                  ],
+                  "answer": "600 km per second",
+                  "explanation": "The Milky Way moves through space at 600 km per second."
+                },
+                {
+                  "question": "How old is the Milky Way?",
+                  "options": [
+                    "10 billion years",
+                    "13.6 billion years",
+                    "20 billion years",
+                    "30 billion years"
+                  ],
+                  "answer": "13.6 billion years",
+                  "explanation": "The Milky Way is more than 13.6 billion years old."
+                },
+                {
+                  "question": "What is the galactic core of the Milky Way?",
+                  "options": [
+                    "The outer region of the galaxy",
+                    "A dense center with millions of stars",
+                    "The area where our Solar System is located",
+                    "A dark nebula"
+                  ],
+                  "answer": "A dense center with millions of stars",
+                  "explanation": "The galactic core is the dense center of the Milky Way, containing millions of stars and a supermassive black hole."
+                },
+                {
+                  "question": "Which part of the Milky Way contains most of its stars?",
+                  "options": [
+                    "Galactic Halo",
+                    "Galactic Core",
+                    "Galactic Disk",
+                    "Spiral Arms"
+                  ],
+                  "answer": "Galactic Disk",
+                  "explanation": "The galactic disk is a flat region where most of the stars are located."
+                },
+                {
+                  "question": "How was the Milky Way formed?",
+                  "options": [
+                    "From a collision of two galaxies",
+                    "From a cloud of gas and dust pulled together by gravity",
+                    "By a giant explosion",
+                    "By a supernova"
+                  ],
+                  "answer": "From a cloud of gas and dust pulled together by gravity",
+                  "explanation": "The Milky Way formed over 13.6 billion years ago from a cloud of gas and dust."
+                },
+                {
+                  "question": "Why is the Milky Way named so?",
+                  "options": [
+                    "It resembles a river",
+                    "It resembles spilled milk",
+                    "It is made of milk",
+                    "It’s a reference to the color of its stars"
+                  ],
+                  "answer": "It resembles spilled milk",
+                  "explanation": "The name 'Milky Way' comes from ancient mythology, as it resembled spilled milk in the sky."
+                },
+                {
+                  "question": "What is the distance between the Sun and the center of the Milky Way?",
+                  "options": [
+                    "100,000 light-years",
+                    "27,000 light-years",
+                    "1,000,000 light-years",
+                    "500,000 light-years"
+                  ],
+                  "answer": "27,000 light-years",
+                  "explanation": "The Sun is located about 27,000 light-years from the center of the Milky Way."
+                },
+                {
+                  "question": "How long does it take for the Solar System to orbit the Milky Way?",
+                  "options": [
+                    "25-50 million years",
+                    "100-150 million years",
+                    "225-250 million years",
+                    "300-400 million years"
+                  ],
+                  "answer": "225-250 million years",
+                  "explanation": "The Solar System orbits the Milky Way once every 225-250 million years."
+                },
+                {
+                  "question": "What is the closest major galaxy to the Milky Way?",
+                  "options": [
+                    "Triangulum Galaxy",
+                    "Andromeda Galaxy",
+                    "Whirlpool Galaxy",
+                    "Sombrero Galaxy"
+                  ],
+                  "answer": "Andromeda Galaxy",
+                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way."
+                }
+              ]
+            } ,
+            {
+              "setNumber": 5,
+              "questions": [
+                {
+                  "question": "What is the distance between the Sun and the center of the Milky Way?",
+                  "options": [
+                    "100,000 light-years",
+                    "27,000 light-years",
+                    "1,000,000 light-years",
+                    "500,000 light-years"
+                  ],
+                  "answer": "27,000 light-years",
+                  "explanation": "The Sun is located about 27,000 light-years from the center of the Milky Way."
+                },
+                {
+                  "question": "How long does it take for the Solar System to orbit the Milky Way?",
+                  "options": [
+                    "25-50 million years",
+                    "100-150 million years",
+                    "225-250 million years",
+                    "300-400 million years"
+                  ],
+                  "answer": "225-250 million years",
+                  "explanation": "The Solar System orbits the Milky Way once every 225-250 million years."
+                },
+                {
+                  "question": "What is the closest major galaxy to the Milky Way?",
+                  "options": [
+                    "Triangulum Galaxy",
+                    "Andromeda Galaxy",
+                    "Whirlpool Galaxy",
+                    "Sombrero Galaxy"
+                  ],
+                  "answer": "Andromeda Galaxy",
+                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way."
+                },
+                {
+                  "question": "What will happen to the Milky Way in about 4.5 billion years?",
+                  "options": [
+                    "It will collapse into a black hole",
+                    "It will collide with the Andromeda Galaxy",
+                    "It will become a spiral galaxy",
+                    "It will split into two galaxies"
+                  ],
+                  "answer": "It will collide with the Andromeda Galaxy",
+                  "explanation": "In about 4.5 billion years, the Milky Way will collide with the Andromeda Galaxy, forming a new galaxy called 'Milkomeda.'"
+                },
+                {
+                  "question": "How do scientists study the Milky Way?",
+                  "options": [
+                    "By observing it with the naked eye",
+                    "Using telescopes, space missions, and supercomputers",
+                    "By sending humans to explore it",
+                    "Through radio signals from space"
+                  ],
+                  "answer": "Using telescopes, space missions, and supercomputers",
+                  "explanation": "Scientists use advanced tools like telescopes, space missions (like Gaia and Hubble), and supercomputers to study the Milky Way."
+                },
+                {
+                  "question": "What is the name of the supermassive black hole in the center of the Milky Way?",
+                  "options": [
+                    "Sagittarius A*",
+                    "Andromeda A*",
+                    "Black Hole X",
+                    "Milky Black Hole"
+                  ],
+                  "answer": "Sagittarius A*",
+                  "explanation": "The supermassive black hole at the center of the Milky Way is called Sagittarius A*."
+                },
+                {
+                  "question": "What is the speed of the Milky Way's rotation?",
+                  "options": [
+                    "100,000 km per hour",
+                    "600 km per second",
+                    "828,000 km per hour",
+                    "1,000 km per second"
+                  ],
+                  "answer": "828,000 km per hour",
+                  "explanation": "The Milky Way spins at 828,000 km per hour."
+                },
+                {
+                  "question": "How many stars are estimated to be in the Milky Way?",
+                  "options": [
+                    "10 billion",
+                    "100 billion to 400 billion",
+                    "1 trillion",
+                    "500 billion"
+                  ],
+                  "answer": "100 billion to 400 billion",
+                  "explanation": "The Milky Way contains an estimated 100 to 400 billion stars."
+                },
+                {
+                  "question": "Which of the following is NOT a part of the Milky Way?",
+                  "options": [
+                    "Galactic Core",
+                    "Galactic Halo",
+                    "Galactic Disk",
+                    "Andromeda Arm"
+                  ],
+                  "answer": "Andromeda Arm",
+                  "explanation": "The Andromeda Arm is not part of the Milky Way. It is part of the Andromeda Galaxy."
+                },
+                {
+                  "question": "What are the Large and Small Magellanic Clouds?",
+                  "options": [
+                    "Nebulae in the Milky Way",
+                    "Small galaxies orbiting the Milky Way",
+                    "Stars in the Milky Way",
+                    "Supermassive black holes"
+                  ],
+                  "answer": "Small galaxies orbiting the Milky Way",
+                  "explanation": "The Large and Small Magellanic Clouds are small galaxies that orbit the Milky Way."
+                }
+              ]
+            },
+            {
+              "setNumber": 6,
+              "questions": [
+                {
+                  "question": "What is the approximate age of the Milky Way?",
+                  "options": [
+                    "5 billion years",
+                    "10 billion years",
+                    "13.6 billion years",
+                    "20 billion years"
+                  ],
+                  "answer": "13.6 billion years",
+                  "explanation": "The Milky Way is over 13.6 billion years old."
+                },
+                {
+                  "question": "How long would it take to cross the Milky Way if traveling at light speed?",
+                  "options": [
+                    "1,000 years",
+                    "100,000 years",
+                    "1 million years",
+                    "10 million years"
+                  ],
+                  "answer": "100,000 years",
+                  "explanation": "If traveling at light speed, it would take 100,000 years to cross the Milky Way."
+                },
+                {
+                  "question": "What is the reason the Milky Way looks like a band of stars in the night sky?",
+                  "options": [
+                    "It's made up of dust and gas",
+                    "It's viewed from the inside of the galaxy",
+                    "It's a result of a collision with another galaxy",
+                    "It's a reflection from the Sun"
+                  ],
+                  "answer": "It's viewed from the inside of the galaxy",
+                  "explanation": "The band of stars you see in the night sky is the Milky Way viewed from inside it."
+                },
+                {
+                  "question": "What does the term 'Milkomeda' refer to?",
+                  "options": [
+                    "A supernova explosion",
+                    "A black hole in the Milky Way",
+                    "The new galaxy formed by the Milky Way and Andromeda collision",
+                    "A star in the Milky Way"
+                  ],
+                  "answer": "The new galaxy formed by the Milky Way and Andromeda collision",
+                  "explanation": "'Milkomeda' is the name given to the new galaxy that will form after the Milky Way collides with the Andromeda Galaxy."
+                },
+                {
+                  "question": "What is the galactic halo?",
+                  "options": [
+                    "A bright light seen around stars",
+                    "A dense center of stars",
+                    "An invisible cloud surrounding the galaxy",
+                    "A star system within the Milky Way"
+                  ],
+                  "answer": "An invisible cloud surrounding the galaxy",
+                  "explanation": "The galactic halo is an invisible cloud that surrounds the Milky Way."
+                },
+                {
+                  "question": "What does the term 'Orion Arm' refer to?",
+                  "options": [
+                    "The central black hole of the Milky Way",
+                    "The arm of the Milky Way where our Solar System is located",
+                    "A star in the Milky Way",
+                    "A region in the Andromeda Galaxy"
+                  ],
+                  "answer": "The arm of the Milky Way where our Solar System is located",
+                  "explanation": "Our Solar System is located in the Orion Arm of the Milky Way."
+                },
+                {
+                  "question": "What is the primary reason for the formation of the Milky Way?",
+                  "options": [
+                    "A collision between two galaxies",
+                    "A massive explosion in space",
+                    "A cloud of gas and dust pulled together by gravity",
+                    "Radiation from nearby stars"
+                  ],
+                  "answer": "A cloud of gas and dust pulled together by gravity",
+                  "explanation": "The Milky Way formed from a cloud of gas and dust that was pulled together by gravity."
+                },
+                {
+                  "question": "How many stars does the Milky Way approximately have?",
+                  "options": [
+                    "10 to 100 million",
+                    "100 to 400 billion",
+                    "500 billion to 1 trillion",
+                    "1 to 10 billion"
+                  ],
+                  "answer": "100 to 400 billion",
+                  "explanation": "The Milky Way contains about 100 to 400 billion stars."
+                },
+                {
+                  "question": "Why is the Milky Way called the 'Akash Ganga' in India?",
+                  "options": [
+                    "It is a river in the sky",
+                    "It is named after a sacred river",
+                    "The name means 'celestial river Ganga'",
+                    "It resembles the Ganga river on Earth"
+                  ],
+                  "answer": "The name means 'celestial river Ganga'",
+                  "explanation": "In India, the Milky Way is called 'Akash Ganga,' meaning 'celestial river Ganga.'"
+                },
+                {
+                  "question": "What is the main characteristic of the spiral arms of the Milky Way?",
+                  "options": [
+                    "They are empty regions",
+                    "They contain stars, planets, and nebulae",
+                    "They are dark and cold",
+                    "They are the same size as the galactic core"
+                  ],
+                  "answer": "They contain stars, planets, and nebulae",
+                  "explanation": "The spiral arms are filled with stars, planets, and nebulae, including our Solar System."
+                }
+              ]
+            },
+            {
+              "setNumber": 7,
+              "questions": [
+                {
+                  "question": "What is the primary component of the galactic core?",
+                  "options": [
+                    "Supermassive black hole and millions of stars",
+                    "A massive cloud of dust",
+                    "A dense region of planets",
+                    "Nebulae and gas clouds"
+                  ],
+                  "answer": "Supermassive black hole and millions of stars",
+                  "explanation": "The galactic core contains millions of stars and a supermassive black hole."
+                },
+                {
+                  "question": "What is the name of the closest small galaxy to the Milky Way?",
+                  "options": [
+                    "Triangulum Galaxy",
+                    "Andromeda Galaxy",
+                    "Large Magellanic Cloud",
+                    "Pegasus Galaxy"
+                  ],
+                  "answer": "Large Magellanic Cloud",
+                  "explanation": "The Large Magellanic Cloud is one of the small galaxies that orbit the Milky Way."
+                },
+                {
+                  "question": "Which space mission is used to study the Milky Way?",
+                  "options": [
+                    "Apollo",
+                    "Gaia",
+                    "Voyager",
+                    "Hubble"
+                  ],
+                  "answer": "Gaia",
+                  "explanation": "The Gaia space mission is used to study the Milky Way and create 3D models of it."
+                },
+                {
+                  "question": "What does the 'Milky Way' name refer to in ancient mythology?",
+                  "options": [
+                    "A goddess of the stars",
+                    "A legend about a river",
+                    "The spilled milk of the gods",
+                    "A symbol of the Sun’s path"
+                  ],
+                  "answer": "The spilled milk of the gods",
+                  "explanation": "The name 'Milky Way' comes from ancient mythology, where it was said to resemble spilled milk in the sky."
+                },
+                {
+                  "question": "How is the Milky Way moving through space?",
+                  "options": [
+                    "At a constant speed",
+                    "It is stationary",
+                    "It is moving at 600 km per second",
+                    "It is spinning slowly"
+                  ],
+                  "answer": "It is moving at 600 km per second",
+                  "explanation": "The Milky Way moves through space at 600 km per second."
+                },
+                {
+                  "question": "What is one of the significant future events for the Milky Way?",
+                  "options": [
+                    "It will shrink in size",
+                    "It will be absorbed by a black hole",
+                    "It will collide with the Andromeda Galaxy",
+                    "It will be destroyed by a supernova"
+                  ],
+                  "answer": "It will collide with the Andromeda Galaxy",
+                  "explanation": "In about 4.5 billion years, the Milky Way will collide with the Andromeda Galaxy, forming a new galaxy."
+                },
+                {
+                  "question": "What is the Milky Way’s galactic disk?",
+                  "options": [
+                    "The spherical region around the center",
+                    "A flat region with most of the stars",
+                    "A rotating black hole",
+                    "The largest arm in the galaxy"
+                  ],
+                  "answer": "A flat region with most of the stars",
+                  "explanation": "The galactic disk is a flat region that contains most of the stars in the Milky Way."
+                },
+                {
+                  "question": "What is the supermassive black hole in the center of the Milky Way known as?",
+                  "options": [
+                    "Milky Hole",
+                    "Black Star A*",
+                    "Sagittarius A*",
+                    "Galactic Hole"
+                  ],
+                  "answer": "Sagittarius A*",
+                  "explanation": "The supermassive black hole at the center of the Milky Way is called Sagittarius A*."
+                },
+                {
+                  "question": "What will be the name of the new galaxy formed after the collision of the Milky Way and Andromeda?",
+                  "options": [
+                    "Milkomeda",
+                    "Andromeda Way",
+                    "Galaxy X",
+                    "Milky Andromeda"
+                  ],
+                  "answer": "Milkomeda",
+                  "explanation": "After the collision, the new galaxy will be named 'Milkomeda.'"
+                },
+                {
+                  "question": "What do scientists use to study the Milky Way’s structure?",
+                  "options": [
+                    "Satellites only",
+                    "Telescopes, space missions, and supercomputers",
+                    "Direct space travel",
+                    "Human observation from Earth"
+                  ],
+                  "answer": "Telescopes, space missions, and supercomputers",
+                  "explanation": "Scientists use telescopes, space missions like Gaia, and supercomputers to study the Milky Way."
+                }
+              ]
+            },
+            {
+              "setNumber": 8,
+              "questions": [
+                {
+                  "question": "Which part of the Milky Way contains the majority of its stars?",
+                  "options": [
+                    "Galactic Halo",
+                    "Galactic Disk",
+                    "Galactic Core",
+                    "Spiral Arms"
+                  ],
+                  "answer": "Galactic Disk",
+                  "explanation": "The galactic disk is the flat region that contains the majority of the stars in the Milky Way."
+                },
+                {
+                  "question": "What is the Milky Way's estimated diameter?",
+                  "options": [
+                    "10,000 light-years",
+                    "100,000 light-years",
+                    "500,000 light-years",
+                    "1,000,000 light-years"
+                  ],
+                  "answer": "100,000 light-years",
+                  "explanation": "The Milky Way has an estimated diameter of 100,000 light-years."
+                },
+                {
+                  "question": "What is the name of the galaxy that is on a collision course with the Milky Way?",
+                  "options": [
+                    "Andromeda Galaxy",
+                    "Triangulum Galaxy",
+                    "Virgo Galaxy",
+                    "Pegasus Galaxy"
+                  ],
+                  "answer": "Andromeda Galaxy",
+                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way and is on a collision course with it."
+                },
+                {
+                  "question": "How far is the Sun located from the center of the Milky Way?",
+                  "options": [
+                    "1,000 light-years",
+                    "10,000 light-years",
+                    "27,000 light-years",
+                    "100,000 light-years"
+                  ],
+                  "answer": "27,000 light-years",
+                  "explanation": "The Sun is located about 27,000 light-years from the center of the Milky Way."
+                },
+                {
+                  "question": "Which space telescope has contributed to the study of the Milky Way?",
+                  "options": [
+                    "Chandra",
+                    "Hubble",
+                    "Spitzer",
+                    "Kepler"
+                  ],
+                  "answer": "Hubble",
+                  "explanation": "The Hubble Space Telescope has contributed significantly to the study of the Milky Way."
+                },
+                {
+                  "question": "What does the name 'Akash Ganga' mean in India?",
+                  "options": [
+                    "Starry Path",
+                    "Celestial River Ganga",
+                    "Cosmic Light",
+                    "Milky Stars"
+                  ],
+                  "answer": "Celestial River Ganga",
+                  "explanation": "'Akash Ganga' means 'celestial river Ganga,' which is the name for the Milky Way in India."
+                },
+                {
+                  "question": "How many main arms does the Milky Way have?",
+                  "options": [
+                    "Two",
+                    "Four",
+                    "Six",
+                    "Eight"
+                  ],
+                  "answer": "Four",
+                  "explanation": "The Milky Way is a spiral-shaped galaxy with four main arms."
+                },
+                {
+                  "question": "What is the Milky Way's speed as it moves through space?",
+                  "options": [
+                    "100 km per second",
+                    "600 km per second",
+                    "1,000 km per second",
+                    "1,500 km per second"
+                  ],
+                  "answer": "600 km per second",
+                  "explanation": "The Milky Way moves through space at a speed of 600 km per second."
+                },
+                {
+                  "question": "What is the primary reason stars and planets won't crash into each other when the Milky Way collides with Andromeda?",
+                  "options": [
+                    "The Milky Way is shrinking",
+                    "There is vast empty space between stars and planets",
+                    "The galaxies will pass through each other",
+                    "The gravitational pull is too weak"
+                  ],
+                  "answer": "There is vast empty space between stars and planets",
+                  "explanation": "The vast empty space between stars and planets ensures that they won't crash into each other during the collision between the Milky Way and Andromeda."
+                },
+                {
+                  "question": "What is the name of the star system that our Solar System is part of in the Milky Way?",
+                  "options": [
+                    "Orion System",
+                    "Andromeda System",
+                    "Sagittarius System",
+                    "Orion Arm"
+                  ],
+                  "answer": "Orion Arm",
+                  "explanation": "Our Solar System is located in the Orion Arm of the Milky Way."
+                }
+              ]
+            },
+            {
+              "setNumber": 9,
+              "questions": [
+                {
+                  "question": "How does the Milky Way’s formation relate to gravity?",
+                  "options": [
+                    "Gravity causes the galaxy to shrink over time",
+                    "Gravity causes the stars to form and hold the galaxy together",
+                    "Gravity causes stars to disappear",
+                    "Gravity has no role in galaxy formation"
+                  ],
+                  "answer": "Gravity causes the stars to form and hold the galaxy together",
+                  "explanation": "Gravity played a key role in the formation of the Milky Way by pulling gas and dust together to create stars, planets, and other celestial objects."
+                },
+                {
+                  "question": "How do scientists create 3D models of the Milky Way?",
+                  "options": [
+                    "By traveling through space",
+                    "Using telescopes and space missions",
+                    "By observing the galaxy’s shadow",
+                    "By sending robots to the Milky Way"
+                  ],
+                  "answer": "Using telescopes and space missions",
+                  "explanation": "Scientists use telescopes (radio, optical, and infrared), space missions like Gaia, and supercomputers to study and create 3D models of the Milky Way."
+                },
+                {
+                  "question": "What is the total number of stars in the Milky Way?",
+                  "options": [
+                    "10 to 50 billion",
+                    "50 to 100 billion",
+                    "100 to 400 billion",
+                    "500 billion to 1 trillion"
+                  ],
+                  "answer": "100 to 400 billion",
+                  "explanation": "The Milky Way contains between 100 and 400 billion stars."
+                },
+                {
+                  "question": "What will happen to the Milky Way in 4.5 billion years?",
+                  "options": [
+                    "It will collapse into a black hole",
+                    "It will merge with the Andromeda Galaxy",
+                    "It will expand into a supernova",
+                    "It will become a starless galaxy"
+                  ],
+                  "answer": "It will merge with the Andromeda Galaxy",
+                  "explanation": "In 4.5 billion years, the Milky Way will merge with the Andromeda Galaxy, forming a new galaxy called Milkomeda."
+                },
+                {
+                  "question": "Which of the following best describes the 'Galactic Halo'?",
+                  "options": [
+                    "The flat disk of stars",
+                    "A dense collection of planets",
+                    "An invisible cloud surrounding the galaxy",
+                    "The center of the Milky Way"
+                  ],
+                  "answer": "An invisible cloud surrounding the galaxy",
+                  "explanation": "The galactic halo is an invisible cloud that surrounds the Milky Way galaxy."
+                },
+                {
+                  "question": "What is the name of the black hole at the center of the Milky Way?",
+                  "options": [
+                    "Sagittarius A*",
+                    "Orion A*",
+                    "Milky Star",
+                    "Galactic Hole"
+                  ],
+                  "answer": "Sagittarius A*",
+                  "explanation": "The supermassive black hole at the center of the Milky Way is called Sagittarius A*."
+                },
+                {
+                  "question": "What is the name of the other small galaxies that orbit the Milky Way?",
+                  "options": [
+                    "Andromeda and Triangulum",
+                    "Large and Small Magellanic Clouds",
+                    "Virgo and Pegasus",
+                    "Nebula and Antares"
+                  ],
+                  "answer": "Large and Small Magellanic Clouds",
+                  "explanation": "The Large and Small Magellanic Clouds are small galaxies that orbit the Milky Way."
+                },
+                {
+                  "question": "How does the Milky Way appear in the night sky?",
+                  "options": [
+                    "As a single bright star",
+                    "As a collection of distant planets",
+                    "As a bright band of stars",
+                    "As a faint shadow"
+                  ],
+                  "answer": "As a bright band of stars",
+                  "explanation": "The Milky Way appears as a bright band of stars in the night sky."
+                },
+                {
+                  "question": "What is the primary shape of the Milky Way?",
+                  "options": [
+                    "Elliptical",
+                    "Irregular",
+                    "Spiral",
+                    "Circular"
+                  ],
+                  "answer": "Spiral",
+                  "explanation": "The Milky Way is a spiral-shaped galaxy with four main arms."
+                },
+                {
+                  "question": "How does the name 'Milky Way' relate to its appearance?",
+                  "options": [
+                    "It resembles a path of milk across the sky",
+                    "It looks like a circle of stars",
+                    "It is a metaphor for the stars' brightness",
+                    "It was named after a famous scientist"
+                  ],
+                  "answer": "It resembles a path of milk across the sky",
+                  "explanation": "The name 'Milky Way' comes from ancient mythology, where it was said to resemble spilled milk in the sky."
                 }
               ]
             },
@@ -9920,1264 +9920,114 @@
               "setNumber": 10,
               "questions": [
                 {
-                  "question": "How fast is the Milky Way moving compared to the universe?",
+                  "question": "What is the Milky Way's approximate speed as it moves through space?",
                   "options": [
-                    "100 km/s",
-                    "370 km/s",
-                    "500 km/s",
-                    "600 km/s"
+                    "100 km per second",
+                    "500 km per second",
+                    "600 km per second",
+                    "1,000 km per second"
                   ],
-                  "answer": "370 km/s",
-                  "explanation": "The Milky Way is moving at 370 kilometers per second relative to the cosmic background radiation."
+                  "answer": "600 km per second",
+                  "explanation": "The Milky Way moves through space at a speed of 600 km per second."
                 },
                 {
-                  "question": "What part of the Milky Way’s mass is made of stars?",
+                  "question": "Which of the following is NOT a part of the Milky Way?",
                   "options": [
-                    "1%",
-                    "10%",
-                    "25%",
-                    "50%"
+                    "Galactic Core",
+                    "Galactic Halo",
+                    "Solar System",
+                    "Black Hole Center"
                   ],
-                  "answer": "10%",
-                  "explanation": "Stars make up only about 10% of the Milky Way’s mass; most of it is dark matter."
+                  "answer": "Solar System",
+                  "explanation": "While the Solar System is located in the Milky Way, it is not a separate 'part' of the galaxy itself."
                 },
                 {
-                  "question": "Which part of the Milky Way has the oldest stars?",
+                  "question": "Which galaxy is the closest major galaxy to the Milky Way?",
                   "options": [
-                    "Galactic disk",
-                    "Galactic halo",
-                    "Galactic center",
-                    "Spiral arms"
+                    "Triangulum Galaxy",
+                    "Andromeda Galaxy",
+                    "Messier 87",
+                    "Sombrero Galaxy"
                   ],
-                  "answer": "Galactic halo",
-                  "explanation": "The oldest stars are found in the Galactic halo, often in clusters called globular clusters."
+                  "answer": "Andromeda Galaxy",
+                  "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way."
                 },
                 {
-                  "question": "Which galaxy group does the Milky Way belong to?",
+                  "question": "How long does it take for the Solar System to complete one orbit around the Milky Way?",
                   "options": [
-                    "Virgo Cluster",
-                    "Local Group",
-                    "Coma Cluster",
-                    "Perseus Cluster"
+                    "100,000 years",
+                    "225-250 million years",
+                    "1 billion years",
+                    "10 million years"
                   ],
-                  "answer": "Local Group",
-                  "explanation": "The Milky Way is part of the Local Group, a small cluster of galaxies including Andromeda."
-                },
-                {
-                  "question": "What is the total mass of the Milky Way?",
-                  "options": [
-                    "1 billion suns",
-                    "10 billion suns",
-                    "100 billion suns",
-                    "1 trillion suns"
-                  ],
-                  "answer": "1 trillion suns",
-                  "explanation": "The Milky Way’s mass is about 1 trillion times the mass of our Sun, mostly dark matter."
-                },
-                {
-                  "question": "What is the hot gas in the Milky Way's halo called?",
-                  "options": [
-                    "Intergalactic medium",
-                    "Galactic corona",
-                    "Galactic bulge",
-                    "Dark matter"
-                  ],
-                  "answer": "Galactic corona",
-                  "explanation": "The hot, ionized gas around the Milky Way is called the galactic corona."
-                },
-                {
-                  "question": "What is the most common element in the Milky Way?",
-                  "options": [
-                    "Hydrogen",
-                    "Helium",
-                    "Carbon",
-                    "Oxygen"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the most abundant element, forming stars and clouds in the galaxy."
-                },
-                {
-                  "question": "What does the Milky Way’s rotation curve show about dark matter?",
-                  "options": [
-                    "Stars near the center orbit faster",
-                    "Outer stars orbit faster",
-                    "The galaxy is not rotating",
-                    "Dark matter is visible"
-                  ],
-                  "answer": "Outer stars orbit faster",
-                  "explanation": "The fast rotation of outer stars suggests invisible dark matter in the galaxy."
-                },
-                {
-                  "question": "Which type of star cluster is mostly in the Milky Way's halo?",
-                  "options": [
-                    "Open clusters",
-                    "Globular clusters",
-                    "Young clusters",
-                    "Protostellar clusters"
-                  ],
-                  "answer": "Globular clusters",
-                  "explanation": "Globular clusters, made of old stars, are mainly found in the Milky Way's halo."
-                },
-                {
-                  "question": "What proves the Milky Way is a barred spiral galaxy?",
-                  "options": [
-                    "Central bar of stars",
-                    "Supermassive black hole",
-                    "Dark matter halo",
-                    "Spherical shape"
-                  ],
-                  "answer": "Central bar of stars",
-                  "explanation": "The Milky Way’s central bar of stars makes it a barred spiral galaxy."
-                }
-              ]
-            },
-            {
-              "setNumber": 11,
-              "questions": [
-                {
-                  "question": "What type of galaxy is the Milky Way?",
-                  "options": [
-                    "Elliptical",
-                    "Spiral",
-                    "Irregular",
-                    "Lenticular"
-                  ],
-                  "answer": "Spiral",
-                  "explanation": "The Milky Way is a spiral galaxy with curved arms and a central bar shape."
-                },
-                {
-                  "question": "How long does it take for the solar system to orbit the center of the Milky Way?",
-                  "options": [
-                    "100 million years",
-                    "250 million years",
-                    "500 million years",
-                    "1 billion years"
-                  ],
-                  "answer": "250 million years",
-                  "explanation": "The solar system takes about 250 million years to complete one orbit."
-                },
-                {
-                  "question": "What is at the center of the Milky Way?",
-                  "options": [
-                    "A neutron star",
-                    "A supernova",
-                    "A supermassive black hole",
-                    "A red giant"
-                  ],
-                  "answer": "A supermassive black hole",
-                  "explanation": "The center of the Milky Way has a supermassive black hole called Sagittarius A*."
-                },
-                {
-                  "question": "How many stars are in the Milky Way?",
-                  "options": [
-                    "1 billion",
-                    "10 billion",
-                    "100 billion",
-                    "1 trillion"
-                  ],
-                  "answer": "100 billion",
-                  "explanation": "The Milky Way has around 100 billion stars, many with their own planets."
-                },
-                {
-                  "question": "What is the Milky Way's diameter?",
-                  "options": [
-                    "50,000 light-years",
-                    "100,000 light-years",
-                    "150,000 light-years",
-                    "200,000 light-years"
-                  ],
-                  "answer": "100,000 light-years",
-                  "explanation": "The Milky Way is about 100,000 light-years across."
-                },
-                {
-                  "question": "What shape is the Milky Way?",
-                  "options": [
-                    "Circle",
-                    "Flat disk",
-                    "Spherical",
-                    "Cube"
-                  ],
-                  "answer": "Flat disk",
-                  "explanation": "The Milky Way looks like a flat disk with spiral arms and a bulging center."
-                },
-                {
-                  "question": "How does the Milky Way rotate?",
-                  "options": [
-                    "Clockwise",
-                    "Counterclockwise",
-                    "It does not rotate",
-                    "Both directions"
-                  ],
-                  "answer": "Counterclockwise",
-                  "explanation": "The Milky Way rotates counterclockwise when seen from its northern side."
-                },
-                {
-                  "question": "What is in the Milky Way?",
-                  "options": [
-                    "Only stars",
-                    "Only planets",
-                    "Stars and planets",
-                    "Stars, planets, and asteroids"
-                  ],
-                  "answer": "Stars, planets, and asteroids",
-                  "explanation": "The Milky Way is full of stars, planets, asteroids, and more."
-                },
-                {
-                  "question": "How far is Earth from the Milky Way's center?",
-                  "options": [
-                    "1,000 light-years",
-                    "10,000 light-years",
-                    "26,000 light-years",
-                    "100,000 light-years"
-                  ],
-                  "answer": "26,000 light-years",
-                  "explanation": "Earth is about 26,000 light-years away from the center of the galaxy."
-                },
-                {
-                  "question": "What star group is nearest to us?",
-                  "options": [
-                    "Alpha Centauri",
-                    "Sirius",
-                    "Betelgeuse",
-                    "Proxima Centauri"
-                  ],
-                  "answer": "Alpha Centauri",
-                  "explanation": "Alpha Centauri is the closest star system to the solar system, about 4.37 light-years away."
-                }
-              ]
-            },
-            {
-              "setNumber": 12,
-              "questions": [
-                {
-                  "question": "Where is most of the gas and dust in the Milky Way?",
-                  "options": [
-                    "Galactic core",
-                    "Spiral arms",
-                    "Halo",
-                    "Bar"
-                  ],
-                  "answer": "Spiral arms",
-                  "explanation": "The spiral arms have lots of gas and dust, where stars are born."
-                },
-                {
-                  "question": "What do astronomers use to study the Milky Way?",
-                  "options": [
-                    "Telescopes",
-                    "Computers",
-                    "Mathematics",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Astronomers use telescopes, computers, and math to study the galaxy."
-                },
-                {
-                  "question": "What is the Galactic Halo?",
-                  "options": [
-                    "The Milky Way's center",
-                    "Dark matter area",
-                    "Star cluster region",
-                    "Outer edge of the galaxy"
-                  ],
-                  "answer": "Star cluster region",
-                  "explanation": "The halo surrounds the galaxy and has old stars and star clusters."
-                },
-                {
-                  "question": "How much of the Milky Way's mass is dark matter?",
-                  "options": [
-                    "10%",
-                    "20%",
-                    "50%",
-                    "90%"
-                  ],
-                  "answer": "90%",
-                  "explanation": "Dark matter makes up about 90% of the Milky Way's mass."
-                },
-                {
-                  "question": "What group is the Milky Way part of?",
-                  "options": [
-                    "The Local Group",
-                    "The Virgo Cluster",
-                    "The Laniakea Supercluster",
-                    "The Andromeda Group"
-                  ],
-                  "answer": "The Local Group",
-                  "explanation": "The Milky Way belongs to the Local Group, a group of over 50 galaxies."
-                },
-                {
-                  "question": "What are stars made in the Milky Way called?",
-                  "options": [
-                    "Solar",
-                    "Galactic",
-                    "Cosmic",
-                    "Stellar"
-                  ],
-                  "answer": "Stellar",
-                  "explanation": "Stars in the galaxy are called stellar objects."
-                },
-                {
-                  "question": "What will happen to the Milky Way in the future?",
-                  "options": [
-                    "It will collapse",
-                    "It will collide with Andromeda",
-                    "It will disappear",
-                    "It will shrink"
-                  ],
-                  "answer": "It will collide with Andromeda",
-                  "explanation": "The Milky Way will merge with Andromeda in about 4.5 billion years."
-                },
-                {
-                  "question": "What can be found in the Milky Way's center?",
-                  "options": [
-                    "Black holes",
-                    "Supernovae",
-                    "New stars",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "The center of the Milky Way is full of activity like black holes and new stars."
-                },
-                {
-                  "question": "What light do we use to study the Milky Way?",
-                  "options": [
-                    "Radio waves",
-                    "Visible light",
-                    "Infrared",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Astronomers use many kinds of light to explore the galaxy."
-                },
-                {
-                  "question": "What is the main material in stars?",
-                  "options": [
-                    "Oxygen",
-                    "Hydrogen",
-                    "Carbon",
-                    "Iron"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Stars are mostly made of hydrogen, which fuels them."
-                }
-              ]
-            },
-            {
-              "setNumber": 13,
-              "questions": [
-                {
-                  "question": "What is the main shape of the Milky Way?",
-                  "options": [
-                    "Elliptical",
-                    "Flat disk with a bulge",
-                    "Spherical",
-                    "Irregular"
-                  ],
-                  "answer": "Flat disk with a bulge",
-                  "explanation": "The Milky Way has a flat disk shape with a central bulge, just like a spinning disk."
-                },
-                {
-                  "question": "Which type of stars are found in the Milky Way's halo?",
-                  "options": [
-                    "Young stars",
-                    "Red giants",
-                    "Blue stars",
-                    "Old stars"
-                  ],
-                  "answer": "Old stars",
-                  "explanation": "The halo of the Milky Way is home to very old stars that have been around for billions of years."
-                },
-                {
-                  "question": "How far is the Andromeda galaxy from the Milky Way?",
-                  "options": [
-                    "2.5 million light-years",
-                    "4.5 million light-years",
-                    "1 million light-years",
-                    "10 million light-years"
-                  ],
-                  "answer": "2.5 million light-years",
-                  "explanation": "Andromeda is about 2.5 million light-years away from our galaxy."
-                },
-                {
-                  "question": "What is a supernova?",
-                  "options": [
-                    "A black hole explosion",
-                    "The death of a star",
-                    "The birth of a star",
-                    "A galaxy collision"
-                  ],
-                  "answer": "The death of a star",
-                  "explanation": "A supernova happens when a star explodes at the end of its life."
-                },
-                {
-                  "question": "Where are most young stars in the Milky Way?",
-                  "options": [
-                    "Core",
-                    "Spiral arms",
-                    "Halo",
-                    "Bulge"
-                  ],
-                  "answer": "Spiral arms",
-                  "explanation": "Young stars are mostly found in the spiral arms where new stars are born."
-                },
-                {
-                  "question": "What surrounds the Milky Way?",
-                  "options": [
-                    "Cosmic void",
-                    "Galactic halo",
-                    "Dark matter halo",
-                    "Stellar atmosphere"
-                  ],
-                  "answer": "Galactic halo",
-                  "explanation": "The galactic halo is a region around the Milky Way filled with older stars and dark matter."
-                },
-                {
-                  "question": "What is the brightest star in the Milky Way?",
-                  "options": [
-                    "Sirius",
-                    "Canopus",
-                    "Rigel",
-                    "Vega"
-                  ],
-                  "answer": "Sirius",
-                  "explanation": "Sirius is the brightest star visible from Earth and part of the Milky Way."
-                },
-                {
-                  "question": "What does 'galactic year' mean?",
-                  "options": [
-                    "One orbit around the Milky Way",
-                    "One year on Earth",
-                    "The age of the Milky Way",
-                    "The time light takes to cross the galaxy"
-                  ],
-                  "answer": "One orbit around the Milky Way",
-                  "explanation": "A galactic year is the time it takes the solar system to go around the Milky Way's center."
-                },
-                {
-                  "question": "What does dark matter do in the Milky Way?",
-                  "options": [
-                    "Creates stars",
-                    "Provides light",
-                    "Exerts gravitational pull",
-                    "Destroys stars"
-                  ],
-                  "answer": "Exerts gravitational pull",
-                  "explanation": "Dark matter helps hold the galaxy together with its strong gravity."
-                },
-                {
-                  "question": "What happens when galaxies collide?",
-                  "options": [
-                    "They merge",
-                    "They destroy each other",
-                    "They stay apart",
-                    "They form a new galaxy"
-                  ],
-                  "answer": "They merge",
-                  "explanation": "When galaxies collide, they slowly combine to create a new, bigger galaxy."
-                }
-              ]
-            },
-            {
-              "setNumber": 14,
-              "questions": [
-                {
-                  "question": "What is a globular cluster?",
-                  "options": [
-                    "A cluster of young stars",
-                    "A cluster of old stars",
-                    "A type of galaxy",
-                    "A supernova remnant"
-                  ],
-                  "answer": "A cluster of old stars",
-                  "explanation": "Globular clusters are spherical collections of older stars, commonly found in the halo of the Milky Way."
-                },
-                {
-                  "question": "Which part of the Milky Way is most studied?",
-                  "options": [
-                    "The core",
-                    "The halo",
-                    "The spiral arms",
-                    "The bulge"
-                  ],
-                  "answer": "The spiral arms",
-                  "explanation": "The spiral arms are most studied because they contain a high concentration of young stars and star-forming regions."
-                },
-                {
-                  "question": "What are cosmic rays?",
-                  "options": [
-                    "Light from stars",
-                    "Particles from supernovae",
-                    "Radiation from black holes",
-                    "Gas clouds in the Milky Way"
-                  ],
-                  "answer": "Particles from supernovae",
-                  "explanation": "Cosmic rays are high-energy particles that originate from supernovae and other cosmic phenomena."
-                },
-                {
-                  "question": "What is the fate of stars in the Milky Way?",
-                  "options": [
-                    "To become black holes",
-                    "To burn out and die",
-                    "To explode as supernovae",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "Stars in the Milky Way can end their lives as black holes, white dwarfs, or supernovae, depending on their mass."
-                },
-                {
-                  "question": "What is the main element found in the Milky Way's stars?",
-                  "options": [
-                    "Helium",
-                    "Oxygen",
-                    "Hydrogen",
-                    "Carbon"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the most abundant element in stars within the Milky Way, making up about 75% of their mass."
-                },
-                {
-                  "question": "What is the current understanding of the Milky Way's shape?",
-                  "options": [
-                    "It is spherical",
-                    "It is irregular",
-                    "It is a flat disk",
-                    "It is a cylinder"
-                  ],
-                  "answer": "It is a flat disk",
-                  "explanation": "The current understanding is that the Milky Way has a flat disk shape with spiral arms extending outward."
-                },
-                {
-                  "question": "Which of the following objects is part of the Milky Way?",
-                  "options": [
-                    "Black holes",
-                    "Planets",
-                    "Comets",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "The Milky Way contains a variety of celestial objects, including black holes, planets, and comets."
-                },
-                {
-                  "question": "What does the 'bar' in a barred spiral galaxy refer to?",
-                  "options": [
-                    "A star formation region",
-                    "A central structure of stars",
-                    "A black hole",
-                    "A type of star"
-                  ],
-                  "answer": "A central structure of stars",
-                  "explanation": "The 'bar' in a barred spiral galaxy refers to a central structure of stars that extends from the core."
-                },
-                {
-                  "question": "How do we know about the structure of the Milky Way?",
-                  "options": [
-                    "By using telescopes",
-                    "Through computer models",
-                    "By observing star movements",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "We understand the structure of the Milky Way through various methods, including telescopic observations and computer models."
-                },
-                {
-                  "question": "What is the Milky Way's most famous satellite galaxy?",
-                  "options": [
-                    "Andromeda",
-                    "The Large Magellanic Cloud",
-                    "The Small Magellanic Cloud",
-                    "Triangulum"
-                  ],
-                  "answer": "The Large Magellanic Cloud",
-                  "explanation": "The Large Magellanic Cloud is the most famous satellite galaxy of the Milky Way."
-                }
-              ]
-            },
-            {
-              "setNumber": 15,
-              "questions": [
-                {
-                  "question": "How do we measure distances to stars in the Milky Way?",
-                  "options": [
-                    "Parallax",
-                    "Light years",
-                    "Spectroscopy",
-                    "Standard candles"
-                  ],
-                  "answer": "Parallax",
-                  "explanation": "Parallax is used to measure how far stars are by observing their movement against distant stars."
-                },
-                {
-                  "question": "What are open clusters?",
-                  "options": [
-                    "Young star groups",
-                    "Old star clusters",
-                    "Black holes",
-                    "Globular clusters"
-                  ],
-                  "answer": "Young star groups",
-                  "explanation": "Open clusters are groups of young stars found in the Milky Way's spiral arms."
+                  "answer": "225-250 million years",
+                  "explanation": "The Solar System takes about 225-250 million years to orbit around the center of the Milky Way."
                 },
                 {
                   "question": "How old is the Milky Way?",
                   "options": [
                     "1 billion years",
-                    "5 billion years",
-                    "10 billion years",
-                    "13.6 billion years"
+                    "4.5 billion years",
+                    "13.6 billion years",
+                    "100 million years"
                   ],
                   "answer": "13.6 billion years",
-                  "explanation": "The Milky Way is around 13.6 billion years old, forming soon after the Big Bang."
+                  "explanation": "The Milky Way is more than 13.6 billion years old, making it one of the oldest galaxies in the universe."
                 },
                 {
-                  "question": "Which tool helps us study the Milky Way in infrared light?",
+                  "question": "What is located at the center of the Milky Way galaxy?",
                   "options": [
-                    "Optical telescope",
-                    "Radio telescope",
-                    "Infrared telescope",
-                    "X-ray telescope"
-                  ],
-                  "answer": "Infrared telescope",
-                  "explanation": "Infrared telescopes are used to observe objects in the Milky Way that emit infrared light."
-                },
-                {
-                  "question": "What is dark matter in the Milky Way made of?",
-                  "options": [
-                    "Normal matter",
-                    "Black holes",
-                    "Neutrinos",
-                    "Unknown particles"
-                  ],
-                  "answer": "Unknown particles",
-                  "explanation": "Scientists believe dark matter is made of unknown particles that don’t interact with regular matter."
-                },
-                {
-                  "question": "What type of star is the Sun?",
-                  "options": [
-                    "Red giant",
-                    "White dwarf",
-                    "G-type star",
-                    "Neutron star"
-                  ],
-                  "answer": "G-type star",
-                  "explanation": "The Sun is a G-type star, sometimes called a yellow dwarf, located in the Milky Way."
-                },
-                {
-                  "question": "What happens when a star gets near a supermassive black hole?",
-                  "options": [
-                    "New stars form",
-                    "Time slows down",
-                    "Planets are created",
-                    "Stars are born"
-                  ],
-                  "answer": "Time slows down",
-                  "explanation": "Near a supermassive black hole, time slows down due to the black hole’s strong gravity."
-                },
-                {
-                  "question": "What is the habitable zone of a star?",
-                  "options": [
-                    "Near a black hole",
-                    "Where life is possible",
-                    "Inside a star's core",
-                    "Outer atmosphere of a star"
-                  ],
-                  "answer": "Where life is possible",
-                  "explanation": "The habitable zone is the area around a star where conditions are good for liquid water and life."
-                },
-                {
-                  "question": "What is the closest galaxy to the Milky Way?",
-                  "options": [
-                    "Andromeda",
-                    "Triangulum",
-                    "Large Magellanic Cloud",
-                    "Virgo"
-                  ],
-                  "answer": "Andromeda",
-                  "explanation": "The Andromeda galaxy is the closest galaxy to the Milky Way, about 2.5 million light-years away."
-                },
-                {
-                  "question": "What group does the Milky Way belong to?",
-                  "options": [
-                    "Only galaxy",
-                    "Local Group",
-                    "Largest galaxy",
-                    "Not important"
-                  ],
-                  "answer": "Local Group",
-                  "explanation": "The Milky Way is part of the Local Group, a collection of more than 50 galaxies."
-                }
-              ]
-            },
-            {
-              "setNumber": 16,
-              "questions": [
-                {
-                  "question": "What are the primary components of the Milky Way?",
-                  "options": [
-                    "Stars, gas, and dust",
-                    "Planets, moons, and asteroids",
-                    "Dark matter and dark energy",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "The Milky Way is composed of stars, gas, dust, dark matter, and dark energy."
-                },
-                {
-                  "question": "What do we call the observable part of the Milky Way?",
-                  "options": [
-                    "Galactic core",
-                    "Milky Way disk",
-                    "Galactic bulge",
-                    "Milky Way halo"
-                  ],
-                  "answer": "Milky Way disk",
-                  "explanation": "The observable part of the Milky Way is often referred to as the Milky Way disk, which includes its spiral arms."
-                },
-                {
-                  "question": "What is the structure of the Milky Way's core?",
-                  "options": [
-                    "A flat disk",
-                    "A bulge of stars",
                     "A supermassive black hole",
-                    "All of the above"
+                    "A cluster of planets",
+                    "The Solar System",
+                    "A nebula"
                   ],
-                  "answer": "All of the above",
-                  "explanation": "The core of the Milky Way consists of a bulge of stars surrounding a supermassive black hole."
+                  "answer": "A supermassive black hole",
+                  "explanation": "At the center of the Milky Way lies a supermassive black hole known as Sagittarius A*."
                 },
                 {
-                  "question": "What is the distance to the Milky Way's farthest known star?",
-                  "options": [
-                    "10,000 light-years",
-                    "50,000 light-years",
-                    "100,000 light-years",
-                    "200,000 light-years"
-                  ],
-                  "answer": "100,000 light-years",
-                  "explanation": "The farthest known stars in the Milky Way are located near the outer edge, around 100,000 light-years from the core."
-                },
-                {
-                  "question": "What does the term 'starburst galaxy' refer to?",
-                  "options": [
-                    "A galaxy with a high rate of star formation",
-                    "A galaxy with no stars",
-                    "A galaxy with only old stars",
-                    "A galaxy in a quiescent phase"
-                  ],
-                  "answer": "A galaxy with a high rate of star formation",
-                  "explanation": "A starburst galaxy is characterized by an exceptionally high rate of star formation, often observed in interacting galaxies."
-                },
-                {
-                  "question": "What type of supernova is most common in the Milky Way?",
-                  "options": [
-                    "Type I",
-                    "Type II",
-                    "Type Ia",
-                    "Type Ib"
-                  ],
-                  "answer": "Type II",
-                  "explanation": "Type II supernovae occur when massive stars exhaust their nuclear fuel and collapse, common in the Milky Way."
-                },
-                {
-                  "question": "How many arms does the Milky Way have?",
-                  "options": [
-                    "1",
-                    "2",
-                    "4",
-                    "6"
-                  ],
-                  "answer": "4",
-                  "explanation": "The Milky Way is believed to have four major arms, known as the Perseus, Scutum-Centaurus, Sagittarius, and Carina-Sagittarius arms."
-                },
-                {
-                  "question": "What is the approximate temperature of the Sun's surface?",
-                  "options": [
-                    "3,000 K",
-                    "5,500 K",
-                    "7,000 K",
-                    "10,000 K"
-                  ],
-                  "answer": "5,500 K",
-                  "explanation": "The surface temperature of the Sun is approximately 5,500 K, giving it a yellowish appearance."
-                },
-                {
-                  "question": "What is the role of supermassive black holes in galaxies?",
-                  "options": [
-                    "To attract stars",
-                    "To generate energy",
-                    "To influence galaxy formation",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "Supermassive black holes play significant roles in attracting stars, generating energy, and influencing galaxy formation and evolution."
-                },
-                {
-                  "question": "What is the observable universe's relation to the Milky Way?",
-                  "options": [
-                    "It is larger",
-                    "It is smaller",
-                    "It is the same size",
-                    "It is not related"
-                  ],
-                  "answer": "It is larger",
-                  "explanation": "The observable universe is significantly larger than the Milky Way, containing billions of other galaxies."
-                }
-              ]
-            },
-            {
-              "setNumber": 17,
-              "questions": [
-                {
-                  "question": "What do stars in the Milky Way use as fuel?",
-                  "options": [
-                    "Oxygen",
-                    "Hydrogen",
-                    "Carbon",
-                    "Nitrogen"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Stars use hydrogen as their primary fuel for nuclear fusion, making it the most common element in the Milky Way."
-                },
-                {
-                  "question": "What forms around a black hole as it is forming?",
-                  "options": [
-                    "Supernova",
-                    "Neutron star",
-                    "Accretion disk",
-                    "Red giant"
-                  ],
-                  "answer": "Accretion disk",
-                  "explanation": "An accretion disk forms as matter spirals into a black hole, emitting radiation like X-rays."
-                },
-                {
-                  "question": "What is found in the space between stars in the Milky Way?",
-                  "options": [
-                    "Stars",
-                    "Gas and dust",
-                    "Dark matter",
-                    "Black holes"
-                  ],
-                  "answer": "Gas and dust",
-                  "explanation": "The interstellar medium contains gas and dust, which are key ingredients for star formation."
-                },
-                {
-                  "question": "How do scientists find planets around other stars?",
-                  "options": [
-                    "Transit method",
-                    "Radial velocity",
-                    "Direct imaging",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Scientists use several methods, including transit, radial velocity, and direct imaging, to find exoplanets."
-                },
-                {
-                  "question": "What is a red giant star like?",
-                  "options": [
-                    "Very small",
-                    "Very hot",
-                    "Large and cool",
-                    "Blue"
-                  ],
-                  "answer": "Large and cool",
-                  "explanation": "Red giants are stars that are very large and cooler than younger stars."
-                },
-                {
-                  "question": "What is a dark nebula?",
-                  "options": [
-                    "Bright star cluster",
-                    "Dense gas and dust",
-                    "Type of galaxy",
-                    "Star-forming region"
-                  ],
-                  "answer": "Dense gas and dust",
-                  "explanation": "Dark nebulas are made of dense gas and dust, blocking light from stars behind them."
-                },
-                {
-                  "question": "What is a protostar?",
-                  "options": [
-                    "New star forming",
-                    "Dying star",
-                    "Star ending its life",
-                    "Star with nuclear fusion"
-                  ],
-                  "answer": "New star forming",
-                  "explanation": "A protostar is a new star in its early stage before starting nuclear fusion."
-                },
-                {
-                  "question": "Why is the Cosmic Microwave Background important?",
-                  "options": [
-                    "Shows dark matter",
-                    "Proves Big Bang",
-                    "Finds black holes",
-                    "Explains star evolution"
-                  ],
-                  "answer": "Proves Big Bang",
-                  "explanation": "The Cosmic Microwave Background is evidence of the Big Bang and the early universe."
-                },
-                {
-                  "question": "What is a neutron star?",
-                  "options": [
-                    "Black hole",
-                    "Supernova remnant",
-                    "New star",
-                    "Red giant"
-                  ],
-                  "answer": "Supernova remnant",
-                  "explanation": "A neutron star forms after a massive star explodes as a supernova."
-                },
-                {
-                  "question": "What can a star become after using up its fuel?",
-                  "options": [
-                    "White dwarf",
-                    "Black hole",
-                    "Neutron star",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "A star's fate depends on its size—it can become a white dwarf, neutron star, or black hole."
-                }
-              ]
-            },
-            {
-              "setNumber": 18,
-              "questions": [
-                {
-                  "question": "What makes new stars form in the Milky Way?",
-                  "options": [
-                    "Supernova",
-                    "Gas and dust",
-                    "Black holes",
-                    "Galaxy collisions"
-                  ],
-                  "answer": "Gas and dust",
-                  "explanation": "Gas and dust in the Milky Way provide the materials needed for stars to form."
-                },
-                {
-                  "question": "How long does a star like the Sun live?",
-                  "options": [
-                    "1 billion years",
-                    "5 billion years",
-                    "10 billion years",
-                    "20 billion years"
-                  ],
-                  "answer": "10 billion years",
-                  "explanation": "The Sun will live for about 10 billion years before it uses up its fuel."
-                },
-                {
-                  "question": "How do stars lose mass at the end of their lives?",
-                  "options": [
-                    "Supernova",
-                    "Planetary nebula",
-                    "Solar wind",
-                    "Stellar winds"
-                  ],
-                  "answer": "Stellar winds",
-                  "explanation": "Stars lose mass through stellar winds, which blow material away into space."
-                },
-                {
-                  "question": "What is the most common type of galaxy?",
-                  "options": [
-                    "Spiral galaxies",
-                    "Elliptical galaxies",
-                    "Irregular galaxies",
-                    "Lenticular galaxies"
-                  ],
-                  "answer": "Spiral galaxies",
-                  "explanation": "Spiral galaxies, like the Milky Way, are the most common type of galaxy."
-                },
-                {
-                  "question": "What is a main-sequence star?",
-                  "options": [
-                    "Star at the end of its life",
-                    "Star fusing hydrogen",
-                    "Newly formed star",
-                    "Cooling star"
-                  ],
-                  "answer": "Star fusing hydrogen",
-                  "explanation": "A main-sequence star is a star that fuses hydrogen into helium in its core."
-                },
-                {
-                  "question": "What will happen to the Milky Way in the far future?",
-                  "options": [
-                    "It will expand",
-                    "Merge with Andromeda",
-                    "Become a black hole",
-                    "Disappear"
-                  ],
-                  "answer": "Merge with Andromeda",
-                  "explanation": "The Milky Way will merge with the Andromeda galaxy in about 4.5 billion years."
-                },
-                {
-                  "question": "How do scientists study what stars are made of?",
-                  "options": [
-                    "Spectroscopy",
-                    "Parallax",
-                    "Photometry",
-                    "Astrometry"
-                  ],
-                  "answer": "Spectroscopy",
-                  "explanation": "Scientists use spectroscopy to analyze light from stars and find out their chemical makeup."
-                },
-                {
-                  "question": "What is a brown dwarf?",
-                  "options": [
-                    "Type of planet",
-                    "Failed star",
-                    "Large comet",
-                    "Red giant"
-                  ],
-                  "answer": "Failed star",
-                  "explanation": "A brown dwarf is an object that didn’t have enough mass to start hydrogen fusion, so it is a failed star."
-                },
-                {
-                  "question": "What type of galaxy is the Milky Way?",
+                  "question": "What is the shape of the Milky Way galaxy?",
                   "options": [
                     "Elliptical",
-                    "Irregular",
                     "Spiral",
-                    "Lenticular"
+                    "Irregular",
+                    "Circular"
                   ],
                   "answer": "Spiral",
-                  "explanation": "The Milky Way is a spiral galaxy with distinct spiral arms and a central bar structure."
+                  "explanation": "The Milky Way is a spiral galaxy, characterized by its four main arms."
                 },
                 {
-                  "question": "What is the Hubble Space Telescope used for?",
+                  "question": "Which of the following best describes the 'Spiral Arms' of the Milky Way?",
                   "options": [
-                    "Study planets",
-                    "Observe galaxies",
-                    "Explore solar system",
-                    "All of these"
+                    "Regions with no stars",
+                    "Areas with a high concentration of stars, planets, and nebulae",
+                    "A flat region without stars",
+                    "The outermost part of the galaxy"
                   ],
-                  "answer": "All of these",
-                  "explanation": "The Hubble Space Telescope is used for many purposes, including studying planets, galaxies, and more."
-                }
-              ]
-            },
-            {
-              "setNumber": 19,
-              "questions": [
-                {
-                  "question": "What does the Milky Way's spiral shape tell us about it?",
-                  "options": [
-                    "It's very old",
-                    "It's young",
-                    "It's stable",
-                    "It's unstable"
-                  ],
-                  "answer": "It's unstable",
-                  "explanation": "The spiral shape of the Milky Way shows that it is currently unstable, with stars moving in and out of the spiral arms."
+                  "answer": "Areas with a high concentration of stars, planets, and nebulae",
+                  "explanation": "The spiral arms of the Milky Way are regions with a high concentration of stars, planets, and nebulae, including our Solar System."
                 },
                 {
-                  "question": "What is a Type Ia supernova?",
+                  "question": "Which is the largest galaxy in our local group of galaxies?",
                   "options": [
-                    "A big star explosion",
-                    "An explosion of a white dwarf",
-                    "A supernova in a spiral galaxy",
-                    "A supernova in the Milky Way"
+                    "Milky Way",
+                    "Andromeda",
+                    "Triangulum",
+                    "Large Magellanic Cloud"
                   ],
-                  "answer": "An explosion of a white dwarf",
-                  "explanation": "A Type Ia supernova happens when a white dwarf gathers enough mass to explode in a thermonuclear reaction."
+                  "answer": "Andromeda",
+                  "explanation": "The Andromeda Galaxy is the largest galaxy in the local group of galaxies, which includes the Milky Way."
                 },
                 {
-                  "question": "What is the main thing found in the Milky Way's disk?",
+                  "question": "Why do scientists use space missions like Gaia and Hubble to study the Milky Way?",
                   "options": [
-                    "Black holes",
-                    "Stars and gas",
-                    "Dark matter",
-                    "Planets"
+                    "To capture real-time video footage of the galaxy",
+                    "To create 3D models and study its structure",
+                    "To find new stars to replace the Sun",
+                    "To study the history of Earth's formation"
                   ],
-                  "answer": "Stars and gas",
-                  "explanation": "The disk of the Milky Way is mostly made up of stars and gas, which are needed to form new stars."
-                },
-                {
-                  "question": "How long does the Sun take to go around the Milky Way?",
-                  "options": [
-                    "225 million years",
-                    "100 million years",
-                    "50 million years",
-                    "10 million years"
-                  ],
-                  "answer": "225 million years",
-                  "explanation": "The Sun takes about 225 million years to complete one orbit around the center of the Milky Way."
-                },
-                {
-                  "question": "What is the Milky Way's rotation curve?",
-                  "options": [
-                    "A graph of star brightness",
-                    "A graph of distance vs speed",
-                    "A graph of star composition",
-                    "A graph of galaxy shapes"
-                  ],
-                  "answer": "A graph of distance vs speed",
-                  "explanation": "The rotation curve shows how fast stars move at different distances from the center, which helps us learn about dark matter."
-                },
-                {
-                  "question": "What gives most of the light in the Milky Way?",
-                  "options": [
-                    "Stars",
-                    "Planets",
-                    "Gas clouds",
-                    "Dust"
-                  ],
-                  "answer": "Stars",
-                  "explanation": "Stars are the main source of light in the Milky Way because they shine brightly."
-                },
-                {
-                  "question": "What happens to a star when it runs out of hydrogen?",
-                  "options": [
-                    "It becomes a supernova",
-                    "It collapses into a black hole",
-                    "It grows into a red giant",
-                    "It turns into a white dwarf"
-                  ],
-                  "answer": "It grows into a red giant",
-                  "explanation": "When a star runs out of hydrogen fuel, it expands into a red giant before the next stage of its life."
-                },
-                {
-                  "question": "What are the big bubbles of gas in the Milky Way's halo called?",
-                  "options": [
-                    "Galactic bubbles",
-                    "Super bubbles",
-                    "Stellar bubbles",
-                    "Cosmic bubbles"
-                  ],
-                  "answer": "Super bubbles",
-                  "explanation": "Super bubbles are huge bubbles of hot gas created by supernova explosions and strong stellar winds."
-                },
-                {
-                  "question": "How many stars are in the Milky Way?",
-                  "options": [
-                    "100 million",
-                    "200 billion",
-                    "500 billion",
-                    "1 trillion"
-                  ],
-                  "answer": "200 billion",
-                  "explanation": "Scientists estimate that the Milky Way has about 200 billion stars."
-                },
-                {
-                  "question": "What do we call it when two galaxies come together?",
-                  "options": [
-                    "Galaxy formation",
-                    "Galaxy evolution",
-                    "Galactic collision",
-                    "Galactic fusion"
-                  ],
-                  "answer": "Galactic collision",
-                  "explanation": "When two galaxies merge, it's called a galactic collision. This can create lots of new stars!"
-                }
-              ]
-            },
-            {
-              "setNumber": 20,
-              "questions": [
-                {
-                  "question": "What is the main energy source for stars in the Milky Way?",
-                  "options": [
-                    "Nuclear fusion",
-                    "Gravitational collapse",
-                    "Chemical reactions",
-                    "Electric fields"
-                  ],
-                  "answer": "Nuclear fusion",
-                  "explanation": "Stars in the Milky Way get their energy from nuclear fusion, where hydrogen atoms combine to form helium."
-                },
-                {
-                  "question": "Why is the Galactic Center special?",
-                  "options": [
-                    "It is the oldest part of the galaxy",
-                    "It has a supermassive black hole",
-                    "It contains the most stars",
-                    "It is the coldest place in the galaxy"
-                  ],
-                  "answer": "It has a supermassive black hole",
-                  "explanation": "The Galactic Center is home to Sagittarius A*, a supermassive black hole."
-                },
-                {
-                  "question": "What shape is the Milky Way's halo?",
-                  "options": [
-                    "Flat",
-                    "Spherical",
-                    "Elliptical",
-                    "Irregular"
-                  ],
-                  "answer": "Spherical",
-                  "explanation": "The Milky Way's halo is roughly spherical and contains globular clusters and dark matter."
-                },
-                {
-                  "question": "What happens in galactic recycling?",
-                  "options": [
-                    "New stars form",
-                    "Gas and dust are ejected",
-                    "New elements are made",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Galactic recycling creates new stars, releases gas and dust, and forms new elements through stellar processes."
-                },
-                {
-                  "question": "What type of star is most common in the Milky Way?",
-                  "options": [
-                    "Red dwarfs",
-                    "Blue giants",
-                    "Supergiants",
-                    "White dwarfs"
-                  ],
-                  "answer": "Red dwarfs",
-                  "explanation": "Red dwarfs make up about 70% of all the stars in the Milky Way."
-                },
-                {
-                  "question": "What is the Milky Way's stellar halo made of?",
-                  "options": [
-                    "Young stars",
-                    "Old stars and globular clusters",
-                    "Gas and dust",
-                    "Dark matter"
-                  ],
-                  "answer": "Old stars and globular clusters",
-                  "explanation": "The stellar halo contains old stars and globular clusters that orbit the Milky Way."
-                },
-                {
-                  "question": "What is a galaxy cluster?",
-                  "options": [
-                    "A group of stars",
-                    "A group of galaxies",
-                    "A group of nebulae",
-                    "A group of black holes"
-                  ],
-                  "answer": "A group of galaxies",
-                  "explanation": "A galaxy cluster is a collection of galaxies held together by gravity."
-                },
-                {
-                  "question": "What is the nearest galaxy cluster to the Milky Way?",
-                  "options": [
-                    "Virgo Cluster",
-                    "Coma Cluster",
-                    "Fornax Cluster",
-                    "Hercules Cluster"
-                  ],
-                  "answer": "Virgo Cluster",
-                  "explanation": "The Virgo Cluster, about 54 million light-years away, is the closest galaxy cluster to the Milky Way."
-                },
-                {
-                  "question": "What does dark matter do in the Milky Way?",
-                  "options": [
-                    "Creates stars",
-                    "Helps galaxies form",
-                    "Holds galaxies together",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Dark matter helps create stars, forms galaxies, and keeps galaxies like the Milky Way together."
-                },
-                {
-                  "question": "What does 'galaxy evolution' mean?",
-                  "options": [
-                    "Forming new stars",
-                    "Changing galaxy shapes",
-                    "Merging galaxies",
-                    "All of these"
-                  ],
-                  "answer": "All of these",
-                  "explanation": "Galaxy evolution includes making stars, changing galaxy shapes, and merging galaxies over time."
+                  "answer": "To create 3D models and study its structure",
+                  "explanation": "Space missions like Gaia and Hubble are used to create detailed 3D models of the Milky Way and study its structure."
                 }
               ]
             }
