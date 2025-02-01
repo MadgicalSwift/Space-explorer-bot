@@ -958,114 +958,114 @@
               "setNumber": 9,
               "questions": [
                 {
-                  "question": "Which element is primarily formed in supernova blast?",
+                  "question": "What is a star?",
                   "options": [
-                    "Water",
-                    "Sand",
-                    "Gold",
-                    "Soil"
+                    "A massive, glowing ball of hot gases",
+                    "A cold, solid object in space",
+                    "A small, rocky planet",
+                    "A type of comet"
                   ],
-                  "answer": "Gold",
-                  "explanation": "Gold and other heavy elements are primarily formed in the extreme conditions of supernova explosions."
+                  "answer": "A massive, glowing ball of hot gases",
+                  "explanation": "A star is a massive, glowing ball of hot gases, mainly hydrogen and helium, that produces heat and light."
                 },
                 {
-                  "question": "What is the approximate age of the Sun?",
+                  "question": "What gases make up most of a star?",
                   "options": [
-                    "1000 years",
-                    "4.6 billion years",
-                    "2000 years",
-                    "5000 years"
+                    "Hydrogen and helium",
+                    "Oxygen and nitrogen",
+                    "Carbon dioxide and methane",
+                    "Argon and neon"
                   ],
-                  "answer": "4.6 billion years",
-                  "explanation": "The Sun is approximately 4.6 billion years old and is currently in its middle age."
+                  "answer": "Hydrogen and helium",
+                  "explanation": "Stars are primarily composed of hydrogen and helium, which fuel nuclear fusion reactions."
                 },
                 {
-                  "question": "What do we call a large group of stars, gas, and dust bound together by gravity?",
+                  "question": "What is the closest star to Earth?",
                   "options": [
-                    "Bunch of stars",
-                    "Planet",
-                    "Galaxy",
-                    "Cosmos"
+                    "The Sun",
+                    "Proxima Centauri",
+                    "Sirius",
+                    "Betelgeuse"
                   ],
-                  "answer": "Galaxy",
-                  "explanation": "A galaxy is a massive collection of stars, gas, and dust bound together by gravity, with the Milky Way being one example."
+                  "answer": "The Sun",
+                  "explanation": "The Sun is the closest star to Earth and is essential for providing heat and light to our planet."
                 },
                 {
-                  "question": "What is the name of the process in which a star forms from a collapsing cloud of gas?",
+                  "question": "What process makes stars shine?",
                   "options": [
-                    "Fusion",
-                    "Fission",
-                    "Neuclear fusion",
-                    "Gravitational collapse"
+                    "Nuclear fusion",
+                    "Chemical reactions",
+                    "Gravitational pull",
+                    "Magnetic fields"
                   ],
-                  "answer": "Gravitational collapse",
-                  "explanation": "Stars form through gravitational collapse, where a cloud of gas and dust contracts due to its own gravity, eventually forming a protostar."
+                  "answer": "Nuclear fusion",
+                  "explanation": "Stars shine because of nuclear fusion, where hydrogen atoms combine to form helium, releasing massive amounts of energy."
                 },
                 {
-                  "question": "What is the outer layer atmosphere of a star called?",
+                  "question": "In which galaxy is our solar system located?",
                   "options": [
-                    "Corona",
-                    "WAter layer",
-                    "Oxygen layer ",
-                    "Ozone layer"
+                    "Milky Way",
+                    "Andromeda",
+                    "Sombrero",
+                    "Whirlpool"
                   ],
-                  "answer": "Corona",
-                  "explanation": "The corona is the outermost part of a star's atmosphere, visible during solar eclipses."
+                  "answer": "Milky Way",
+                  "explanation": "Our solar system is part of the Milky Way galaxy, which contains billions of stars."
                 },
                 {
-                  "question": "Which star is located closest to the North Pole of Earth's celestial sphere?",
+                  "question": "What do we call large groups of stars?",
                   "options": [
-                    "Polaris",
-                    "The sun",
-                    "mars",
-                    "Moon"
+                    "Galaxies",
+                    "Asteroids",
+                    "Planets",
+                    "Comets"
                   ],
-                  "answer": "Polaris",
-                  "explanation": "Polaris, also known as the North Star, is located near the celestial North Pole and has been used for navigation for centuries."
+                  "answer": "Galaxies",
+                  "explanation": "Large groups of stars are called galaxies, and the Milky Way is the galaxy that contains our solar system."
                 },
                 {
-                  "question": "What type of star will the Sun lastly become?",
+                  "question": "What element is formed when hydrogen atoms combine in stars?",
                   "options": [
-                    "Red giant",
-                    "White dwarf",
-                    "Neutron star",
-                    "Black hole"
+                    "Helium",
+                    "Oxygen",
+                    "Carbon",
+                    "Nitrogen"
                   ],
-                  "answer": "White dwarf",
-                  "explanation": "The Sun will expand into a red giant and eventually shed its outer layers, leaving behind a white dwarf."
+                  "answer": "Helium",
+                  "explanation": "During nuclear fusion in stars, hydrogen atoms combine to form helium, releasing energy in the process."
                 },
                 {
-                  "question": "What do we call a star system with two stars revolving around each other?",
+                  "question": "Why is the Sun important to Earth?",
                   "options": [
-                    "Binary star system",
-                    "Ternury star system",
-                    "Star cluster",
-                    "Solar system"
+                    "It provides heat and light",
+                    "It causes earthquakes",
+                    "It controls ocean tides",
+                    "It forms clouds"
                   ],
-                  "answer": "Binary star system",
-                  "explanation": "A binary star system consists of two stars that orbit around a common center of mass."
+                  "answer": "It provides heat and light",
+                  "explanation": "The Sun provides essential heat and light, supporting life on Earth."
                 },
                 {
-                  "question": "What is the most common chemical element found in stars?",
+                  "question": "What is the primary source of energy in a star?",
                   "options": [
-                    "Silver",
-                    "Water",
-                    "Hydrogen",
-                    "Sand"
+                    "Nuclear fusion",
+                    "Electricity",
+                    "Solar panels",
+                    "Magnetism"
                   ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the most common element in stars and serves as the primary fuel for nuclear fusion."
+                  "answer": "Nuclear fusion",
+                  "explanation": "The primary source of a star's energy is nuclear fusion, where atomic nuclei combine to release energy."
                 },
                 {
-                  "question": "What do astronomers call the explosion of a dying star?",
+                  "question": "What is our galaxy called?",
                   "options": [
-                    "Black hole",
-                    "Pulsar",
-                    "Supernova",
-                    "Neutron star"
+                    "Milky Way",
+                    "Andromeda",
+                    "Triangulum",
+                    "Large Magellanic Cloud"
                   ],
-                  "answer": "Supernova",
-                  "explanation": "A supernova is the dramatic explosion of a dying star, releasing tremendous energy."
+                  "answer": "Milky Way",
+                  "explanation": "Our galaxy is called the Milky Way, and it contains billions of stars, including the Sun."
                 }
               ]
             },
@@ -1188,114 +1188,114 @@
               "setNumber": 11,
               "questions": [
                 {
-                  "question": "🌟 What is it called when a star runs out of fuel and collapses?",
+                  "question": "⭐ What is a star?",
                   "options": [
-                    "Supernova",
-                    "Fusion",
-                    "Fission",
-                    "Stellar evolution"
+                    "A glowing ball of gases",
+                    "A planet",
+                    "A moon",
+                    "A comet"
                   ],
-                  "answer": "Supernova",
-                  "explanation": "A supernova happens when a star explodes after using up all its fuel. It can become a neutron star or a black hole!"
+                  "answer": "A glowing ball of gases",
+                  "explanation": "A star is a massive, glowing ball of hot gases, mainly hydrogen and helium, that produces heat and light."
                 },
                 {
-                  "question": "☄️ What are comets mostly made of?",
+                  "question": "✨ How do stars shine?",
                   "options": [
-                    "Rock and metal",
-                    "Ice and dust",
-                    "Gas and plasma",
-                    "Star pieces"
+                    "By gravity pulling objects",
+                    "Through nuclear fusion",
+                    "By absorbing sunlight",
+                    "From the heat of their core"
                   ],
-                  "answer": "Ice and dust",
-                  "explanation": "Comets are made of ice and dust. When they get close to the Sun, they make a glowing tail!"
+                  "answer": "Through nuclear fusion",
+                  "explanation": "Stars shine because of nuclear fusion, where hydrogen atoms combine to form helium, releasing a huge amount of energy as heat and light."
                 },
                 {
-                  "question": "🌌 Which galaxy is closest to the Milky Way?",
+                  "question": "🔵 Which type of star is small and cool?",
+                  "options": [
+                    "Red Giant",
+                    "Red Dwarf",
+                    "Blue Giant",
+                    "Yellow Dwarf"
+                  ],
+                  "answer": "Red Dwarf",
+                  "explanation": "Red Dwarf stars are small and cool in temperature."
+                },
+                {
+                  "question": "🌌 What happens when a star dies?",
+                  "options": [
+                    "It turns into a black hole",
+                    "It becomes a white dwarf or neutron star",
+                    "It explodes into a supernova",
+                    "It disappears"
+                  ],
+                  "answer": "It becomes a white dwarf or neutron star",
+                  "explanation": "Smaller stars become white dwarfs, while larger stars explode as supernovas and form neutron stars or black holes."
+                },
+                {
+                  "question": "🌠 Why do stars twinkle?",
+                  "options": [
+                    "Because they are very far away",
+                    "Because they are huge",
+                    "Due to Earth's atmosphere",
+                    "Because they are unstable"
+                  ],
+                  "answer": "Due to Earth's atmosphere",
+                  "explanation": "Stars twinkle because the light they emit bends as it passes through different layers of Earth's atmosphere."
+                },
+                {
+                  "question": "🌠 Which famous star is also called the Dog Star?",
+                  "options": [
+                    "Sirius",
+                    "Betelgeuse",
+                    "Rigel",
+                    "Alpha Centauri"
+                  ],
+                  "answer": "Sirius",
+                  "explanation": "Sirius is the brightest star in the night sky and is often referred to as the Dog Star."
+                },
+                {
+                  "question": "🔭 How do scientists study stars?",
+                  "options": [
+                    "By watching them with the naked eye",
+                    "Using telescopes, spectroscopy, and radio waves",
+                    "By sending astronauts to observe",
+                    "Through time travel"
+                  ],
+                  "answer": "Using telescopes, spectroscopy, and radio waves",
+                  "explanation": "Scientists use telescopes, spectroscopy, and radio waves to study the properties and behaviors of stars."
+                },
+                {
+                  "question": "🌟 What is the importance of stars?",
+                  "options": [
+                    "They create planets",
+                    "They provide light and heat",
+                    "They make life impossible",
+                    "They are used for decoration"
+                  ],
+                  "answer": "They provide light and heat",
+                  "explanation": "Stars, like the Sun, provide the necessary light and heat to support life on Earth and help in navigation."
+                },
+                {
+                  "question": "🤩 What is one fact about neutron stars?",
+                  "options": [
+                    "They are made of gas",
+                    "They are incredibly dense",
+                    "They are the largest stars",
+                    "They are invisible"
+                  ],
+                  "answer": "They are incredibly dense",
+                  "explanation": "Neutron stars are incredibly dense, being the remnants of supernova explosions."
+                },
+                {
+                  "question": "🌍 Which galaxy contains billions of stars?",
                   "options": [
                     "Andromeda",
-                    "Triangulum",
+                    "Milky Way",
                     "Whirlpool",
                     "Sombrero"
                   ],
-                  "answer": "Andromeda",
-                  "explanation": "The Andromeda Galaxy is the nearest big galaxy to the Milky Way. It's moving closer to us!"
-                },
-                {
-                  "question": "🔄 What type of galaxy looks like a spinning disk?",
-                  "options": [
-                    "Elliptical",
-                    "Spiral",
-                    "Irregular",
-                    "Lenticular"
-                  ],
-                  "answer": "Spiral",
-                  "explanation": "Spiral galaxies have arms that spin outwards, with stars, gas, and dust in them."
-                },
-                {
-                  "question": "☀️ What is the main fuel that powers stars like the Sun?",
-                  "options": [
-                    "Helium",
-                    "Hydrogen",
-                    "Carbon",
-                    "Oxygen"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Stars burn hydrogen in their cores to make energy and turn it into helium."
-                },
-                {
-                  "question": "🔴 What does 'redshift' mean in space science?",
-                  "options": [
-                    "Star temperature",
-                    "Star brightness",
-                    "Expansion of the universe",
-                    "Star composition"
-                  ],
-                  "answer": "Expansion of the universe",
-                  "explanation": "Redshift shows that something is moving away, like galaxies getting farther apart as the universe grows."
-                },
-                {
-                  "question": "🕳️ What do we call the boundary around a black hole where nothing can escape?",
-                  "options": [
-                    "Event horizon",
-                    "Singularity",
-                    "Accretion disk",
-                    "Photon sphere"
-                  ],
-                  "answer": "Event horizon",
-                  "explanation": "The event horizon is the edge of a black hole. Once you cross it, there's no way out!"
-                },
-                {
-                  "question": "🔴 What kind of star is a red dwarf?",
-                  "options": [
-                    "Large and hot",
-                    "Small and cool",
-                    "Medium-sized",
-                    "Supermassive"
-                  ],
-                  "answer": "Small and cool",
-                  "explanation": "Red dwarfs are small, cool stars that burn their fuel very slowly and live a long time."
-                },
-                {
-                  "question": "💡 What does a star's brightness measure?",
-                  "options": [
-                    "Temperature",
-                    "Mass",
-                    "Luminosity",
-                    "Size"
-                  ],
-                  "answer": "Luminosity",
-                  "explanation": "Luminosity means how much energy a star gives off. That makes it bright to us!"
-                },
-                {
-                  "question": "🌟 What do we call a young star that is still forming?",
-                  "options": [
-                    "Main sequence star",
-                    "Protostar",
-                    "Neutron star",
-                    "White dwarf"
-                  ],
-                  "answer": "Protostar",
-                  "explanation": "A protostar is a baby star that is still growing and not fully formed yet."
+                  "answer": "Milky Way",
+                  "explanation": "The Milky Way is our galaxy, which contains billions of stars, including the Sun."
                 }
               ]
             },
@@ -1303,114 +1303,114 @@
               "setNumber": 12,
               "questions": [
                 {
-                  "question": "🌠 What is the main difference between a meteor and a meteorite?",
+                  "question": "🌟 What elements do stars mainly consist of?",
                   "options": [
-                    "Size",
-                    "Composition",
-                    "Location",
-                    "Speed"
+                    "Oxygen and Carbon",
+                    "Hydrogen and Helium",
+                    "Nitrogen and Oxygen",
+                    "Iron and Helium"
                   ],
-                  "answer": "Location",
-                  "explanation": "A meteor is a streak of light in the sky when a space rock enters the atmosphere, while a meteorite is a piece that lands on Earth."
+                  "answer": "Hydrogen and Helium",
+                  "explanation": "Stars are primarily made up of hydrogen and helium gases that undergo nuclear fusion."
                 },
                 {
-                  "question": "🌌 What is a nebula?",
+                  "question": "✨ What is the main process that causes stars to shine?",
                   "options": [
-                    "A type of star",
-                    "A star group",
-                    "A cloud of gas and dust",
-                    "A galaxy type"
-                  ],
-                  "answer": "A cloud of gas and dust",
-                  "explanation": "A nebula is a huge cloud of gas and dust where new stars are born!"
-                },
-                {
-                  "question": "☀️ What is the main element in the Sun's core?",
-                  "options": [
-                    "Hydrogen",
-                    "Helium",
-                    "Carbon",
-                    "Oxygen"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "The Sun's core has mostly hydrogen, which turns into helium to produce energy."
-                },
-                {
-                  "question": "🌗 What happens when a star's light is blocked by a planet or moon?",
-                  "options": [
-                    "Eclipse",
-                    "Transit",
-                    "Occultation",
-                    "Conjunction"
-                  ],
-                  "answer": "Eclipse",
-                  "explanation": "An eclipse happens when a planet or moon blocks the light of a star or the Sun."
-                },
-                {
-                  "question": "🔵 What type of star is a blue supergiant?",
-                  "options": [
-                    "Cool and small",
-                    "Hot and massive",
-                    "Medium-sized",
-                    "Binary"
-                  ],
-                  "answer": "Hot and massive",
-                  "explanation": "Blue supergiants are very hot and large stars that burn their fuel quickly and live a short life."
-                },
-                {
-                  "question": "🌍 Why do we have seasons on Earth?",
-                  "options": [
-                    "Earth's distance from the Sun",
-                    "Earth's tilt",
-                    "Sun's energy changes",
-                    "Earth's orbit shape"
-                  ],
-                  "answer": "Earth's tilt",
-                  "explanation": "Seasons happen because Earth is tilted. This makes parts of Earth get more sunlight at different times of the year."
-                },
-                {
-                  "question": "🕳️ What is a neutron star mostly made of?",
-                  "options": [
-                    "Protons",
-                    "Neutrons",
-                    "Electrons",
-                    "Photons"
-                  ],
-                  "answer": "Neutrons",
-                  "explanation": "Neutron stars are super-dense stars made mostly of neutrons, created when a massive star collapses."
-                },
-                {
-                  "question": "✨ What type of light do stars give off the most?",
-                  "options": [
-                    "X-rays",
-                    "Gamma rays",
-                    "Visible light",
-                    "Infrared"
-                  ],
-                  "answer": "Visible light",
-                  "explanation": "Stars shine brightly with visible light, along with other types of energy."
-                },
-                {
-                  "question": "🌟 What do we call the process of a star being born?",
-                  "options": [
-                    "Stellar evolution",
                     "Nuclear fusion",
-                    "Star formation",
-                    "Planet formation"
+                    "Chemical reactions",
+                    "Thermal conduction",
+                    "Solar radiation"
                   ],
-                  "answer": "Star formation",
-                  "explanation": "Star formation happens when gas and dust come together and form a baby star!"
+                  "answer": "Nuclear fusion",
+                  "explanation": "Stars shine due to nuclear fusion, where hydrogen atoms fuse to form helium, releasing a lot of energy."
                 },
                 {
-                  "question": "🌌 Which galaxy is the closest to Earth?",
+                  "question": "🔵 What type of stars are cooler and red in color?",
                   "options": [
-                    "Andromeda",
-                    "Triangulum",
-                    "Milky Way",
-                    "Whirlpool"
+                    "White Dwarfs",
+                    "Blue Giants",
+                    "Red Giants",
+                    "Yellow Dwarfs"
                   ],
-                  "answer": "Andromeda",
-                  "explanation": "The Andromeda Galaxy is the closest big galaxy to us, and it's moving closer!"
+                  "answer": "Red Giants",
+                  "explanation": "Red Giants are large, cooler stars that have a red appearance due to their lower temperatures."
+                },
+                {
+                  "question": "🌌 How are stars born?",
+                  "options": [
+                    "From supernovas",
+                    "From black holes",
+                    "In nebulae",
+                    "From comets"
+                  ],
+                  "answer": "In nebulae",
+                  "explanation": "Stars are born in nebulae, which are clouds of gas and dust in space where new stars form."
+                },
+                {
+                  "question": "🌠 What causes the twinkling of stars?",
+                  "options": [
+                    "Their rotation",
+                    "Their size",
+                    "The Earth's atmosphere",
+                    "The Sun's reflection"
+                  ],
+                  "answer": "The Earth's atmosphere",
+                  "explanation": "Stars twinkle because their light bends as it passes through different layers of Earth's atmosphere."
+                },
+                {
+                  "question": "🌠 Which star is known as the 'Pole Star'?",
+                  "options": [
+                    "Sirius",
+                    "Rigel",
+                    "Polaris",
+                    "Betelgeuse"
+                  ],
+                  "answer": "Polaris",
+                  "explanation": "Polaris, also called the Pole Star, is located near the North Pole and is useful for navigation."
+                },
+                {
+                  "question": "🔭 What tool do scientists use to study stars?",
+                  "options": [
+                    "Magnifying glass",
+                    "Microscope",
+                    "Telescope",
+                    "Periscope"
+                  ],
+                  "answer": "Telescope",
+                  "explanation": "Scientists use telescopes to observe distant stars and gather information about them."
+                },
+                {
+                  "question": "🌟 Which star is the closest to Earth after the Sun?",
+                  "options": [
+                    "Sirius",
+                    "Alpha Centauri",
+                    "Proxima Centauri",
+                    "Rigel"
+                  ],
+                  "answer": "Proxima Centauri",
+                  "explanation": "Proxima Centauri is the closest star to Earth after the Sun."
+                },
+                {
+                  "question": "🤩 What is the fate of a star that is smaller in size?",
+                  "options": [
+                    "It turns into a black hole",
+                    "It becomes a white dwarf",
+                    "It explodes as a supernova",
+                    "It turns into a red giant"
+                  ],
+                  "answer": "It becomes a white dwarf",
+                  "explanation": "Smaller stars typically end their lives as white dwarfs, dense remnants of their former selves."
+                },
+                {
+                  "question": "🌍 What is the main function of stars in the universe?",
+                  "options": [
+                    "To provide energy for planets",
+                    "To create comets",
+                    "To form galaxies",
+                    "To produce moons"
+                  ],
+                  "answer": "To provide energy for planets",
+                  "explanation": "Stars provide heat and light, essential for life on planets, and also help in forming galaxies."
                 }
               ]
             },
@@ -1418,114 +1418,114 @@
               "setNumber": 13,
               "questions": [
                 {
-                  "question": "What does a telescope do?",
+                  "question": "⭐ Which process makes a star shine?",
                   "options": [
-                    "Looks at stars and planets",
-                    "Measures distances",
-                    "Calculates orbits",
-                    "Talks to spacecraft"
+                    "Condensation",
+                    "Nuclear fusion",
+                    "Cooling",
+                    "Rotation"
                   ],
-                  "answer": "Looks at stars and planets",
-                  "explanation": "A telescope helps us see stars and planets by making them look bigger and clearer."
+                  "answer": "Nuclear fusion",
+                  "explanation": "Stars shine because of nuclear fusion, a process where hydrogen atoms combine to form helium, releasing energy."
                 },
                 {
-                  "question": "Which is the most common thing in the universe?",
+                  "question": "✨ What is a red giant?",
                   "options": [
-                    "Water",
-                    "Hydrogen",
-                    "Helium",
-                    "Carbon"
+                    "A very small star",
+                    "A large, cooler star",
+                    "A blue, hot star",
+                    "A star that has no light"
                   ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the most common thing in the universe and makes up most of the stars."
+                  "answer": "A large, cooler star",
+                  "explanation": "A red giant is a large star that is cooler than other stars and appears red."
                 },
                 {
-                  "question": "What type of star is most common in the universe?",
+                  "question": "🔵 What does a white dwarf represent?",
                   "options": [
-                    "Big stars",
-                    "Small stars (Dwarfs)",
-                    "Exploding stars",
-                    "Neutron stars"
+                    "A large star that burns very brightly",
+                    "A small, dense star after a smaller star dies",
+                    "A star that has not yet started fusion",
+                    "A star with multiple planets"
                   ],
-                  "answer": "Small stars (Dwarfs)",
-                  "explanation": "Most stars are small stars called dwarf stars, like red and yellow dwarfs."
+                  "answer": "A small, dense star after a smaller star dies",
+                  "explanation": "White dwarfs are the remnants of smaller stars that have exhausted their fuel."
                 },
                 {
-                  "question": "Why does a star become a red giant?",
+                  "question": "🌌 Which event marks the death of a large star?",
                   "options": [
-                    "Runs out of hydrogen fuel",
-                    "Loses mass",
-                    "Expands as the core shrinks",
-                    "Collapses completely"
+                    "Supernova explosion",
+                    "Black hole formation",
+                    "It turns into a red giant",
+                    "A nova"
                   ],
-                  "answer": "Expands as the core shrinks",
-                  "explanation": "When a star runs out of hydrogen, its core gets smaller, and the outer layers expand, making it a red giant."
+                  "answer": "Supernova explosion",
+                  "explanation": "When large stars die, they explode in a supernova, potentially forming neutron stars or black holes."
                 },
                 {
-                  "question": "What is a galaxy cluster?",
+                  "question": "🌠 What is the reason for a star to be a blue giant?",
                   "options": [
-                    "A group of galaxies",
-                    "A group of stars",
-                    "A single galaxy",
-                    "A star system"
+                    "It is small and cool",
+                    "It is very large and hot",
+                    "It is average in size and temperature",
+                    "It has a dense core"
                   ],
-                  "answer": "A group of galaxies",
-                  "explanation": "A galaxy cluster is a big group of galaxies that stay together because of gravity."
+                  "answer": "It is very large and hot",
+                  "explanation": "Blue giant stars are very hot and large, appearing blue because of their high temperature."
                 },
                 {
-                  "question": "What is the shape of the Milky Way?",
+                  "question": "🌠 What is the purpose of constellations?",
                   "options": [
-                    "Spiral",
-                    "Circle",
-                    "Irregular",
-                    "Triangle"
+                    "To help scientists identify planets",
+                    "To group stars for easy identification",
+                    "To form black holes",
+                    "To protect stars from radiation"
                   ],
-                  "answer": "Spiral",
-                  "explanation": "The Milky Way is a spiral galaxy with arms that twist around like a pinwheel."
+                  "answer": "To group stars for easy identification",
+                  "explanation": "Constellations are patterns of stars used to help identify different groups of stars in the night sky."
                 },
                 {
-                  "question": "What happens during a solar eclipse?",
+                  "question": "🔭 What method do scientists use to understand a star’s composition?",
                   "options": [
-                    "Moon covers the Sun",
-                    "Earth covers the Sun",
-                    "Sun disappears",
-                    "Stars block the Sun"
+                    "Microscopy",
+                    "Spectroscopy",
+                    "Observation",
+                    "Temperature measuring"
                   ],
-                  "answer": "Moon covers the Sun",
-                  "explanation": "In a solar eclipse, the Moon moves between the Sun and Earth, blocking the Sun."
+                  "answer": "Spectroscopy",
+                  "explanation": "Scientists use spectroscopy to analyze the light from stars and determine their composition, temperature, and other properties."
                 },
                 {
-                  "question": "What kind of planet is found most often outside our solar system?",
+                  "question": "🌟 What is the primary function of stars in space?",
                   "options": [
-                    "Rocky planets",
-                    "Gas giants",
-                    "Ice planets",
-                    "Super-Earths"
+                    "To provide life to planets",
+                    "To help scientists study black holes",
+                    "To create comets",
+                    "To absorb cosmic dust"
                   ],
-                  "answer": "Gas giants",
-                  "explanation": "Big planets made of gas, like Jupiter, are the most common planets found outside our solar system."
+                  "answer": "To provide life to planets",
+                  "explanation": "Stars like the Sun provide the necessary energy and light to support life on Earth."
                 },
                 {
-                  "question": "What is the event horizon of a black hole?",
+                  "question": "🤩 How are neutron stars formed?",
                   "options": [
-                    "The edge where nothing can escape",
-                    "The center of the black hole",
-                    "The outer layer",
-                    "Light from the black hole"
+                    "From supernova explosions of large stars",
+                    "By the collapse of a white dwarf",
+                    "From a gas cloud",
+                    "By fusion of two smaller stars"
                   ],
-                  "answer": "The edge where nothing can escape",
-                  "explanation": "The event horizon is the point around a black hole where nothing can escape, not even light."
+                  "answer": "From supernova explosions of large stars",
+                  "explanation": "Neutron stars are formed when a massive star explodes as a supernova, leaving behind a dense, small remnant."
                 },
                 {
-                  "question": "What is dark matter?",
+                  "question": "🌍 What is the Milky Way?",
                   "options": [
-                    "Matter that gives off light",
-                    "Invisible matter",
-                    "Matter that absorbs light",
-                    "Dark-colored matter"
+                    "A star",
+                    "A black hole",
+                    "A galaxy containing billions of stars",
+                    "A nebula"
                   ],
-                  "answer": "Invisible matter",
-                  "explanation": "Dark matter is invisible and doesn’t give off light, but we know it’s there because of its gravity."
+                  "answer": "A galaxy containing billions of stars",
+                  "explanation": "The Milky Way is the galaxy that contains our solar system and billions of other stars."
                 }
               ]
             },
@@ -1533,103 +1533,114 @@
               "setNumber": 14,
               "questions": [
                 {
-                  "question": "🌟 What is the core of a star mostly made of at the end of its life?",
-                  "options": [
-                    "Hydrogen",
-                    "Carbon",
-                    "Helium",
-                    "Iron"
-                  ],
-                  "answer": "Iron",
-                  "explanation": "The core of a massive star ends up with iron, which it cannot fuse, leading to the star's collapse."
-                },
-                {
-                  "question": "🌍 What is the main gas in the Earth's atmosphere?",
+                  "question": "🌟 What is the primary component of a star?",
                   "options": [
                     "Oxygen",
-                    "Nitrogen",
-                    "Carbon dioxide",
-                    "Hydrogen"
+                    "Hydrogen",
+                    "Carbon",
+                    "Nitrogen"
                   ],
-                  "answer": "Nitrogen",
-                  "explanation": "Earth's atmosphere is about 78% nitrogen and 21% oxygen."
+                  "answer": "Hydrogen",
+                  "explanation": "Stars are primarily composed of hydrogen gas, which undergoes fusion to produce light and heat."
                 },
                 {
-                  "question": "🌌 What is special about cosmic microwave background radiation?",
+                  "question": "✨ What happens during nuclear fusion in a star?",
                   "options": [
-                    "Heat from the Sun",
-                    "Remnant of the Big Bang",
-                    "Signal from stars",
-                    "Shows universe's age"
+                    "Atoms combine to form heavier elements",
+                    "Atoms split to form lighter elements",
+                    "Atoms become unstable",
+                    "Atoms freeze"
                   ],
-                  "answer": "Remnant of the Big Bang",
-                  "explanation": "This radiation is the leftover energy from the Big Bang, helping scientists understand the early universe."
+                  "answer": "Atoms combine to form heavier elements",
+                  "explanation": "In nuclear fusion, hydrogen atoms combine to form helium, releasing energy in the process."
                 },
                 {
-                  "question": "🕳️ What do we call a place in space where gravity is so strong nothing can escape?",
+                  "question": "🔵 Which type of star is the hottest?",
                   "options": [
-                    "Event horizon",
-                    "Black hole",
-                    "Singularity",
-                    "Accretion disk"
+                    "Red Dwarf",
+                    "Blue Giant",
+                    "Yellow Dwarf",
+                    "Red Giant"
                   ],
-                  "answer": "Black hole",
-                  "explanation": "A black hole's gravity is so strong that not even light can escape from it."
+                  "answer": "Blue Giant",
+                  "explanation": "Blue giant stars are the hottest due to their high temperature, which causes them to appear blue."
                 },
                 {
-                  "question": "🌟 Which star is called the North Star?",
+                  "question": "🌌 What is the final stage of a large star's life?",
                   "options": [
-                    "Sirius",
-                    "Vega",
+                    "It becomes a white dwarf",
+                    "It forms a black hole",
+                    "It becomes a red giant",
+                    "It explodes into a supernova"
+                  ],
+                  "answer": "It explodes into a supernova",
+                  "explanation": "Large stars end their life in a supernova explosion, which can result in the formation of neutron stars or black holes."
+                },
+                {
+                  "question": "🌠 How do stars help in navigation?",
+                  "options": [
+                    "By guiding planes",
+                    "By acting as reference points",
+                    "By forming constellations",
+                    "By creating maps"
+                  ],
+                  "answer": "By acting as reference points",
+                  "explanation": "Stars serve as fixed points in the sky, helping navigators determine their location using constellations."
+                },
+                {
+                  "question": "🌠 Which star is also known as the 'Dog Star'?",
+                  "options": [
                     "Polaris",
+                    "Rigel",
+                    "Sirius",
                     "Betelgeuse"
                   ],
-                  "answer": "Polaris",
-                  "explanation": "Polaris is the North Star, located nearly above the North Pole, and helps with navigation."
+                  "answer": "Sirius",
+                  "explanation": "Sirius, the brightest star in the night sky, is often called the 'Dog Star' because it's the chief star in the constellation Canis Major."
                 },
                 {
-                  "question": "✨ Why do stars seem to twinkle in the night sky?",
+                  "question": "🔭 What does a telescope help scientists observe?",
                   "options": [
-                    "Earth's atmosphere",
-                    "Star temperature",
-                    "Star distance",
-                    "Star size"
+                    "The moon only",
+                    "The stars, planets, and galaxies",
+                    "Only planets",
+                    "The Earth's surface"
                   ],
-                  "answer": "Earth's atmosphere",
-                  "explanation": "Stars twinkle because Earth's atmosphere bends their light as it reaches us."
+                  "answer": "The stars, planets, and galaxies",
+                  "explanation": "Telescopes are essential tools for observing distant stars, planets, and galaxies, allowing scientists to study the universe."
                 },
                 {
-                  "question": "💥 What is it called when a star explodes at the end of its life?",
+                  "question": "🌟 What star is at the center of our solar system?",
                   "options": [
-                    "Supernova",
-                    "Red giant",
-                    "Stellar collapse",
-                    "White dwarf"
+                    "Alpha Centauri",
+                    "Sirius",
+                    "The Sun",
+                    "Polaris"
                   ],
-                  "answer": "Supernova",
-                  "explanation": "A supernova is a huge explosion when a star dies, often leaving a neutron star or black hole."
+                  "answer": "The Sun",
+                  "explanation": "The Sun is the star at the center of our solar system, providing heat and light to Earth."
                 },
                 {
-                  "question": "🌌 What is a light year?",
+                  "question": "🤩 What is a unique characteristic of neutron stars?",
                   "options": [
-                    "Time for light in a year",
-                    "Distance light travels in a year",
-                    "A unit of brightness",
-                    "Star's age"
+                    "They are extremely bright",
+                    "They are incredibly dense",
+                    "They are the size of a planet",
+                    "They are made of gas"
                   ],
-                  "answer": "Distance light travels in a year",
-                  "explanation": "A light year is how far light travels in one year—about 5.88 trillion miles!"
+                  "answer": "They are incredibly dense",
+                  "explanation": "Neutron stars are extremely dense remnants of massive stars that have exploded in supernovae."
                 },
                 {
-                  "question": "✨ What are quasars?",
+                  "question": "🌍 How do stars contribute to the creation of new elements?",
                   "options": [
-                    "Old stars",
-                    "Young stars",
-                    "Powerful galaxy centers",
-                    "Star groups"
+                    "By exploding into black holes",
+                    "By undergoing nuclear fusion",
+                    "By absorbing cosmic dust",
+                    "By emitting light"
                   ],
-                  "answer": "Powerful galaxy centers",
-                  "explanation": "Quasars are bright objects powered by black holes at the center of distant galaxies."
+                  "answer": "By undergoing nuclear fusion",
+                  "explanation": "Stars generate new elements through nuclear fusion, where lighter elements like hydrogen combine to form heavier elements."
                 }
               ]
             },
@@ -1637,114 +1648,114 @@
               "setNumber": 15,
               "questions": [
                 {
-                  "question": "☀️ What is a solar flare?",
+                  "question": "🌟 What is the role of hydrogen in stars?",
                   "options": [
-                    "A type of star",
-                    "An explosion on the Sun's surface",
-                    "A solar eclipse",
-                    "A planet's rotation"
+                    "It creates light",
+                    "It fuels the nuclear fusion process",
+                    "It makes stars shine green",
+                    "It cools down the star"
                   ],
-                  "answer": "An explosion on the Sun's surface",
-                  "explanation": "A solar flare is a sudden eruption of energy from the Sun, caused by magnetic activity."
+                  "answer": "It fuels the nuclear fusion process",
+                  "explanation": "Hydrogen serves as the fuel for the nuclear fusion process, producing energy and making stars shine."
                 },
                 {
-                  "question": "🕳️ What is the area around a black hole where gravity is very strong?",
+                  "question": "✨ Which type of star has the longest lifespan?",
                   "options": [
-                    "Accretion disk",
-                    "Event horizon",
-                    "Singularity",
-                    "Photon sphere"
+                    "Red Giants",
+                    "Blue Giants",
+                    "White Dwarfs",
+                    "Red Dwarfs"
                   ],
-                  "answer": "Event horizon",
-                  "explanation": "The event horizon is the boundary where nothing, not even light, can escape a black hole's gravity."
+                  "answer": "Red Dwarfs",
+                  "explanation": "Red Dwarfs are small, cool stars that burn their fuel slowly, giving them much longer lifespans than larger stars."
                 },
                 {
-                  "question": "🌟 What is a supernova remnant?",
+                  "question": "🔵 What is a characteristic of a yellow star like the Sun?",
                   "options": [
-                    "A new star",
-                    "The leftover materials after a supernova",
-                    "A type of galaxy",
-                    "A star cluster"
+                    "It is the hottest star",
+                    "It is cooler than red giants",
+                    "It is similar in size to red dwarfs",
+                    "It is medium in temperature and size"
                   ],
-                  "answer": "The leftover materials after a supernova",
-                  "explanation": "A supernova remnant is made of gas and dust left after a star explodes."
+                  "answer": "It is medium in temperature and size",
+                  "explanation": "Yellow stars, like the Sun, have a medium temperature and size, which makes them the most common type of star."
                 },
                 {
-                  "question": "🔥 What is the main fuel for nuclear fusion in stars?",
+                  "question": "🌌 What does a black hole form from?",
                   "options": [
-                    "Hydrogen",
-                    "Helium",
-                    "Carbon",
-                    "Iron"
+                    "A dying red giant",
+                    "A large, collapsing star",
+                    "A white dwarf",
+                    "An exploding supernova"
                   ],
-                  "answer": "Hydrogen",
-                  "explanation": "Stars use hydrogen as their primary fuel, turning it into helium through nuclear fusion."
+                  "answer": "A large, collapsing star",
+                  "explanation": "A black hole forms when a massive star collapses under its gravity after undergoing a supernova explosion."
                 },
                 {
-                  "question": "🌌 What do we call a group of stars forming a pattern in the sky?",
+                  "question": "🌠 Why do stars appear to twinkle?",
                   "options": [
-                    "Galaxy",
-                    "Constellation",
-                    "Nebula",
-                    "Star cluster"
+                    "They are unstable",
+                    "They emit irregular light",
+                    "Their light passes through Earth's atmosphere",
+                    "They are rotating"
                   ],
-                  "answer": "Constellation",
-                  "explanation": "A constellation is a group of stars that forms a recognizable pattern, like the Big Dipper!"
+                  "answer": "Their light passes through Earth's atmosphere",
+                  "explanation": "Stars twinkle because their light bends and scatters as it travels through Earth's atmosphere."
                 },
                 {
-                  "question": "❄️ What is special about a white dwarf star?",
+                  "question": "🌠 Which star is known as the North Star?",
                   "options": [
-                    "High temperature",
-                    "Large size",
-                    "Low brightness",
-                    "Bright color"
+                    "Sirius",
+                    "Polaris",
+                    "Rigel",
+                    "Betelgeuse"
                   ],
-                  "answer": "High temperature",
-                  "explanation": "A white dwarf is very hot but not bright because it's small and no longer undergoing fusion."
+                  "answer": "Polaris",
+                  "explanation": "Polaris, or the North Star, is used for navigation because it appears almost directly above the North Pole."
                 },
                 {
-                  "question": "💥 What is the term for a star's explosion that creates a neutron star?",
+                  "question": "🔭 What is the purpose of spectroscopy in star studies?",
                   "options": [
-                    "Supernova",
-                    "Nova",
-                    "Red giant",
-                    "Stellar collapse"
+                    "To observe the size of stars",
+                    "To study the surface temperature of stars",
+                    "To identify the chemical composition of stars",
+                    "To track the movement of stars"
                   ],
-                  "answer": "Supernova",
-                  "explanation": "A supernova is the explosive death of a star, sometimes leaving behind a neutron star."
+                  "answer": "To identify the chemical composition of stars",
+                  "explanation": "Spectroscopy helps scientists determine the chemical elements that make up stars by analyzing their light."
                 },
                 {
-                  "question": "🔴 What is a red giant star?",
+                  "question": "🌟 What star is closest to Earth?",
                   "options": [
-                    "A star that used up its hydrogen",
-                    "A newly formed star",
-                    "A main sequence star",
-                    "A black hole"
+                    "Sirius",
+                    "The Sun",
+                    "Alpha Centauri",
+                    "Proxima Centauri"
                   ],
-                  "answer": "A star that used up its hydrogen",
-                  "explanation": "A red giant is a star that has run out of hydrogen and expanded during its later stages."
+                  "answer": "The Sun",
+                  "explanation": "The Sun is the closest star to Earth and provides the necessary heat and light for life on our planet."
                 },
                 {
-                  "question": "🌌 What is the observable universe?",
+                  "question": "🤩 How does a star's size affect its life cycle?",
                   "options": [
-                    "The entire universe",
-                    "The part we can see",
-                    "The Milky Way galaxy",
-                    "The nearest galaxy"
+                    "Larger stars live longer",
+                    "Smaller stars burn their fuel slower",
+                    "Larger stars burn their fuel faster",
+                    "Size has no effect on the life cycle"
                   ],
-                  "answer": "The part we can see",
-                  "explanation": "The observable universe includes everything we can see from Earth due to the speed of light."
+                  "answer": "Larger stars burn their fuel faster",
+                  "explanation": "Larger stars burn their fuel much more quickly than smaller stars, leading to shorter lifespans."
                 },
                 {
-                  "question": "☀️ What type of star is our Sun?",
+                  "question": "🌍 How do stars help scientists understand the universe?",
                   "options": [
-                    "Giant",
-                    "Supergiant",
-                    "Main sequence star",
-                    "Dwarf"
+                    "By emitting radiation",
+                    "By forming galaxies",
+                    "By helping with space travel",
+                    "By providing light and energy"
                   ],
-                  "answer": "Main sequence star",
-                  "explanation": "The Sun is a main sequence star, like many others in the universe, and it's in its stable phase."
+                  "answer": "By providing light and energy",
+                  "explanation": "Stars are important for understanding the universe because they provide light and energy, which helps scientists study space and cosmic phenomena."
                 }
               ]
             },
@@ -1752,114 +1763,114 @@
               "setNumber": 16,
               "questions": [
                 {
-                  "question": "🌊 What is the main cause of tides on Earth?",
+                  "question": "🌟 What causes the Sun to shine?",
                   "options": [
-                    "The Moon's gravity",
-                    "The Sun's gravity",
-                    "Earth's rotation",
-                    "Wind patterns"
+                    "Reflection of light from the moon",
+                    "Nuclear fusion of hydrogen into helium",
+                    "Electrical reactions in the core",
+                    "Magnetic energy"
                   ],
-                  "answer": "The Moon's gravity",
-                  "explanation": "Tides happen because of the Moon's gravity pulling on Earth's oceans."
+                  "answer": "Nuclear fusion of hydrogen into helium",
+                  "explanation": "The Sun shines because of nuclear fusion, where hydrogen atoms combine to form helium, releasing energy."
                 },
                 {
-                  "question": "🌌 What is the theory that explains how the universe began?",
+                  "question": "✨ What is the main difference between a red giant and a blue giant?",
                   "options": [
-                    "Steady State Theory",
-                    "Big Bang Theory",
-                    "Relativity Theory",
-                    "Quantum Theory"
+                    "Blue giants are cooler than red giants",
+                    "Red giants are hotter and more massive",
+                    "Red giants are cooler and larger in size",
+                    "Blue giants are smaller in size"
                   ],
-                  "answer": "Big Bang Theory",
-                  "explanation": "The Big Bang Theory says the universe started as a tiny point and has been expanding ever since."
+                  "answer": "Red giants are cooler and larger in size",
+                  "explanation": "Red giants are cooler but much larger than blue giants, which are hot and bright."
                 },
                 {
-                  "question": "🖤 What is the main component of dark energy?",
+                  "question": "🔵 Which star is known as the 'Sun's twin'?",
                   "options": [
-                    "Photons",
-                    "Neutrons",
-                    "Vacuum energy",
-                    "Protons"
+                    "Sirius",
+                    "Alpha Centauri",
+                    "Proxima Centauri",
+                    "Tau Ceti"
                   ],
-                  "answer": "Vacuum energy",
-                  "explanation": "Dark energy is thought to come from vacuum energy, which fills all of space."
+                  "answer": "Tau Ceti",
+                  "explanation": "Tau Ceti is often referred to as the 'Sun's twin' because its size, luminosity, and age are similar to our Sun."
                 },
                 {
-                  "question": "🔄 What is special about a pulsar?",
+                  "question": "🌌 Which star is at the center of the Milky Way galaxy?",
                   "options": [
-                    "It changes brightness",
-                    "It spins very fast",
-                    "It is very large",
-                    "It is very hot"
+                    "The Sun",
+                    "Sirius",
+                    "Sagittarius A*",
+                    "Polaris"
                   ],
-                  "answer": "It spins very fast",
-                  "explanation": "A pulsar is a star that spins quickly and sends out beams of light like a lighthouse."
+                  "answer": "Sagittarius A*",
+                  "explanation": "Sagittarius A* is the supermassive black hole at the center of our Milky Way galaxy."
                 },
                 {
-                  "question": "🌍 What do we call the path a planet takes around the Sun?",
+                  "question": "🌠 How does a star's mass affect its life cycle?",
                   "options": [
-                    "Axis",
-                    "Orbit",
-                    "Ecliptic",
-                    "Revolution"
+                    "More massive stars live longer",
+                    "More massive stars have shorter lifespans",
+                    "Mass has no impact on the star's life cycle",
+                    "Larger stars burn their fuel slower"
                   ],
-                  "answer": "Orbit",
-                  "explanation": "An orbit is the path a planet takes as it moves around the Sun."
+                  "answer": "More massive stars have shorter lifespans",
+                  "explanation": "More massive stars burn through their fuel much faster than smaller stars, leading to shorter lifespans."
                 },
                 {
-                  "question": "🔭 What is the term for the edge of the universe we can see?",
+                  "question": "🌠 What is the phenomenon of a star exploding called?",
                   "options": [
-                    "Cosmic horizon",
-                    "Event horizon",
-                    "Galactic boundary",
-                    "Singularity"
+                    "Supernova",
+                    "Solar flare",
+                    "Black hole formation",
+                    "Nuclear fusion"
                   ],
-                  "answer": "Cosmic horizon",
-                  "explanation": "The cosmic horizon is how far we can see in the universe because of the speed of light."
+                  "answer": "Supernova",
+                  "explanation": "When a massive star explodes, it is called a supernova, and it can lead to the formation of a black hole or neutron star."
                 },
                 {
-                  "question": "🌠 What is the main difference between asteroids and comets?",
+                  "question": "🔭 What does the Hubble Space Telescope primarily do?",
                   "options": [
-                    "Composition",
-                    "Size",
-                    "Location",
-                    "Shape"
+                    "Track the movement of asteroids",
+                    "Observe planets only",
+                    "Study galaxies, stars, and nebulae",
+                    "Monitor the Earth's surface"
                   ],
-                  "answer": "Composition",
-                  "explanation": "Asteroids are mostly rock and metal, while comets are made of ice and dust."
+                  "answer": "Study galaxies, stars, and nebulae",
+                  "explanation": "The Hubble Space Telescope is used to study distant galaxies, stars, nebulae, and other cosmic phenomena."
                 },
                 {
-                  "question": "🌞 What is a solar system?",
+                  "question": "🌟 What is the temperature range of the Sun's surface?",
                   "options": [
-                    "A group of stars",
-                    "A planet and its moons",
-                    "A star and objects bound to it by gravity",
-                    "A galaxy"
+                    "2000°C to 3000°C",
+                    "3000°C to 4000°C",
+                    "5000°C to 6000°C",
+                    "6000°C to 7000°C"
                   ],
-                  "answer": "A star and objects bound to it by gravity",
-                  "explanation": "A solar system has a star like the Sun and planets, moons, and other objects around it."
+                  "answer": "5000°C to 6000°C",
+                  "explanation": "The surface of the Sun, also called the photosphere, has a temperature of approximately 5000°C to 6000°C."
                 },
                 {
-                  "question": "🔭 What does the Hubble Space Telescope do?",
+                  "question": "🤩 Which type of star is the most common in the universe?",
                   "options": [
-                    "Studies the Sun",
-                    "Looks at exoplanets",
-                    "Observes faraway galaxies and nebulae",
-                    "Watches the weather"
+                    "Yellow stars",
+                    "Red dwarfs",
+                    "Blue giants",
+                    "White dwarfs"
                   ],
-                  "answer": "Observes faraway galaxies and nebulae",
-                  "explanation": "The Hubble Space Telescope helps scientists learn about galaxies and space objects far away."
+                  "answer": "Red dwarfs",
+                  "explanation": "Red dwarfs are the most common type of stars in the universe because they are small, cool, and burn fuel slowly."
                 },
                 {
-                  "question": "☀️ What is the Sun's main source of energy?",
+                  "question": "🌍 What role do stars play in the creation of elements?",
                   "options": [
-                    "Fission",
-                    "Fusion",
-                    "Chemical reactions",
-                    "Gravitational collapse"
+                    "They create light only",
+                    "They produce oxygen and hydrogen",
+                    "They contribute to the creation of all elements in the periodic table",
+                    "They help create asteroids"
                   ],
-                  "answer": "Fusion",
-                  "explanation": "The Sun gets its energy by fusing hydrogen into helium deep in its core."
+                  "answer": "They contribute to the creation of all elements in the periodic table",
+                  "explanation": "Stars, through nuclear fusion, create many elements found in the periodic table, which are later scattered throughout space."
                 }
               ]
             },
@@ -1867,114 +1878,114 @@
               "setNumber": 17,
               "questions": [
                 {
-                  "question": "⏳ What happens to time near a strong gravity field?",
+                  "question": "🌟 What star is the brightest in the night sky?",
                   "options": [
-                    "Gravity slows time",
-                    "Gravity has no effect on time",
-                    "Gravity speeds up time",
-                    "Time is constant"
+                    "Sirius",
+                    "Polaris",
+                    "Betelgeuse",
+                    "Rigel"
                   ],
-                  "answer": "Gravity slows time",
-                  "explanation": "In areas with strong gravity, like near a black hole, time moves slower. This is called time dilation."
+                  "answer": "Sirius",
+                  "explanation": "Sirius is the brightest star in the night sky and is often referred to as the 'Dog Star.'"
                 },
                 {
-                  "question": "💥 What can happen to a big star after its red giant phase?",
+                  "question": "✨ What causes a star to change into a white dwarf?",
                   "options": [
-                    "Supernova",
-                    "Main sequence",
-                    "White dwarf",
-                    "Black hole"
+                    "When it explodes in a supernova",
+                    "When it cools down after burning all its fuel",
+                    "When it collapses into a black hole",
+                    "When it loses all its light"
                   ],
-                  "answer": "Supernova",
-                  "explanation": "After being a red giant, a massive star might explode as a supernova, creating a neutron star or black hole."
+                  "answer": "When it cools down after burning all its fuel",
+                  "explanation": "A white dwarf forms when a medium-sized star burns out its fuel and cools down, leaving behind a dense, hot core."
                 },
                 {
-                  "question": "🔵 What is a blue shift?",
+                  "question": "🔵 Which type of star is often used in navigation?",
                   "options": [
-                    "Light moving closer",
-                    "Light moving away",
-                    "Light absorbed by an object",
-                    "Light refracted"
+                    "Red Dwarf",
+                    "Polaris",
+                    "Yellow Star",
+                    "Blue Giant"
                   ],
-                  "answer": "Light moving closer",
-                  "explanation": "A blue shift happens when an object is moving toward us, making the light waves shorter."
+                  "answer": "Polaris",
+                  "explanation": "Polaris, the North Star, is used in navigation because it is nearly aligned with Earth's rotational axis, always pointing north."
                 },
                 {
-                  "question": "🌌 What are the three main types of galaxies?",
+                  "question": "🌌 What is a nebula?",
                   "options": [
-                    "Spiral, Elliptical, Irregular",
-                    "Dwarf, Giant, Supergiant",
-                    "Red, Blue, White",
-                    "Active, Inactive, Dormant"
-                  ],
-                  "answer": "Spiral, Elliptical, Irregular",
-                  "explanation": "Galaxies are grouped by shape into spiral, elliptical, and irregular types."
-                },
-                {
-                  "question": "⚫ What is a black hole's singularity?",
-                  "options": [
-                    "The outer boundary",
-                    "The center point of infinite density",
-                    "The event horizon",
-                    "A point of no return"
-                  ],
-                  "answer": "The center point of infinite density",
-                  "explanation": "The singularity is the middle of a black hole, where gravity is extremely strong, and everything is compressed."
-                },
-                {
-                  "question": "🌍 What is an exoplanet?",
-                  "options": [
-                    "A planet in our solar system",
-                    "A planet orbiting another star",
-                    "A moon of another planet",
-                    "A dwarf planet"
-                  ],
-                  "answer": "A planet orbiting another star",
-                  "explanation": "Exoplanets are planets that orbit stars outside our solar system."
-                },
-                {
-                  "question": "🛰️ What do space probes do?",
-                  "options": [
-                    "Study Earth",
-                    "Study other planets and space objects",
-                    "Observe the Sun",
-                    "Collect meteorites"
-                  ],
-                  "answer": "Study other planets and space objects",
-                  "explanation": "Space probes travel into space to gather information about planets, moons, and other celestial objects."
-                },
-                {
-                  "question": "🌟 What is a light-year?",
-                  "options": [
-                    "A measure of brightness",
-                    "A measure of time",
-                    "A measure of distance",
-                    "A measure of speed"
-                  ],
-                  "answer": "A measure of distance",
-                  "explanation": "A light-year is how far light travels in one year, which is about 5.88 trillion miles!"
-                },
-                {
-                  "question": "🔴 What is special about a red giant star?",
-                  "options": [
-                    "High brightness",
-                    "Low temperature",
-                    "Large size",
-                    "All of the above"
-                  ],
-                  "answer": "All of the above",
-                  "explanation": "Red giants are very bright, large, and have cooler surfaces compared to smaller stars."
-                },
-                {
-                  "question": "🔍 What is a gravitational lens?",
-                  "options": [
-                    "A type of telescope",
-                    "The bending of light by gravity",
                     "A type of black hole",
-                    "An optical phenomenon"
+                    "A type of star",
+                    "A vast cloud of gas and dust where stars are born",
+                    "A dying star"
                   ],
-                  "answer": "The bending of light by gravity",
-                  "explanation": "A gravitational lens happens when a massive object bends light from a more distant source, making it look bigger."
+                  "answer": "A vast cloud of gas and dust where stars are born",
+                  "explanation": "A nebula is a large cloud of gas and dust in space where new stars are born through the process of nuclear fusion."
+                },
+                {
+                  "question": "🌠 What is the life cycle of a star like our Sun?",
+                  "options": [
+                    "It remains as a blue giant throughout its life",
+                    "It eventually explodes as a supernova",
+                    "It expands into a red giant and then becomes a white dwarf",
+                    "It forms a black hole"
+                  ],
+                  "answer": "It expands into a red giant and then becomes a white dwarf",
+                  "explanation": "A star like the Sun will expand into a red giant and then shrink into a white dwarf after exhausting its fuel."
+                },
+                {
+                  "question": "🌠 What is the name of the brightest star in the Orion constellation?",
+                  "options": [
+                    "Sirius",
+                    "Rigel",
+                    "Betelgeuse",
+                    "Proxima Centauri"
+                  ],
+                  "answer": "Rigel",
+                  "explanation": "Rigel is the brightest star in the Orion constellation and is known for its blue color and massive size."
+                },
+                {
+                  "question": "🔭 How does a telescope help in studying stars?",
+                  "options": [
+                    "It provides detailed images of stars and planets",
+                    "It can hear the stars",
+                    "It increases the brightness of stars",
+                    "It makes stars visible during the day"
+                  ],
+                  "answer": "It provides detailed images of stars and planets",
+                  "explanation": "Telescopes help scientists study stars by magnifying distant objects, allowing for detailed observations of their properties."
+                },
+                {
+                  "question": "🌟 What is a black hole?",
+                  "options": [
+                    "A type of star that is invisible",
+                    "A massive object in space with gravity so strong that not even light can escape",
+                    "A planet that absorbs stars",
+                    "A hole in the universe"
+                  ],
+                  "answer": "A massive object in space with gravity so strong that not even light can escape",
+                  "explanation": "A black hole is an object formed from the collapse of a massive star, where gravity is so strong that light cannot escape."
+                },
+                {
+                  "question": "🤩 What is the name of the nearest star to Earth after the Sun?",
+                  "options": [
+                    "Alpha Centauri",
+                    "Sirius",
+                    "Rigel",
+                    "Proxima Centauri"
+                  ],
+                  "answer": "Proxima Centauri",
+                  "explanation": "Proxima Centauri is the closest star to Earth after the Sun, located in the Alpha Centauri star system."
+                },
+                {
+                  "question": "🌍 How does the Sun support life on Earth?",
+                  "options": [
+                    "By providing light only",
+                    "By providing heat and light necessary for photosynthesis",
+                    "By creating oxygen",
+                    "By providing a gravitational pull"
+                  ],
+                  "answer": "By providing heat and light necessary for photosynthesis",
+                  "explanation": "The Sun provides heat and light, which are essential for photosynthesis and maintaining the climate necessary for life on Earth."
                 }
               ]
             },
@@ -1982,114 +1993,114 @@
               "setNumber": 18,
               "questions": [
                 {
-                  "question": "🌌 What do we call the universe getting bigger over time?",
+                  "question": "🌟 What process inside stars produces the energy that makes them shine?",
                   "options": [
-                    "Cosmic inflation",
-                    "Cosmic expansion",
-                    "Big Bang",
-                    "Redshift"
+                    "Fission",
+                    "Fusion",
+                    "Condensation",
+                    "Evaporation"
                   ],
-                  "answer": "Cosmic expansion",
-                  "explanation": "Cosmic expansion means the universe is growing, with galaxies moving farther apart."
+                  "answer": "Fusion",
+                  "explanation": "The energy produced by stars comes from nuclear fusion, where hydrogen atoms combine to form helium, releasing enormous amounts of energy."
                 },
                 {
-                  "question": "⭐ How do new stars form from gas and dust?",
+                  "question": "✨ How long do stars like the Sun typically last?",
                   "options": [
-                    "Stellar evolution",
-                    "Star formation",
-                    "Nebula formation",
-                    "Star clustering"
+                    "A few hundred thousand years",
+                    "Several billion years",
+                    "Only a million years",
+                    "Millions of years"
                   ],
-                  "answer": "Star formation",
-                  "explanation": "Star formation happens when gas and dust in a nebula come together to create a new star."
+                  "answer": "Several billion years",
+                  "explanation": "Stars like the Sun typically last for about 10 billion years, going through different phases during their lifetimes."
                 },
                 {
-                  "question": "⚫ What do we call a place in space where nothing can escape, not even light?",
+                  "question": "🔵 What is a red dwarf star known for?",
                   "options": [
-                    "Event horizon",
-                    "Black hole",
-                    "Gravitational well",
-                    "Singularity"
+                    "Being the largest type of star",
+                    "Burning brightly for billions of years",
+                    "Being the hottest star",
+                    "Being the coolest and most common type of star"
                   ],
-                  "answer": "Black hole",
-                  "explanation": "A black hole is so powerful that nothing can escape its gravity."
+                  "answer": "Being the coolest and most common type of star",
+                  "explanation": "Red dwarfs are cooler, smaller, and the most common type of star in the universe. They burn fuel very slowly."
                 },
                 {
-                  "question": "🌌 What is the cosmic microwave background (CMB)?",
+                  "question": "🌌 What is a supernova?",
                   "options": [
-                    "Radiation from stars",
-                    "Radiation from black holes",
-                    "Leftover radiation from the Big Bang",
-                    "Radiation from dark matter"
+                    "A star that has just been born",
+                    "The explosion of a massive star at the end of its life",
+                    "A giant black hole",
+                    "A cooling star"
                   ],
-                  "answer": "Leftover radiation from the Big Bang",
-                  "explanation": "The CMB is light from the early universe after the Big Bang."
+                  "answer": "The explosion of a massive star at the end of its life",
+                  "explanation": "A supernova occurs when a massive star reaches the end of its life and explodes, often leading to the formation of a black hole or neutron star."
                 },
                 {
-                  "question": "🔬 What is the most common element in the universe?",
+                  "question": "🌠 What is the primary reason why stars twinkle?",
                   "options": [
-                    "Oxygen",
-                    "Hydrogen",
-                    "Carbon",
-                    "Helium"
+                    "They change colors frequently",
+                    "The Earth's atmosphere causes the light to bend",
+                    "They emit varying amounts of energy",
+                    "They are not fixed in the sky"
                   ],
-                  "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the lightest and most abundant element in the universe."
+                  "answer": "The Earth's atmosphere causes the light to bend",
+                  "explanation": "Stars twinkle because of Earth's atmosphere. The layers of air bend the light from stars, creating the twinkling effect."
                 },
                 {
-                  "question": "🌟 What type of galaxy is the Milky Way?",
+                  "question": "🔭 How do astronomers use telescopes to study stars?",
                   "options": [
-                    "Spiral",
-                    "Elliptical",
-                    "Irregular",
-                    "Lenticular"
+                    "By hearing the sounds of stars",
+                    "By analyzing the star's light",
+                    "By observing star movement only",
+                    "By measuring the temperature of stars"
                   ],
-                  "answer": "Spiral",
-                  "explanation": "The Milky Way is a spiral galaxy with beautiful, winding arms."
+                  "answer": "By analyzing the star's light",
+                  "explanation": "Astronomers use telescopes to collect light from stars and analyze it to learn about their temperature, composition, and movement."
                 },
                 {
-                  "question": "⚫ What is the boundary around a black hole called?",
+                  "question": "🌟 What is the Sun primarily made of?",
                   "options": [
-                    "Event horizon",
-                    "Singularity",
-                    "Accretion disk",
-                    "Photon sphere"
+                    "Iron and helium",
+                    "Oxygen and carbon",
+                    "Hydrogen and helium",
+                    "Water and gases"
                   ],
-                  "answer": "Event horizon",
-                  "explanation": "The event horizon is the 'point of no return' around a black hole."
+                  "answer": "Hydrogen and helium",
+                  "explanation": "The Sun is made mostly of hydrogen and helium, which undergo fusion in its core to produce energy."
                 },
                 {
-                  "question": "☁️ What is a nebula?",
+                  "question": "🌌 What does a star's color tell us?",
                   "options": [
-                    "A type of galaxy",
-                    "A cloud of gas and dust in space",
-                    "A black hole",
-                    "A supernova remnant"
+                    "Its age and composition",
+                    "Its distance from Earth",
+                    "Its size and temperature",
+                    "Its brightness"
                   ],
-                  "answer": "A cloud of gas and dust in space",
-                  "explanation": "A nebula is a giant space cloud where stars are born."
+                  "answer": "Its size and temperature",
+                  "explanation": "A star's color indicates its temperature. Blue stars are very hot, while red stars are cooler."
                 },
                 {
-                  "question": "☄️ What makes a comet’s tail?",
+                  "question": "🌠 How do scientists study the composition of stars?",
                   "options": [
-                    "Solar wind",
-                    "Gravity",
-                    "Magnetic fields",
-                    "Nuclear reactions"
+                    "By observing their sound",
+                    "By using spectroscopy to analyze their light",
+                    "By measuring their size",
+                    "By looking at their shadow"
                   ],
-                  "answer": "Solar wind",
-                  "explanation": "Solar wind blows gas and dust off a comet, forming its tail."
+                  "answer": "By using spectroscopy to analyze their light",
+                  "explanation": "Scientists use spectroscopy to study the light from stars and determine their composition, temperature, and motion."
                 },
                 {
-                  "question": "💥 What do we call the explosion of a massive star?",
+                  "question": "🤩 What is the closest star to Earth after the Sun?",
                   "options": [
-                    "Nova",
-                    "Supernova",
-                    "Black hole",
-                    "Red giant"
+                    "Proxima Centauri",
+                    "Sirius",
+                    "Alpha Centauri A",
+                    "Betelgeuse"
                   ],
-                  "answer": "Supernova",
-                  "explanation": "A supernova is a huge explosion that happens when a big star dies."
+                  "answer": "Proxima Centauri",
+                  "explanation": "Proxima Centauri is the closest star to Earth after the Sun, located in the Alpha Centauri system."
                 }
               ]
             },
@@ -2097,114 +2108,114 @@
               "setNumber": 19,
               "questions": [
                 {
-                  "question": "🌍 What do we call a planet's year?",
+                  "question": "🌟 What do stars like the Sun eventually become when they die?",
                   "options": [
-                    "Rotation period",
-                    "Revolution period",
-                    "Orbital period",
-                    "Season"
+                    "Black holes",
+                    "Supernovae",
+                    "White dwarfs",
+                    "Neutron stars"
                   ],
-                  "answer": "Revolution period",
-                  "explanation": "The revolution period is how long it takes for a planet to go around the Sun once."
+                  "answer": "White dwarfs",
+                  "explanation": "When stars like the Sun die, they shed their outer layers and leave behind a dense, cooling core known as a white dwarf."
                 },
                 {
-                  "question": "🌟 What is a neutron star?",
+                  "question": "✨ What causes a star to collapse into a neutron star?",
                   "options": [
-                    "A collapsed supernova",
-                    "A type of black hole",
-                    "A very hot star",
-                    "A large gas giant"
+                    "A massive star's explosion",
+                    "A supernova followed by gravitational collapse",
+                    "A star's fusion of hydrogen",
+                    "The cooling of the star"
                   ],
-                  "answer": "A collapsed supernova",
-                  "explanation": "A neutron star forms after a supernova explosion, and it’s super dense and made mostly of neutrons."
+                  "answer": "A supernova followed by gravitational collapse",
+                  "explanation": "When a massive star undergoes a supernova, its core may collapse to form a neutron star, which is incredibly dense."
                 },
                 {
-                  "question": "🔭 What is the observable universe?",
+                  "question": "🔵 What type of star is often used to estimate the distance to other stars?",
                   "options": [
-                    "The entire universe",
-                    "The part of the universe we can see",
-                    "The nearest galaxy",
-                    "The Milky Way galaxy"
+                    "Neutron stars",
+                    "Cepheid variables",
+                    "White dwarfs",
+                    "Red giants"
                   ],
-                  "answer": "The part of the universe we can see",
-                  "explanation": "The observable universe is the part we can see from Earth because of the speed of light."
+                  "answer": "Cepheid variables",
+                  "explanation": "Cepheid variable stars are used as 'standard candles' to measure distances to stars and galaxies, as their brightness varies in a regular pattern."
                 },
                 {
-                  "question": "🌊 What are gravitational waves?",
-                  "options": [
-                    "Waves of light",
-                    "Ripples in spacetime caused by massive objects",
-                    "Sound waves in space",
-                    "Magnetic waves"
-                  ],
-                  "answer": "Ripples in spacetime caused by massive objects",
-                  "explanation": "Gravitational waves are ripples in spacetime created when massive objects like black holes move."
-                },
-                {
-                  "question": "☀️ What is a brown dwarf?",
+                  "question": "🌌 What is the Milky Way?",
                   "options": [
                     "A type of star",
+                    "A star system",
+                    "A black hole",
+                    "A galaxy"
+                  ],
+                  "answer": "A galaxy",
+                  "explanation": "The Milky Way is the galaxy that contains our solar system, along with billions of stars, planets, and other celestial objects."
+                },
+                {
+                  "question": "🌠 What can astronomers learn from a star's spectrum?",
+                  "options": [
+                    "Its size",
+                    "Its chemical composition and temperature",
+                    "Its distance from Earth",
+                    "Its shape"
+                  ],
+                  "answer": "Its chemical composition and temperature",
+                  "explanation": "By analyzing a star's spectrum, astronomers can determine its chemical makeup, temperature, and motion."
+                },
+                {
+                  "question": "🔭 What is a light-year?",
+                  "options": [
+                    "A unit of time",
+                    "The distance light travels in one year",
+                    "A type of star",
+                    "A measurement of a star's temperature"
+                  ],
+                  "answer": "The distance light travels in one year",
+                  "explanation": "A light-year is the distance that light travels in one year, which is about 9.46 trillion kilometers."
+                },
+                {
+                  "question": "🌟 What happens when a massive star exhausts its nuclear fuel?",
+                  "options": [
+                    "It becomes a white dwarf",
+                    "It forms a black hole",
+                    "It becomes a red giant or supergiant",
+                    "It cools and disappears"
+                  ],
+                  "answer": "It becomes a red giant or supergiant",
+                  "explanation": "As a massive star exhausts its fuel, it expands and becomes a red giant or supergiant before eventually collapsing into a supernova."
+                },
+                {
+                  "question": "🌌 What is a galaxy?",
+                  "options": [
+                    "A large cluster of stars, gas, and dust bound together by gravity",
                     "A type of planet",
-                    "A failed star",
-                    "A type of galaxy"
+                    "A supermassive black hole",
+                    "A giant star"
                   ],
-                  "answer": "A failed star",
-                  "explanation": "A brown dwarf is a 'failed star' because it’s not big enough to keep hydrogen fusion going."
+                  "answer": "A large cluster of stars, gas, and dust bound together by gravity",
+                  "explanation": "A galaxy is a vast system of stars, gas, dust, and dark matter bound together by gravity, like the Milky Way."
                 },
                 {
-                  "question": "🌀 What do we call a planet's path around the Sun?",
+                  "question": "🌠 Why are stars important to us?",
                   "options": [
-                    "Rotation",
-                    "Orbit",
-                    "Revolution",
-                    "Ecliptic"
+                    "They provide light and heat",
+                    "They help us navigate",
+                    "They allow life on Earth to exist",
+                    "All of the above"
                   ],
-                  "answer": "Orbit",
-                  "explanation": "A planet's orbit is the path it takes around the Sun, guided by gravity."
+                  "answer": "All of the above",
+                  "explanation": "Stars, like the Sun, provide essential heat and light, help with navigation, and make life on Earth possible."
                 },
                 {
-                  "question": "💥 What is the main characteristic of a supernova?",
+                  "question": "🤩 Which of the following is a characteristic of a neutron star?",
                   "options": [
-                    "A sudden explosion",
-                    "A slow burn",
-                    "A dense core",
-                    "A bright light"
+                    "It is extremely dense and small",
+                    "It is a very large star",
+                    "It is a white dwarf that has cooled",
+                    "It is a star in its early life phase"
                   ],
-                  "answer": "A sudden explosion",
-                  "explanation": "A supernova is a giant explosion at the end of a star's life."
-                },
-                {
-                  "question": "☀️ What is the main fuel for a star's nuclear fusion?",
-                  "options": [
-                    "Hydrogen",
-                    "Helium",
-                    "Oxygen",
-                    "Carbon"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Stars use hydrogen as fuel to create energy through nuclear fusion."
-                },
-                {
-                  "question": "🌌 What do we call the largest structure in the universe?",
-                  "options": [
-                    "Galaxy cluster",
-                    "Supercluster",
-                    "Galactic filament",
-                    "Dark matter"
-                  ],
-                  "answer": "Supercluster",
-                  "explanation": "A supercluster is a huge group of galaxies held together by gravity."
-                },
-                {
-                  "question": "🌌 What is the cosmic microwave background (CMB)?",
-                  "options": [
-                    "Radiation from stars",
-                    "Radiation from dark matter",
-                    "Leftover radiation from the Big Bang",
-                    "Radiation from black holes"
-                  ],
-                  "answer": "Leftover radiation from the Big Bang",
-                  "explanation": "The CMB is leftover light from the Big Bang that helps us understand the early universe."
+                  "answer": "It is extremely dense and small",
+                  "explanation": "A neutron star is incredibly dense, often only about 1.5 times the mass of the Sun but only a few kilometers in diameter."
                 }
               ]
             },
@@ -2212,117 +2223,117 @@
               "setNumber": 20,
               "questions": [
                 {
-                  "question": "🌞 What is the temperature at the core of the Sun?",
+                  "question": "🌟 What is the main element that stars primarily consist of?",
                   "options": [
-                    "About 15 million degrees Celsius",
-                    "About 5,500 degrees Celsius",
-                    "About 100,000 degrees Celsius",
-                    "About 1 million degrees Celsius"
-                  ],
-                  "answer": "About 15 million degrees Celsius",
-                  "explanation": "The Sun's core is extremely hot, reaching about 15 million degrees Celsius because of nuclear fusion."
-                },
-                {
-                  "question": "🌎 What is the main reason for the seasons on Earth?",
-                  "options": [
-                    "Earth's distance from the Sun",
-                    "Earth's axial tilt",
-                    "Solar flares",
-                    "Moon's phases"
-                  ],
-                  "answer": "Earth's axial tilt",
-                  "explanation": "Seasons happen because Earth's axis is tilted, so different parts get more sunlight at different times of the year."
-                },
-                {
-                  "question": "☀️ What is the main source of energy for the Earth?",
-                  "options": [
-                    "The Moon",
-                    "The Sun",
-                    "Geothermal energy",
-                    "Nuclear energy"
-                  ],
-                  "answer": "The Sun",
-                  "explanation": "The Sun provides most of Earth's energy, powering weather, climate, and life."
-                },
-                {
-                  "question": "What is the main purpose of the International Space Station (ISS)?",
-                  "options": [
-                    "To observe the Sun",
-                    "To study Earth",
-                    "To serve as a laboratory for space research",
-                    "To monitor other planets"
-                  ],
-                  "answer": "To serve as a laboratory for space research",
-                  "explanation": "The ISS is a floating lab where astronauts do experiments to learn about space and science."
-                },
-                {
-                  "question": "What is the Kuiper Belt?",
-                  "options": [
-                    "A region of space beyond Neptune",
-                    "A type of galaxy",
-                    "A cluster of stars",
-                    "A comet"
-                  ],
-                  "answer": "A region of space beyond Neptune",
-                  "explanation": "The Kuiper Belt is a region of space past Neptune filled with icy objects and dwarf planets."
-                },
-                {
-                  "question": "🌟 What do we call the process of a star forming from a nebula?",
-                  "options": [
-                    "Nebula condensation",
-                    "Stellar evolution",
-                    "Stellar birth",
-                    "Nuclear fusion"
-                  ],
-                  "answer": "Stellar birth",
-                  "explanation": "Stellar birth happens when gas and dust in a nebula collapse to form a new star."
-                },
-                {
-                  "question": "🪐 What is the main gas in Jupiter's atmosphere?",
-                  "options": [
-                    "Hydrogen",
                     "Oxygen",
-                    "Carbon dioxide",
-                    "Methane"
-                  ],
-                  "answer": "Hydrogen",
-                  "explanation": "Jupiter's atmosphere is mostly made of hydrogen, which makes it a gas giant."
-                },
-                {
-                  "question": "🕳️ What do we call a region of space where time is distorted due to strong gravity?",
-                  "options": [
-                    "Time vortex",
-                    "Black hole",
-                    "Event horizon",
-                    "Gravitational well"
-                  ],
-                  "answer": "Black hole",
-                  "explanation": "A black hole is a place where gravity is so strong it bends time and space."
-                },
-                {
-                  "question": "🔭 What is the primary function of a telescope?",
-                  "options": [
-                    "To magnify stars",
-                    "To observe celestial objects",
-                    "To detect dark matter",
-                    "To measure time"
-                  ],
-                  "answer": "To observe celestial objects",
-                  "explanation": "Telescopes are used to see objects in space by collecting and magnifying light."
-                },
-                {
-                  "question": "🌌 What is the most abundant gas in the universe?",
-                  "options": [
                     "Helium",
-                    "Oxygen",
-                    "Nitrogen",
-                    "Hydrogen"
+                    "Hydrogen",
+                    "Carbon"
                   ],
                   "answer": "Hydrogen",
-                  "explanation": "Hydrogen is the most common gas in the universe, making up most of its mass."
+                  "explanation": "Stars, including our Sun, are mainly composed of hydrogen, which undergoes fusion in their cores to produce energy."
+                },
+                {
+                  "question": "🌠 What is the phenomenon that causes stars to shine?",
+                  "options": [
+                    "Solar flares",
+                    "Fusion of hydrogen into helium",
+                    "Gravitational pull",
+                    "Black hole activity"
+                  ],
+                  "answer": "Fusion of hydrogen into helium",
+                  "explanation": "Stars shine because of nuclear fusion, where hydrogen atoms combine to form helium, releasing huge amounts of energy."
+                },
+                {
+                  "question": "🌌 What is the core process that powers the Sun?",
+                  "options": [
+                    "Fission",
+                    "Nuclear fusion",
+                    "Chemical reactions",
+                    "Gravitational collapse"
+                  ],
+                  "answer": "Nuclear fusion",
+                  "explanation": "The Sun’s core undergoes nuclear fusion, where hydrogen atoms fuse to form helium, releasing heat and light."
+                },
+                {
+                  "question": "🔥 What type of star is the Sun?",
+                  "options": [
+                    "Red giant",
+                    "Yellow dwarf",
+                    "White dwarf",
+                    "Supernova"
+                  ],
+                  "answer": "Yellow dwarf",
+                  "explanation": "The Sun is a yellow dwarf star, meaning it is medium-sized and is in the main phase of its life."
+                },
+                {
+                  "question": "✨ What happens during the death of a massive star?",
+                  "options": [
+                    "It becomes a black hole",
+                    "It turns into a white dwarf",
+                    "It explodes in a supernova",
+                    "It turns into a neutron star"
+                  ],
+                  "answer": "It explodes in a supernova",
+                  "explanation": "When a massive star dies, it may explode in a supernova, leaving behind either a neutron star or a black hole."
+                },
+                {
+                  "question": "🌍 What is the closest star to Earth?",
+                  "options": [
+                    "Sirius",
+                    "Betelgeuse",
+                    "Proxima Centauri",
+                    "Alpha Centauri"
+                  ],
+                  "answer": "Proxima Centauri",
+                  "explanation": "Proxima Centauri is the closest star to Earth, located about 4.24 light-years away."
+                },
+                {
+                  "question": "🔭 What is the purpose of the Hubble Space Telescope?",
+                  "options": [
+                    "To study distant stars and galaxies",
+                    "To find new planets",
+                    "To measure the temperature of stars",
+                    "To explore the solar system"
+                  ],
+                  "answer": "To study distant stars and galaxies",
+                  "explanation": "The Hubble Space Telescope allows astronomers to observe distant stars, galaxies, and nebulae, providing important information about the universe."
+                },
+                {
+                  "question": "🌀 What is a supernova?",
+                  "options": [
+                    "A type of black hole",
+                    "The birth of a star",
+                    "An explosion of a massive star",
+                    "A white dwarf star"
+                  ],
+                  "answer": "An explosion of a massive star",
+                  "explanation": "A supernova is a powerful explosion that occurs when a massive star runs out of fuel and collapses under its own gravity."
+                },
+                {
+                  "question": "🌌 What are nebulae?",
+                  "options": [
+                    "Stars that are dying",
+                    "Clouds of gas and dust where stars are born",
+                    "Planets that orbit stars",
+                    "The remains of dead stars"
+                  ],
+                  "answer": "Clouds of gas and dust where stars are born",
+                  "explanation": "Nebulae are vast clouds of gas and dust in space where new stars are born through the process of gravitational collapse."
+                },
+                {
+                  "question": "🌠 What is the purpose of studying star spectra?",
+                  "options": [
+                    "To determine a star's age",
+                    "To determine a star's color",
+                    "To understand a star's temperature and composition",
+                    "To measure a star's size"
+                  ],
+                  "answer": "To understand a star's temperature and composition",
+                  "explanation": "By studying the spectra of stars, scientists can learn about a star’s chemical composition, temperature, and other important characteristics."
                 }
               ]
-            }
+            }            
           ]
         },
         {
