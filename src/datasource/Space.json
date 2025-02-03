@@ -1340,7 +1340,8 @@
                     "A satellite that orbits a moon",
                     "A comet that travels through space"
                   ],
-                  "answer": "A large, round object that orbits a star"
+                  "answer": "A large, round object that orbits a star",
+                  "explanation": "A planet is a large, round object that orbits a star, such as the Sun, and does not emit its own light."
                 },
                 {
                   "question": "Which of the following is NOT a planet in our solar system?",
@@ -1350,7 +1351,8 @@
                     "Pluto",
                     "Mars"
                   ],
-                  "answer": "Pluto"
+                  "answer": "Pluto",
+                  "explanation": "Pluto is no longer classified as a planet; it is considered a dwarf planet due to its small size and irregular orbit."
                 },
                 {
                   "question": "Which planet is known for having the strongest winds in the Solar System?",
@@ -1360,7 +1362,8 @@
                     "Neptune",
                     "Saturn"
                   ],
-                  "answer": "Neptune"
+                  "answer": "Neptune",
+                  "explanation": "Neptune has the strongest winds in the Solar System, with speeds reaching up to 2,100 km/h."
                 },
                 {
                   "question": "What is the main difference between terrestrial planets and gas/ice giants?",
@@ -1370,7 +1373,8 @@
                     "Terrestrial planets have solid surfaces, while gas/ice giants have no solid surface",
                     "Gas giants are found closer to the Sun"
                   ],
-                  "answer": "Terrestrial planets have solid surfaces, while gas/ice giants have no solid surface"
+                  "answer": "Terrestrial planets have solid surfaces, while gas/ice giants have no solid surface",
+                  "explanation": "Terrestrial planets like Earth and Mars have solid, rocky surfaces, while gas/ice giants like Jupiter and Neptune are mostly made of gases and have no solid surface."
                 },
                 {
                   "question": "What makes Venus unique in terms of its day and year?",
@@ -1380,7 +1384,8 @@
                     "Venus has no day or night cycle",
                     "Venus rotates in the opposite direction to other planets"
                   ],
-                  "answer": "A day on Venus is longer than its year"
+                  "answer": "A day on Venus is longer than its year",
+                  "explanation": "A day on Venus (one full rotation) takes longer than its year (one orbit around the Sun), making it unique in the solar system."
                 },
                 {
                   "question": "Which planet is the largest in our solar system?",
@@ -1390,7 +1395,8 @@
                     "Jupiter",
                     "Saturn"
                   ],
-                  "answer": "Jupiter"
+                  "answer": "Jupiter",
+                  "explanation": "Jupiter is the largest planet in our solar system, with a diameter of about 142,984 km."
                 },
                 {
                   "question": "What is the main reason Pluto is no longer considered a planet?",
@@ -1400,7 +1406,8 @@
                     "It is too far from the Sun",
                     "It is too close to the Sun"
                   ],
-                  "answer": "It is too small and its orbit is different"
+                  "answer": "It is too small and its orbit is different",
+                  "explanation": "Pluto was reclassified as a dwarf planet because it is too small and does not clear its orbit of other debris, unlike the eight recognized planets."
                 },
                 {
                   "question": "What mission made India the first country to reach Mars on its first attempt?",
@@ -1410,7 +1417,8 @@
                     "Gaganyaan",
                     "NASA Mars Mission"
                   ],
-                  "answer": "Mangalyaan"
+                  "answer": "Mangalyaan",
+                  "explanation": "Mangalyaan, also known as the Mars Orbiter Mission, made India the first country to successfully reach Mars on its first attempt."
                 },
                 {
                   "question": "Which planet has the famous rings made of ice and rock?",
@@ -1420,7 +1428,8 @@
                     "Saturn",
                     "Uranus"
                   ],
-                  "answer": "Saturn"
+                  "answer": "Saturn",
+                  "explanation": "Saturn is known for its spectacular rings, which are made up of ice, rock, and dust particles."
                 },
                 {
                   "question": "What is the primary method used by scientists to study planets?",
@@ -1430,7 +1439,8 @@
                     "Building artificial planets",
                     "Sending humans to live on planets"
                   ],
-                  "answer": "Telescopes and space probes"
+                  "answer": "Telescopes and space probes",
+                  "explanation": "Scientists mainly use telescopes and space probes to observe and collect data about planets, as these methods are more practical and cost-effective than human missions."
                 }
               ]
             },
