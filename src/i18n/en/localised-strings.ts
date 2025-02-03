@@ -20,8 +20,10 @@ export const localised = {
 
   InformationMessage : (username :string) => `🌟 Hello ${username} ! \n You got Total 10 questions.\nFor every correct answer, you earn 1 mark. Don’t worry—no marks will be deducted for wrong answers. 😊\n when you complete the quiz . You  will get the rewarded based on your scores.\n These are the 🏅 Scoring Rewards:\n- Gold 🥇: Total score = 10\n- Silver 🥈: Total score ≥ 7\n- Bronze 🥉: Total score ≥ 5\n\n✨ Complete the quiz to discover your final score! Keep it up—you’ve got this! 💪`,
 
+
+  question: 'Question',
   scoreInformation:(score:number,attempted: number) =>
-    `You've attempted ${attempted}/10 questions so far and answered ${score} correctly. Your current score is ${score}/10. Complete the quiz to see your final score! Keep it up! 🚀 `,
+    `You've attempted ${attempted}/10 questions so far and answered ${score} correctly. Your current score is ${score}/10. Complete the quiz to see your final score! Keep it up!  `,
 
   Moreexplanation:'More Explanation',
   viewChallenge:"View Challenges",

@@ -239,7 +239,8 @@ export function questionButton(
         type: localisedStrings.text,
         text: {
           // body: question.question,
-          body :  `Question : ${selectedQuestionIndex+1} \n ${question.question}`
+          body :  `${localisedStrings.question} : ${selectedQuestionIndex+1} \n ${question.question}`
+          // body :  `Question : ${selectedQuestionIndex+1} \n ${question.question}`
         },
       },
       buttons: buttons,
