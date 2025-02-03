@@ -4,7 +4,7 @@ import data from '../../datasource/Space.json';
 import { localised } from '../en/localised-strings';
 import _ from 'lodash';
 
-export function createMainTopicButtons(from: string) {
+export function createMainTopicButtons(from: string,language:string) {
   // Extract topic names from the data
   const topics = data.topics.map((topic) => topic.topicName);
 
@@ -33,12 +33,12 @@ export function createMainTopicButtons(from: string) {
 }
 
 
-export function changeTopic(from:string){
-  createMainTopicButtons(from);
+export function changeTopic(from:string,language:string){
+  createMainTopicButtons(from ,language);
 }
 
 
-export function createSubTopicButtons(from: string, topicName: string) {
+export function createSubTopicButtons(from: string, topicName: string, language:string) {
   // Find the topic in the data
   const topic = data.topics.find((topic) => topic.topicName === topicName);
 
@@ -116,6 +116,7 @@ export function createTestYourSelfButton(
   from: string,
   description: string,
   subtopicName: string,
+  language:string
 ) {
   const buttons = [
     {
@@ -150,6 +151,7 @@ export function videoWithButton(
   from: string, 
   videoUrl: string[],  // Ensure this is an array
   subTopic: string,
+  language:string
 ) {
   if (!Array.isArray(videoUrl)) {
     console.error("Error: videoUrls should be an array but received:", typeof videoUrl);
@@ -242,7 +244,7 @@ export function answerFeedback(
   selectedSubtopic: string,
   randomSet: string,
   currentQuestionIndex: number,
-
+  language:string
 ) {
   const topic = data.topics.find((t) => t.topicName === selectedMainTopic);
 
@@ -280,7 +282,8 @@ export function buttonWithScore(
   from: string,
   score: number,
   totalQuestions: number,
-  badge:string
+  badge:string,
+  language:string
 ) {
   return {
     to: from,
@@ -319,6 +322,7 @@ export function optionButton(
   selectedSubtopic: string,
   randomSet: string,
   currentQuestionIndex: number,
+  language:string
 ) {
   // Find the selected topic
   const topic = data.topics.find(
