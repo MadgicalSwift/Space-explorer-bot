@@ -1,10 +1,13 @@
 import { log } from 'src/common/middleware/logger.help';
 import data from '../../datasource/Space.json';
+import { LocalizationService } from 'src/localization/localization.service';
 
 import { localised } from '../en/localised-strings';
 import _ from 'lodash';
 
+
 export function createMainTopicButtons(from: string,language:string) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   // Extract topic names from the data
   const topics = data.topics.map((topic) => topic.topicName);
 
@@ -18,12 +21,12 @@ export function createMainTopicButtons(from: string,language:string) {
 
   return {
     to: from,
-    type: localised.button,
+    type: 'button',
     button: {
       body: {
-        type: localised.text,
+        type: localisedStrings.text,
         text: {
-          body: localised.chooseTopic,
+          body: localisedStrings.chooseTopic,
         },
       },
       buttons: buttons,
@@ -34,11 +37,14 @@ export function createMainTopicButtons(from: string,language:string) {
 
 
 export function changeTopic(from:string,language:string){
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   createMainTopicButtons(from ,language);
 }
 
 
 export function createSubTopicButtons(from: string, topicName: string, language:string) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
+  createMainTopicButtons(from ,language);
   // Find the topic in the data
   const topic = data.topics.find((topic) => topic.topicName === topicName);
 
@@ -52,12 +58,12 @@ export function createSubTopicButtons(from: string, topicName: string, language:
 
     return {
       to: from,
-      type: localised.button,
+      type: localisedStrings.button,
       button: {
         body: {
-          type: localised.text,
+          type: localisedStrings.text,
           text: {
-            body: localised.selectSubtopic(topicName),
+            body: localisedStrings.selectSubtopic(topicName),
           },
         },
         buttons: buttons,
@@ -78,33 +84,35 @@ export function createSubTopicButtons(from: string, topicName: string, language:
 export function createButtonWithExplanation(
   from: string,
   description: string,
-  subtopicName: string, ) 
+  subtopicName: string, language:string ) 
     {
+      const localisedStrings = LocalizationService.getLocalisedString(language);
+  createMainTopicButtons(from ,language);
   const buttons = [
     {
       type: 'solid',
-      body: localised.Moreexplanation,
-      reply: localised.Moreexplanation,
+      body: localisedStrings.Moreexplanation,
+      reply: localisedStrings.Moreexplanation,
     },
     {
       type: 'solid',
-      body: localised.startQuiz,
-      reply: localised.startQuiz,
+      body: localisedStrings.startQuiz,
+      reply: localisedStrings.startQuiz,
     },
     {
       type: 'solid',
-      body: localised.mainMenu,
-      reply: localised.mainMenu,
+      body: localisedStrings.mainMenu,
+      reply: localisedStrings.mainMenu,
     },
   ];
   return {
     to: from,
-    type: localised.button,
+    type: localisedStrings.button,
     button: {
       body: {
-        type: localised.text,
+        type: localisedStrings.text,
         text: {
-          body: localised.explanation(subtopicName, description),
+          body: localisedStrings.explanation(subtopicName, description),
         },
       },
       buttons: buttons,
@@ -118,26 +126,27 @@ export function createTestYourSelfButton(
   subtopicName: string,
   language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   const buttons = [
     {
       type: 'solid',
-      body: localised.startQuiz,
-      reply: localised.startQuiz,
+      body: localisedStrings.startQuiz,
+      reply: localisedStrings.startQuiz,
     },
     {
       type: 'solid',
-      body: localised.mainMenu,
-      reply: localised.mainMenu,
+      body: localisedStrings.mainMenu,
+      reply: localisedStrings.mainMenu,
     },
   ];
   return {
     to: from,
-    type: localised.button,
+    type: localisedStrings.button,
     button: {
       body: {
-        type: localised.text,
+        type: localisedStrings.text,
         text: {
-          body: localised.moreExplanation(subtopicName, description),
+          body: localisedStrings.moreExplanation(subtopicName, description),
         },
       },
       buttons: buttons,
@@ -153,6 +162,7 @@ export function videoWithButton(
   subTopic: string,
   language:string
 ) {
+  
   if (!Array.isArray(videoUrl)) {
     console.error("Error: videoUrls should be an array but received:", typeof videoUrl);
     return;
@@ -184,8 +194,9 @@ export function questionButton(
   from: string,
   selectedMainTopic: string,
   selectedSubtopic: string,
-
+  language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
   );
@@ -221,10 +232,10 @@ export function questionButton(
 
   const messageData = {
     to: from,
-    type: localised.button,
+    type: localisedStrings.button,
     button: {
       body: {
-        type: localised.text,
+        type: localisedStrings.text,
         text: {
           body: question.question,
         },
@@ -246,6 +257,7 @@ export function answerFeedback(
   currentQuestionIndex: number,
   language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   const topic = data.topics.find((t) => t.topicName === selectedMainTopic);
 
   const subtopic = topic.subtopics.find(
@@ -271,8 +283,8 @@ export function answerFeedback(
   const isCorrect = userAnswer === correctAns;
   const feedbackMessage =
     isCorrect
-      ? localised.rightAnswer(explanation)
-      : localised.wrongAnswer(correctAns, explanation);
+      ? localisedStrings.rightAnswer(explanation)
+      : localisedStrings.wrongAnswer(correctAns, explanation);
   const result = isCorrect ? 1 : 0;
 
   return { feedbackMessage, result };
@@ -285,12 +297,14 @@ export function buttonWithScore(
   badge:string,
   language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   return {
+    
     to: from,
-    type: localised.button,
+    type: localisedStrings.button,
     button: {
       body: {
-        type: localised.text,
+        type: localisedStrings.text,
         text: {
           body: "💪Congrats! The quiz is completed.🌟 Please select a choice to continue the quiz :",
         },
@@ -298,18 +312,18 @@ export function buttonWithScore(
       buttons: [
         {
           type: 'solid',
-          body: localised.mainMenu,
-          reply: localised.mainMenu,
+          body: localisedStrings.mainMenu,
+          reply: localisedStrings.mainMenu,
         },
         {
           type: 'solid',
-          body: localised.retakeQuiz,
-          reply: localised.retakeQuiz,
+          body: localisedStrings.retakeQuiz,
+          reply: localisedStrings.retakeQuiz,
         },
         {
           type: 'solid',
-          body: localised.viewChallenge,
-          reply: localised.viewChallenge,
+          body: localisedStrings.viewChallenge,
+          reply: localisedStrings.viewChallenge,
         }
       ],
       allow_custom_response: false,
@@ -324,6 +338,7 @@ export function optionButton(
   currentQuestionIndex: number,
   language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   // Find the selected topic
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
@@ -363,10 +378,10 @@ export function optionButton(
   }));
   return {
     to: from,
-    type: localised.button,
+    type: localisedStrings.button,
     button: {
       body: {
-        type: localised.text,
+        type: localisedStrings.text,
         text: {
           body: question.question,
         },

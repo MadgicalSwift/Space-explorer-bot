@@ -152,6 +152,7 @@ export class SwiftchatMessageService extends MessageService {
       from,
       selectedMainTopic,
       selectedSubtopic,
+      language
     );
     if (!messageData) {
       return;
@@ -178,6 +179,7 @@ export class SwiftchatMessageService extends MessageService {
       from,
       description,
       subtopicName,
+      language
     );
     const response = await this.sendMessage(
       this.baseUrl,
@@ -349,12 +351,14 @@ export class SwiftchatMessageService extends MessageService {
         buttons: [
           {
             type: 'solid',
-            body: localisedStrings.language_english,
+            body: "English",
             reply: 'english',
           },
           {
             type: 'solid',
-            body: localisedStrings.language_hindi,
+            body: 'Hindi',
+            // body: localisedStrings.language_english,
+            // body: localisedStrings.language_hindi,
             reply: 'hindi',
           },
         ],

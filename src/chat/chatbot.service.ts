@@ -61,22 +61,32 @@ export class ChatbotService {
     const user = plainToClass(User, userData);
 
     const localisedStrings = LocalizationService.getLocalisedString(user.language);
-    console.log('user-language', user.language);
+    // console.log('user-language', user.language);
 
     let username = userData.name
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
         await this.resetQuizData(user);
-        await this.message.sendInitialTopics(from,user.language);
+        await this.message.endMessage(from,user.language);
+        // await this.message.sendInitialTopics(from,user.language);
+        return 'ok';
+      }
+      else if(persistent_menu_response.body=="Change Language"){
+
+        await this.resetQuizData(user);
+        user.language = null
+        await this.userService.saveUser(user);
+        await this.message.sendLanguageChangedMessage(from,user.language); 
         return 'ok';
       }
     }
+
     
     
     // Handle button response from the user
     else if (button_response) {
       const buttonBody = button_response.body;
-
+      console.log('button-response',buttonBody);
       if (['english', 'hindi'].includes(buttonBody?.toLowerCase())) {
         user.language = buttonBody.toLowerCase();
         await this.userService.saveUser(user);
@@ -336,20 +346,27 @@ export class ChatbotService {
 
 
         if (!userData) {
-          await this.userService.createUser(from, localised.english, botID);
+          await this.userService.createUser(from, 'english', botID);
         }
         // reset user data to start playing the game
         await this.userService.resetUserData(user)
         // console.log("user data -",userData)
-        if(userData.name==null){
-          await this.message.sendWelcomeMessage(from, user.language);
-          await this.message.sendName(from,user.language);
+
+        user.language = 'english'
+        await this.userService.saveUser(user);
+        let userLang = user.language
+        await this.message.sendWelcomeMessage(from, userLang);
+        await this.message.sendLanguageChangedMessage(from,userLang);
         }
-        else{
-          await this.message.sendWelcomeMessage(from, user.language);
-          await this.message.sendInitialTopics(from,user.language);
-        }
-      }
+        // if(userData.name==null){
+          
+        //   await this.message.sendName(from,user.language);
+        // }
+      //   else{
+      //     await this.message.sendWelcomeMessage(from, user.language);
+      //     await this.message.sendInitialTopics(from,user.language);
+      //   }
+      // }
       else{
 
         await this.userService.saveUserName(from, botID, text.body);
