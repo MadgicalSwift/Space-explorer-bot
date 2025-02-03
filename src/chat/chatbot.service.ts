@@ -196,6 +196,7 @@ export class ChatbotService {
           selectedSubtopic,
           userSelectedLanguage,
           selectedQuestionIndex
+          // userData.language
         );
 
         user.selectedSet = randomSet;
@@ -209,6 +210,7 @@ export class ChatbotService {
         
         const selectedMainTopic = user.selectedMainTopic;
         const selectedSubtopic = user.selectedSubtopic;
+        const score = user.score
         const randomSet = user.selectedSet;
         const currentQuestionIndex = user.questionsAnswered;
         const { result } = await this.message.checkAnswer(
@@ -218,6 +220,7 @@ export class ChatbotService {
           selectedSubtopic,
           randomSet,
           currentQuestionIndex,
+          score,
           userSelectedLanguage
         );
 
@@ -225,6 +228,12 @@ export class ChatbotService {
         user.score += result;
         user.questionsAnswered += 1;
         await this.userService.saveUser(user);
+
+
+        if ( currentQuestionIndex < 9) {
+          await this.message.scoreInformation(from,user.score, currentQuestionIndex+1 ,userSelectedLanguage)
+        }
+
 
         // If the user has answered 10 questions, send their final score
         if (user.questionsAnswered >= 10) {

@@ -167,7 +167,6 @@ export class SwiftchatMessageService extends MessageService {
     return { response, randomSet };
   }
 
-  // start
 
   async sendExplanation(
     from: string,
@@ -190,6 +189,20 @@ export class SwiftchatMessageService extends MessageService {
     );
     return response;
   }
+
+
+  async scoreInformation(from: string, score: number, attempted: number, language:string) {
+    const localisedStrings = LocalizationService.getLocalisedString(language);
+    const message = localisedStrings.scoreInformation(score, attempted);
+    const requestData = this.prepareRequestData(from, message);
+    const response = await this.sendMessage(
+      this.baseUrl,
+      requestData,
+      this.apiKey,
+    );
+    return response;
+  }
+
 
 
 
@@ -272,6 +285,7 @@ export class SwiftchatMessageService extends MessageService {
     selectedSubtopic: string,
     randomSet: string,
     currentQuestionIndex: number,
+    score: number,
     language: string
   ) {
     const localisedStrings = LocalizationService.getLocalisedString(language);

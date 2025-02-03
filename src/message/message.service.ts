@@ -63,6 +63,7 @@ export abstract class MessageService {
     selectedSubtopic: string,
     randomSet: string,
     currentQuestionIndex: number,
+    score:number,
     language: string
   );
   abstract sendName(from: string,language: string);
@@ -83,6 +84,10 @@ export abstract class MessageService {
   abstract sendLanguageChangedMessage(from: string, language: string);
   abstract newscorecard(from: string, score: number, totalQuestions: number, badge: string,language: string);
   
+// 
+
+  abstract scoreInformation(from: string,score:number,attempted: number,language: string);
+
   // abstract sendVideo(from: string,  videoUrl: string, title:string, subTopic: string, aboutVideo: string);
     abstract sendVideo(from: string,  videoUrl: any,subTopic: string,language: string);
   
