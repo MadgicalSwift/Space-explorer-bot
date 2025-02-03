@@ -57,7 +57,6 @@ export class ChatbotService {
   
     // Convert plain user data to a User class instance
     const user = plainToClass(User, userData);
-    // console.log('button_response-sangeeta',button_response);
 
     let username = userData.name
     if(persistent_menu_response){
@@ -129,7 +128,6 @@ export class ChatbotService {
           
           let description = descriptions[user.descriptionIndex]
           const subtopicName = subtopic.subtopicName;
-          // console.log('sangeeta')
           if ((descriptions.length-1) == user.descriptionIndex){
             
             
@@ -222,7 +220,7 @@ export class ChatbotService {
             userData.Botid,
             challengeData,
           );
-          // console.log("Challenge Data:",challengeData)
+          
           
           // await this.message.sendScore(
           //   from,
@@ -270,16 +268,15 @@ export class ChatbotService {
 
           const descriptions = subtopic.description;
           
-          console.log('video-details', subtopic.video_link);
           
           const videoUrl =subtopic.video_link;
-          console.log('videoUrl', videoUrl);
+          
           
           const title = subtopic.title;
-          console.log('video-title', title);
+          
           
           const aboutVideo = subtopic.descrip
-          console.log('aboutVideo', aboutVideo);
+          
           
           let subTopic =subtopic.subtopicName
           
@@ -301,7 +298,7 @@ export class ChatbotService {
 
     // Handle text message input - reset user data and send a welcome message
     else{
-      // console.log(text.body)
+     
       if (localised.validText.includes(text.body)) {
         const userData = await this.userService.findUserByMobileNumber(
           from,

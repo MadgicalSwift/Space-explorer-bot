@@ -1,3 +1,4 @@
+import { log } from 'src/common/middleware/logger.help';
 import data from '../../datasource/Space.json';
 import { localised } from '../en/localised-strings';
 import _ from 'lodash';
@@ -240,6 +241,7 @@ export function answerFeedback(
   selectedSubtopic: string,
   randomSet: string,
   currentQuestionIndex: number,
+
 ) {
   const topic = data.topics.find((t) => t.topicName === selectedMainTopic);
 
@@ -256,8 +258,13 @@ export function answerFeedback(
 
   const question = questionSet.questions[currentQuestionIndex];
   
+  console.log('question=>',question );
+  console.log('question.answer', question.answer);
+  console.log('explanation',question.explanation);
+  
 
-  const explanation = question.explanation;
+  const explanation = question.answer;
+  // const explanation = question.explanation;
   
   const correctAnswer = question.answer;
   const userAnswer = Array.isArray(answer) ? answer[0] : answer;
