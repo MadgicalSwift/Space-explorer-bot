@@ -11,6 +11,8 @@ export const localised = {
   validText: ['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
   changeTopic:'Change Topic',
 
+
+  congratsMessage: "💪Congrats! The quiz is completed.🌟 Please select a choice to continue the quiz :",
   selectSubtopic: (topicName: string) =>
   `📜 Please select a topic for **${topicName}**:`,
   mainMenu:'Main Menu',

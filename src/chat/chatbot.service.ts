@@ -144,6 +144,7 @@ export class ChatbotService {
         );
         return 'ok';
       }
+      
       if(buttonBody=== localisedStrings.viewChallenge){
         await this.handleViewChallenges(from, userData,userSelectedLanguage);
         await this.message.endMessage(from,userSelectedLanguage);

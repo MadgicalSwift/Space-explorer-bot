@@ -238,9 +238,7 @@ export function questionButton(
       body: {
         type: localisedStrings.text,
         text: {
-          // body: question.question,
           body :  `${localisedStrings.question} : ${selectedQuestionIndex+1} \n ${question.question}`
-          // body :  `Question : ${selectedQuestionIndex+1} \n ${question.question}`
         },
       },
       buttons: buttons,
@@ -309,7 +307,7 @@ export function buttonWithScore(
       body: {
         type: localisedStrings.text,
         text: {
-          body: "💪Congrats! The quiz is completed.🌟 Please select a choice to continue the quiz :",
+          body: localisedStrings.congratsMessage,
         },
       },
       buttons: [
@@ -387,8 +385,7 @@ export function optionButton(
       body: {
         type: localisedStrings.text,
         text: {
-          body: `Question : ${currentQuestionIndex+1} \n ${question.question}`,
-          // body: question.question,
+          body: `${localisedStrings.question} : ${currentQuestionIndex+1} \n ${question.question}`,
         },
       },
       buttons: buttons,
