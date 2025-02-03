@@ -194,7 +194,8 @@ export function questionButton(
   from: string,
   selectedMainTopic: string,
   selectedSubtopic: string,
-  language:string
+  language:string,
+  selectedQuestionIndex: number
 ) {
   const localisedStrings = LocalizationService.getLocalisedString(language);
   const topic = data.topics.find(
@@ -237,7 +238,8 @@ export function questionButton(
       body: {
         type: localisedStrings.text,
         text: {
-          body: question.question,
+          // body: question.question,
+          body :  `Question : ${selectedQuestionIndex} => ${question.question}`
         },
       },
       buttons: buttons,
@@ -337,6 +339,7 @@ export function optionButton(
   randomSet: string,
   currentQuestionIndex: number,
   language:string
+
 ) {
   const localisedStrings = LocalizationService.getLocalisedString(language);
   // Find the selected topic
@@ -383,7 +386,8 @@ export function optionButton(
       body: {
         type: localisedStrings.text,
         text: {
-          body: question.question,
+          body: `Question${currentQuestionIndex} =>${question.question}`,
+          // body: question.question,
         },
       },
       buttons: buttons,

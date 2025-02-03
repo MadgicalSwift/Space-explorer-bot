@@ -131,7 +131,7 @@ export class ChatbotService {
         await this.userService.saveUser(user);
         const selectedMainTopic = user.selectedMainTopic;
         const selectedSubtopic = user.selectedSubtopic;
-
+        // const selectedQuestionIndex
         const randomSet = user.selectedSet;
         await this.message.getQuestionBySet(
           from,
@@ -186,7 +186,7 @@ export class ChatbotService {
         
         user.questionsAnswered=0;
         await this.userService.saveUser(user);
-
+        const selectedQuestionIndex = user.questionsAnswered;
         const selectedMainTopic = user.selectedMainTopic;
         const selectedSubtopic = user.selectedSubtopic;
         
@@ -194,7 +194,8 @@ export class ChatbotService {
           from,
           selectedMainTopic,
           selectedSubtopic,
-          userSelectedLanguage
+          userSelectedLanguage,
+          selectedQuestionIndex
         );
 
         user.selectedSet = randomSet;

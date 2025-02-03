@@ -145,14 +145,16 @@ export class SwiftchatMessageService extends MessageService {
     from: string,
     selectedMainTopic: string,
     selectedSubtopic: string,
-    language: string
+    language: string,
+    selectedQuestionIndex:number
   ) {
     const localisedStrings = LocalizationService.getLocalisedString(language);
     const { messageData, randomSet } = await questionButton(
       from,
       selectedMainTopic,
       selectedSubtopic,
-      language
+      language,
+      selectedQuestionIndex
     );
     if (!messageData) {
       return;
