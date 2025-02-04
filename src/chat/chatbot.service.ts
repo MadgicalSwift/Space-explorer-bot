@@ -198,13 +198,11 @@ export class ChatbotService {
 
         // sendInformationMessage function
         await this.message.sendInformationMessage(from, username,userSelectedLanguage);
-        
         user.questionsAnswered=0;
         await this.userService.saveUser(user);
         const selectedQuestionIndex = user.questionsAnswered;
         const selectedMainTopic = user.selectedMainTopic;
         const selectedSubtopic = user.selectedSubtopic;
-        
         const { randomSet } = await this.message.sendQuestion(
           from,
           selectedMainTopic,
