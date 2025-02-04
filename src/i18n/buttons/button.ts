@@ -2,7 +2,7 @@ import { log } from 'src/common/middleware/logger.help';
 // import data from '../../datasource/Space.json';
 import { LocalizationService } from 'src/localization/localization.service';
 import englishData from 'src/datasource/Space_English.json';
-import hindiData from 'src/datasource/Space_Hindi.json'
+import hindiData from 'src/datasource/Space_Hindi.json';
 import { localised } from '../en/localised-strings';
 import _ from 'lodash';
 

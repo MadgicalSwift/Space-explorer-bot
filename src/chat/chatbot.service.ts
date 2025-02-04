@@ -5,13 +5,16 @@ import { UserService } from 'src/model/user.service';
 import { LocalizationService } from 'src/localization/localization.service';
 import { localised } from 'src/i18n/en/localised-strings';
 import data from '../datasource/Space.json';
+import englishData from 'src/datasource/Space_English.json';
+import hindiData from 'src/datasource/Space_Hindi.json';
+
+
 
 import { SwiftchatMessageService } from 'src/swiftchat/swiftchat.service';
 import { plainToClass } from 'class-transformer';
 import { User } from 'src/model/user.entity';
 import { MixpanelService } from 'src/mixpanel/mixpanel.service';
 import { changeTopic } from 'src/i18n/buttons/button';
-
 
 
 @Injectable()
@@ -25,7 +28,9 @@ export class ChatbotService {
   private readonly message: MessageService;
   private readonly userService: UserService;
   private readonly swiftchatMessageService: SwiftchatMessageService;
-  private readonly topics: any[] = data.topics;
+  // private readonly topics: any[] = data.topics;
+  private readonly englishTopics: any[] = englishData.topics;
+  private readonly hindiTopics: any[] = hindiData.topics;
   private readonly mixpanel: MixpanelService;
 
   constructor(
@@ -51,10 +56,18 @@ export class ChatbotService {
     const botID = process.env.BOT_ID;
     let userData = await this.userService.findUserByMobileNumber(from, botID);
 
+    let topics = [];
+
     // If no user data is found, create a new user
     if (!userData) {
       await this.userService.createUser(from, 'english', botID);
       userData = await this.userService.findUserByMobileNumber(from, botID);
+    }
+    if ( userData.language == 'english'){
+      topics = this.englishTopics;
+    }
+    else{
+      topics = this.hindiTopics;
     }
   
     // Convert plain user data to a User class instance
@@ -156,7 +169,7 @@ export class ChatbotService {
         const topic = user.selectedSubtopic;
 
         // Find the selected subtopic in the list of topics
-        const subtopic = this.topics
+        const subtopic = topics
           .flatMap((topic) => topic.subtopics)
           .find((subtopic) => subtopic.subtopicName === topic);
         if (subtopic) {
@@ -297,7 +310,7 @@ export class ChatbotService {
       }
 
       // Handle topic selection - find the main topic and save it to the user data
-      const topic = this.topics.find((topic) => topic.topicName === buttonBody);
+      const topic = topics.find((topic) => topic.topicName === buttonBody);
 
       if (topic) {
         const mainTopic = topic.topicName;
@@ -310,7 +323,7 @@ export class ChatbotService {
         await this.message.sendSubTopics(from, mainTopic,userSelectedLanguage);
       } else {
         // Handle subtopic selection - find the subtopic and send an explanation
-        const subtopic = this.topics
+        const subtopic = topics
           .flatMap((topic) => topic.subtopics)
           .find((subtopic) => subtopic.subtopicName === buttonBody);
         if (subtopic) {
