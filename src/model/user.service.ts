@@ -177,6 +177,7 @@ export class UserService {
         questionsAnswered: user.questionsAnswered,
         descriptionIndex : user.descriptionIndex,
         score: user.score,
+        topics : user.topics
       },
     };
     return await dynamoDBClient().put(updateUser).promise();
@@ -186,6 +187,7 @@ export class UserService {
     user.selectedMainTopic = null;
     user.selectedSubtopic = null;
     user.score = 0;
+    user.topics = null;
     user.questionsAnswered = 0;
     user.descriptionIndex =0 ;
 

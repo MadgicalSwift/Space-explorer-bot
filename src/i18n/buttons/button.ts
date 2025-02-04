@@ -1,7 +1,8 @@
 import { log } from 'src/common/middleware/logger.help';
-import data from '../../datasource/Space.json';
+// import data from '../../datasource/Space.json';
 import { LocalizationService } from 'src/localization/localization.service';
-
+import englishData from 'src/datasource/Space_English.json';
+import hindiData from 'src/datasource/Space_Hindi.json'
 import { localised } from '../en/localised-strings';
 import _ from 'lodash';
 
@@ -9,6 +10,9 @@ import _ from 'lodash';
 export function createMainTopicButtons(from: string,language:string) {
   const localisedStrings = LocalizationService.getLocalisedString(language);
   // Extract topic names from the data
+  // console.log('data sangeeta',data);
+  let data = language === 'english' ? englishData : hindiData;
+
   const topics = data.topics.map((topic) => topic.topicName);
 
   
@@ -46,6 +50,7 @@ export function createSubTopicButtons(from: string, topicName: string, language:
   const localisedStrings = LocalizationService.getLocalisedString(language);
   createMainTopicButtons(from ,language);
   // Find the topic in the data
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find((topic) => topic.topicName === topicName);
 
   // If the topic exists, create buttons for each subtopic
@@ -198,6 +203,7 @@ export function questionButton(
   selectedQuestionIndex: number
 ) {
   const localisedStrings = LocalizationService.getLocalisedString(language);
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
   );
@@ -259,6 +265,7 @@ export function answerFeedback(
   language:string
 ) {
   const localisedStrings = LocalizationService.getLocalisedString(language);
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find((t) => t.topicName === selectedMainTopic);
 
   const subtopic = topic.subtopics.find(
@@ -342,6 +349,7 @@ export function optionButton(
 ) {
   const localisedStrings = LocalizationService.getLocalisedString(language);
   // Find the selected topic
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
   );

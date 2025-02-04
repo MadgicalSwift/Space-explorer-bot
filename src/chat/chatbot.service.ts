@@ -62,7 +62,8 @@ export class ChatbotService {
 
     const localisedStrings = LocalizationService.getLocalisedString(user.language);
     // console.log('user-language', user.language);
-
+    // console.log('topiccs=>sangeeta', user.topics,user.selectedSubtopic);
+    
     let username = userData.name
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){

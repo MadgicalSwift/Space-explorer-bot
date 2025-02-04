@@ -4,7 +4,8 @@ export class User {
   @IsString()
   mobileNumber: string;
 
-  
+  @IsString()
+  topics: string;
   
 
   @IsString()
