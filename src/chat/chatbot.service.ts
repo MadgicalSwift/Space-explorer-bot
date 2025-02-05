@@ -81,8 +81,8 @@ export class ChatbotService {
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
         await this.resetQuizData(user);
-        await this.message.endMessage(from,user.language);
-        // await this.message.sendInitialTopics(from,user.language);
+        // await this.message.endMessage(from,user.language);
+        await this.message.sendInitialTopics(from,user.language);
         return 'ok';
       }
       else if(persistent_menu_response.body=="Change Language"){
