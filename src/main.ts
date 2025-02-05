@@ -7,7 +7,7 @@ axios.defaults.timeout = 10000;   // 10 seconds
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
-  app.setGlobalPrefix('/space/v1');
+  app.setGlobalPrefix('space-explorer/v1');
   await app.listen(3000);
 }
 bootstrap();

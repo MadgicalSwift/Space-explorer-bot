@@ -81,8 +81,8 @@ export class ChatbotService {
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
         await this.resetQuizData(user);
-        await this.message.endMessage(from,user.language);
-        // await this.message.sendInitialTopics(from,user.language);
+        // await this.message.endMessage(from,user.language);
+        await this.message.sendInitialTopics(from,user.language);
         return 'ok';
       }
       else if(persistent_menu_response.body=="Change Language"){
@@ -161,7 +161,7 @@ export class ChatbotService {
       
       if(buttonBody=== localisedStrings.viewChallenge){
         await this.handleViewChallenges(from, userData,userSelectedLanguage);
-        await this.message.endMessage(from,userSelectedLanguage);
+        await this.message.sendInitialTopics(from,userSelectedLanguage);
         return 'ok';
       }
       // Handle 'More Explanation' button - send complete explanation for the subtopic
@@ -244,6 +244,7 @@ export class ChatbotService {
 
 
         if ( currentQuestionIndex < 9) {
+          console.log("sadasd",userSelectedLanguage)
           await this.message.scoreInformation(from,user.score, currentQuestionIndex+1 ,userSelectedLanguage)
         }
 

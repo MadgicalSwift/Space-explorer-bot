@@ -7,7 +7,7 @@ export const localised = {
   language_hindi: 'हिन्दी',
   language_english: 'English',
   language_changed: 'Language changed to English',
-  welcomeMessage: "😊**Welcome to Space Exploration Bot!**\n 🚀 I’m here to share amazing facts about space and quiz you on your knowledge. Ready to blast off into the cosmos? Let’s get started!",
+  welcomeMessage: "😊 Welcome to SpaceYaan!\n🚀 I’m here to tell you cool facts about space and ask fun quiz questions. Ready to zoom into the universe? Let’s go!",
   validText: ['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
   changeTopic:'Change Topic',
 
@@ -20,7 +20,7 @@ export const localised = {
   retakeQuiz:'Retake Quiz',
   startQuiz: 'Start Quiz',
 
-  InformationMessage : (username :string) => `🌟 Hello ${username} ! \n You got Total 10 questions.\nFor every correct answer, you earn 1 mark. Don’t worry—no marks will be deducted for wrong answers. 😊\n When you complete the quiz . You  will get the rewarded based on your scores.\n These are the 🏅 Scoring Rewards:\n- Gold 🥇: Total score = 10\n- Silver 🥈: Total score ≥ 7\n- Bronze 🥉: Total score ≥ 5\n\n✨ Complete the quiz to discover your final score! Keep it up—you’ve got this! 💪`,
+  InformationMessage : (username :string) => `Hello ${username} 🎯 Welcome to the Quiz! \n You’ll answer 10 questions—earn 1 point for each correct answer. No penalties for wrong answers! 😊 \n 🏆 Rewards: \n 🥇 Gold: Score 10 \n 🥈 Silver: Score 7–9 \n 🥉 Bronze: Score 5–6 \n Ready to test your knowledge? Let’s go! 🚀`,
 
 
   question: 'Question',
@@ -30,10 +30,8 @@ export const localised = {
   Moreexplanation:'More Explanation',
   viewChallenge:"View Challenges",
   endMessage:"Whenever you're ready to continue, just type 'Hi' to start the bot again. Looking forward to helping you out! 😊",
-  explanation: (subtopicName: string, description: string) =>
-  `📖 **Explanation of ${subtopicName}:**\n${description}`,
-  moreExplanation: (subtopicName: string, description: string) =>
-  `📝 More Explanation of **${subtopicName}:**\n${description}`,
+  explanation: (subtopicName: string, description: string) =>`${description}`,
+  moreExplanation: (subtopicName: string, description: string) =>`${description}`,
   difficulty: `🎯 Choose your quiz level to get started!🚀`,
   rightAnswer: (explanation: string) =>
   `🌟 Fantastic! You got it 👍right!\n 🎯Check this out: **${explanation}**`,

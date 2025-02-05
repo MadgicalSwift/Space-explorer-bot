@@ -192,6 +192,7 @@ export class SwiftchatMessageService extends MessageService {
 
 
   async scoreInformation(from: string, score: number, attempted: number, language:string) {
+    console.log("sdasd",language)
     const localisedStrings = LocalizationService.getLocalisedString(language);
     const message = localisedStrings.scoreInformation(score, attempted);
     const requestData = this.prepareRequestData(from, message);
