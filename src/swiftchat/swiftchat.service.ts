@@ -171,9 +171,7 @@ export class SwiftchatMessageService extends MessageService {
     subtopicName: string,
     language: string
   ) {
-    // console.log('description of topic ==>', description);
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
-    const messageData = createButtonWithExplanation(
+      const messageData = createButtonWithExplanation(
       from,
       description,
       subtopicName,
@@ -200,14 +198,8 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
 
-
-
-
-
   async sendCompleteExplanation(from: string, description: string, subtopicName: string, language: string) {
-    // console.log('description of topic ==>', description);
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
-    const messageData = createTestYourSelfButton(
+      const messageData = createTestYourSelfButton(
       from,
       description,
       subtopicName,
@@ -220,44 +212,13 @@ export class SwiftchatMessageService extends MessageService {
     );
     return response;
   }
-  // async sendCompleteExplanation(
-  //   from: string,
-  //   description: string[],
-  //   subtopicName: string,
-  // ) {
-  //   // console.log('list of des ==>', description);
-    
-  //   let completeDescription = '';
-  //   description.slice(1).forEach((desc, index) => {
-  //     // Add each element to the string, ensuring no commas are added
-  //     completeDescription += desc;
-  //   });
-    
-  //   const messageData = createTestYourSelfButton(
-  //     from,
-  //     completeDescription,
-  //     subtopicName,
-  //   );
-  //   const response = await this.sendMessage(
-  //     this.baseUrl,
-  //     messageData,
-  //     this.apiKey,
-  //   );
-  //   return response;
-  // }
-
-  // end
-
-
-   // sendVideo function to prepare and send the video message
-  
   
   async sendVideo(from: string, videoUrl: any, subTopic: any ,language: string) {
     // const localisedStrings = LocalizationService.getLocalisedString(language);
     if (!videoUrl) {
       return;
     }
-        // console.log('videoUrl=>',videoUrl)
+      
         const videoData = videoWithButton(
                from, // The recipient's phone number
               videoUrl, // Video URL
@@ -267,7 +228,6 @@ export class SwiftchatMessageService extends MessageService {
     try {
 
       const response = await this.sendMessage(this.baseUrl, videoData, this.apiKey);
-      // console.log('Message sent successfully:', response);
       return response
     } catch (error) {
       console.error('Error sending video message:', error);
