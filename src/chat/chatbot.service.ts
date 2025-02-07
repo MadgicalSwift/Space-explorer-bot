@@ -7,9 +7,6 @@ import { localised } from 'src/i18n/en/localised-strings';
 import data from '../datasource/Space.json';
 import englishData from 'src/datasource/Space_English.json';
 import hindiData from 'src/datasource/Space_Hindi.json';
-
-
-
 import { SwiftchatMessageService } from 'src/swiftchat/swiftchat.service';
 import { plainToClass } from 'class-transformer';
 import { User } from 'src/model/user.entity';
@@ -281,13 +278,6 @@ export class ChatbotService {
             challengeData,
           );
           
-          
-          // await this.message.sendScore(
-          //   from,
-          //   user.score,
-          //   user.questionsAnswered,
-          //   badge
-          // );
           await this.message.newscorecard(from,user.score,user.questionsAnswered,badge,userSelectedLanguage)
 
           return 'ok';
@@ -381,15 +371,7 @@ export class ChatbotService {
         await this.message.sendWelcomeMessage(from, userLang);
         await this.message.sendLanguageChangedMessage(from,userLang);
         }
-        // if(userData.name==null){
-          
-        //   await this.message.sendName(from,user.language);
-        // }
-      //   else{
-      //     await this.message.sendWelcomeMessage(from, user.language);
-      //     await this.message.sendInitialTopics(from,user.language);
-      //   }
-      // }
+        
       else{
 
         await this.userService.saveUserName(from, botID, text.body);

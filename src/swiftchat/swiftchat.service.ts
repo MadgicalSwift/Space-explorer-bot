@@ -3,7 +3,6 @@ import * as dotenv from 'dotenv';
 import { LocalizationService } from 'src/localization/localization.service';
 import { MessageService } from 'src/message/message.service';
 import { localised } from 'src/i18n/en/localised-strings';
-// import data from '../datasource/data.json';
 import axios from "axios";
 import {
   createMainTopicButtons,
@@ -82,9 +81,7 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async sendSubTopics(from: string, topicName: string,language: string) {
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
-  
-    const messageData = createSubTopicButtons(from, topicName,language);
+     const messageData = createSubTopicButtons(from, topicName,language);
     const response = await this.sendMessage(
       this.baseUrl,
       messageData,
@@ -92,7 +89,7 @@ export class SwiftchatMessageService extends MessageService {
     );
     return response;
   }
-  // sendInformationMessage function
+ 
 
   async sendInformationMessage(from: string, username: string,language: string) {  
     const localisedStrings = LocalizationService.getLocalisedString(language);  
