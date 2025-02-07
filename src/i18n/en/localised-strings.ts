@@ -1,20 +1,17 @@
-// import { changeTopic } from "../buttons/button";
-// import { UserService } from 'src/model/user.service';
-
 export const localised = {
   seeMoreMessage: 'See More Data',
   languageSelection: 'Choose any one language',
   language_hindi: 'हिन्दी',
   language_english: 'English',
   language_changed: 'Language changed to English',
-  welcomeMessage: "😊**Welcome to Space Exploration Bot!**\n 🚀 I’m here to share amazing facts about space and quiz you on your knowledge. Ready to blast off into the cosmos? Let’s get started!",
+  welcomeMessage: "😊*Welcome to Space Exploration Bot!*\n 🚀 I’m here to share amazing facts about space and quiz you on your knowledge. Ready to blast off into the cosmos? Let’s get started!",
   validText: ['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
   changeTopic:'Change Topic',
 
 
   congratsMessage: "💪Congrats! The quiz is completed.🌟 Please select a choice to continue the quiz :",
   selectSubtopic: (topicName: string) =>
-  `📜 Please select a topic for **${topicName}**:`,
+  `📜 Please select a topic for *${topicName}*:`,
   mainMenu:'Main Menu',
   chooseTopic:"What do you like to explore today? Please select a topic to get started!!",
   retakeQuiz:'Retake Quiz',
@@ -31,16 +28,16 @@ export const localised = {
   viewChallenge:"View Challenges",
   endMessage:"Whenever you're ready to continue, just type 'Hi' to start the bot again. Looking forward to helping you out! 😊",
   explanation: (subtopicName: string, description: string) =>
-  `📖 **Explanation of ${subtopicName}:**\n${description}`,
+  `📖 *Explanation of ${subtopicName}:*\n${description}`,
   moreExplanation: (subtopicName: string, description: string) =>
-  `📝 More Explanation of **${subtopicName}:**\n${description}`,
+  `📝 More Explanation of *${subtopicName}:*\n${description}`,
   difficulty: `🎯 Choose your quiz level to get started!🚀`,
   rightAnswer: (explanation: string) =>
-  `🌟 Fantastic! You got it 👍right!\n 🎯Check this out: **${explanation}**`,
+  `🌟 Fantastic! You got it 👍right!\n 🎯Check this out: *${explanation}*`,
   wrongAnswer: (correctAnswer: string, explanation: string) =>
-    `👎 Not quite right, but you’re learning! 💪\nThe correct answer is: **${correctAnswer}** 🎯\n\nHere’s the explanation: **${explanation}** 🧠`,
+    `👎 Not quite right, but you’re learning! 💪\nThe correct answer is: *${correctAnswer}* 🎯\n\nHere’s the explanation: *${explanation}* 🧠`,
   score: (score: number, totalQuestions: number, badge:string) =>
-  `🌟 Great job! Your score is **${score}** out of **${totalQuestions}**.\n\n💪 Congratulations! You earned ${badge} badge! `,
+  `🌟 Great job! Your score is *${score}* out of *${totalQuestions}*.\n\n💪 Congratulations! You earned ${badge} badge! `,
   tellName:"Can you please tell me your name?",
   ok:"ok",
   gold:"🥇",
