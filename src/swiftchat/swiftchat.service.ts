@@ -3,7 +3,6 @@ import * as dotenv from 'dotenv';
 import { LocalizationService } from 'src/localization/localization.service';
 import { MessageService } from 'src/message/message.service';
 import { localised } from 'src/i18n/en/localised-strings';
-// import data from '../datasource/data.json';
 import axios from "axios";
 import {
   createMainTopicButtons,
@@ -113,7 +112,7 @@ export class SwiftchatMessageService extends MessageService {
     const date= currentDate.getDate();
     const month= currentDate.getMonth()+1;
     const year= currentDate.getFullYear()%100;
-
+    const quizLink = `https://web.convegenius.ai/bots?botId=${this.botId}`;
     const payload= {
       to: from,
       type: "scorecard",
@@ -121,7 +120,7 @@ export class SwiftchatMessageService extends MessageService {
           theme: "theme1",
           background: "orange",
           performance: "high",
-          share_message: "Hey! I got a badge. Click the link below to take the quiz.",
+          share_message: `I aced the quiz! Try it: ${quizLink}`,
           text1: `Quiz- ${date}/${month}/${year}`,
           text2: "Wow! You did an awesome job.",
           text3: "Congratulations",

@@ -4,7 +4,6 @@ import { MessageService } from 'src/message/message.service';
 import { UserService } from 'src/model/user.service';
 import { LocalizationService } from 'src/localization/localization.service';
 import { localised } from 'src/i18n/en/localised-strings';
-import data from '../datasource/Space.json';
 import englishData from 'src/datasource/Space_English.json';
 import hindiData from 'src/datasource/Space_Hindi.json';
 
