@@ -27,7 +27,6 @@ export class ChatbotService {
   private readonly message: MessageService;
   private readonly userService: UserService;
   private readonly swiftchatMessageService: SwiftchatMessageService;
-  // private readonly topics: any[] = data.topics;
   private readonly englishTopics: any[] = englishData.topics;
   private readonly hindiTopics: any[] = hindiData.topics;
   private readonly mixpanel: MixpanelService;
@@ -49,9 +48,6 @@ export class ChatbotService {
   public async processMessage(body: any): Promise<any> {
     
     const { from, text, button_response,persistent_menu_response } = body;
-    // console.log(persistent_menu_response)
-
-    // Retrieve botID from environment variables
     const botID = process.env.BOT_ID;
     let userData = await this.userService.findUserByMobileNumber(from, botID);
 
@@ -68,14 +64,10 @@ export class ChatbotService {
     else{
       topics = this.hindiTopics;
     }
-  
-    // Convert plain user data to a User class instance
+
     const user = plainToClass(User, userData);
 
     const localisedStrings = LocalizationService.getLocalisedString(user.language);
-    // console.log('user-language', user.language);
-    // console.log('topiccs=>sangeeta', user.topics,user.selectedSubtopic);
-    
     let username = userData.name
     if(persistent_menu_response){
       if(persistent_menu_response.body=="Change Topic"){
@@ -93,11 +85,7 @@ export class ChatbotService {
         return 'ok';
       }
     }
-
-    
-    
-    // Handle button response from the user
-    else if (button_response) {
+  else if (button_response) {
       const buttonBody = button_response.body;
       console.log('button-response',buttonBody);
       if (['english', 'hindi'].includes(buttonBody?.toLowerCase())) {
@@ -112,10 +100,6 @@ export class ChatbotService {
         }
       }
       let userSelectedLanguage = user.language;
-
-
-
-
 
 
 
@@ -281,13 +265,6 @@ export class ChatbotService {
             challengeData,
           );
           
-          
-          // await this.message.sendScore(
-          //   from,
-          //   user.score,
-          //   user.questionsAnswered,
-          //   badge
-          // );
           await this.message.newscorecard(from,user.score,user.questionsAnswered,badge,userSelectedLanguage)
 
           return 'ok';
@@ -306,9 +283,7 @@ export class ChatbotService {
 
         return 'ok';
       }
-
-      // Handle topic selection - find the main topic and save it to the user data
-      const topic = topics.find((topic) => topic.topicName === buttonBody);
+   const topic = topics.find((topic) => topic.topicName === buttonBody);
 
       if (topic) {
         const mainTopic = topic.topicName;
@@ -345,9 +320,7 @@ export class ChatbotService {
           user.selectedSubtopic = subtopicName;
           await this.userService.saveUser(user);
 
-
-          // await this.message.sendVideo(from, videoUrl, title, subTopic, aboutVideo);
-          await this.message.sendVideo(from, videoUrl,subTopic,userSelectedLanguage);
+   await this.message.sendVideo(from, videoUrl,subTopic,userSelectedLanguage);
           let description = descriptions[user.descriptionIndex]
           await this.message.sendExplanation(from, description, subtopicName,userSelectedLanguage);
           user.descriptionIndex += 1; 
@@ -357,9 +330,7 @@ export class ChatbotService {
 
       return 'ok';
     }
-
-    // Handle text message input - reset user data and send a welcome message
-    else{
+  else{
      
       if (localised.validText.includes(text.body)) {
         const userData = await this.userService.findUserByMobileNumber(
@@ -381,15 +352,7 @@ export class ChatbotService {
         await this.message.sendWelcomeMessage(from, userLang);
         await this.message.sendLanguageChangedMessage(from,userLang);
         }
-        // if(userData.name==null){
-          
-        //   await this.message.sendName(from,user.language);
-        // }
-      //   else{
-      //     await this.message.sendWelcomeMessage(from, user.language);
-      //     await this.message.sendInitialTopics(from,user.language);
-      //   }
-      // }
+       
       else{
 
         await this.userService.saveUserName(from, botID, text.body);

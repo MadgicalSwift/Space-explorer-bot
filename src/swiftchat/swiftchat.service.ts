@@ -105,29 +105,50 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
 
-
   async newscorecard(from: string, score: number, totalQuestions: number, badge:string,language: string) {
     const localisedStrings = LocalizationService.getLocalisedString(language);
     const currentDate= new Date();
     const date= currentDate.getDate();
     const month= currentDate.getMonth()+1;
     const year= currentDate.getFullYear()%100;
-    const quizLink = `https://web.convegenius.ai/bots?botId=${this.botId}`;
+   
+
+    let backgroundColor = "teal"; 
+    if (score >= 9) backgroundColor = "orange";
+    else if (score >= 7) backgroundColor = "blue";
+    else if (score >= 5) backgroundColor = "green";
+    else if (score >= 3) backgroundColor = "pink";
+
+    let performanceMessage = "Don't give up! Try again!"; // Default
+    if (score >= 9) performanceMessage = "Outstanding! You nailed it!";
+    else if (score >= 7) performanceMessage = "Great job! Keep it up!";
+    else if (score >= 5) performanceMessage = "Nice effort! Keep improving!";
+    else if (score >= 3) performanceMessage = "Good try! Practice more!";
+
+    // Determine text3 message based on score (≤ 15 chars)
+    let additionalMessage = "Try again! 🔄"; // Default
+    if (score >= 9) additionalMessage = "Champion! 🏆";
+    else if (score >= 7) additionalMessage = "Well done! ⭐";
+    else if (score >= 5) additionalMessage = "Keep going! 💪";
+    else if (score >= 3) additionalMessage = "Nice try! 👍";
+
+ 
     const payload= {
       to: from,
       type: "scorecard",
       scorecard: {
           theme: "theme1",
-          background: "orange",
+          background: backgroundColor,
           performance: "high",
-          share_message: `I aced the quiz! Try it: ${quizLink}`,
+          share_message: "Hey! I got a badge. Click the link below to take the quiz.",
           text1: `Quiz- ${date}/${month}/${year}`,
-          text2: "Wow! You did an awesome job.",
-          text3: "Congratulations",
+          text2: performanceMessage,
+          text3: additionalMessage,
           text4: `${badge}`,
           score: `${score}/10`,
           animation: "confetti"
       }
+  
   }
   const response = await axios.post(this.baseUrl, payload, {
     headers: {
@@ -223,38 +244,7 @@ export class SwiftchatMessageService extends MessageService {
     );
     return response;
   }
-  // async sendCompleteExplanation(
-  //   from: string,
-  //   description: string[],
-  //   subtopicName: string,
-  // ) {
-  //   // console.log('list of des ==>', description);
-    
-  //   let completeDescription = '';
-  //   description.slice(1).forEach((desc, index) => {
-  //     // Add each element to the string, ensuring no commas are added
-  //     completeDescription += desc;
-  //   });
-    
-  //   const messageData = createTestYourSelfButton(
-  //     from,
-  //     completeDescription,
-  //     subtopicName,
-  //   );
-  //   const response = await this.sendMessage(
-  //     this.baseUrl,
-  //     messageData,
-  //     this.apiKey,
-  //   );
-  //   return response;
-  // }
-
-  // end
-
-
-   // sendVideo function to prepare and send the video message
-  
-  
+ 
   async sendVideo(from: string, videoUrl: any, subTopic: any ,language: string) {
     // const localisedStrings = LocalizationService.getLocalisedString(language);
     if (!videoUrl) {
@@ -373,8 +363,6 @@ export class SwiftchatMessageService extends MessageService {
           {
             type: 'solid',
             body: 'Hindi',
-            // body: localisedStrings.language_english,
-            // body: localisedStrings.language_hindi,
             reply: 'hindi',
           },
         ],

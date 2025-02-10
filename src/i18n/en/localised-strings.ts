@@ -14,7 +14,7 @@ export const localised = {
 
   congratsMessage: "💪Congrats! The quiz is completed.🌟 Please select a choice to continue the quiz :",
   selectSubtopic: (topicName: string) =>
-  `📜 Please select a topic for **${topicName}**:`,
+  `📜 Please select a topic for *${topicName}*:`,
   mainMenu:'Main Menu',
   chooseTopic:"What do you like to explore today? Please select a topic to get started!!",
   retakeQuiz:'Retake Quiz',
@@ -34,11 +34,11 @@ export const localised = {
   moreExplanation: (subtopicName: string, description: string) =>`${description}`,
   difficulty: `🎯 Choose your quiz level to get started!🚀`,
   rightAnswer: (explanation: string) =>
-  `🌟 Fantastic! You got it 👍right!\n 🎯Check this out: **${explanation}**`,
+  `🌟 Fantastic! You got it 👍right!\n 🎯Check this out: *${explanation}*`,
   wrongAnswer: (correctAnswer: string, explanation: string) =>
-    `👎 Not quite right, but you’re learning! 💪\nThe correct answer is: **${correctAnswer}** 🎯\n\nHere’s the explanation: **${explanation}** 🧠`,
+    `👎 Not quite right, but you’re learning! 💪\nThe correct answer is: *${correctAnswer}* 🎯\n\nHere’s the explanation: *${explanation}* 🧠`,
   score: (score: number, totalQuestions: number, badge:string) =>
-  `🌟 Great job! Your score is **${score}** out of **${totalQuestions}**.\n\n💪 Congratulations! You earned ${badge} badge! `,
+  `🌟 Great job! Your score is *${score}* out of *${totalQuestions}*.\n\n💪 Congratulations! You earned ${badge} badge! `,
   tellName:"Can you please tell me your name?",
   ok:"ok",
   gold:"🥇",
