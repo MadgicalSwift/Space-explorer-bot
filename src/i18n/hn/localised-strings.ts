@@ -1,6 +1,3 @@
-// import { changeTopic } from "../buttons/button";
-// import { UserService } from 'src/model/user.service';
-
 
 export const localisedStrings = {
   seeMoreMessage: 'अधिक डेटा देखें',
@@ -8,7 +5,7 @@ export const localisedStrings = {
   languageSelection: 'कोई भी एक भाषा चुनें 😊 :',
   language_english: 'अंग्रेज़ी',
   language_changed: 'भाषा अंग्रेज़ी में बदल दी गई',
-  welcomeMessage: "😊**स्पेस एक्सप्लोरेशन बॉट में आपका स्वागत है!**\n 🚀 मैं यहां अंतरिक्ष से जुड़े अद्भुत तथ्यों को साझा करने और आपकी ज्ञान परीक्षा लेने के लिए हूं। क्या आप ब्रह्मांड की यात्रा के लिए तैयार हैं? चलिए शुरू करते हैं!",
+  welcomeMessage: "😊*स्पेस एक्सप्लोरेशन बॉट में आपका स्वागत है!*\n 🚀 मैं यहां अंतरिक्ष से जुड़े अद्भुत तथ्यों को साझा करने और आपकी ज्ञान परीक्षा लेने के लिए हूं। क्या आप ब्रह्मांड की यात्रा के लिए तैयार हैं? चलिए शुरू करते हैं!",
   validText: ['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
   changeTopic: 'विषय बदलें',
 
@@ -22,7 +19,7 @@ export const localisedStrings = {
   question: 'प्रश्न',
   
   selectSubtopic: (topicName: string) =>
-    `📜 कृपया **${topicName}** के लिए एक उप-विषय चुनें:`,
+    `📜 कृपया *${topicName}* के लिए एक उप-विषय चुनें:`,
   mainMenu: 'मुख्य मेनू देखें',
   chooseTopic: "आज आप क्या अन्वेषण करना चाहेंगे? कृपया शुरू करने के लिए एक विषय चुनें!!",
   retakeQuiz: 'क्विज़ फिर से लें',
@@ -34,16 +31,16 @@ export const localisedStrings = {
   viewChallenge: "चुनौतियाँ देखें",
   endMessage: "जब भी आप जारी रखने के लिए तैयार हों, बस 'Hi' टाइप करें और बॉट फिर से शुरू करें। आपकी सहायता करने के लिए तत्पर हूँ! 😊",
   explanation: (subtopicName: string, description: string) =>
-    `📖 **${subtopicName} की व्याख्या:**\n${description}`,
+    `📖 *${subtopicName} की व्याख्या:*\n${description}`,
   moreExplanation: (subtopicName: string, description: string) =>
-    `📝 **${subtopicName} की अधिक व्याख्या:**\n${description}`,
+    `📝 *${subtopicName} की अधिक व्याख्या:*\n${description}`,
   difficulty: `🎯 अपना क्विज़ स्तर चुनें और शुरू करें!🚀`,
   rightAnswer: (explanation: string) =>
-    `🌟 शानदार! आपने सही उत्तर दिया! 👍\n 🎯 यह देखें: **${explanation}**`,
+    `🌟 शानदार! आपने सही उत्तर दिया! 👍\n 🎯 यह देखें: *${explanation}*`,
   wrongAnswer: (correctAnswer: string, explanation: string) =>
-    `👎 सही नहीं, लेकिन आप सीख रहे हैं! 💪\nसही उत्तर है: **${correctAnswer}** 🎯\n\nयहाँ व्याख्या है: **${explanation}** 🧠`,
+    `👎 सही नहीं, लेकिन आप सीख रहे हैं! 💪\nसही उत्तर है: *${correctAnswer}* 🎯\n\nयहाँ व्याख्या है: *${explanation}* 🧠`,
   score: (score: number, totalQuestions: number, badge: string) =>
-    `🌟 बहुत बढ़िया! आपका स्कोर **${score}** में से **${totalQuestions}** है।\n\n💪 बधाई हो! आपने ${badge} बैज अर्जित किया!`,
+    `🌟 बहुत बढ़िया! आपका स्कोर *${score}* में से *${totalQuestions}* है।\n\n💪 बधाई हो! आपने ${badge} बैज अर्जित किया!`,
   tellName: "क्या आप कृपया अपना नाम बता सकते हैं?",
   ok: "ठीक है",
   gold: "🥇",

@@ -110,18 +110,39 @@ export class SwiftchatMessageService extends MessageService {
     const date= currentDate.getDate();
     const month= currentDate.getMonth()+1;
     const year= currentDate.getFullYear()%100;
+   
 
+    let backgroundColor = "teal"; 
+    if (score >= 9) backgroundColor = "orange";
+    else if (score >= 7) backgroundColor = "blue";
+    else if (score >= 5) backgroundColor = "green";
+    else if (score >= 3) backgroundColor = "pink";
+
+    let performanceMessage = "Don't give up! Try again!"; // Default
+    if (score >= 9) performanceMessage = "Outstanding! You nailed it!";
+    else if (score >= 7) performanceMessage = "Great job! Keep it up!";
+    else if (score >= 5) performanceMessage = "Nice effort! Keep improving!";
+    else if (score >= 3) performanceMessage = "Good try! Practice more!";
+
+    // Determine text3 message based on score (≤ 15 chars)
+    let additionalMessage = "Try again! 🔄"; // Default
+    if (score >= 9) additionalMessage = "Champion! 🏆";
+    else if (score >= 7) additionalMessage = "Well done! ⭐";
+    else if (score >= 5) additionalMessage = "Keep going! 💪";
+    else if (score >= 3) additionalMessage = "Nice try! 👍";
+
+ 
     const payload= {
       to: from,
       type: "scorecard",
       scorecard: {
           theme: "theme1",
-          background: "orange",
+          background: backgroundColor,
           performance: "high",
           share_message: "Hey! I got a badge. Click the link below to take the quiz.",
           text1: `Quiz- ${date}/${month}/${year}`,
-          text2: "Wow! You did an awesome job.",
-          text3: "Congratulations",
+          text2: performanceMessage,
+          text3: additionalMessage,
           text4: `${badge}`,
           score: `${score}/10`,
           animation: "confetti"
