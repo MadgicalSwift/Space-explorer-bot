@@ -93,7 +93,9 @@ src/
 ├── config/
 │   └── database.config.ts
 ├── i18n/
-│   ├── en/
+│   ├── buttons/
+│   │   └── button.ts
+|   ├── en/
 │   │   └── localised-strings.ts
 │   └── hi/
 │       └── localised-strings.ts
@@ -109,9 +111,22 @@ src/
 │   ├──user.module.ts
 │   └──query.ts
 └── swiftchat/
-    ├── swiftchat.module.ts
-    └── swiftchat.service.ts
-
+|   ├── swiftchat.module.ts
+|    └── swiftchat.service.ts
+└── datasource/
+│   ├── Space_English.json
+│   └── Space_Hindi.json
+│   
+└── intent/
+│   ├
+│   └── intent.classifier.ts
+│
+└── mixpanel/
+│   ├──mixpanel.services.ts
+│   └── mixpanel.service.specs.ts 
+└── lambda/
+│   ├
+│   └── lambda.ts  
 ```
 
 # Link
