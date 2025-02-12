@@ -7,7 +7,7 @@ export const localised = {
   language_hindi: 'हिन्दी',
   language_english: 'English',
   language_changed: 'Language changed to English',
-  welcomeMessage: "😊 Welcome to SpaceYaan!\n🚀 I’m here to tell you cool facts about space and ask fun quiz questions. Ready to zoom into the universe? Let’s go!",
+  welcomeMessage: "😊 Welcome to Space Yaan!\n🚀 I’m here to tell you cool facts about space and ask fun quiz questions. Ready to zoom into the universe? Let’s go!",
   validText: ['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
   changeTopic:'Change Topic',
 

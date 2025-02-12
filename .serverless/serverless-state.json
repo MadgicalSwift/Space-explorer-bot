@@ -174,7 +174,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/space-explorer/dev/1738760281207-2025-02-05T12:58:01.207Z/space-explorer.zip"
+                "S3Key": "serverless/space-explorer/dev/1739367278944-2025-02-12T13:34:38.944Z/space-explorer.zip"
               },
               "Handler": "dist/lambda.handler",
               "Runtime": "nodejs20.x",
@@ -192,14 +192,14 @@
               "ApiLogGroup"
             ]
           },
-          "ApiLambdaVersionj7UpZlXgVtzp4eliL0vlMhYsg4WrsbUGcXTvMyrepQ": {
+          "ApiLambdaVersion1RRRHmveGkLPkex31kY0y7gVm9UTTtSEFKAepngb9E": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "ApiLambdaFunction"
               },
-              "CodeSha256": "6PSQY4QhPP6+kcgIJ/jcCRr6soragcXjXhn6TXSS98g="
+              "CodeSha256": "XMt5Y98+QJwjZ+LHEg31oYkT2LjKYPQIr6a2AaKOhAg="
             }
           },
           "ApiGatewayRestApi": {
@@ -275,7 +275,7 @@
               "ApiLambdaPermissionApiGateway"
             ]
           },
-          "ApiGatewayDeployment1738760264696": {
+          "ApiGatewayDeployment1739367263342": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -337,7 +337,7 @@
           "ApiLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "ApiLambdaVersionj7UpZlXgVtzp4eliL0vlMhYsg4WrsbUGcXTvMyrepQ"
+              "Ref": "ApiLambdaVersion1RRRHmveGkLPkex31kY0y7gVm9UTTtSEFKAepngb9E"
             },
             "Export": {
               "Name": "sls-space-explorer-dev-ApiLambdaFunctionQualifiedArn"
@@ -477,7 +477,7 @@
         "timeout": 6,
         "runtime": "nodejs20.x",
         "vpc": {},
-        "versionLogicalId": "ApiLambdaVersionj7UpZlXgVtzp4eliL0vlMhYsg4WrsbUGcXTvMyrepQ"
+        "versionLogicalId": "ApiLambdaVersion1RRRHmveGkLPkex31kY0y7gVm9UTTtSEFKAepngb9E"
       }
     },
     "configValidationMode": "warn",
@@ -499,7 +499,7 @@
     "isDashboardMonitoringPreconfigured": false
   },
   "package": {
-    "artifactDirectoryName": "serverless/space-explorer/dev/1738760281207-2025-02-05T12:58:01.207Z",
+    "artifactDirectoryName": "serverless/space-explorer/dev/1739367278944-2025-02-12T13:34:38.944Z",
     "artifact": "space-explorer.zip"
   }
 }
