@@ -187,6 +187,7 @@ export class SwiftchatMessageService extends MessageService {
     return { response, randomSet };
   }
 
+
   async sendExplanation(
     from: string,
     description: string,

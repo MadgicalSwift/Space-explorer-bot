@@ -14,15 +14,24 @@ export const localised = {
 
   congratsMessage: "💪Congrats! The quiz is completed.🌟 Please select a choice to continue the quiz :",
   selectSubtopic: (topicName: string) =>
-  `📜 Please select a topic for **${topicName}**:`,
+  `📜 Please select a topic for *${topicName}*:`,
   mainMenu:'Main Menu',
+  chooseTopic:"What do you like to explore today? Please select a topic to get started!!",
   retakeQuiz:'Retake Quiz',
-  testYourself: 'Test Yourself',
+  startQuiz: 'Start Quiz',
+
+  InformationMessage : (username :string) => `Hello ${username} 🎯 Welcome to the Quiz! \n You’ll answer 10 questions—earn 1 point for each correct answer. No penalties for wrong answers! 😊 \n 🏆 Rewards: \n 🥇 Gold: Score 10 \n 🥈 Silver: Score 7–9 \n 🥉 Bronze: Score 5–6 \n Ready to test your knowledge? Let’s go! 🚀`,
+
+
+  question: 'Question',
+  scoreInformation:(score:number,attempted: number) =>
+    `You've attempted ${attempted}/10 questions so far and answered ${score} correctly. Your current score is ${score}/10. Complete the quiz to see your final score! Keep it up!  `,
+
   Moreexplanation:'More Explanation',
-  explanation: (subtopicName: string, description: string) =>
-  `📖 **Explanation of ${subtopicName}:**\n${description}`,
-  moreExplanation: (subtopicName: string, description: string) =>
-  `📝 More Explanation of **${subtopicName}:**\n**${description}**`,
+  viewChallenge:"View Challenges",
+  endMessage:"Whenever you're ready to continue, just type 'Hi' to start the bot again. Looking forward to helping you out! 😊",
+  explanation: (subtopicName: string, description: string) =>`${description}`,
+  moreExplanation: (subtopicName: string, description: string) =>`${description}`,
   difficulty: `🎯 Choose your quiz level to get started!🚀`,
   rightAnswer: (explanation: string) =>
   `🌟 Fantastic! You got it 👍right!\n 🎯Check this out: *${explanation}*`,
@@ -45,6 +54,3 @@ export const localised = {
    
   
 };
-
-
-
