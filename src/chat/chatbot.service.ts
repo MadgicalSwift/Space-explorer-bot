@@ -52,7 +52,6 @@ export class ChatbotService {
     let userData = await this.userService.findUserByMobileNumber(from, botID);
 
     let topics = [];
-
     // If no user data is found, create a new user
     if (!userData) {
       await this.userService.createUser(from, 'english', botID);
