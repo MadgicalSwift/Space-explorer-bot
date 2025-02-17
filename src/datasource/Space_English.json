@@ -2525,6 +2525,17 @@
                   "explanation": "The closest known black hole is about 1,000 light-years away in the HR 6819 star system."
                 },
                 {
+                  "question": "What is a key feature of a supermassive black hole?",
+                  "options": [
+                    "It is formed from a small star",
+                    "It is millions or billions of times the mass of the Sun",
+                    "It is smaller than a stellar black hole",
+                    "It does not exist at the center of galaxies"
+                  ],
+                  "answer": "It is millions or billions of times the mass of the Sun",
+                  "explanation": "Supermassive black holes can have millions or even billions of times the mass of the Sun and are typically located at the center of galaxies."
+                },
+                {
                   "question": "What is the role of ISRO in black hole research?",
                   "options": [
                     "Sending humans to explore black holes",
@@ -3186,17 +3197,6 @@
                   ],
                   "answer": "Stellar Black Hole",
                   "explanation": "Stellar black holes are formed when massive stars collapse after exhausting their fuel, typically having masses between 5 to 20 times that of the Sun."
-                },
-                {
-                  "question": "What is a key feature of a supermassive black hole?",
-                  "options": [
-                    "It is formed from a small star",
-                    "It is millions or billions of times the mass of the Sun",
-                    "It is smaller than a stellar black hole",
-                    "It does not exist at the center of galaxies"
-                  ],
-                  "answer": "It is millions or billions of times the mass of the Sun",
-                  "explanation": "Supermassive black holes can have millions or even billions of times the mass of the Sun and are typically located at the center of galaxies."
                 }
               ]
             },
@@ -5221,7 +5221,7 @@
                   "explanation": "The Andromeda Galaxy is the closest major galaxy to the Milky Way."
                 }
               ]
-            } ,
+            },
             {
               "setNumber": 5,
               "questions": [
@@ -5916,7 +5916,6 @@
         }
       ]
     },
-    
     {
       "topicName": "Space Phenomena 🌠",
       "subtopics": [
@@ -8069,6 +8068,17 @@
                   ],
                   "answer": "Some asteroids are just a few meters wide",
                   "explanation": "Some of the smallest asteroids in the Solar System are just a few meters in size, much smaller than the commonly known ones like Ceres."
+                },
+                {
+                  "question": "What is the main region where most asteroids in the Solar System are found?",
+                  "options": [
+                    "Kuiper Belt",
+                    "Oort Cloud",
+                    "Asteroid Belt",
+                    "Near Earth's orbit"
+                  ],
+                  "answer": "Asteroid Belt",
+                  "explanation": "Most asteroids in the Solar System are found in the Asteroid Belt, a region between the orbits of Mars and Jupiter."
                 },
                 {
                   "question": "Which asteroid is known for its potential to cause a close pass with Earth in 2029?",
@@ -10743,7 +10753,7 @@
                   ],
                   "answer": "A spacecraft for carrying astronauts",
                   "explanation": "The ISS is a spacecraft that orbits Earth, providing astronauts with a platform to live and conduct scientific research in space."
-                  },
+                },
                 {
                   "question": "What do satellites launched by spacecraft help with?",
                   "options": [
@@ -13043,111 +13053,111 @@
                 {
                   "question": "What is the Moon?",
                   "options": [
-                    "a) Earth’s second natural satellite",
-                    "b) Earth’s only natural satellite",
-                    "c) A planet",
-                    "d) A star"
+                    "Earth’s second natural satellite",
+                    "Earth’s only natural satellite",
+                    "A planet",
+                    "A star"
                   ],
-                  "answer": "b) Earth’s only natural satellite",
+                  "answer": "Earth’s only natural satellite",
                   "explanation": "The Moon is Earth's only natural satellite, orbiting around our planet."
                 },
                 {
                   "question": "How far is the Moon from Earth?",
                   "options": [
-                    "a) 500,000 km",
-                    "b) 384,400 km",
-                    "c) 1 million km",
-                    "d) 150,000 km"
+                    "500,000 km",
+                    "384,400 km",
+                    "1 million km",
+                    "150,000 km"
                   ],
-                  "answer": "b) 384,400 km",
+                  "answer": "384,400 km",
                   "explanation": "The average distance from the Moon to Earth is about 384,400 kilometers."
                 },
                 {
                   "question": "What is the Moon’s surface covered with?",
                   "options": [
-                    "a) Oceans",
-                    "b) Mountains",
-                    "c) Craters",
-                    "d) Forests"
+                    "Oceans",
+                    "Mountains",
+                    "Craters",
+                    "Forests"
                   ],
-                  "answer": "c) Craters",
+                  "answer": "Craters",
                   "explanation": "The Moon’s surface is primarily covered with craters formed by asteroid impacts."
                 },
                 {
                   "question": "What causes the craters on the Moon?",
                   "options": [
-                    "a) Volcanic eruptions",
-                    "b) Asteroid impacts",
-                    "c) Earth’s gravity",
-                    "d) Winds"
+                    "Volcanic eruptions",
+                    "Asteroid impacts",
+                    "Earth’s gravity",
+                    "Winds"
                   ],
-                  "answer": "b) Asteroid impacts",
+                  "answer": "Asteroid impacts",
                   "explanation": "The craters on the Moon are created by asteroid and meteorite impacts."
                 },
                 {
                   "question": "What role does the Moon play in relation to Earth?",
                   "options": [
-                    "a) It causes earthquakes",
-                    "b) It stabilizes Earth’s rotation and affects tides",
-                    "c) It causes hurricanes",
-                    "d) It creates weather patterns"
+                    "It causes earthquakes",
+                    "It stabilizes Earth’s rotation and affects tides",
+                    "It causes hurricanes",
+                    "It creates weather patterns"
                   ],
-                  "answer": "b) It stabilizes Earth’s rotation and affects tides",
+                  "answer": "It stabilizes Earth’s rotation and affects tides",
                   "explanation": "The Moon helps stabilize Earth's rotation and has a significant effect on the tides."
                 },
                 {
                   "question": "What does the Moon provide at night?",
                   "options": [
-                    "a) Heat",
-                    "b) Light",
-                    "c) Oxygen",
-                    "d) Water"
+                    "Heat",
+                    "Light",
+                    "Oxygen",
+                    "Water"
                   ],
-                  "answer": "b) Light",
+                  "answer": "Light",
                   "explanation": "The Moon reflects sunlight, providing light during the night."
                 },
                 {
                   "question": "Why are Moon missions important?",
                   "options": [
-                    "a) To send humans to live on the Moon",
-                    "b) To study its surface, rocks, and soil",
-                    "c) To bring back Moon dust",
-                    "d) To make the Moon larger"
+                    "To send humans to live on the Moon",
+                    "To study its surface, rocks, and soil",
+                    "To bring back Moon dust",
+                    "To make the Moon larger"
                   ],
-                  "answer": "b) To study its surface, rocks, and soil",
+                  "answer": "To study its surface, rocks, and soil",
                   "explanation": "Moon missions allow scientists to study the Moon's surface, rocks, and soil to learn more about its history."
                 },
                 {
                   "question": "What do scientists search for during Moon missions?",
                   "options": [
-                    "a) Resources and water",
-                    "b) Moon dust for jewelry",
-                    "c) Gold",
-                    "d) Aliens"
+                    "Resources and water",
+                    "Moon dust for jewelry",
+                    "Gold",
+                    "Aliens"
                   ],
-                  "answer": "a) Resources and water",
+                  "answer": "Resources and water",
                   "explanation": "Scientists search for valuable resources and evidence of water on the Moon for future space exploration."
                 },
                 {
                   "question": "What technology do Moon missions test?",
                   "options": [
-                    "a) Technology for Earth exploration",
-                    "b) Technology for future space missions like Mars exploration",
-                    "c) Technology for ocean exploration",
-                    "d) Technology for flying cars"
+                    "Technology for Earth exploration",
+                    "Technology for future space missions like Mars exploration",
+                    "Technology for ocean exploration",
+                    "Technology for flying cars"
                   ],
-                  "answer": "b) Technology for future space missions like Mars exploration",
+                  "answer": "Technology for future space missions like Mars exploration",
                   "explanation": "Moon missions test technologies that are critical for future deep space exploration, including missions to Mars."
                 },
                 {
                   "question": "What are Orbiter Missions?",
                   "options": [
-                    "a) Spacecraft that land on the Moon",
-                    "b) Spacecraft that orbit the Moon and study its surface",
-                    "c) Humans who visit the Moon",
-                    "d) Robots that dig for water on the Moon"
+                    "Spacecraft that land on the Moon",
+                    "Spacecraft that orbit the Moon and study its surface",
+                    "Humans who visit the Moon",
+                    "Robots that dig for water on the Moon"
                   ],
-                  "answer": "b) Spacecraft that orbit the Moon and study its surface",
+                  "answer": "Spacecraft that orbit the Moon and study its surface",
                   "explanation": "Orbiter missions are spacecraft that orbit the Moon to study its surface from above, providing valuable data."
                 }
               ]
@@ -13158,111 +13168,111 @@
                 {
                   "question": "Which mission was India’s first Moon mission?",
                   "options": [
-                    "a) Chandrayaan-2",
-                    "b) Chandrayaan-3",
-                    "c) Chandrayaan-1",
-                    "d) Apollo 11"
+                    "Chandrayaan-2",
+                    "Chandrayaan-3",
+                    "Chandrayaan-1",
+                    "Apollo 11"
                   ],
-                  "answer": "c) Chandrayaan-1",
+                  "answer": "Chandrayaan-1",
                   "explanation": "India's first Moon mission was Chandrayaan-1, launched in 2008, which provided valuable data about the Moon's surface."
                 },
                 {
                   "question": "What does a Lander Mission do?",
                   "options": [
-                    "a) Orbits the Moon",
-                    "b) Lands on the Moon to study its surface",
-                    "c) Sends astronauts to the Moon",
-                    "d) Brings Moon dust back to Earth"
+                    "Orbits the Moon",
+                    "Lands on the Moon to study its surface",
+                    "Sends astronauts to the Moon",
+                    "Brings Moon dust back to Earth"
                   ],
-                  "answer": "b) Lands on the Moon to study its surface",
+                  "answer": "Lands on the Moon to study its surface",
                   "explanation": "A Lander Mission involves a spacecraft landing on the Moon’s surface to conduct scientific studies."
                 },
                 {
                   "question": "What is an example of a Lander Mission?",
                   "options": [
-                    "a) Chandrayaan-1",
-                    "b) Vikram Lander (Chandrayaan-2)",
-                    "c) Pragyan Rover",
-                    "d) Apollo 11"
+                    "Chandrayaan-1",
+                    "Vikram Lander (Chandrayaan-2)",
+                    "Pragyan Rover",
+                    "Apollo 11"
                   ],
-                  "answer": "b) Vikram Lander (Chandrayaan-2)",
+                  "answer": "Vikram Lander (Chandrayaan-2)",
                   "explanation": "The Vikram Lander, part of India's Chandrayaan-2 mission, was designed to land on the Moon’s surface and conduct studies."
                 },
                 {
                   "question": "What do Rover Missions do?",
                   "options": [
-                    "a) Orbit the Moon",
-                    "b) Land and explore, studying rocks and searching for water",
-                    "c) Test technology for future Mars missions",
-                    "d) Bring astronauts to the Moon"
+                    "Orbit the Moon",
+                    "Land and explore, studying rocks and searching for water",
+                    "Test technology for future Mars missions",
+                    "Bring astronauts to the Moon"
                   ],
-                  "answer": "b) Land and explore, studying rocks and searching for water",
+                  "answer": "Land and explore, studying rocks and searching for water",
                   "explanation": "Rover Missions land on the Moon or other celestial bodies and explore their surfaces, studying rocks and searching for water or other resources."
                 },
                 {
                   "question": "Which rover was part of India’s Chandrayaan-3 mission?",
                   "options": [
-                    "a) Vikram Rover",
-                    "b) Curiosity Rover",
-                    "c) Pragyan Rover",
-                    "d) Perseverance Rover"
+                    "Vikram Rover",
+                    "Curiosity Rover",
+                    "Pragyan Rover",
+                    "Perseverance Rover"
                   ],
-                  "answer": "c) Pragyan Rover",
+                  "answer": "Pragyan Rover",
                   "explanation": "The Pragyan Rover was part of India’s Chandrayaan-3 mission, designed to explore the Moon's surface."
                 },
                 {
                   "question": "Which Moon mission was the first human mission to the Moon?",
                   "options": [
-                    "a) Luna 9",
-                    "b) Chandrayaan-1",
-                    "c) Apollo 11",
-                    "d) Luna 2"
+                    "Luna 9",
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Luna 2"
                   ],
-                  "answer": "c) Apollo 11",
+                  "answer": "Apollo 11",
                   "explanation": "Apollo 11 was the first mission to land humans on the Moon in 1969, with astronauts Neil Armstrong and Buzz Aldrin."
                 },
                 {
                   "question": "What year did Apollo 11 land humans on the Moon?",
                   "options": [
-                    "a) 1960",
-                    "b) 1970",
-                    "c) 1969",
-                    "d) 1980"
+                    "1960",
+                    "1970",
+                    "1969",
+                    "1980"
                   ],
-                  "answer": "c) 1969",
+                  "answer": "1969",
                   "explanation": "Apollo 11 successfully landed humans on the Moon in 1969, marking a historic achievement."
                 },
                 {
                   "question": "Who were the astronauts on Apollo 11?",
                   "options": [
-                    "a) Neil Armstrong and Buzz Aldrin",
-                    "b) Yuri Gagarin and Neil Armstrong",
-                    "c) John Glenn and Alan Shepard",
-                    "d) Sally Ride and Valentina Tereshkova"
+                    "Neil Armstrong and Buzz Aldrin",
+                    "Yuri Gagarin and Neil Armstrong",
+                    "John Glenn and Alan Shepard",
+                    "Sally Ride and Valentina Tereshkova"
                   ],
-                  "answer": "a) Neil Armstrong and Buzz Aldrin",
+                  "answer": "Neil Armstrong and Buzz Aldrin",
                   "explanation": "Neil Armstrong and Buzz Aldrin were the two astronauts who landed on the Moon during Apollo 11, while Michael Collins remained in orbit."
                 },
                 {
                   "question": "What was Luna 2’s achievement?",
                   "options": [
-                    "a) First human landing",
-                    "b) First spacecraft to orbit the Moon",
-                    "c) First spacecraft to reach the Moon",
-                    "d) First spacecraft to land on the Moon"
+                    "First human landing",
+                    "First spacecraft to orbit the Moon",
+                    "First spacecraft to reach the Moon",
+                    "First spacecraft to land on the Moon"
                   ],
-                  "answer": "c) First spacecraft to reach the Moon",
+                  "answer": "First spacecraft to reach the Moon",
                   "explanation": "Luna 2 was the first spacecraft to reach the Moon, impacting its surface in 1959."
                 },
                 {
                   "question": "What is the goal of the Artemis Program?",
                   "options": [
-                    "a) To send humans to Mars",
-                    "b) To send humans back to the Moon and build a Moon base",
-                    "c) To explore Jupiter",
-                    "d) To establish a space station on Earth’s orbit"
+                    "To send humans to Mars",
+                    "To send humans back to the Moon and build a Moon base",
+                    "To explore Jupiter",
+                    "To establish a space station on Earth’s orbit"
                   ],
-                  "answer": "b) To send humans back to the Moon and build a Moon base",
+                  "answer": "To send humans back to the Moon and build a Moon base",
                   "explanation": "The Artemis Program aims to return humans to the Moon and establish a sustainable base for long-term exploration."
                 }
               ]
@@ -13273,111 +13283,111 @@
                 {
                   "question": "What is one challenge of Moon missions?",
                   "options": [
-                    "a) Finding water",
-                    "b) Landing safely due to the lack of atmosphere",
-                    "c) Building bases on Earth",
-                    "d) Developing new telescopes"
+                    "Finding water",
+                    "Landing safely due to the lack of atmosphere",
+                    "Building bases on Earth",
+                    "Developing new telescopes"
                   ],
-                  "answer": "b) Landing safely due to the lack of atmosphere",
+                  "answer": "Landing safely due to the lack of atmosphere",
                   "explanation": "One challenge of Moon missions is landing safely because the Moon has no atmosphere to slow down spacecraft during landing."
                 },
                 {
                   "question": "What are the Moon’s temperatures during the day?",
                   "options": [
-                    "a) -50°C",
-                    "b) 127°C",
-                    "c) 100°C",
-                    "d) 20°C"
+                    "-50°C",
+                    "127°C",
+                    "100°C",
+                    "20°C"
                   ],
-                  "answer": "b) 127°C",
+                  "answer": "127°C",
                   "explanation": "The Moon's surface can reach extreme temperatures, with daytime temperatures reaching 127°C due to the lack of atmosphere."
                 },
                 {
                   "question": "What are the Moon’s temperatures at night?",
                   "options": [
-                    "a) 0°C",
-                    "b) -50°C",
-                    "c) -173°C",
-                    "d) 100°C"
+                    "0°C",
+                    "-50°C",
+                    "-173°C",
+                    "100°C"
                   ],
-                  "answer": "c) -173°C",
+                  "answer": "-173°C",
                   "explanation": "At night, the Moon's temperature can drop to -173°C because it lacks an atmosphere to retain heat."
                 },
                 {
                   "question": "Why is it difficult for humans to live on the Moon?",
                   "options": [
-                    "a) There is no air to breathe",
-                    "b) It has many trees",
-                    "c) It has constant sunlight",
-                    "d) There is a magnetic field"
+                    "There is no air to breathe",
+                    "It has many trees",
+                    "It has constant sunlight",
+                    "There is a magnetic field"
                   ],
-                  "answer": "a) There is no air to breathe",
+                  "answer": "There is no air to breathe",
                   "explanation": "Humans cannot live on the Moon because it lacks an atmosphere and air to breathe."
                 },
                 {
                   "question": "What protects Earth from harmful space radiation?",
                   "options": [
-                    "a) Earth’s atmosphere",
-                    "b) The Moon’s atmosphere",
-                    "c) The Moon’s magnetic field",
-                    "d) Earth’s magnetic field"
+                    "Earth’s atmosphere",
+                    "The Moon’s atmosphere",
+                    "The Moon’s magnetic field",
+                    "Earth’s magnetic field"
                   ],
-                  "answer": "d) Earth’s magnetic field",
+                  "answer": "Earth’s magnetic field",
                   "explanation": "Earth's magnetic field protects it from harmful space radiation, unlike the Moon, which lacks such protection."
                 },
                 {
                   "question": "What is the goal of the Artemis missions?",
                   "options": [
-                    "a) To bring the Moon closer to Earth",
-                    "b) To create a base on the Moon for future Mars exploration",
-                    "c) To explore Saturn’s rings",
-                    "d) To land on Mars"
+                    "To bring the Moon closer to Earth",
+                    "To create a base on the Moon for future Mars exploration",
+                    "To explore Saturn’s rings",
+                    "To land on Mars"
                   ],
-                  "answer": "b) To create a base on the Moon for future Mars exploration",
+                  "answer": "To create a base on the Moon for future Mars exploration",
                   "explanation": "The Artemis missions aim to establish a sustainable human presence on the Moon, with plans to use it as a stepping stone for Mars exploration."
                 },
                 {
                   "question": "Which country is planning more advanced Moon missions with the ISRO?",
                   "options": [
-                    "a) China",
-                    "b) USA",
-                    "c) India",
-                    "d) Russia"
+                    "China",
+                    "USA",
+                    "India",
+                    "Russia"
                   ],
-                  "answer": "c) India",
+                  "answer": "India",
                   "explanation": "India is planning more advanced Moon missions with ISRO, focusing on lunar exploration and development of future space technologies."
                 },
                 {
                   "question": "Which private company is aiming to send humans to the Moon for tourism?",
                   "options": [
-                    "a) SpaceX",
-                    "b) NASA",
-                    "c) ISRO",
-                    "d) Blue Origin"
+                    "SpaceX",
+                    "NASA",
+                    "ISRO",
+                    "Blue Origin"
                   ],
-                  "answer": "a) SpaceX",
+                  "answer": "SpaceX",
                   "explanation": "SpaceX aims to send humans to the Moon for tourism, as part of its private space missions."
                 },
                 {
                   "question": "What is the Moon’s role in the Earth-Moon system?",
                   "options": [
-                    "a) It causes solar eclipses",
-                    "b) It stabilizes Earth’s axial tilt",
-                    "c) It causes volcanic eruptions on Earth",
-                    "d) It has no effect on Earth"
+                    "It causes solar eclipses",
+                    "It stabilizes Earth’s axial tilt",
+                    "It causes volcanic eruptions on Earth",
+                    "It has no effect on Earth"
                   ],
-                  "answer": "b) It stabilizes Earth’s axial tilt",
+                  "answer": "It stabilizes Earth’s axial tilt",
                   "explanation": "The Moon plays a crucial role in stabilizing Earth’s axial tilt, which affects the planet's climate and seasons."
                 },
                 {
                   "question": "Which of the following is NOT a type of Moon mission?",
                   "options": [
-                    "a) Orbiter Missions",
-                    "b) Lander Missions",
-                    "c) Space Station Missions",
-                    "d) Rover Missions"
+                    "Orbiter Missions",
+                    "Lander Missions",
+                    "Space Station Missions",
+                    "Rover Missions"
                   ],
-                  "answer": "c) Space Station Missions",
+                  "answer": "Space Station Missions",
                   "explanation": "Space Station Missions are focused on low Earth orbit operations, not on the Moon. Moon missions include Orbiter, Lander, and Rover missions."
                 }
               ]
@@ -13388,111 +13398,111 @@
                 {
                   "question": "What is the purpose of Orbiter Missions?",
                   "options": [
-                    "a) To land on the Moon and collect samples",
-                    "b) To send humans to the Moon",
-                    "c) To orbit the Moon, take pictures, and map its surface",
-                    "d) To search for aliens on the Moon"
+                    "To land on the Moon and collect samples",
+                    "To send humans to the Moon",
+                    "To orbit the Moon, take pictures, and map its surface",
+                    "To search for aliens on the Moon"
                   ],
-                  "answer": "c) To orbit the Moon, take pictures, and map its surface",
+                  "answer": "To orbit the Moon, take pictures, and map its surface",
                   "explanation": "Orbiter Missions are designed to orbit the Moon, capture images, and create detailed maps of its surface to study its environment."
                 },
                 {
                   "question": "What was the first mission to discover water molecules on the Moon?",
                   "options": [
-                    "a) Chandrayaan-2",
-                    "b) Chandrayaan-1",
-                    "c) Apollo 11",
-                    "d) Luna 9"
+                    "Chandrayaan-2",
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Luna 9"
                   ],
-                  "answer": "b) Chandrayaan-1",
+                  "answer": "Chandrayaan-1",
                   "explanation": "Chandrayaan-1, launched by India, was the first mission to detect water molecules on the Moon in 2008."
                 },
                 {
                   "question": "Which of the following is a key achievement of Chandrayaan-2?",
                   "options": [
-                    "a) First successful human landing on the Moon",
-                    "b) The orbiter is still sending valuable data",
-                    "c) The rover collected Moon dust samples",
-                    "d) It built a base on the Moon"
+                    "First successful human landing on the Moon",
+                    "The orbiter is still sending valuable data",
+                    "The rover collected Moon dust samples",
+                    "It built a base on the Moon"
                   ],
-                  "answer": "b) The orbiter is still sending valuable data",
+                  "answer": "The orbiter is still sending valuable data",
                   "explanation": "Chandrayaan-2’s orbiter is still transmitting crucial data from the Moon's surface, even though the Vikram Lander did not succeed."
                 },
                 {
                   "question": "What was the fate of the Vikram Lander in Chandrayaan-2?",
                   "options": [
-                    "a) It successfully landed and sent data",
-                    "b) It crashed on the Moon",
-                    "c) It returned to Earth",
-                    "d) It was destroyed by space debris"
+                    "It successfully landed and sent data",
+                    "It crashed on the Moon",
+                    "It returned to Earth",
+                    "It was destroyed by space debris"
                   ],
-                  "answer": "b) It crashed on the Moon",
+                  "answer": "It crashed on the Moon",
                   "explanation": "The Vikram Lander, part of the Chandrayaan-2 mission, lost communication and crash-landed on the Moon."
                 },
                 {
                   "question": "Which Moon mission included the Pragyan Rover?",
                   "options": [
-                    "a) Chandrayaan-1",
-                    "b) Chandrayaan-3",
-                    "c) Apollo 11",
-                    "d) Artemis Program"
+                    "Chandrayaan-1",
+                    "Chandrayaan-3",
+                    "Apollo 11",
+                    "Artemis Program"
                   ],
-                  "answer": "b) Chandrayaan-3",
+                  "answer": "Chandrayaan-3",
                   "explanation": "The Pragyan Rover was part of India’s Chandrayaan-3 mission, aiming to explore the lunar surface."
                 },
                 {
                   "question": "Which country launched the Chandrayaan missions?",
                   "options": [
-                    "a) USA",
-                    "b) India",
-                    "c) Russia",
-                    "d) China"
+                    "USA",
+                    "India",
+                    "Russia",
+                    "China"
                   ],
-                  "answer": "b) India",
+                  "answer": "India",
                   "explanation": "India’s space agency, ISRO, launched the Chandrayaan missions to explore the Moon."
                 },
                 {
                   "question": "What was the goal of the Apollo 11 mission?",
                   "options": [
-                    "a) To discover water on the Moon",
-                    "b) To send the first humans to the Moon",
-                    "c) To test the first rover on the Moon",
-                    "d) To map the Moon’s surface"
+                    "To discover water on the Moon",
+                    "To send the first humans to the Moon",
+                    "To test the first rover on the Moon",
+                    "To map the Moon’s surface"
                   ],
-                  "answer": "b) To send the first humans to the Moon",
+                  "answer": "To send the first humans to the Moon",
                   "explanation": "Apollo 11 was the mission that successfully landed the first humans, Neil Armstrong and Buzz Aldrin, on the Moon."
                 },
                 {
                   "question": "What year did the Apollo 11 mission land humans on the Moon?",
                   "options": [
-                    "a) 1970",
-                    "b) 1969",
-                    "c) 1959",
-                    "d) 1981"
+                    "1970",
+                    "1969",
+                    "1959",
+                    "1981"
                   ],
-                  "answer": "b) 1969",
+                  "answer": "1969",
                   "explanation": "The Apollo 11 mission landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on July 20, 1969."
                 },
                 {
                   "question": "Which spacecraft was the first to reach the Moon?",
                   "options": [
-                    "a) Apollo 11",
-                    "b) Luna 2",
-                    "c) Chandrayaan-1",
-                    "d) Vikram Lander"
+                    "Apollo 11",
+                    "Luna 2",
+                    "Chandrayaan-1",
+                    "Vikram Lander"
                   ],
-                  "answer": "b) Luna 2",
+                  "answer": "Luna 2",
                   "explanation": "Luna 2, a Soviet spacecraft, was the first to reach the Moon, impacting its surface in 1959."
                 },
                 {
                   "question": "What is the goal of NASA’s Artemis Program?",
                   "options": [
-                    "a) To send humans to Mars",
-                    "b) To land humans on the Moon and build a Moon base",
-                    "c) To send robots to explore the Sun",
-                    "d) To build a space station around Earth"
+                    "To send humans to Mars",
+                    "To land humans on the Moon and build a Moon base",
+                    "To send robots to explore the Sun",
+                    "To build a space station around Earth"
                   ],
-                  "answer": "b) To land humans on the Moon and build a Moon base",
+                  "answer": "To land humans on the Moon and build a Moon base",
                   "explanation": "NASA’s Artemis Program aims to return humans to the Moon and establish a sustainable lunar base for future missions to Mars."
                 }
               ]
@@ -13503,111 +13513,111 @@
                 {
                   "question": "What is a major challenge when landing on the Moon?",
                   "options": [
-                    "a) Finding water",
-                    "b) Landing safely due to the lack of atmosphere",
-                    "c) Searching for gold",
-                    "d) Getting enough sunlight"
+                    "Finding water",
+                    "Landing safely due to the lack of atmosphere",
+                    "Searching for gold",
+                    "Getting enough sunlight"
                   ],
-                  "answer": "b) Landing safely due to the lack of atmosphere",
+                  "answer": "Landing safely due to the lack of atmosphere",
                   "explanation": "The lack of atmosphere on the Moon makes landing difficult because there is no air to slow down the spacecraft, leading to a higher risk of crashing."
                 },
                 {
                   "question": "What is the temperature on the Moon during the day?",
                   "options": [
-                    "a) 50°C",
-                    "b) 100°C",
-                    "c) 127°C",
-                    "d) -50°C"
+                    "50°C",
+                    "100°C",
+                    "127°C",
+                    "-50°C"
                   ],
-                  "answer": "c) 127°C",
+                  "answer": "127°C",
                   "explanation": "During the day, the Moon’s surface can reach temperatures as high as 127°C due to the lack of atmosphere to regulate heat."
                 },
                 {
                   "question": "What temperature does the Moon reach at night?",
                   "options": [
-                    "a) 0°C",
-                    "b) -173°C",
-                    "c) 50°C",
-                    "d) 10°C"
+                    "0°C",
+                    "-173°C",
+                    "50°C",
+                    "10°C"
                   ],
-                  "answer": "b) -173°C",
+                  "answer": "-173°C",
                   "explanation": "At night, the Moon's surface temperature drops to around -173°C due to the absence of atmosphere to trap heat."
                 },
                 {
                   "question": "Why can’t humans breathe on the Moon?",
                   "options": [
-                    "a) The Moon has no magnetic field",
-                    "b) The Moon has no atmosphere",
-                    "c) The Moon’s gravity is too strong",
-                    "d) The Moon’s temperature is too hot"
+                    "The Moon has no magnetic field",
+                    "The Moon has no atmosphere",
+                    "The Moon’s gravity is too strong",
+                    "The Moon’s temperature is too hot"
                   ],
-                  "answer": "b) The Moon has no atmosphere",
+                  "answer": "The Moon has no atmosphere",
                   "explanation": "The Moon lacks an atmosphere, meaning there is no air to breathe and no oxygen available for humans."
                 },
                 {
                   "question": "What does the Moon lack to protect against space radiation?",
                   "options": [
-                    "a) A strong magnetic field",
-                    "b) An ocean",
-                    "c) A thick cloud layer",
-                    "d) Trees"
+                    "A strong magnetic field",
+                    "An ocean",
+                    "A thick cloud layer",
+                    "Trees"
                   ],
-                  "answer": "a) A strong magnetic field",
+                  "answer": "A strong magnetic field",
                   "explanation": "Unlike Earth, the Moon has no strong magnetic field to shield against harmful space radiation."
                 },
                 {
                   "question": "Which of the following is a feature of Artemis missions?",
                   "options": [
-                    "a) Establishing a human base on the Moon for Mars exploration",
-                    "b) Sending humans to Venus",
-                    "c) Testing a new type of rover",
-                    "d) Sending robots to explore Mars"
+                    "Establishing a human base on the Moon for Mars exploration",
+                    "Sending humans to Venus",
+                    "Testing a new type of rover",
+                    "Sending robots to explore Mars"
                   ],
-                  "answer": "a) Establishing a human base on the Moon for Mars exploration",
+                  "answer": "Establishing a human base on the Moon for Mars exploration",
                   "explanation": "NASA's Artemis missions aim to land humans on the Moon and establish a base to use as a stepping stone for future exploration of Mars."
                 },
                 {
                   "question": "Which space agency is planning future advanced Moon missions?",
                   "options": [
-                    "a) NASA",
-                    "b) ESA",
-                    "c) ISRO",
-                    "d) Roscosmos"
+                    "NASA",
+                    "ESA",
+                    "ISRO",
+                    "Roscosmos"
                   ],
-                  "answer": "c) ISRO",
+                  "answer": "ISRO",
                   "explanation": "India's space agency ISRO is planning advanced lunar missions, including Chandrayaan-3 and beyond, focusing on detailed exploration of the Moon."
                 },
                 {
                   "question": "Which private company plans to send humans to the Moon for tourism?",
                   "options": [
-                    "a) Blue Origin",
-                    "b) SpaceX",
-                    "c) NASA",
-                    "d) Boeing"
+                    "Blue Origin",
+                    "SpaceX",
+                    "NASA",
+                    "Boeing"
                   ],
-                  "answer": "b) SpaceX",
+                  "answer": "SpaceX",
                   "explanation": "SpaceX plans to send humans to the Moon, with plans for space tourism and future lunar missions."
                 },
                 {
                   "question": "What is the Moon’s role in the Earth-Moon system?",
                   "options": [
-                    "a) It creates rainstorms",
-                    "b) It helps stabilize Earth’s rotation",
-                    "c) It prevents hurricanes",
-                    "d) It causes volcanic eruptions on Earth"
+                    "It creates rainstorms",
+                    "It helps stabilize Earth’s rotation",
+                    "It prevents hurricanes",
+                    "It causes volcanic eruptions on Earth"
                   ],
-                  "answer": "b) It helps stabilize Earth’s rotation",
+                  "answer": "It helps stabilize Earth’s rotation",
                   "explanation": "The Moon’s gravitational pull helps stabilize Earth's axial tilt, which is crucial for maintaining the planet's climate and seasons."
                 },
                 {
                   "question": "What does a Lander Mission do on the Moon?",
                   "options": [
-                    "a) Orbits the Moon",
-                    "b) Lands on the Moon to study its surface",
-                    "c) Searches for life on the Moon",
-                    "d) Takes pictures from Earth’s orbit"
+                    "Orbits the Moon",
+                    "Lands on the Moon to study its surface",
+                    "Searches for life on the Moon",
+                    "Takes pictures from Earth’s orbit"
                   ],
-                  "answer": "b) Lands on the Moon to study its surface",
+                  "answer": "Lands on the Moon to study its surface",
                   "explanation": "A Lander Mission is designed to land on the Moon, study its surface, and gather data through sensors and experiments."
                 }
               ]
@@ -13618,111 +13628,111 @@
                 {
                   "question": "What was a major achievement of Chandrayaan-3?",
                   "options": [
-                    "a) It discovered water on the Moon",
-                    "b) The Pragyan Rover successfully explored the Moon’s soil",
-                    "c) It sent astronauts to the Moon",
-                    "d) It launched a human Moon base"
+                    "It discovered water on the Moon",
+                    "The Pragyan Rover successfully explored the Moon’s soil",
+                    "It sent astronauts to the Moon",
+                    "It launched a human Moon base"
                   ],
-                  "answer": "b) The Pragyan Rover successfully explored the Moon’s soil",
+                  "answer": "The Pragyan Rover successfully explored the Moon’s soil",
                   "explanation": "Chandrayaan-3’s Pragyan Rover explored the lunar surface and successfully analyzed the Moon's soil to gather valuable data."
                 },
                 {
                   "question": "Which mission was part of the Soviet Union’s space program?",
                   "options": [
-                    "a) Chandrayaan-1",
-                    "b) Apollo 11",
-                    "c) Luna Missions",
-                    "d) Artemis Program"
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Luna Missions",
+                    "Artemis Program"
                   ],
-                  "answer": "c) Luna Missions",
+                  "answer": "Luna Missions",
                   "explanation": "The Luna Missions were part of the Soviet Union’s space program, focusing on the Moon with various robotic landers and orbiters."
                 },
                 {
                   "question": "What does a Rover Mission do on the Moon?",
                   "options": [
-                    "a) Orbit the Moon and take pictures",
-                    "b) Land and explore the Moon’s surface",
-                    "c) Send humans to the Moon",
-                    "d) Test rockets for Mars missions"
+                    "Orbit the Moon and take pictures",
+                    "Land and explore the Moon’s surface",
+                    "Send humans to the Moon",
+                    "Test rockets for Mars missions"
                   ],
-                  "answer": "b) Land and explore the Moon’s surface",
+                  "answer": "Land and explore the Moon’s surface",
                   "explanation": "A Rover Mission lands on the Moon and explores the surface by moving across it to gather samples and take pictures."
                 },
                 {
                   "question": "Which mission was the first to make a soft landing on the Moon?",
                   "options": [
-                    "a) Luna 9",
-                    "b) Chandrayaan-1",
-                    "c) Apollo 11",
-                    "d) Vikram Lander"
+                    "Luna 9",
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Vikram Lander"
                   ],
-                  "answer": "a) Luna 9",
+                  "answer": "Luna 9",
                   "explanation": "The Soviet Union’s Luna 9 mission made the first successful soft landing on the Moon in 1966, providing the first panoramic images of its surface."
                 },
                 {
                   "question": "What does the Artemis Program aim to do by 2025?",
                   "options": [
-                    "a) Send humans to the Moon for the first time",
-                    "b) Build a space station on Earth",
-                    "c) Send humans back to the Moon and build a Moon base",
-                    "d) Send robots to Venus"
+                    "Send humans to the Moon for the first time",
+                    "Build a space station on Earth",
+                    "Send humans back to the Moon and build a Moon base",
+                    "Send robots to Venus"
                   ],
-                  "answer": "c) Send humans back to the Moon and build a Moon base",
+                  "answer": "Send humans back to the Moon and build a Moon base",
                   "explanation": "The Artemis Program, led by NASA, aims to return humans to the Moon and establish a sustainable base by 2025 to prepare for future missions to Mars."
                 },
                 {
                   "question": "Which country launched the first Moon landing mission?",
                   "options": [
-                    "a) USA",
-                    "b) USSR",
-                    "c) India",
-                    "d) China"
+                    "USA",
+                    "USSR",
+                    "India",
+                    "China"
                   ],
-                  "answer": "b) USSR",
+                  "answer": "USSR",
                   "explanation": "The Soviet Union was the first country to successfully land a spacecraft on the Moon with its Luna 2 mission in 1959."
                 },
                 {
                   "question": "What does the Moon affect on Earth?",
                   "options": [
-                    "a) Earth’s weather patterns",
-                    "b) Earth’s tides",
-                    "c) Earth’s population",
-                    "d) Earth’s rotation speed"
+                    "Earth’s weather patterns",
+                    "Earth’s tides",
+                    "Earth’s population",
+                    "Earth’s rotation speed"
                   ],
-                  "answer": "b) Earth’s tides",
+                  "answer": "Earth’s tides",
                   "explanation": "The Moon’s gravitational pull influences Earth’s tides, causing the rise and fall of ocean levels."
                 },
                 {
                   "question": "Which mission was the first to send humans to the Moon?",
                   "options": [
-                    "a) Chandrayaan-1",
-                    "b) Apollo 11",
-                    "c) Luna 2",
-                    "d) Chandrayaan-3"
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Luna 2",
+                    "Chandrayaan-3"
                   ],
-                  "answer": "b) Apollo 11",
+                  "answer": "Apollo 11",
                   "explanation": "Apollo 11, the first mission to send humans to the Moon in 1969, marked a major achievement in space exploration, with Neil Armstrong and Buzz Aldrin becoming the first humans to walk on the Moon."
                 },
                 {
                   "question": "Which rover was part of the Chandrayaan-3 mission?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Perseverance Rover",
-                    "c) Pragyan Rover",
-                    "d) Spirit Rover"
+                    "Curiosity Rover",
+                    "Perseverance Rover",
+                    "Pragyan Rover",
+                    "Spirit Rover"
                   ],
-                  "answer": "c) Pragyan Rover",
+                  "answer": "Pragyan Rover",
                   "explanation": "The Pragyan Rover, part of India’s Chandrayaan-3 mission, was designed to explore the lunar surface and collect data on the Moon's soil."
                 },
                 {
                   "question": "What is the purpose of the Luna Missions?",
                   "options": [
-                    "a) To send humans to Mars",
-                    "b) To explore the Moon with unmanned spacecraft",
-                    "c) To send humans to the Moon",
-                    "d) To create a permanent Moon base"
+                    "To send humans to Mars",
+                    "To explore the Moon with unmanned spacecraft",
+                    "To send humans to the Moon",
+                    "To create a permanent Moon base"
                   ],
-                  "answer": "b) To explore the Moon with unmanned spacecraft",
+                  "answer": "To explore the Moon with unmanned spacecraft",
                   "explanation": "The Luna Missions focused on robotic exploration of the Moon, sending spacecraft to study its surface and gather scientific data."
                 }
               ]
@@ -13733,111 +13743,111 @@
                 {
                   "question": "Which Moon mission was India’s first to explore the Moon?",
                   "options": [
-                    "a) Chandrayaan-2",
-                    "b) Chandrayaan-3",
-                    "c) Chandrayaan-1",
-                    "d) Vikram Lander"
+                    "Chandrayaan-2",
+                    "Chandrayaan-3",
+                    "Chandrayaan-1",
+                    "Vikram Lander"
                   ],
-                  "answer": "c) Chandrayaan-1",
+                  "answer": "Chandrayaan-1",
                   "explanation": "Chandrayaan-1 was India’s first Moon mission, launched in 2008, and it made significant discoveries including the presence of water molecules on the Moon."
                 },
                 {
                   "question": "What is the Moon’s distance from Earth?",
                   "options": [
-                    "a) 384,400 km",
-                    "b) 1 million km",
-                    "c) 100,000 km",
-                    "d) 100,000 miles"
+                    "384,400 km",
+                    "1 million km",
+                    "100,000 km",
+                    "100,000 miles"
                   ],
-                  "answer": "a) 384,400 km",
+                  "answer": "384,400 km",
                   "explanation": "The average distance from the Moon to the Earth is about 384,400 km."
                 },
                 {
                   "question": "Why is the Moon's surface full of craters?",
                   "options": [
-                    "a) Due to volcanic activity",
-                    "b) Because of asteroid impacts",
-                    "c) Because of strong winds",
-                    "d) Due to moonquakes"
+                    "Due to volcanic activity",
+                    "Because of asteroid impacts",
+                    "Because of strong winds",
+                    "Due to moonquakes"
                   ],
-                  "answer": "b) Because of asteroid impacts",
+                  "answer": "Because of asteroid impacts",
                   "explanation": "The Moon's surface is covered with craters because of continuous asteroid and meteorite impacts over billions of years."
                 },
                 {
                   "question": "Which of the following is NOT a type of Moon mission?",
                   "options": [
-                    "a) Orbiter Mission",
-                    "b) Lander Mission",
-                    "c) Rocket Mission",
-                    "d) Rover Mission"
+                    "Orbiter Mission",
+                    "Lander Mission",
+                    "Rocket Mission",
+                    "Rover Mission"
                   ],
-                  "answer": "c) Rocket Mission",
+                  "answer": "Rocket Mission",
                   "explanation": "Rocket Missions are used to launch spacecraft, but Orbiter, Lander, and Rover missions are directly related to the exploration of the Moon."
                 },
                 {
                   "question": "What kind of data does a Moon Orbiter collect?",
                   "options": [
-                    "a) Pictures, maps, and surface composition",
-                    "b) Water samples from the Moon",
-                    "c) Moon dust for research",
-                    "d) Astronaut health data"
+                    "Pictures, maps, and surface composition",
+                    "Water samples from the Moon",
+                    "Moon dust for research",
+                    "Astronaut health data"
                   ],
-                  "answer": "a) Pictures, maps, and surface composition",
+                  "answer": "Pictures, maps, and surface composition",
                   "explanation": "A Moon Orbiter collects images, maps, and data on the Moon's surface composition to help scientists understand its geology."
                 },
                 {
                   "question": "What is a key goal of sending humans to the Moon in future missions?",
                   "options": [
-                    "a) To create a Moon city",
-                    "b) To study the Moon’s surface and collect samples",
-                    "c) To destroy lunar rocks",
-                    "d) To colonize Mars"
+                    "To create a Moon city",
+                    "To study the Moon’s surface and collect samples",
+                    "To destroy lunar rocks",
+                    "To colonize Mars"
                   ],
-                  "answer": "b) To study the Moon’s surface and collect samples",
+                  "answer": "To study the Moon’s surface and collect samples",
                   "explanation": "The key goal is to explore and study the Moon’s surface, gather scientific data, and collect samples for research."
                 },
                 {
                   "question": "What did the Chandrayaan-1 mission help scientists discover on the Moon?",
                   "options": [
-                    "a) A new Moon crater",
-                    "b) Water molecules",
-                    "c) Aliens on the Moon",
-                    "d) Moon’s magnetic field"
+                    "A new Moon crater",
+                    "Water molecules",
+                    "Aliens on the Moon",
+                    "Moon’s magnetic field"
                   ],
-                  "answer": "b) Water molecules",
+                  "answer": "Water molecules",
                   "explanation": "Chandrayaan-1 helped scientists discover water molecules on the Moon, a groundbreaking finding in space exploration."
                 },
                 {
                   "question": "What temperature is the Moon’s surface during the night?",
                   "options": [
-                    "a) 0°C",
-                    "b) -50°C",
-                    "c) -173°C",
-                    "d) 100°C"
+                    "0°C",
+                    "-50°C",
+                    "-173°C",
+                    "100°C"
                   ],
-                  "answer": "c) -173°C",
+                  "answer": "-173°C",
                   "explanation": "The Moon’s surface temperature can drop as low as -173°C during the night due to the lack of an atmosphere."
                 },
                 {
                   "question": "Which program is currently planning to return humans to the Moon?",
                   "options": [
-                    "a) Artemis Program",
-                    "b) Apollo Program",
-                    "c) Luna Program",
-                    "d) Chandrayaan Program"
+                    "Artemis Program",
+                    "Apollo Program",
+                    "Luna Program",
+                    "Chandrayaan Program"
                   ],
-                  "answer": "a) Artemis Program",
+                  "answer": "Artemis Program",
                   "explanation": "The Artemis Program, led by NASA, is aiming to send humans back to the Moon by the mid-2020s, with plans for a sustainable lunar base."
                 },
                 {
                   "question": "What is one of the challenges astronauts face during Moon missions?",
                   "options": [
-                    "a) Lack of food",
-                    "b) No atmosphere to breathe",
-                    "c) Lack of sunlight",
-                    "d) Too much gravity"
+                    "Lack of food",
+                    "No atmosphere to breathe",
+                    "Lack of sunlight",
+                    "Too much gravity"
                   ],
-                  "answer": "b) No atmosphere to breathe",
+                  "answer": "No atmosphere to breathe",
                   "explanation": "One of the major challenges of Moon missions is the lack of atmosphere, which means astronauts must carry their own oxygen supply."
                 }
               ]
@@ -13848,111 +13858,111 @@
                 {
                   "question": "What was the first spacecraft to make a soft landing on the Moon?",
                   "options": [
-                    "a) Luna 9",
-                    "b) Chandrayaan-2",
-                    "c) Apollo 11",
-                    "d) Vikram Lander"
+                    "Luna 9",
+                    "Chandrayaan-2",
+                    "Apollo 11",
+                    "Vikram Lander"
                   ],
-                  "answer": "a) Luna 9",
+                  "answer": "Luna 9",
                   "explanation": "Luna 9 was the first spacecraft to make a soft landing on the Moon in 1966, providing the first images from the lunar surface."
                 },
                 {
                   "question": "Which Moon mission included the first human landing?",
                   "options": [
-                    "a) Chandrayaan-1",
-                    "b) Apollo 11",
-                    "c) Luna 2",
-                    "d) Chandrayaan-3"
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Luna 2",
+                    "Chandrayaan-3"
                   ],
-                  "answer": "b) Apollo 11",
+                  "answer": "Apollo 11",
                   "explanation": "Apollo 11, in 1969, was the first mission to land humans on the Moon, with astronauts Neil Armstrong and Buzz Aldrin."
                 },
                 {
                   "question": "What is the primary goal of testing technology on the Moon?",
                   "options": [
-                    "a) To find Moon-based lifeforms",
-                    "b) To test equipment for future space missions, like Mars exploration",
-                    "c) To create a Moon colony",
-                    "d) To produce energy from the Moon"
+                    "To find Moon-based lifeforms",
+                    "To test equipment for future space missions, like Mars exploration",
+                    "To create a Moon colony",
+                    "To produce energy from the Moon"
                   ],
-                  "answer": "b) To test equipment for future space missions, like Mars exploration",
+                  "answer": "To test equipment for future space missions, like Mars exploration",
                   "explanation": "Testing technology on the Moon helps space agencies assess equipment that will be used in more distant missions, like Mars exploration."
                 },
                 {
                   "question": "What do astronauts need to survive on the Moon?",
                   "options": [
-                    "a) A Moon-made atmosphere",
-                    "b) A protective spacesuit and oxygen supply",
-                    "c) Fresh water from Moon rivers",
-                    "d) A magnetic shield to protect against radiation"
+                    "A Moon-made atmosphere",
+                    "A protective spacesuit and oxygen supply",
+                    "Fresh water from Moon rivers",
+                    "A magnetic shield to protect against radiation"
                   ],
-                  "answer": "b) A protective spacesuit and oxygen supply",
+                  "answer": "A protective spacesuit and oxygen supply",
                   "explanation": "Astronauts need a spacesuit for protection from extreme temperatures, lack of atmosphere, and radiation, along with an oxygen supply."
                 },
                 {
                   "question": "Why is the Moon important for Earth?",
                   "options": [
-                    "a) It causes earthquakes",
-                    "b) It helps stabilize Earth's rotation",
-                    "c) It changes the Earth's weather patterns",
-                    "d) It provides Earth with light during the day"
+                    "It causes earthquakes",
+                    "It helps stabilize Earth's rotation",
+                    "It changes the Earth's weather patterns",
+                    "It provides Earth with light during the day"
                   ],
-                  "answer": "b) It helps stabilize Earth's rotation",
+                  "answer": "It helps stabilize Earth's rotation",
                   "explanation": "The Moon helps stabilize Earth's rotation and tilt, contributing to the stability of our planet's climate over long periods."
                 },
                 {
                   "question": "What mission is planned to send humans back to the Moon by 2025?",
                   "options": [
-                    "a) Apollo 11",
-                    "b) Luna 2",
-                    "c) Artemis Program",
-                    "d) Chandrayaan-4"
+                    "Apollo 11",
+                    "Luna 2",
+                    "Artemis Program",
+                    "Chandrayaan-4"
                   ],
-                  "answer": "c) Artemis Program",
+                  "answer": "Artemis Program",
                   "explanation": "The Artemis Program, led by NASA, plans to send humans back to the Moon, aiming for a 2025 mission and beyond."
                 },
                 {
                   "question": "Which mission successfully landed near the Moon's south pole?",
                   "options": [
-                    "a) Apollo 11",
-                    "b) Chandrayaan-1",
-                    "c) Chandrayaan-3",
-                    "d) Luna 9"
+                    "Apollo 11",
+                    "Chandrayaan-1",
+                    "Chandrayaan-3",
+                    "Luna 9"
                   ],
-                  "answer": "c) Chandrayaan-3",
+                  "answer": "Chandrayaan-3",
                   "explanation": "Chandrayaan-3, launched by India, successfully landed near the Moon's south pole in 2023, marking a major milestone in lunar exploration."
                 },
                 {
                   "question": "Which country is planning to send more advanced Moon missions in the future?",
                   "options": [
-                    "a) USA",
-                    "b) Russia",
-                    "c) India",
-                    "d) China"
+                    "USA",
+                    "Russia",
+                    "India",
+                    "China"
                   ],
-                  "answer": "c) India",
+                  "answer": "India",
                   "explanation": "India is planning advanced lunar missions as part of its growing space exploration ambitions, including Chandrayaan-4 and beyond."
                 },
                 {
                   "question": "Which mission was the first to reach the Moon in 1959?",
                   "options": [
-                    "a) Apollo 11",
-                    "b) Chandrayaan-1",
-                    "c) Luna 2",
-                    "d) Luna 9"
+                    "Apollo 11",
+                    "Chandrayaan-1",
+                    "Luna 2",
+                    "Luna 9"
                   ],
-                  "answer": "c) Luna 2",
+                  "answer": "Luna 2",
                   "explanation": "Luna 2, launched by the Soviet Union in 1959, was the first spacecraft to reach the Moon and crash-land on its surface."
                 },
                 {
                   "question": "What is the future of Moon exploration expected to include?",
                   "options": [
-                    "a) Moon tourism",
-                    "b) Establishing a Moon colony",
-                    "c) Discovering new life forms",
-                    "d) Mining the Moon for gold"
+                    "Moon tourism",
+                    "Establishing a Moon colony",
+                    "Discovering new life forms",
+                    "Mining the Moon for gold"
                   ],
-                  "answer": "b) Establishing a Moon colony",
+                  "answer": "Establishing a Moon colony",
                   "explanation": "Future Moon exploration may include establishing a permanent colony, enabling long-term scientific research and resource utilization."
                 }
               ]
@@ -13963,111 +13973,111 @@
                 {
                   "question": "Which space agency conducted the Apollo 11 mission?",
                   "options": [
-                    "a) ISRO",
-                    "b) NASA",
-                    "c) Roscosmos",
-                    "d) ESA"
+                    "ISRO",
+                    "NASA",
+                    "Roscosmos",
+                    "ESA"
                   ],
-                  "answer": "b) NASA",
+                  "answer": "NASA",
                   "explanation": "NASA, the United States space agency, conducted the Apollo 11 mission, which achieved the first human landing on the Moon in 1969."
                 },
                 {
                   "question": "Which company plans to send humans to the Moon for tourism?",
                   "options": [
-                    "a) NASA",
-                    "b) SpaceX",
-                    "c) Blue Origin",
-                    "d) Virgin Galactic"
+                    "NASA",
+                    "SpaceX",
+                    "Blue Origin",
+                    "Virgin Galactic"
                   ],
-                  "answer": "b) SpaceX",
+                  "answer": "SpaceX",
                   "explanation": "SpaceX, founded by Elon Musk, is working on plans to send humans to the Moon for space tourism, aiming for missions in the future."
                 },
                 {
                   "question": "What significant event did Apollo 11 accomplish in 1969?",
                   "options": [
-                    "a) First Moon rover launch",
-                    "b) First human landing on the Moon",
-                    "c) First soft landing on the Moon",
-                    "d) First mission to orbit the Moon"
+                    "First Moon rover launch",
+                    "First human landing on the Moon",
+                    "First soft landing on the Moon",
+                    "First mission to orbit the Moon"
                   ],
-                  "answer": "b) First human landing on the Moon",
+                  "answer": "First human landing on the Moon",
                   "explanation": "Apollo 11 was the first mission to successfully land humans on the Moon, with astronauts Neil Armstrong and Buzz Aldrin."
                 },
                 {
                   "question": "What was the main goal of the Chandrayaan-2 mission?",
                   "options": [
-                    "a) To land humans on the Moon",
-                    "b) To send an orbiter and lander to explore the Moon",
-                    "c) To establish a Moon base",
-                    "d) To explore the surface of Mars"
+                    "To land humans on the Moon",
+                    "To send an orbiter and lander to explore the Moon",
+                    "To establish a Moon base",
+                    "To explore the surface of Mars"
                   ],
-                  "answer": "b) To send an orbiter and lander to explore the Moon",
+                  "answer": "To send an orbiter and lander to explore the Moon",
                   "explanation": "The Chandrayaan-2 mission, launched by India, aimed to send an orbiter and lander to explore the Moon, including searching for water and mapping the surface."
                 },
                 {
                   "question": "What happens to spacecraft on the Moon without an atmosphere?",
                   "options": [
-                    "a) They land safely with no resistance",
-                    "b) They burn up during entry",
-                    "c) They cannot land properly without a parachute",
-                    "d) They freeze instantly"
+                    "They land safely with no resistance",
+                    "They burn up during entry",
+                    "They cannot land properly without a parachute",
+                    "They freeze instantly"
                   ],
-                  "answer": "c) They cannot land properly without a parachute",
+                  "answer": "They cannot land properly without a parachute",
                   "explanation": "Due to the lack of atmosphere on the Moon, spacecraft cannot rely on parachutes and need other methods, such as controlled descent, to land safely."
                 },
                 {
                   "question": "What is one of the long-term goals of Moon missions?",
                   "options": [
-                    "a) To find new planets for humans to live on",
-                    "b) To create a space station on the Moon",
-                    "c) To use the Moon’s resources for building a Mars base",
-                    "d) To explore the deep sea on Earth"
+                    "To find new planets for humans to live on",
+                    "To create a space station on the Moon",
+                    "To use the Moon’s resources for building a Mars base",
+                    "To explore the deep sea on Earth"
                   ],
-                  "answer": "c) To use the Moon’s resources for building a Mars base",
+                  "answer": "To use the Moon’s resources for building a Mars base",
                   "explanation": "One long-term goal of Moon missions is to use its resources, such as water and minerals, to support human missions to Mars."
                 },
                 {
                   "question": "What key feature is unique about the Moon’s environment?",
                   "options": [
-                    "a) No atmosphere",
-                    "b) Constant rain",
-                    "c) A dense fog",
-                    "d) An ocean of water"
+                    "No atmosphere",
+                    "Constant rain",
+                    "A dense fog",
+                    "An ocean of water"
                   ],
-                  "answer": "a) No atmosphere",
+                  "answer": "No atmosphere",
                   "explanation": "The Moon has no atmosphere, which results in extreme temperature changes, no weather, and no air to breathe."
                 },
                 {
                   "question": "Which country was involved in the Luna 9 mission, which made the first soft landing on the Moon?",
                   "options": [
-                    "a) USA",
-                    "b) Soviet Union",
-                    "c) India",
-                    "d) China"
+                    "USA",
+                    "Soviet Union",
+                    "India",
+                    "China"
                   ],
-                  "answer": "b) Soviet Union",
+                  "answer": "Soviet Union",
                   "explanation": "The Luna 9 mission, launched by the Soviet Union in 1966, was the first mission to achieve a soft landing on the Moon and transmit images back to Earth."
                 },
                 {
                   "question": "What did the Chandrayaan-1 mission map on the Moon’s surface?",
                   "options": [
-                    "a) Volcanoes",
-                    "b) Water molecules",
-                    "c) Craters",
-                    "d) Rocks and minerals"
+                    "Volcanoes",
+                    "Water molecules",
+                    "Craters",
+                    "Rocks and minerals"
                   ],
-                  "answer": "b) Water molecules",
+                  "answer": "Water molecules",
                   "explanation": "Chandrayaan-1, India's first lunar mission, helped discover water molecules on the Moon's surface in 2008."
                 },
                 {
                   "question": "Which Moon mission’s orbiter is still sending valuable data back to Earth?",
                   "options": [
-                    "a) Chandrayaan-3",
-                    "b) Apollo 11",
-                    "c) Chandrayaan-2",
-                    "d) Luna 2"
+                    "Chandrayaan-3",
+                    "Apollo 11",
+                    "Chandrayaan-2",
+                    "Luna 2"
                   ],
-                  "answer": "c) Chandrayaan-2",
+                  "answer": "Chandrayaan-2",
                   "explanation": "Chandrayaan-2's orbiter, launched by India in 2019, is still sending valuable data about the Moon’s surface and composition back to Earth."
                 }
               ]
@@ -14078,107 +14088,118 @@
                 {
                   "question": "Why is the Moon important for Earth’s tides?",
                   "options": [
-                    "a) It has a strong magnetic field",
-                    "b) It creates wind patterns",
-                    "c) Its gravitational pull affects Earth’s tides",
-                    "d) It causes the Earth to spin faster"
+                    "It has a strong magnetic field",
+                    "It creates wind patterns",
+                    "Its gravitational pull affects Earth’s tides",
+                    "It causes the Earth to spin faster"
                   ],
-                  "answer": "c) Its gravitational pull affects Earth’s tides",
+                  "answer": "Its gravitational pull affects Earth’s tides",
                   "explanation": "The Moon’s gravitational pull affects Earth’s oceans, causing tides to rise and fall in a regular pattern."
+                },
+                {
+                  "question": "Why does the Moon have so many craters?",
+                  "options": [
+                    "Because of constant volcanic eruptions",
+                    "Due to the impact of asteroids and comets",
+                    "Because of high winds eroding the surface",
+                    "Due to water erosion over millions of years"
+                  ],
+                  "answer": "Due to the impact of asteroids and comets",
+                  "explanation": "The Moon has no atmosphere to protect it from asteroid and comet impacts, which have created numerous craters over billions of years."
                 },
                 {
                   "question": "Which mission was launched by the Soviet Union and reached the Moon in 1959?",
                   "options": [
-                    "a) Apollo 11",
-                    "b) Luna 2",
-                    "c) Chandrayaan-2",
-                    "a) USA",
-                    "b) India",
-                    "c) Soviet Union",
-                    "d) China"
+                    "Apollo 11",
+                    "Luna 2",
+                    "Chandrayaan-2",
+                    "USA",
+                    "India",
+                    "Soviet Union",
+                    "China"
                   ],
-                  "answer": "b) Luna 2",
+                  "answer": "Luna 2",
                   "explanation": "Luna 2 was the first spacecraft to reach the Moon, launched by the Soviet Union in 1959."
                 },
                 {
                   "question": "What is the primary objective of the Artemis Program?",
                   "options": [
-                    "a) To mine resources on the Moon",
-                    "b) To send humans to Mars",
-                    "c) To land humans on the Moon again",
-                    "d) To establish a permanent Moon colony"
+                    "To mine resources on the Moon",
+                    "To send humans to Mars",
+                    "To land humans on the Moon again",
+                    "To establish a permanent Moon colony"
                   ],
-                  "answer": "c) To land humans on the Moon again",
+                  "answer": "To land humans on the Moon again",
                   "explanation": "The Artemis Program is designed to return humans to the Moon and explore its surface, with a goal to establish a sustainable presence."
                 },
                 {
                   "question": "What type of data does a rover collect on the Moon?",
                   "options": [
-                    "a) Visual images and soil analysis",
-                    "b) Radiation levels",
-                    "c) Atmospheric pressure",
-                    "d) Sound recordings"
+                    "Visual images and soil analysis",
+                    "Radiation levels",
+                    "Atmospheric pressure",
+                    "Sound recordings"
                   ],
-                  "answer": "a) Visual images and soil analysis",
+                  "answer": "Visual images and soil analysis",
                   "explanation": "Rovers on the Moon collect visual images and analyze lunar soil to learn more about the Moon's surface and history."
                 },
                 {
                   "question": "Which mission was the first to successfully orbit and map the Moon?",
                   "options": [
-                    "a) Chandrayaan-1",
-                    "b) Apollo 11",
-                    "c) Luna 9",
-                    "d) Chandrayaan-2"
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Luna 9",
+                    "Chandrayaan-2"
                   ],
-                  "answer": "a) Chandrayaan-1",
+                  "answer": "Chandrayaan-1",
                   "explanation": "Chandrayaan-1, launched by India in 2008, was the first mission to successfully orbit and map the Moon's surface."
                 },
                 {
                   "question": "What happens to the temperature on the Moon’s surface during the day?",
                   "options": [
-                    "a) It stays constant",
-                    "b) It increases to around 127°C",
-                    "c) It drops below freezing",
-                    "d) It fluctuates wildly between -10°C and 25°C"
+                    "It stays constant",
+                    "It increases to around 127°C",
+                    "It drops below freezing",
+                    "It fluctuates wildly between -10°C and 25°C"
                   ],
-                  "answer": "b) It increases to around 127°C",
+                  "answer": "It increases to around 127°C",
                   "explanation": "The Moon’s surface temperature can rise up to 127°C during the day due to the lack of atmosphere to regulate temperature."
                 },
                 {
                   "question": "What is the main challenge for human missions on the Moon?",
                   "options": [
-                    "a) Lack of food",
-                    "b) High radiation levels",
-                    "c) Lack of sunlight",
-                    "d) The Moon’s high gravity"
+                    "Lack of food",
+                    "High radiation levels",
+                    "Lack of sunlight",
+                    "The Moon’s high gravity"
                   ],
-                  "answer": "b) High radiation levels",
+                  "answer": "High radiation levels",
                   "explanation": "The absence of an atmosphere on the Moon means there is no protection from harmful radiation, which is a major challenge for human missions."
                 },
                 {
                   "question": "What is the main goal of the Chandrayaan-3 mission?",
                   "options": [
-                    "a) To orbit the Moon and send back data",
-                    "b) To explore the Moon’s south pole",
-                    "c) To send humans to the Moon",
-                    "d) To search for water on the Moon"
+                    "To orbit the Moon and send back data",
+                    "To explore the Moon’s south pole",
+                    "To send humans to the Moon",
+                    "To search for water on the Moon"
                   ],
-                  "answer": "b) To explore the Moon’s south pole",
+                  "answer": "To explore the Moon’s south pole",
                   "explanation": "The Chandrayaan-3 mission aims to land a rover on the Moon’s south pole to explore its surface and search for water ice."
                 },
                 {
                   "question": "Which Moon mission was designed to study lunar soil and rocks?",
                   "options": [
-                    "a) Chandrayaan-1",
-                    "b) Apollo 11",
-                    "c) Chandrayaan-2",
-                    "d) Luna 9"
+                    "Chandrayaan-1",
+                    "Apollo 11",
+                    "Chandrayaan-2",
+                    "Luna 9"
                   ],
-                  "answer": "b) Apollo 11",
+                  "answer": "Apollo 11",
                   "explanation": "Apollo 11, the first human mission to the Moon, collected soil and rock samples from the lunar surface for scientific analysis."
                 }
               ]
-            }         
+            }
           ]
         },
         {
@@ -14213,111 +14234,111 @@
                 {
                   "question": "What is the fourth planet from the Sun?",
                   "options": [
-                    "a) Earth",
-                    "b) Mars",
-                    "c) Venus",
-                    "d) Jupiter"
+                    "Earth",
+                    "Mars",
+                    "Venus",
+                    "Jupiter"
                   ],
-                  "answer": "b) Mars",
+                  "answer": "Mars",
                   "explanation": "Mars is the fourth planet from the Sun in our Solar System."
                 },
                 {
                   "question": "What gives Mars its reddish color?",
                   "options": [
-                    "a) Sandstorms",
-                    "b) Iron oxide (rust) on its surface",
-                    "c) The reflection of the Sun",
-                    "d) Its atmosphere"
+                    "Sandstorms",
+                    "Iron oxide (rust) on its surface",
+                    "The reflection of the Sun",
+                    "Its atmosphere"
                   ],
-                  "answer": "b) Iron oxide (rust) on its surface",
+                  "answer": "Iron oxide (rust) on its surface",
                   "explanation": "Mars is known as the 'Red Planet' because of the iron oxide (rust) present on its surface."
                 },
                 {
                   "question": "Why is Mars often referred to as the 'Red Planet'?",
                   "options": [
-                    "a) Because of its iron oxide surface",
-                    "b) Due to its red atmosphere",
-                    "c) Because it has red sand dunes",
-                    "d) Because it is closer to the Sun"
+                    "Because of its iron oxide surface",
+                    "Due to its red atmosphere",
+                    "Because it has red sand dunes",
+                    "Because it is closer to the Sun"
                   ],
-                  "answer": "a) Because of its iron oxide surface",
+                  "answer": "Because of its iron oxide surface",
                   "explanation": "Mars gets its reddish color from the iron oxide, or rust, found on its surface."
                 },
                 {
                   "question": "What does exploring Mars help us understand?",
                   "options": [
-                    "a) The Earth’s atmosphere",
-                    "b) How stars are born",
-                    "c) The possibility of life on other planets",
-                    "d) How the Sun evolves"
+                    "The Earth’s atmosphere",
+                    "How stars are born",
+                    "The possibility of life on other planets",
+                    "How the Sun evolves"
                   ],
-                  "answer": "c) The possibility of life on other planets",
+                  "answer": "The possibility of life on other planets",
                   "explanation": "Exploring Mars helps us understand the possibility of life on other planets, how planets evolve, and the potential for humans to live on Mars."
                 },
                 {
                   "question": "What are Mars Missions?",
                   "options": [
-                    "a) Missions to study the Sun",
-                    "b) Missions that send rovers, orbiters, and landers to Mars to collect data",
-                    "c) Missions to discover new galaxies",
-                    "d) Missions to study the Moon"
+                    "Missions to study the Sun",
+                    "Missions that send rovers, orbiters, and landers to Mars to collect data",
+                    "Missions to discover new galaxies",
+                    "Missions to study the Moon"
                   ],
-                  "answer": "b) Missions that send rovers, orbiters, and landers to Mars to collect data",
+                  "answer": "Missions that send rovers, orbiters, and landers to Mars to collect data",
                   "explanation": "Mars missions are led by space agencies like NASA, ISRO, and ESA, and they involve sending rovers, orbiters, and landers to study Mars."
                 },
                 {
                   "question": "Which of the following is an example of a Mars Orbiter?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mars Reconnaissance Orbiter",
-                    "c) Viking Landers",
-                    "d) Mangalyaan"
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter",
+                    "Viking Landers",
+                    "Mangalyaan"
                   ],
-                  "answer": "b) Mars Reconnaissance Orbiter",
+                  "answer": "Mars Reconnaissance Orbiter",
                   "explanation": "The Mars Reconnaissance Orbiter is an example of a Mars Orbiter, which orbits Mars and sends detailed information back to Earth."
                 },
                 {
                   "question": "Which mission made India the first country to reach Mars on its first try?",
                   "options": [
-                    "a) Mars Orbiter Mission (Mangalyaan)",
-                    "b) Viking Landers",
-                    "c) Curiosity Rover",
-                    "d) Mars Reconnaissance Orbiter"
+                    "Mars Orbiter Mission (Mangalyaan)",
+                    "Viking Landers",
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter"
                   ],
-                  "answer": "a) Mars Orbiter Mission (Mangalyaan)",
+                  "answer": "Mars Orbiter Mission (Mangalyaan)",
                   "explanation": "India’s Mars Orbiter Mission (Mangalyaan), launched in 2013, made India the first country to reach Mars on its first attempt."
                 },
                 {
                   "question": "What is the thin atmosphere of Mars mostly made of?",
                   "options": [
-                    "a) Oxygen",
-                    "b) Nitrogen",
-                    "c) Carbon dioxide",
-                    "d) Hydrogen"
+                    "Oxygen",
+                    "Nitrogen",
+                    "Carbon dioxide",
+                    "Hydrogen"
                   ],
-                  "answer": "c) Carbon dioxide",
+                  "answer": "Carbon dioxide",
                   "explanation": "Mars’ atmosphere is thin and primarily composed of carbon dioxide."
                 },
                 {
                   "question": "What is one of the major challenges in landing on Mars?",
                   "options": [
-                    "a) Lack of gravity",
-                    "b) Distance from the Sun",
-                    "c) The thin atmosphere",
-                    "d) Presence of water"
+                    "Lack of gravity",
+                    "Distance from the Sun",
+                    "The thin atmosphere",
+                    "Presence of water"
                   ],
-                  "answer": "c) The thin atmosphere",
+                  "answer": "The thin atmosphere",
                   "explanation": "One of the challenges in landing on Mars is its thin atmosphere, which makes landing tricky."
                 },
                 {
                   "question": "What type of Mars mission is the Curiosity Rover?",
                   "options": [
-                    "a) Orbiter",
-                    "b) Lander",
-                    "c) Rover",
-                    "d) Human Mission"
+                    "Orbiter",
+                    "Lander",
+                    "Rover",
+                    "Human Mission"
                   ],
-                  "answer": "c) Rover",
+                  "answer": "Rover",
                   "explanation": "The Curiosity Rover is a robotic vehicle that explores the surface of Mars, studies rocks, and searches for water."
                 }
               ]
@@ -14328,111 +14349,111 @@
                 {
                   "question": "Which agency's Mars mission is called 'Mangalyaan'?",
                   "options": [
-                    "a) NASA",
-                    "b) ESA",
-                    "c) ISRO",
-                    "d) SpaceX"
+                    "NASA",
+                    "ESA",
+                    "ISRO",
+                    "SpaceX"
                   ],
-                  "answer": "c) ISRO",
+                  "answer": "ISRO",
                   "explanation": "'Mangalyaan' is the Mars Orbiter Mission by India’s ISRO."
                 },
                 {
                   "question": "What is one of the key discoveries from Mars missions?",
                   "options": [
-                    "a) Frozen water and ancient rivers",
-                    "b) The Sun’s magnetic field",
-                    "c) Evidence of life on Venus",
-                    "d) New types of rocks on Earth"
+                    "Frozen water and ancient rivers",
+                    "The Sun’s magnetic field",
+                    "Evidence of life on Venus",
+                    "New types of rocks on Earth"
                   ],
-                  "answer": "a) Frozen water and ancient rivers",
+                  "answer": "Frozen water and ancient rivers",
                   "explanation": "Mars missions have discovered frozen water and evidence of ancient rivers, suggesting water once flowed on the planet."
                 },
                 {
                   "question": "What is one of the extreme challenges faced during Mars missions?",
                   "options": [
-                    "a) Dust storms",
-                    "b) The strong gravity",
-                    "c) High oxygen levels",
-                    "d) The presence of a magnetic field"
+                    "Dust storms",
+                    "The strong gravity",
+                    "High oxygen levels",
+                    "The presence of a magnetic field"
                   ],
-                  "answer": "a) Dust storms",
+                  "answer": "Dust storms",
                   "explanation": "Mars missions face harsh environments, including extreme temperatures and dust storms."
                 },
                 {
                   "question": "Which of these missions is an example of a Mars Lander?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mars Reconnaissance Orbiter",
-                    "c) Viking Landers",
-                    "d) Mars Orbiter Mission (Mangalyaan)"
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter",
+                    "Viking Landers",
+                    "Mars Orbiter Mission (Mangalyaan)"
                   ],
-                  "answer": "c) Viking Landers",
+                  "answer": "Viking Landers",
                   "explanation": "The Viking Landers were spacecraft that landed on Mars to study the planet’s geology and climate."
                 },
                 {
                   "question": "What are the potential benefits of exploring Mars?",
                   "options": [
-                    "a) Understanding the possibility of life on other planets",
-                    "b) Exploring the Sun’s surface",
-                    "c) Studying new elements on Earth",
-                    "d) Discovering new species on Earth"
+                    "Understanding the possibility of life on other planets",
+                    "Exploring the Sun’s surface",
+                    "Studying new elements on Earth",
+                    "Discovering new species on Earth"
                   ],
-                  "answer": "a) Understanding the possibility of life on other planets",
+                  "answer": "Understanding the possibility of life on other planets",
                   "explanation": "Exploring Mars helps us understand the possibility of life on other planets, as well as how planets evolve."
                 },
                 {
                   "question": "What type of Mars mission is the Curiosity Rover?",
                   "options": [
-                    "a) Orbiter",
-                    "b) Lander",
-                    "c) Rover",
-                    "d) Human Mission"
+                    "Orbiter",
+                    "Lander",
+                    "Rover",
+                    "Human Mission"
                   ],
-                  "answer": "c) Rover",
+                  "answer": "Rover",
                   "explanation": "The Curiosity Rover is a robotic vehicle that explores the surface of Mars, studying rocks and searching for water."
                 },
                 {
                   "question": "What does ISRO plan to do in future Mars missions?",
                   "options": [
-                    "a) Send astronauts to Mars",
-                    "b) Study Mars’ rings",
-                    "c) Send advanced missions like Mangalyaan 2",
-                    "d) Set up a Mars base"
+                    "Send astronauts to Mars",
+                    "Study Mars’ rings",
+                    "Send advanced missions like Mangalyaan 2",
+                    "Set up a Mars base"
                   ],
-                  "answer": "c) Send advanced missions like Mangalyaan 2",
+                  "answer": "Send advanced missions like Mangalyaan 2",
                   "explanation": "ISRO plans to send advanced missions like Mangalyaan 2 for further research on Mars’ atmosphere."
                 },
                 {
                   "question": "How far away is Mars from Earth?",
                   "options": [
-                    "a) 100 million km",
-                    "b) 225 million km",
-                    "c) 500 million km",
-                    "d) 384,400 km"
+                    "100 million km",
+                    "225 million km",
+                    "500 million km",
+                    "384,400 km"
                   ],
-                  "answer": "b) 225 million km",
+                  "answer": "225 million km",
                   "explanation": "Mars is 225 million kilometers away from Earth."
                 },
                 {
                   "question": "Which space agency aims to send humans to Mars?",
                   "options": [
-                    "a) NASA",
-                    "b) ISRO",
-                    "c) ESA",
-                    "d) All of the above"
+                    "NASA",
+                    "ISRO",
+                    "ESA",
+                    "All of the above"
                   ],
-                  "answer": "a) NASA",
+                  "answer": "NASA",
                   "explanation": "NASA plans to send humans to Mars, with missions expected in the future."
                 },
                 {
                   "question": "What is the goal of SpaceX's Mars missions?",
                   "options": [
-                    "a) To mine Mars for resources",
-                    "b) To send humans to Mars for tourism",
-                    "c) To study Mars’ atmosphere",
-                    "d) To create a Mars space station"
+                    "To mine Mars for resources",
+                    "To send humans to Mars for tourism",
+                    "To study Mars’ atmosphere",
+                    "To create a Mars space station"
                   ],
-                  "answer": "b) To send humans to Mars for tourism",
+                  "answer": "To send humans to Mars for tourism",
                   "explanation": "SpaceX aims to send humans to Mars for tourism as part of their Mars exploration plans."
                 }
               ]
@@ -14443,111 +14464,111 @@
                 {
                   "question": "What is Mars often referred to as?",
                   "options": [
-                    "a) The Blue Planet",
-                    "b) The Red Planet",
-                    "c) The Green Planet",
-                    "d) The Moon"
+                    "The Blue Planet",
+                    "The Red Planet",
+                    "The Green Planet",
+                    "The Moon"
                   ],
-                  "answer": "b) The Red Planet",
+                  "answer": "The Red Planet",
                   "explanation": "Mars is known as the 'Red Planet' due to its reddish color caused by iron oxide (rust) on its surface."
                 },
                 {
                   "question": "Which of these is an example of a Mars Orbiter mission?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mars Reconnaissance Orbiter",
-                    "c) Viking Landers",
-                    "d) Apollo Missions"
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter",
+                    "Viking Landers",
+                    "Apollo Missions"
                   ],
-                  "answer": "b) Mars Reconnaissance Orbiter",
+                  "answer": "Mars Reconnaissance Orbiter",
                   "explanation": "The Mars Reconnaissance Orbiter is an example of a Mars Orbiter mission, which orbits Mars and sends back detailed information."
                 },
                 {
                   "question": "What is one of the main reasons why scientists are interested in Mars?",
                   "options": [
-                    "a) It is the closest planet to the Sun.",
-                    "b) It might have supported life in the past.",
-                    "c) It has a thick atmosphere.",
-                    "d) It has the strongest magnetic field in the Solar System."
+                    "It is the closest planet to the Sun.",
+                    "It might have supported life in the past.",
+                    "It has a thick atmosphere.",
+                    "It has the strongest magnetic field in the Solar System."
                   ],
-                  "answer": "b) It might have supported life in the past.",
+                  "answer": "It might have supported life in the past.",
                   "explanation": "Mars is the closest planet that could have supported life in the past, which is why it has attracted scientific interest for exploration."
                 },
                 {
                   "question": "Which of these missions was the first to reach Mars?",
                   "options": [
-                    "a) Viking Mission",
-                    "b) Mangalyaan",
-                    "c) Mars Reconnaissance Orbiter",
-                    "d) Apollo 11"
+                    "Viking Mission",
+                    "Mangalyaan",
+                    "Mars Reconnaissance Orbiter",
+                    "Apollo 11"
                   ],
-                  "answer": "b) Mangalyaan",
+                  "answer": "Mangalyaan",
                   "explanation": "The Mars Orbiter Mission (Mangalyaan) made India the first country to reach Mars on its first attempt in 2013."
                 },
                 {
                   "question": "Which planet is located directly after Mars in the Solar System?",
                   "options": [
-                    "a) Earth",
-                    "b) Jupiter",
-                    "c) Venus",
-                    "d) Jupiter"
+                    "Earth",
+                    "Jupiter",
+                    "Venus",
+                    "Jupiter"
                   ],
-                  "answer": "a) Earth",
+                  "answer": "Earth",
                   "explanation": "Mars is the fourth planet from the Sun, and Earth is the third."
                 },
                 {
                   "question": "Which of the following describes Mars’ atmosphere?",
                   "options": [
-                    "a) It is dense and mostly nitrogen.",
-                    "b) It is thick and mostly oxygen.",
-                    "c) It is thin and mostly carbon dioxide.",
-                    "d) It is thick and mostly water vapor."
+                    "It is dense and mostly nitrogen.",
+                    "It is thick and mostly oxygen.",
+                    "It is thin and mostly carbon dioxide.",
+                    "It is thick and mostly water vapor."
                   ],
-                  "answer": "c) It is thin and mostly carbon dioxide.",
+                  "answer": "It is thin and mostly carbon dioxide.",
                   "explanation": "Mars has a thin atmosphere, which is mostly composed of carbon dioxide."
                 },
                 {
                   "question": "What kind of surface features does Mars have?",
                   "options": [
-                    "a) Oceans and mountains",
-                    "b) Ice sheets and lakes",
-                    "c) Craters and volcanic rocks",
-                    "d) Forests and deserts"
+                    "Oceans and mountains",
+                    "Ice sheets and lakes",
+                    "Craters and volcanic rocks",
+                    "Forests and deserts"
                   ],
-                  "answer": "c) Craters and volcanic rocks",
+                  "answer": "Craters and volcanic rocks",
                   "explanation": "Mars has craters and volcanic rocks on its surface, which have been shaped by past geological activity."
                 },
                 {
                   "question": "Which type of Mars mission involves sending spacecraft to land and study the surface?",
                   "options": [
-                    "a) Orbiter Mission",
-                    "b) Lander Mission",
-                    "c) Rover Mission",
-                    "d) Human Mission"
+                    "Orbiter Mission",
+                    "Lander Mission",
+                    "Rover Mission",
+                    "Human Mission"
                   ],
-                  "answer": "b) Lander Mission",
+                  "answer": "Lander Mission",
                   "explanation": "Lander missions involve spacecraft that land on Mars and study its surface, climate, and geology."
                 },
                 {
                   "question": "What major feature of Mars makes landing missions challenging?",
                   "options": [
-                    "a) The planet's strong gravitational pull",
-                    "b) Mars’ dense atmosphere",
-                    "c) The absence of a magnetic field",
-                    "d) The high level of oxygen in the air"
+                    "The planet's strong gravitational pull",
+                    "Mars’ dense atmosphere",
+                    "The absence of a magnetic field",
+                    "The high level of oxygen in the air"
                   ],
-                  "answer": "c) The absence of a magnetic field",
+                  "answer": "The absence of a magnetic field",
                   "explanation": "Mars lacks a magnetic field, which makes landing more difficult because it cannot protect spacecraft from harmful space radiation."
                 },
                 {
                   "question": "What will SpaceX’s future Mars missions focus on?",
                   "options": [
-                    "a) Searching for microbial life",
-                    "b) Setting up a Mars base for human colonization",
-                    "c) Sending robotic rovers",
-                    "d) Studying Mars' magnetic field"
+                    "Searching for microbial life",
+                    "Setting up a Mars base for human colonization",
+                    "Sending robotic rovers",
+                    "Studying Mars' magnetic field"
                   ],
-                  "answer": "b) Setting up a Mars base for human colonization",
+                  "answer": "Setting up a Mars base for human colonization",
                   "explanation": "SpaceX aims to set up a Mars base for human colonization, as part of its vision to support life on Mars in the future."
                 }
               ]
@@ -14558,111 +14579,111 @@
                 {
                   "question": "What was one of the major discoveries from Mars missions?",
                   "options": [
-                    "a) Evidence of life forms",
-                    "b) Frozen water and ancient rivers",
-                    "c) A dense atmosphere",
-                    "d) Active volcanoes"
+                    "Evidence of life forms",
+                    "Frozen water and ancient rivers",
+                    "A dense atmosphere",
+                    "Active volcanoes"
                   ],
-                  "answer": "b) Frozen water and ancient rivers",
+                  "answer": "Frozen water and ancient rivers",
                   "explanation": "Mars missions have found evidence of frozen water and ancient rivers, suggesting Mars may have supported life in the past."
                 },
                 {
                   "question": "Which of the following describes the environment on Mars?",
                   "options": [
-                    "a) Warm and humid",
-                    "b) Cold and dust storms are frequent",
-                    "c) Mild temperatures and frequent rain",
-                    "d) Extremely hot and no wind"
+                    "Warm and humid",
+                    "Cold and dust storms are frequent",
+                    "Mild temperatures and frequent rain",
+                    "Extremely hot and no wind"
                   ],
-                  "answer": "b) Cold and dust storms are frequent",
+                  "answer": "Cold and dust storms are frequent",
                   "explanation": "Mars has extreme temperatures and frequent dust storms, which make exploration challenging."
                 },
                 {
                   "question": "Which country’s space agency launched the Mangalyaan mission?",
                   "options": [
-                    "a) USA",
-                    "b) Russia",
-                    "c) India",
-                    "d) China"
+                    "USA",
+                    "Russia",
+                    "India",
+                    "China"
                   ],
-                  "answer": "c) India",
+                  "answer": "India",
                   "explanation": "Mangalyaan, India’s Mars Orbiter Mission, was launched by the Indian Space Research Organisation (ISRO) in 2013."
                 },
                 {
                   "question": "Which of these Mars missions was a rover?",
                   "options": [
-                    "a) Mars Reconnaissance Orbiter",
-                    "b) Curiosity Rover",
-                    "c) Viking Landers",
-                    "d) Mangalyaan"
+                    "Mars Reconnaissance Orbiter",
+                    "Curiosity Rover",
+                    "Viking Landers",
+                    "Mangalyaan"
                   ],
-                  "answer": "b) Curiosity Rover",
+                  "answer": "Curiosity Rover",
                   "explanation": "Curiosity Rover is a robotic vehicle that explores the surface of Mars, studying rocks and searching for water."
                 },
                 {
                   "question": "Which organization plans to send humans to Mars in the near future?",
                   "options": [
-                    "a) NASA",
-                    "b) ISRO",
-                    "c) ESA",
-                    "d) All of the above"
+                    "NASA",
+                    "ISRO",
+                    "ESA",
+                    "All of the above"
                   ],
-                  "answer": "d) All of the above",
+                  "answer": "All of the above",
                   "explanation": "NASA, ISRO, and ESA are all planning missions that aim to send humans to Mars in the future."
                 },
                 {
                   "question": "What challenge do Mars missions face due to the planet’s distance from Earth?",
                   "options": [
-                    "a) Lack of technology to explore it",
-                    "b) The time it takes to communicate with Earth",
-                    "c) The absence of any interest in exploring it",
-                    "d) The intense heat on the surface"
+                    "Lack of technology to explore it",
+                    "The time it takes to communicate with Earth",
+                    "The absence of any interest in exploring it",
+                    "The intense heat on the surface"
                   ],
-                  "answer": "b) The time it takes to communicate with Earth",
+                  "answer": "The time it takes to communicate with Earth",
                   "explanation": "Mars is 225 million kilometers away, making communication and coordination difficult due to the time delay."
                 },
                 {
                   "question": "Which of these is a future goal for Mars missions?",
                   "options": [
-                    "a) Discover new types of plants",
-                    "b) Send humans to the Moon",
-                    "c) Set up a Mars base for human colonization",
-                    "d) Establish mining colonies on Mars"
+                    "Discover new types of plants",
+                    "Send humans to the Moon",
+                    "Set up a Mars base for human colonization",
+                    "Establish mining colonies on Mars"
                   ],
-                  "answer": "c) Set up a Mars base for human colonization",
+                  "answer": "Set up a Mars base for human colonization",
                   "explanation": "One of the key goals of future Mars missions is to establish a base on Mars to support human colonization."
                 },
                 {
                   "question": "What is the main focus of NASA’s Artemis program?",
                   "options": [
-                    "a) Explore the Sun",
-                    "b) Send humans to Mars",
-                    "c) Send humans back to the Moon",
-                    "d) Study asteroids"
+                    "Explore the Sun",
+                    "Send humans to Mars",
+                    "Send humans back to the Moon",
+                    "Study asteroids"
                   ],
-                  "answer": "c) Send humans back to the Moon",
+                  "answer": "Send humans back to the Moon",
                   "explanation": "The Artemis program aims to send humans back to the Moon by 2025 and establish a Moon base, which is part of the path to Mars exploration."
                 },
                 {
                   "question": "Which of the following is a characteristic of Mars’ atmosphere?",
                   "options": [
-                    "a) It is mostly nitrogen.",
-                    "b) It is thick and provides oxygen.",
-                    "c) It is mostly carbon dioxide and thin.",
-                    "d) It has a strong magnetic field."
+                    "It is mostly nitrogen.",
+                    "It is thick and provides oxygen.",
+                    "It is mostly carbon dioxide and thin.",
+                    "It has a strong magnetic field."
                   ],
-                  "answer": "c) It is mostly carbon dioxide and thin.",
+                  "answer": "It is mostly carbon dioxide and thin.",
                   "explanation": "Mars has a thin atmosphere mostly made up of carbon dioxide, which makes it difficult for humans to breathe there."
                 },
                 {
                   "question": "Which Mars mission was successful in finding signs of ancient rivers and water?",
                   "options": [
-                    "a) Viking Landers",
-                    "b) Mars Orbiter Mission",
-                    "c) Curiosity Rover",
-                    "d) Mars Reconnaissance Orbiter"
+                    "Viking Landers",
+                    "Mars Orbiter Mission",
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter"
                   ],
-                  "answer": "c) Curiosity Rover",
+                  "answer": "Curiosity Rover",
                   "explanation": "The Curiosity Rover found evidence of ancient rivers and water on Mars, contributing to the theory that Mars may have supported life in the past."
                 }
               ]
@@ -14673,111 +14694,111 @@
                 {
                   "question": "Which of the following Mars missions was launched in 2013?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mangalyaan",
-                    "c) Viking Landers",
-                    "d) Mars Reconnaissance Orbiter"
+                    "Curiosity Rover",
+                    "Mangalyaan",
+                    "Viking Landers",
+                    "Mars Reconnaissance Orbiter"
                   ],
-                  "answer": "b) Mangalyaan",
+                  "answer": "Mangalyaan",
                   "explanation": "Mangalyaan, also known as the Mars Orbiter Mission, was launched by India’s ISRO in 2013, making India the first country to reach Mars on its first attempt."
                 },
                 {
                   "question": "What is one of the key reasons why Mars missions are important?",
                   "options": [
-                    "a) To mine resources on Mars",
-                    "b) To understand the potential for human life on Mars",
-                    "c) To explore the Moon",
-                    "d) To establish a permanent base on the Moon"
+                    "To mine resources on Mars",
+                    "To understand the potential for human life on Mars",
+                    "To explore the Moon",
+                    "To establish a permanent base on the Moon"
                   ],
-                  "answer": "b) To understand the potential for human life on Mars",
+                  "answer": "To understand the potential for human life on Mars",
                   "explanation": "Mars missions help scientists explore the possibility of past life and the potential for humans to live on Mars in the future."
                 },
                 {
                   "question": "Which of the following is an example of a Mars orbiter mission?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mars Reconnaissance Orbiter",
-                    "c) Viking Landers",
-                    "d) Mangalyaan"
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter",
+                    "Viking Landers",
+                    "Mangalyaan"
                   ],
-                  "answer": "b) Mars Reconnaissance Orbiter",
+                  "answer": "Mars Reconnaissance Orbiter",
                   "explanation": "The Mars Reconnaissance Orbiter is an example of a Mars mission that orbits the planet, collecting data and sending images back to Earth."
                 },
                 {
                   "question": "Which of the following is a challenge faced by Mars missions due to the planet’s thin atmosphere?",
                   "options": [
-                    "a) Strong radiation",
-                    "b) Difficulty in landing spacecraft",
-                    "c) Difficulty in studying water",
-                    "d) High temperatures"
+                    "Strong radiation",
+                    "Difficulty in landing spacecraft",
+                    "Difficulty in studying water",
+                    "High temperatures"
                   ],
-                  "answer": "b) Difficulty in landing spacecraft",
+                  "answer": "Difficulty in landing spacecraft",
                   "explanation": "The thin atmosphere on Mars makes landing spacecraft challenging because there is less air to slow them down during descent."
                 },
                 {
                   "question": "What do Mars missions search for that could help prove the existence of life on Mars?",
                   "options": [
-                    "a) Water and organic molecules",
-                    "b) Soil and rocks",
-                    "c) Volcanic activity",
-                    "d) Strong winds"
+                    "Water and organic molecules",
+                    "Soil and rocks",
+                    "Volcanic activity",
+                    "Strong winds"
                   ],
-                  "answer": "a) Water and organic molecules",
+                  "answer": "Water and organic molecules",
                   "explanation": "Mars missions search for evidence of water and organic molecules, which are essential for life as we know it."
                 },
                 {
                   "question": "Which mission was the first to land humans on Mars?",
                   "options": [
-                    "a) Apollo 11",
-                    "b) Viking Landers",
-                    "c) No mission has landed humans on Mars yet.",
-                    "d) Mangalyaan"
+                    "Apollo 11",
+                    "Viking Landers",
+                    "No mission has landed humans on Mars yet.",
+                    "Mangalyaan"
                   ],
-                  "answer": "c) No mission has landed humans on Mars yet.",
+                  "answer": "No mission has landed humans on Mars yet.",
                   "explanation": "While there are plans for human missions to Mars, no mission has successfully landed humans on Mars yet."
                 },
                 {
                   "question": "What is one of the future goals of Mars missions?",
                   "options": [
-                    "a) To establish a space station on Mars",
-                    "b) To mine gold and resources from Mars",
-                    "c) To send humans to Mars and establish a colony",
-                    "d) To study the weather on Earth"
+                    "To establish a space station on Mars",
+                    "To mine gold and resources from Mars",
+                    "To send humans to Mars and establish a colony",
+                    "To study the weather on Earth"
                   ],
-                  "answer": "c) To send humans to Mars and establish a colony",
+                  "answer": "To send humans to Mars and establish a colony",
                   "explanation": "Future Mars missions aim to send humans to Mars and possibly establish a permanent colony."
                 },
                 {
                   "question": "What is the key component of Mars’ atmosphere?",
                   "options": [
-                    "a) Oxygen",
-                    "b) Nitrogen",
-                    "c) Carbon dioxide",
-                    "d) Water vapor"
+                    "Oxygen",
+                    "Nitrogen",
+                    "Carbon dioxide",
+                    "Water vapor"
                   ],
-                  "answer": "c) Carbon dioxide",
+                  "answer": "Carbon dioxide",
                   "explanation": "Mars’ atmosphere is mostly composed of carbon dioxide, making it unsuitable for human life without specialized equipment."
                 },
                 {
                   "question": "Which space agency was behind the first successful Mars landing with a human crew?",
                   "options": [
-                    "a) ESA",
-                    "b) NASA",
-                    "c) ISRO",
-                    "d) Soviet Union"
+                    "ESA",
+                    "NASA",
+                    "ISRO",
+                    "Soviet Union"
                   ],
-                  "answer": "b) NASA",
+                  "answer": "NASA",
                   "explanation": "NASA is the space agency behind many successful Mars missions, but no human crew has yet landed on Mars."
                 },
                 {
                   "question": "Which of these is a challenge faced when sending missions to Mars?",
                   "options": [
-                    "a) It’s too close to Earth",
-                    "b) Mars has a thick atmosphere",
-                    "c) The long distance and harsh environment",
-                    "d) There is no interest in Mars exploration"
+                    "It’s too close to Earth",
+                    "Mars has a thick atmosphere",
+                    "The long distance and harsh environment",
+                    "There is no interest in Mars exploration"
                   ],
-                  "answer": "c) The long distance and harsh environment",
+                  "answer": "The long distance and harsh environment",
                   "explanation": "The distance between Earth and Mars, along with the planet's harsh environment, poses significant challenges for Mars missions."
                 }
               ]
@@ -14788,111 +14809,111 @@
                 {
                   "question": "What is the color of Mars, often referred to as the \"Red Planet\"?",
                   "options": [
-                    "a) Blue",
-                    "b) Green",
-                    "c) Red",
-                    "d) Yellow"
+                    "Blue",
+                    "Green",
+                    "Red",
+                    "Yellow"
                   ],
-                  "answer": "c) Red",
+                  "answer": "Red",
                   "explanation": "Mars is known as the \"Red Planet\" due to the reddish color of its surface, which is caused by iron oxide (rust)."
                 },
                 {
                   "question": "What type of Mars mission involves robots that explore the surface of Mars?",
                   "options": [
-                    "a) Mars Orbiters",
-                    "b) Mars Landers",
-                    "c) Mars Rovers",
-                    "d) Mars Satellites"
+                    "Mars Orbiters",
+                    "Mars Landers",
+                    "Mars Rovers",
+                    "Mars Satellites"
                   ],
-                  "answer": "c) Mars Rovers",
+                  "answer": "Mars Rovers",
                   "explanation": "Mars Rovers are robotic vehicles that land on Mars and explore its surface, studying rocks and searching for signs of water."
                 },
                 {
                   "question": "Which space agency made India the first country to reach Mars on its first attempt?",
                   "options": [
-                    "a) NASA",
-                    "b) ESA",
-                    "c) ISRO",
-                    "d) SpaceX"
+                    "NASA",
+                    "ESA",
+                    "ISRO",
+                    "SpaceX"
                   ],
-                  "answer": "c) ISRO",
+                  "answer": "ISRO",
                   "explanation": "The Indian Space Research Organisation (ISRO) made India the first country to reach Mars on its first attempt with the Mars Orbiter Mission (Mangalyaan) in 2013."
                 },
                 {
                   "question": "What significant feature on Mars is a sign that water once existed on the planet?",
                   "options": [
-                    "a) Volcanic activity",
-                    "b) Frozen water and ancient riverbeds",
-                    "c) Strong magnetic field",
-                    "d) Heavy rains"
+                    "Volcanic activity",
+                    "Frozen water and ancient riverbeds",
+                    "Strong magnetic field",
+                    "Heavy rains"
                   ],
-                  "answer": "b) Frozen water and ancient riverbeds",
+                  "answer": "Frozen water and ancient riverbeds",
                   "explanation": "Mars missions have discovered evidence of frozen water and ancient riverbeds, suggesting that water once flowed on the planet's surface."
                 },
                 {
                   "question": "Which of the following is NOT a type of Mars mission?",
                   "options": [
-                    "a) Mars Orbiters",
-                    "b) Mars Rovers",
-                    "c) Mars Landers",
-                    "d) Mars Telescopes"
+                    "Mars Orbiters",
+                    "Mars Rovers",
+                    "Mars Landers",
+                    "Mars Telescopes"
                   ],
-                  "answer": "d) Mars Telescopes",
+                  "answer": "Mars Telescopes",
                   "explanation": "Mars missions typically involve orbiters, rovers, and landers, but not telescopes specifically designed for studying Mars."
                 },
                 {
                   "question": "What is the primary goal of human missions to Mars in the future?",
                   "options": [
-                    "a) To study Mars’ weather patterns",
-                    "b) To colonize the Moon",
-                    "c) To establish human colonies on Mars",
-                    "d) To create artificial rivers on Mars"
+                    "To study Mars’ weather patterns",
+                    "To colonize the Moon",
+                    "To establish human colonies on Mars",
+                    "To create artificial rivers on Mars"
                   ],
-                  "answer": "c) To establish human colonies on Mars",
+                  "answer": "To establish human colonies on Mars",
                   "explanation": "Future human missions aim to send humans to Mars with the goal of establishing permanent colonies for research and exploration."
                 },
                 {
                   "question": "What is the atmosphere of Mars mostly made of?",
                   "options": [
-                    "a) Nitrogen and Oxygen",
-                    "b) Carbon dioxide",
-                    "c) Methane",
-                    "d) Water vapor"
+                    "Nitrogen and Oxygen",
+                    "Carbon dioxide",
+                    "Methane",
+                    "Water vapor"
                   ],
-                  "answer": "b) Carbon dioxide",
+                  "answer": "Carbon dioxide",
                   "explanation": "Mars has a thin atmosphere that is primarily composed of carbon dioxide, which makes it unsuitable for human habitation without special equipment."
                 },
                 {
                   "question": "Which of these discoveries was made by Mars missions?",
                   "options": [
-                    "a) A living organism",
-                    "b) Evidence of frozen water and organic molecules",
-                    "c) High levels of oxygen",
-                    "d) Active volcanoes"
+                    "A living organism",
+                    "Evidence of frozen water and organic molecules",
+                    "High levels of oxygen",
+                    "Active volcanoes"
                   ],
-                  "answer": "b) Evidence of frozen water and organic molecules",
+                  "answer": "Evidence of frozen water and organic molecules",
                   "explanation": "Mars missions have found frozen water and evidence of organic molecules, which could indicate the past presence of life."
                 },
                 {
                   "question": "Which of the following Mars missions is an example of a lander mission?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mars Reconnaissance Orbiter",
-                    "c) Viking Landers",
-                    "d) Mangalyaan"
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter",
+                    "Viking Landers",
+                    "Mangalyaan"
                   ],
-                  "answer": "c) Viking Landers",
+                  "answer": "Viking Landers",
                   "explanation": "Viking Landers were missions that successfully landed on Mars to study its surface, geology, and climate."
                 },
                 {
                   "question": "Which country is planning to send an advanced Mars mission called Mangalyaan 2?",
                   "options": [
-                    "a) USA",
-                    "b) Russia",
-                    "c) India",
-                    "d) China"
+                    "USA",
+                    "Russia",
+                    "India",
+                    "China"
                   ],
-                  "answer": "c) India",
+                  "answer": "India",
                   "explanation": "India, through its space agency ISRO, plans to launch Mangalyaan 2 for further research on Mars' atmosphere."
                 }
               ]
@@ -14903,111 +14924,111 @@
                 {
                   "question": "What significant achievement did the Mars Orbiter Mission (Mangalyaan) accomplish in 2013?",
                   "options": [
-                    "a) First Mars rover landing",
-                    "b) India became the first to reach Mars on its first try",
-                    "c) First successful Mars mission by NASA",
-                    "d) Discovered signs of life on Mars"
+                    "First Mars rover landing",
+                    "India became the first to reach Mars on its first try",
+                    "First successful Mars mission by NASA",
+                    "Discovered signs of life on Mars"
                   ],
-                  "answer": "b) India became the first to reach Mars on its first try",
+                  "answer": "India became the first to reach Mars on its first try",
                   "explanation": "The Mars Orbiter Mission (Mangalyaan) made India the first country to reach Mars on its first attempt in 2013."
                 },
                 {
                   "question": "Which mission is known for sending back images and data from Mars’ surface, including signs of microbial life?",
                   "options": [
-                    "a) Mars Reconnaissance Orbiter",
-                    "b) Curiosity Rover",
-                    "c) Viking Landers",
-                    "d) Apollo 11"
+                    "Mars Reconnaissance Orbiter",
+                    "Curiosity Rover",
+                    "Viking Landers",
+                    "Apollo 11"
                   ],
-                  "answer": "b) Curiosity Rover",
+                  "answer": "Curiosity Rover",
                   "explanation": "The Curiosity Rover, part of NASA's Mars mission, has been studying the surface of Mars and sending back important data about the planet's geology and signs of microbial life."
                 },
                 {
                   "question": "What are the extreme challenges faced by Mars missions when landing on the planet?",
                   "options": [
-                    "a) Low gravity and dust storms",
-                    "b) Thin atmosphere and harsh terrain",
-                    "c) Lack of water",
-                    "d) Heavy rainfall and flooding"
+                    "Low gravity and dust storms",
+                    "Thin atmosphere and harsh terrain",
+                    "Lack of water",
+                    "Heavy rainfall and flooding"
                   ],
-                  "answer": "b) Thin atmosphere and harsh terrain",
+                  "answer": "Thin atmosphere and harsh terrain",
                   "explanation": "The thin atmosphere on Mars makes landing difficult, and the harsh terrain, including rocks and dust, adds to the challenge of safe landings."
                 },
                 {
                   "question": "Which of the following missions is an example of a Mars orbiter?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mars Reconnaissance Orbiter",
-                    "c) Viking Landers",
-                    "d) Luna 9"
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter",
+                    "Viking Landers",
+                    "Luna 9"
                   ],
-                  "answer": "b) Mars Reconnaissance Orbiter",
+                  "answer": "Mars Reconnaissance Orbiter",
                   "explanation": "The Mars Reconnaissance Orbiter is a spacecraft that orbits Mars and sends back detailed information about the planet’s surface and atmosphere."
                 },
                 {
                   "question": "What is a major goal of the Mars missions in the context of future human exploration?",
                   "options": [
-                    "a) To find life forms that can be brought back to Earth",
-                    "b) To create breathable air for astronauts",
-                    "c) To study how humans can live on Mars in the future",
-                    "d) To mine Mars for valuable minerals"
+                    "To find life forms that can be brought back to Earth",
+                    "To create breathable air for astronauts",
+                    "To study how humans can live on Mars in the future",
+                    "To mine Mars for valuable minerals"
                   ],
-                  "answer": "c) To study how humans can live on Mars in the future",
+                  "answer": "To study how humans can live on Mars in the future",
                   "explanation": "One of the primary goals of Mars missions is to explore how humans could survive and live on Mars, particularly regarding resources and conditions."
                 },
                 {
                   "question": "Which Mars mission is known for discovering the presence of frozen water on the planet?",
                   "options": [
-                    "a) Mangalyaan",
-                    "b) Viking Landers",
-                    "c) Curiosity Rover",
-                    "d) Mars Orbiter Mission"
+                    "Mangalyaan",
+                    "Viking Landers",
+                    "Curiosity Rover",
+                    "Mars Orbiter Mission"
                   ],
-                  "answer": "c) Curiosity Rover",
+                  "answer": "Curiosity Rover",
                   "explanation": "The Curiosity Rover has discovered frozen water on Mars, adding to the evidence that water was once present on the planet."
                 },
                 {
                   "question": "What is the main component of the thin atmosphere of Mars?",
                   "options": [
-                    "a) Nitrogen",
-                    "b) Oxygen",
-                    "c) Hydrogen",
-                    "d) Carbon dioxide"
+                    "Nitrogen",
+                    "Oxygen",
+                    "Hydrogen",
+                    "Carbon dioxide"
                   ],
-                  "answer": "d) Carbon dioxide",
+                  "answer": "Carbon dioxide",
                   "explanation": "Mars' atmosphere is mostly made of carbon dioxide, with only trace amounts of oxygen and nitrogen."
                 },
                 {
                   "question": "What is the distance between Earth and Mars, which makes Mars missions difficult?",
                   "options": [
-                    "a) 10 million km",
-                    "b) 225 million km",
-                    "c) 50 million km",
-                    "d) 500 million km"
+                    "10 million km",
+                    "225 million km",
+                    "50 million km",
+                    "500 million km"
                   ],
-                  "answer": "b) 225 million km",
+                  "answer": "225 million km",
                   "explanation": "Mars is about 225 million kilometers away from Earth, making the distance one of the key challenges for Mars missions."
                 },
                 {
                   "question": "Which country’s space agency is planning to send humans to Mars as part of future missions?",
                   "options": [
-                    "a) USA (NASA)",
-                    "b) Russia",
-                    "c) China",
-                    "d) India"
+                    "USA (NASA)",
+                    "Russia",
+                    "China",
+                    "India"
                   ],
-                  "answer": "a) USA (NASA)",
+                  "answer": "USA (NASA)",
                   "explanation": "NASA, the United States' space agency, plans to send humans to Mars in the future as part of its long-term space exploration goals."
                 },
                 {
                   "question": "Which of the following is true about Mars' surface?",
                   "options": [
-                    "a) It is completely covered in oceans.",
-                    "b) It has a thick atmosphere that supports life.",
-                    "c) It is covered with iron oxide, giving it a reddish color.",
-                    "d) It is covered in forests and grasslands."
+                    "It is completely covered in oceans.",
+                    "It has a thick atmosphere that supports life.",
+                    "It is covered with iron oxide, giving it a reddish color.",
+                    "It is covered in forests and grasslands."
                   ],
-                  "answer": "c) It is covered with iron oxide, giving it a reddish color.",
+                  "answer": "It is covered with iron oxide, giving it a reddish color.",
                   "explanation": "Mars' surface is rich in iron oxide, which gives it the distinct reddish appearance that has earned it the nickname \"Red Planet.\""
                 }
               ]
@@ -15018,111 +15039,111 @@
                 {
                   "question": "What significant achievement did the Mars Orbiter Mission (Mangalyaan) accomplish in 2013?",
                   "options": [
-                    "a) First Mars rover landing",
-                    "b) India became the first to reach Mars on its first try",
-                    "c) First successful Mars mission by NASA",
-                    "d) Discovered signs of life on Mars"
+                    "First Mars rover landing",
+                    "India became the first to reach Mars on its first try",
+                    "First successful Mars mission by NASA",
+                    "Discovered signs of life on Mars"
                   ],
-                  "answer": "b) India became the first to reach Mars on its first try",
+                  "answer": "India became the first to reach Mars on its first try",
                   "explanation": "The Mars Orbiter Mission (Mangalyaan) made India the first country to reach Mars on its first attempt in 2013."
                 },
                 {
                   "question": "Which mission is known for sending back images and data from Mars’ surface, including signs of microbial life?",
                   "options": [
-                    "a) Mars Reconnaissance Orbiter",
-                    "b) Curiosity Rover",
-                    "c) Viking Landers",
-                    "d) Apollo 11"
+                    "Mars Reconnaissance Orbiter",
+                    "Curiosity Rover",
+                    "Viking Landers",
+                    "Apollo 11"
                   ],
-                  "answer": "b) Curiosity Rover",
+                  "answer": "Curiosity Rover",
                   "explanation": "The Curiosity Rover, part of NASA's Mars mission, has been studying the surface of Mars and sending back important data about the planet's geology and signs of microbial life."
                 },
                 {
                   "question": "What are the extreme challenges faced by Mars missions when landing on the planet?",
                   "options": [
-                    "a) Low gravity and dust storms",
-                    "b) Thin atmosphere and harsh terrain",
-                    "c) Lack of water",
-                    "d) Heavy rainfall and flooding"
+                    "Low gravity and dust storms",
+                    "Thin atmosphere and harsh terrain",
+                    "Lack of water",
+                    "Heavy rainfall and flooding"
                   ],
-                  "answer": "b) Thin atmosphere and harsh terrain",
+                  "answer": "Thin atmosphere and harsh terrain",
                   "explanation": "The thin atmosphere on Mars makes landing difficult, and the harsh terrain, including rocks and dust, adds to the challenge of safe landings."
                 },
                 {
                   "question": "Which of the following missions is an example of a Mars orbiter?",
                   "options": [
-                    "a) Curiosity Rover",
-                    "b) Mars Reconnaissance Orbiter",
-                    "c) Viking Landers",
-                    "d) Luna 9"
+                    "Curiosity Rover",
+                    "Mars Reconnaissance Orbiter",
+                    "Viking Landers",
+                    "Luna 9"
                   ],
-                  "answer": "b) Mars Reconnaissance Orbiter",
+                  "answer": "Mars Reconnaissance Orbiter",
                   "explanation": "The Mars Reconnaissance Orbiter is a spacecraft that orbits Mars and sends back detailed information about the planet’s surface and atmosphere."
                 },
                 {
                   "question": "What is a major goal of the Mars missions in the context of future human exploration?",
                   "options": [
-                    "a) To find life forms that can be brought back to Earth",
-                    "b) To create breathable air for astronauts",
-                    "c) To study how humans can live on Mars in the future",
-                    "d) To mine Mars for valuable minerals"
+                    "To find life forms that can be brought back to Earth",
+                    "To create breathable air for astronauts",
+                    "To study how humans can live on Mars in the future",
+                    "To mine Mars for valuable minerals"
                   ],
-                  "answer": "c) To study how humans can live on Mars in the future",
+                  "answer": "To study how humans can live on Mars in the future",
                   "explanation": "One of the primary goals of Mars missions is to explore how humans could survive and live on Mars, particularly regarding resources and conditions."
                 },
                 {
                   "question": "Which Mars mission is known for discovering the presence of frozen water on the planet?",
                   "options": [
-                    "a) Mangalyaan",
-                    "b) Viking Landers",
-                    "c) Curiosity Rover",
-                    "d) Mars Orbiter Mission"
+                    "Mangalyaan",
+                    "Viking Landers",
+                    "Curiosity Rover",
+                    "Mars Orbiter Mission"
                   ],
-                  "answer": "c) Curiosity Rover",
+                  "answer": "Curiosity Rover",
                   "explanation": "The Curiosity Rover has discovered frozen water on Mars, adding to the evidence that water was once present on the planet."
                 },
                 {
                   "question": "What is the main component of the thin atmosphere of Mars?",
                   "options": [
-                    "a) Nitrogen",
-                    "b) Oxygen",
-                    "c) Hydrogen",
-                    "d) Carbon dioxide"
+                    "Nitrogen",
+                    "Oxygen",
+                    "Hydrogen",
+                    "Carbon dioxide"
                   ],
-                  "answer": "d) Carbon dioxide",
+                  "answer": "Carbon dioxide",
                   "explanation": "Mars' atmosphere is mostly made of carbon dioxide, with only trace amounts of oxygen and nitrogen."
                 },
                 {
                   "question": "What is the distance between Earth and Mars, which makes Mars missions difficult?",
                   "options": [
-                    "a) 10 million km",
-                    "b) 225 million km",
-                    "c) 50 million km",
-                    "d) 500 million km"
+                    "10 million km",
+                    "225 million km",
+                    "50 million km",
+                    "500 million km"
                   ],
-                  "answer": "b) 225 million km",
+                  "answer": "225 million km",
                   "explanation": "Mars is about 225 million kilometers away from Earth, making the distance one of the key challenges for Mars missions."
                 },
                 {
                   "question": "Which country’s space agency is planning to send humans to Mars as part of future missions?",
                   "options": [
-                    "a) USA (NASA)",
-                    "b) Russia",
-                    "c) China",
-                    "d) India"
+                    "USA (NASA)",
+                    "Russia",
+                    "China",
+                    "India"
                   ],
-                  "answer": "a) USA (NASA)",
+                  "answer": "USA (NASA)",
                   "explanation": "NASA, the United States' space agency, plans to send humans to Mars in the future as part of its long-term space exploration goals."
                 },
                 {
                   "question": "Which of the following is true about Mars' surface?",
                   "options": [
-                    "a) It is completely covered in oceans.",
-                    "b) It has a thick atmosphere that supports life.",
-                    "c) It is covered with iron oxide, giving it a reddish color.",
-                    "d) It is covered in forests and grasslands."
+                    "It is completely covered in oceans.",
+                    "It has a thick atmosphere that supports life.",
+                    "It is covered with iron oxide, giving it a reddish color.",
+                    "It is covered in forests and grasslands."
                   ],
-                  "answer": "c) It is covered with iron oxide, giving it a reddish color.",
+                  "answer": "It is covered with iron oxide, giving it a reddish color.",
                   "explanation": "Mars' surface is rich in iron oxide, which gives it the distinct reddish appearance that has earned it the nickname 'Red Planet.'"
                 }
               ]
@@ -15744,6 +15765,39 @@
               "setNumber": 4,
               "questions": [
                 {
+                  "question": "What is the name of India's first astronaut?",
+                  "options": [
+                    "Kalpana Chawla",
+                    "Rakesh Sharma",
+                    "Sunita Williams",
+                    "Yuri Gagarin"
+                  ],
+                  "answer": "Rakesh Sharma",
+                  "explanation": "Rakesh Sharma became the first Indian in space in 1984 aboard the Soviet Soyuz T-11 spacecraft."
+                },
+                {
+                  "question": "Which Indian space mission was the first to reach Mars?",
+                  "options": [
+                    "Chandrayaan-1",
+                    "Mangalyaan",
+                    "Vikram Lander",
+                    "Aditya-L1"
+                  ],
+                  "answer": "Mangalyaan",
+                  "explanation": "Mangalyaan (Mars Orbiter Mission) was India's first successful mission to Mars, launched by ISRO in 2013."
+                },
+                {
+                  "question": "What do astronauts do before going to space?",
+                  "options": [
+                    "Take long naps",
+                    "Undergo rigorous physical and technical training",
+                    "Memorize all space laws",
+                    "Learn to drive a spacecraft"
+                  ],
+                  "answer": "Undergo rigorous physical and technical training",
+                  "explanation": "Astronauts undergo extensive training, including physical fitness, spacecraft operation, and survival techniques, before going to space."
+                },
+                {
                   "question": "What is one of the primary tasks of astronauts aboard the International Space Station?",
                   "options": [
                     "Study animals on Earth",
@@ -15797,6 +15851,28 @@
                   ],
                   "answer": "To repair satellites and space stations",
                   "explanation": "Astronauts perform spacewalks to repair and maintain equipment like satellites and space stations, essential for the success of long-term missions."
+                },
+                {
+                  "question": "What is the main source of energy for the International Space Station?",
+                  "options": [
+                    "Nuclear power",
+                    "Solar panels",
+                    "Fossil fuels",
+                    "Wind turbines"
+                  ],
+                  "answer": "Solar panels",
+                  "explanation": "The ISS is powered by large solar panels that convert sunlight into electricity."
+                },
+                {
+                  "question": "What is the main goal of the James Webb Space Telescope?",
+                  "options": [
+                    "To explore the Moon’s surface",
+                    "To find new planets in our solar system",
+                    "To study the early universe and distant galaxies",
+                    "To take pictures of asteroids"
+                  ],
+                  "answer": "To study the early universe and distant galaxies",
+                  "explanation": "The James Webb Space Telescope is designed to observe distant galaxies and the early universe using infrared technology."
                 }
               ]
             },
