@@ -1,11 +1,20 @@
-import data from '../../datasource/data.json';
+import { log } from 'src/common/middleware/logger.help';
+import { LocalizationService } from 'src/localization/localization.service';
+import englishData from 'src/datasource/Space_English.json';
+import hindiData from 'src/datasource/Space_Hindi.json';
 import { localised } from '../en/localised-strings';
 import _ from 'lodash';
 
-export function createMainTopicButtons(from: string) {
+
+export function createMainTopicButtons(from: string,language:string) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   // Extract topic names from the data
+  // console.log('data sangeeta',data);
+  let data = language === 'english' ? englishData : hindiData;
+
   const topics = data.topics.map((topic) => topic.topicName);
 
+  
   // Create buttons for each topic
   const buttons = topics.map((topicName) => ({
     type: 'solid',
@@ -18,9 +27,9 @@ export function createMainTopicButtons(from: string) {
     type: 'button',
     button: {
       body: {
-        type: 'text',
+        type: localisedStrings.text,
         text: {
-          body: localised.welcomeMessage,
+          body: localisedStrings.chooseTopic,
         },
       },
       buttons: buttons,
@@ -29,8 +38,18 @@ export function createMainTopicButtons(from: string) {
   };
 }
 
-export function createSubTopicButtons(from: string, topicName: string) {
+
+export function changeTopic(from:string,language:string){
+  const localisedStrings = LocalizationService.getLocalisedString(language);
+  createMainTopicButtons(from ,language);
+}
+
+
+export function createSubTopicButtons(from: string, topicName: string, language:string) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
+  createMainTopicButtons(from ,language);
   // Find the topic in the data
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find((topic) => topic.topicName === topicName);
 
   // If the topic exists, create buttons for each subtopic
@@ -43,12 +62,12 @@ export function createSubTopicButtons(from: string, topicName: string) {
 
     return {
       to: from,
-      type: 'button',
+      type: localisedStrings.button,
       button: {
         body: {
-          type: 'text',
+          type: localisedStrings.text,
           text: {
-            body: localised.selectSubtopic(topicName),
+            body: localisedStrings.selectSubtopic(topicName),
           },
         },
         buttons: buttons,
@@ -61,31 +80,43 @@ export function createSubTopicButtons(from: string, topicName: string) {
   }
 }
 
+
+
+
+
+
 export function createButtonWithExplanation(
   from: string,
   description: string,
-  subtopicName: string,
-) {
+  subtopicName: string, language:string ) 
+    {
+      const localisedStrings = LocalizationService.getLocalisedString(language);
+  createMainTopicButtons(from ,language);
   const buttons = [
     {
       type: 'solid',
-      body: 'More Explanation',
-      reply: 'More Explanation',
+      body: localisedStrings.Moreexplanation,
+      reply: localisedStrings.Moreexplanation,
     },
     {
       type: 'solid',
-      body: 'Test Yourself',
-      reply: 'Test Yourself',
+      body: localisedStrings.startQuiz,
+      reply: localisedStrings.startQuiz,
+    },
+    {
+      type: 'solid',
+      body: localisedStrings.mainMenu,
+      reply: localisedStrings.mainMenu,
     },
   ];
   return {
     to: from,
-    type: 'button',
+    type: localisedStrings.button,
     button: {
       body: {
-        type: 'text',
+        type: localisedStrings.text,
         text: {
-          body: localised.explanation(subtopicName, description),
+          body: localisedStrings.explanation(subtopicName, description),
         },
       },
       buttons: buttons,
@@ -97,22 +128,29 @@ export function createTestYourSelfButton(
   from: string,
   description: string,
   subtopicName: string,
+  language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   const buttons = [
     {
       type: 'solid',
-      body: 'Test Yourself',
-      reply: 'Test Yourself',
+      body: localisedStrings.startQuiz,
+      reply: localisedStrings.startQuiz,
+    },
+    {
+      type: 'solid',
+      body: localisedStrings.mainMenu,
+      reply: localisedStrings.mainMenu,
     },
   ];
   return {
     to: from,
-    type: 'button',
+    type: localisedStrings.button,
     button: {
       body: {
-        type: 'text',
+        type: localisedStrings.text,
         text: {
-          body: localised.moreExplanation(subtopicName, description),
+          body: localisedStrings.moreExplanation(subtopicName, description),
         },
       },
       buttons: buttons,
@@ -120,64 +158,62 @@ export function createTestYourSelfButton(
     },
   };
 }
-export function createDifficultyButtons(from: string) {
-  const buttons = [
-    {
-      type: 'solid',
-      body: 'Easy',
-      reply: 'Easy',
-    },
-    {
-      type: 'solid',
-      body: 'Medium',
-      reply: 'Medium',
-    },
-    {
-      type: 'solid',
-      body: 'Hard',
-      reply: 'Hard',
-    },
-  ];
+
+
+export function videoWithButton(
+  from: string, 
+  videoUrl: string[],  // Ensure this is an array
+  subTopic: string,
+  language:string
+) {
+  
+  if (!Array.isArray(videoUrl)) {
+    console.error("Error: videoUrls should be an array but received:", typeof videoUrl);
+    return;
+  }
+  
+  
   return {
-    to: from,
-    type: 'button',
-    button: {
-      body: {
-        type: 'text',
+    to: from, // Recipient's mobile number
+    type: "article", // Message type is an article
+    article: videoUrl.map((video) => ({
+      
+      tags: [`${subTopic}`], // Subtopic name
+      title: video['title'], // Video title
+      header: {
+        type:  "text",
         text: {
-          body: localised.difficulty,
+          body: video['video-url'], // URL of the video
         },
       },
-      buttons: buttons,
-      allow_custom_response: false,
-    },
+      description: video['describe'], // Video description
+    })),
   };
 }
+
+
+
 
 export function questionButton(
   from: string,
   selectedMainTopic: string,
   selectedSubtopic: string,
-  selectedDifficulty: string,
+  language:string,
+  selectedQuestionIndex: number
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
   );
-  if (!topic) {
-    
-  }
+
 
   const subtopic = topic.subtopics.find(
-    (subtopic) => subtopic.subtopicName === selectedSubtopic,
+    (subtopic) => subtopic.subtopicName == selectedSubtopic,
   );
-  if (!subtopic) {
-    
-  }
+  
 
-  const questionSets = subtopic.questionSets.filter(
-    (set) => set.level === selectedDifficulty,
-  );
-
+  const questionSets = subtopic.questionSets;
   if (questionSets.length === 0) {
    
     return;
@@ -202,12 +238,12 @@ export function questionButton(
 
   const messageData = {
     to: from,
-    type: 'button',
+    type: localisedStrings.button,
     button: {
       body: {
-        type: 'text',
+        type: localisedStrings.text,
         text: {
-          body: question.question,
+          body :  `${localisedStrings.question} : ${selectedQuestionIndex+1} \n ${question.question}`
         },
       },
       buttons: buttons,
@@ -223,52 +259,41 @@ export function answerFeedback(
   answer: string,
   selectedMainTopic: string,
   selectedSubtopic: string,
-  selectedDifficulty: string,
   randomSet: string,
   currentQuestionIndex: number,
+  language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find((t) => t.topicName === selectedMainTopic);
-  if (!topic) {
-    
-  }
 
   const subtopic = topic.subtopics.find(
     (st) => st.subtopicName === selectedSubtopic,
   );
-  if (!subtopic) {
-    
-  }
 
   // Find the question set by its level and set number
+
   const questionSet = subtopic.questionSets.find(
     (qs) =>
-      qs.level === selectedDifficulty && qs.setNumber === parseInt(randomSet),
+      qs.setNumber === parseInt(randomSet),
   );
 
-  if (!questionSet) {
-   
-  }
-
   const question = questionSet.questions[currentQuestionIndex];
-  if (!question) {
     
-  }
-
   const explanation = question.explanation;
-  if (!explanation) {
-    
-  }
-
-  if (!question.answer) {
-    
-  }
+  
+  
   const correctAnswer = question.answer;
-  const isCorrect = answer === correctAnswer;
+  const userAnswer = Array.isArray(answer) ? answer[0] : answer;
+  const correctAns = Array.isArray(correctAnswer) ? correctAnswer[0] : correctAnswer;
+  
+  const isCorrect = userAnswer === correctAns;
   const feedbackMessage =
-    answer === correctAnswer
-      ? localised.rightAnswer(explanation)
-      : localised.wrongAnswer(answer, explanation);
+    isCorrect
+      ? localisedStrings.rightAnswer(explanation)
+      : localisedStrings.wrongAnswer(correctAns, explanation);
   const result = isCorrect ? 1 : 0;
+
   return { feedbackMessage, result };
 }
 
@@ -276,28 +301,37 @@ export function buttonWithScore(
   from: string,
   score: number,
   totalQuestions: number,
+  badge:string,
+  language:string
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   return {
+    
     to: from,
-    type: 'button',
+    type: localisedStrings.button,
     button: {
       body: {
-        type: 'text',
+        type: localisedStrings.text,
         text: {
-          body: localised.score(score, totalQuestions),
+          body: localisedStrings.congratsMessage,
         },
       },
       buttons: [
         {
           type: 'solid',
-          body: 'Main Menu',
-          reply: 'Main Menu',
+          body: localisedStrings.mainMenu,
+          reply: localisedStrings.mainMenu,
         },
         {
           type: 'solid',
-          body: 'Retake Quiz',
-          reply: 'Retake Quiz',
+          body: localisedStrings.retakeQuiz,
+          reply: localisedStrings.retakeQuiz,
         },
+        {
+          type: 'solid',
+          body: localisedStrings.viewChallenge,
+          reply: localisedStrings.viewChallenge,
+        }
       ],
       allow_custom_response: false,
     },
@@ -307,39 +341,31 @@ export function optionButton(
   from: string,
   selectedMainTopic: string,
   selectedSubtopic: string,
-  selectedDifficulty: string,
   randomSet: string,
   currentQuestionIndex: number,
+  language:string
+
 ) {
+  const localisedStrings = LocalizationService.getLocalisedString(language);
   // Find the selected topic
+  let data = language === 'english' ? englishData : hindiData;
   const topic = data.topics.find(
     (topic) => topic.topicName === selectedMainTopic,
   );
-  if (!topic) {
-    
-    
-    return;
-  }
+  
 
   // Find the selected subtopic
   const subtopic = topic.subtopics.find(
     (subtopic) => subtopic.subtopicName === selectedSubtopic,
   );
-  if (!subtopic) {
-    
-    
-    return;
-  }
+  
 
   // Find the question set based on difficulty and set number
   const questionSet = subtopic.questionSets.find(
     (set) =>
-      set.level === selectedDifficulty && set.setNumber === parseInt(randomSet),
+       set.setNumber === parseInt(randomSet),
   );
-  if (!questionSet) {
-    
-    return;
-  }
+  
 
   // Check if the current question index is valid
   if (
@@ -361,12 +387,12 @@ export function optionButton(
   }));
   return {
     to: from,
-    type: 'button',
+    type: localisedStrings.button,
     button: {
       body: {
-        type: 'text',
+        type: localisedStrings.text,
         text: {
-          body: question.question,
+          body: `${localisedStrings.question} : ${currentQuestionIndex+1} \n ${question.question}`,
         },
       },
       buttons: buttons,
@@ -374,3 +400,13 @@ export function optionButton(
     },
   };
 }
+
+
+
+
+
+
+
+
+
+

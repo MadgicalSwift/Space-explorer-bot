@@ -5,10 +5,17 @@ export class User {
   mobileNumber: string;
 
   @IsString()
+  topics: string;
+  
+
+  @IsString()
   language: string;
 
   @IsString()
   Botid: string;
+
+  @IsString()
+  name:string;  
 
   @IsString()
   selectedMainTopic: string | null;
@@ -16,8 +23,8 @@ export class User {
   @IsString()
   selectedSubtopic: string | null;
 
-  @IsString()
-  selectedDifficulty: string | null;
+  // @IsString()
+  // selectedDifficulty: string | null;
 
   @IsString()
   selectedSet: string | null;
@@ -26,5 +33,32 @@ export class User {
   questionsAnswered: number = 0;
 
   @IsString()
+  descriptionIndex: number = 0;
+
+  @IsString()
   score: number = 0;
+
+  challenges:Challenge[];
+}
+export class Challenge{
+  @IsString()
+  topic:string;
+
+  @IsString()
+  subTopic:string;
+
+  // @IsString()
+  // level:string;
+
+  question:Question[];
+}
+export class Question{
+  @IsNumber()
+  setnumber:number;
+
+  @IsNumber()
+  score:number;
+  
+  @IsString()
+  badge:string;
 }
