@@ -1,9 +1,8 @@
 #  Project Title
 Space Explorer Bot: Your Interactive Guide to the Universe
 
-
 # Description:
-The Space Explorer Bot is an interactive, educational bot designed to make learning about space exciting and fun. It provides information about c the universe at large. This bot is ideal for students, educators, and space enthusiasts who want to expand their knowledge in an engaging way.
+The Space Explorer Bot is an interactive, educational bot designed to make learning about space exciting and fun. It provides information about the universe at large. This bot is ideal for students, educators, and space enthusiasts who want to expand their knowledge in an engaging way.
 
 
 # Prerequisites
@@ -60,8 +59,8 @@ $ npm run test:cov
 # Add the following environment variables:
 
 ```bash
-USERS_TABLE= testing-table-1
-REGION= ap-south-1
+USERS_TABLE= user_table
+REGION= region
 ACCESS_KEY_ID= ACCESS_KEY_ID
 SECRET_ACCESS_KEY=SECRET_ACCESS_KEY
 API_URL = API_URL
@@ -75,8 +74,10 @@ Get/api/status: Endpoint for checking the status of api
 ```
 # Make their local server to public server
 ```
-Install and run ngrok using command "ngrok http 3000" Copy forwarding Url
-insatall and run postman and past url in the body 
+ #Install and run ngrok using command:
+ "ngrok http 3000" 
+ #Copy forwarding Url
+ #install and run postman and past url in the body 
 and send PUt request Url https://v1-api.swiftchat.ai/api/bots/Bot_Id/webhook-url
 ```
 # folder structure
