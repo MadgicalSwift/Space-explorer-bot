@@ -74,10 +74,15 @@ Get/api/status: Endpoint for checking the status of api
 ```
 # Make their local server to public server
 ```
+<<<<<<< HEAD
  #Install and run ngrok using command:
  "ngrok http 3000" 
  #Copy forwarding Url
  #install and run postman and past url in the body 
+=======
+Install and run ngrok using command "ngrok http 3000" Copy forwarding Url
+Install and run postman and past url in the body 
+>>>>>>> newData
 and send PUt request Url https://v1-api.swiftchat.ai/api/bots/Bot_Id/webhook-url
 ```
 # folder structure
