@@ -59,7 +59,7 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async sendInitialTopics(from:string,language: string){
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
+    
     const messageData = createMainTopicButtons(from,language);
     const response = await this.sendMessage(
       this.baseUrl,
@@ -81,7 +81,7 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async sendSubTopics(from: string, topicName: string,language: string) {
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
+    
   
     const messageData = createSubTopicButtons(from, topicName,language);
     const response = await this.sendMessage(
@@ -91,11 +91,11 @@ export class SwiftchatMessageService extends MessageService {
     );
     return response;
   }
-  // sendInformationMessage function
+
 
   async sendInformationMessage(from: string, username: string,language: string) {  
     const localisedStrings = LocalizationService.getLocalisedString(language);  
-    const message = localisedStrings.InformationMessage(username); // Pass username dynamically
+    const message = localisedStrings.InformationMessage(username); 
     const requestData = this.prepareRequestData(from, message);
     const response = await this.sendMessage(
       this.baseUrl,
@@ -119,14 +119,14 @@ export class SwiftchatMessageService extends MessageService {
     else if (score >= 5) backgroundColor = "green";
     else if (score >= 3) backgroundColor = "pink";
 
-    let performanceMessage = "Don't give up! Try again!"; // Default
+    let performanceMessage = "Don't give up! Try again!"; 
     if (score >= 9) performanceMessage = "Outstanding! You nailed it!";
     else if (score >= 7) performanceMessage = "Great job! Keep it up!";
     else if (score >= 5) performanceMessage = "Nice effort! Keep improving!";
     else if (score >= 3) performanceMessage = "Good try! Practice more!";
 
-    // Determine text3 message based on score (≤ 15 chars)
-    let additionalMessage = "Try again! 🔄"; // Default
+   
+    let additionalMessage = "Try again! 🔄"; 
     if (score >= 9) additionalMessage = "Champion! 🏆";
     else if (score >= 7) additionalMessage = "Well done! ⭐";
     else if (score >= 5) additionalMessage = "Keep going! 💪";
@@ -157,7 +157,7 @@ export class SwiftchatMessageService extends MessageService {
     },
   });
     await this.sendScore(from,score,totalQuestions,badge,language);
-    // console.log(response)
+   
     return response;
   }
 
@@ -194,8 +194,7 @@ export class SwiftchatMessageService extends MessageService {
     subtopicName: string,
     language: string
   ) {
-    // console.log('description of topic ==>', description);
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
+   
     const messageData = createButtonWithExplanation(
       from,
       description,
@@ -212,7 +211,7 @@ export class SwiftchatMessageService extends MessageService {
 
 
   async scoreInformation(from: string, score: number, attempted: number, language:string) {
-    console.log("sdasd",language)
+   
     const localisedStrings = LocalizationService.getLocalisedString(language);
     const message = localisedStrings.scoreInformation(score, attempted);
     const requestData = this.prepareRequestData(from, message);
@@ -229,8 +228,7 @@ export class SwiftchatMessageService extends MessageService {
 
 
   async sendCompleteExplanation(from: string, description: string, subtopicName: string, language: string) {
-    // console.log('description of topic ==>', description);
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
+   
     const messageData = createTestYourSelfButton(
       from,
       description,
@@ -246,21 +244,21 @@ export class SwiftchatMessageService extends MessageService {
   }
  
   async sendVideo(from: string, videoUrl: any, subTopic: any ,language: string) {
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
+   
     if (!videoUrl) {
       return;
     }
-        // console.log('videoUrl=>',videoUrl)
+      
         const videoData = videoWithButton(
-               from, // The recipient's phone number
-              videoUrl, // Video URL
+               from,
+              videoUrl, 
               subTopic,
               language
           );
     try {
 
       const response = await this.sendMessage(this.baseUrl, videoData, this.apiKey);
-      // console.log('Message sent successfully:', response);
+     
       return response
     } catch (error) {
       console.error('Error sending video message:', error);
@@ -330,7 +328,7 @@ export class SwiftchatMessageService extends MessageService {
 
   async sendScore(from: string, score: number, totalQuestions: number, badge:string,language: string) {
   
-    // const localisedStrings = LocalizationService.getLocalisedString(language);
+   
     const messageData = buttonWithScore(from, score, totalQuestions, badge,language);
     const response = await this.sendMessage(
       this.baseUrl,
